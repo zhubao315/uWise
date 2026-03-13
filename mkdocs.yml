@@ -1,0 +1,129 @@
+site_name: uWisdom 百科
+site_description: AI驱动的领域知识百科 - 基于四大核心身份的持续进化知识体系
+site_author: 朱宝
+site_url: https://zhubao315.github.io/uWisdom/
+repo_name: zhubao315/uWisdom
+repo_url: https://github.com/zhubao315/uWisdom
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 切换到深色模式
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 切换到浅色模式
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+  font:
+    text: Noto Sans SC
+    code: Fira Code
+
+plugins:
+  - search:
+      lang: zh
+  - git-revision-date-localized:
+      enable_creation_date: true
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+nav:
+  - 首页: index.md
+  - 核心身份:
+    - 架构师: core-identity/architect.md
+    - 投资人: core-identity/investor.md
+    - 终身学习者: core-identity/lifelong-learner.md
+    - 生活艺术家: core-identity/life-artist.md
+  - 专业领域:
+    - 人工智能专家: specialized-domains/ai-expert.md
+    - 云计算与云原生: specialized-domains/cloud-native.md
+    - 知识产权顾问: specialized-domains/ip-consultant.md
+    - 全栈工程师: specialized-domains/fullstack.md
+    - 产品经理: specialized-domains/product-manager.md
+    - 金融市场: specialized-domains/financial-markets.md
+    - 量化投资: specialized-domains/quantitative-investment.md
+    - 国学大师: specialized-domains/chinese-culture.md
+    - 北京文化使者: specialized-domains/beijing-culture.md
+    - 心理学专家: specialized-domains/psychology.md
+    - 数字人生: specialized-domains/digital-life.md
+    - 葡萄酒大师: specialized-domains/wine-master.md
+    - 摄影家: specialized-domains/photography.md
+    - 户外大神: specialized-domains/outdoor.md
+    - 健身跑者: specialized-domains/fitness.md
+    - 游戏王者: specialized-domains/gaming.md
+  - 跨领域创新:
+    - 技术与艺术: cross-domains/tech-art.md
+    - 可持续发展: cross-domains/sustainability.md
+    - 健康科技: cross-domains/health-tech.md
+  - 项目实践:
+    - 项目总览: projects/overview.md
+    - AI技术估值模型: projects/ai-valuation.md
+    - 量化策略开发: projects/quant-strategy.md
+    - AI生成式创作: projects/ai-art.md
+    - 智能家居美学: projects/smart-home.md
+  - 实践项目孵化小组:
+    - 小组章程: incubation/charter.md
+    - 实施路线图: incubation/roadmap.md
+    - 资源分配: incubation/resources.md
+  - 知识进化:
+    - 反思与洞察: REFLECTIONS.md
+    - 更新日志: UPDATES.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/zhubao315
+      name: GitHub
+  generator: false
+
+copyright: Copyright &copy; 2024-2026 朱宝 - uWisdom百科
