@@ -1,44 +1,56 @@
-site_name: uWisdom 百科
+site_name: uWise 百科
 site_description: AI驱动的领域知识百科 - 基于四大核心身份的持续进化知识体系
 site_author: 朱宝
-site_url: https://zhubao315.github.io/uWisdom/
-repo_name: zhubao315/uWisdom
-repo_url: https://github.com/zhubao315/uWisdom
+site_url: https://zhubao315.github.io/uWise/
+repo_name: zhubao315/uWise
+repo_url: https://github.com/zhubao315/uWise
 
 theme:
   name: material
   language: zh
   palette:
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: custom
+      accent: cyan
       toggle:
         icon: material/brightness-7
         name: 切换到深色模式
     - scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: custom
+      accent: cyan
       toggle:
         icon: material/brightness-4
         name: 切换到浅色模式
   features:
     - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.prefetch
     - navigation.tracking
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.expand
     - navigation.top
     - search.suggest
     - search.highlight
+    - search.share
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.action.edit
     - toc.follow
   icon:
     repo: fontawesome/brands/github
+    logo: material/brain
   font:
     text: Noto Sans SC
     code: Fira Code
+
+extra_css:
+  - stylesheets/custom.css
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/@iconify/iconify@latest/dist/iconify.min.js
 
 plugins:
   - search:
@@ -126,4 +138,4 @@ extra:
       name: GitHub
   generator: false
 
-copyright: Copyright &copy; 2024-2026 朱宝 - uWisdom百科
+copyright: Copyright &copy; 2024-2026 朱宝 - uWise 百科

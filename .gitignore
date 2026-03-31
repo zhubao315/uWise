@@ -1,0 +1,6 @@
+# Build output
+site/
+
+# Environment
+__pycache__/
+.env

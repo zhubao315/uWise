@@ -1,10 +1,10 @@
-# uWisdom 百科
+# uWise 百科
 
 > **AI驱动的领域知识百科** | 持续进化，与时俱进
 
 ## 🎯 核心理念
 
-**uWisdom百科**是一个基于四大核心身份的持续进化知识体系，采用领域驱动框架（Area → Project → Task），将知识转化为实际行动。
+**uWise 百科**是一个基于四大核心身份的持续进化知识体系，采用领域驱动框架（Area → Project → Task），将知识转化为实际行动。
 
 > 成果源于**挖掘机会**，而非解决问题。——德鲁克《成果管理》(1964)
 
@@ -82,7 +82,7 @@ Area (领域) → Project (项目) → Task (任务)
 ## 📚 项目结构
 
 ```
-uWisdom/
+uWise/
 ├── docs/                    # 文档目录
 │   ├── core-identity/       # 核心身份
 │   ├── specialized-domains/ # 专业领域

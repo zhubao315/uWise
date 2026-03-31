@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-uWisdom百科知识更新脚本
+uWise 百科知识更新脚本
 每日自动抓取、整理、更新领域知识
 """
 
@@ -82,7 +82,7 @@ def update_domain_knowledge(domain: str, keywords: list, tavily_key: str, openai
 
 def main():
     """主函数"""
-    print("🦞 uWisdom百科知识更新开始...")
+    print("🦞 uWise 百科知识更新开始...")
     print(f"⏰ 时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     
     # 获取API密钥

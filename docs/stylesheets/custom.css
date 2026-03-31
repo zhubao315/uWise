@@ -1,0 +1,205 @@
+/* ===== uWise 百科 - 自定义主题美化 ===== */
+
+/* ---------- Root 变量 ---------- */
+:root {
+  --uwise-primary: #6366f1;
+  --uwise-primary-light: #818cf8;
+  --uwise-gradient-start: #6366f1;
+  --uwise-gradient-end: #8b5cf6;
+  --uwise-accent: #22d3ee;
+  --uwise-surface: rgba(255, 255, 255, 0.06);
+  --uwise-radius: 12px;
+
+  /* Material theme overrides for "primary: custom" */
+  --md-primary-fg-color: #6366f1;
+  --md-primary-fg-color--light: #818cf8;
+  --md-primary-fg-color--dark: #4338ca;
+  --md-accent-fg-color: #67e8f9;
+  --md-accent-fg-color--transparent: rgba(34, 211, 238, 0.1);
+}
+
+/* ---------- 全局字体优化 ---------- */
+.md-typeset {
+  font-size: 0.8rem;
+  line-height: 1.8;
+}
+
+.md-typeset h1 {
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.5em;
+}
+
+.md-typeset h2 {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  border-bottom: 2px solid var(--md-accent-fg-color);
+  padding-bottom: 0.3em;
+  margin-top: 1.5em;
+}
+
+.md-typeset h3 {
+  font-weight: 600;
+  color: var(--md-accent-fg-color);
+}
+
+/* ---------- Hero / 首页样式 ---------- */
+.md-content h1:first-of-type {
+  background: linear-gradient(135deg, var(--uwise-gradient-start), var(--uwise-gradient-end), var(--uwise-accent));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-size: 2.4em;
+  line-height: 1.2;
+}
+
+.md-content blockquote {
+  background: var(--uwise-surface);
+  border-left: 4px solid var(--uwise-gradient-start);
+  border-radius: 0 var(--uwise-radius) var(--uwise-radius) 0;
+  padding: 1em 1.2em;
+  margin: 1.2em 0;
+  font-style: italic;
+}
+
+/* ---------- 卡片式分割线 ---------- */
+.md-typeset hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--uwise-gradient-start), var(--uwise-gradient-end), transparent);
+  margin: 2em 0;
+}
+
+/* ---------- 表格美化 ---------- */
+.md-typeset table:not([class]) {
+  border-radius: var(--uwise-radius);
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.md-typeset table:not([class]) th {
+  background: linear-gradient(135deg, var(--uwise-gradient-start), var(--uwise-gradient-end));
+  color: white;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.md-typeset table:not([class]) tr:nth-child(even) {
+  background-color: var(--uwise-surface);
+}
+
+/* ---------- 代码块美化 ---------- */
+.md-typeset pre > code {
+  border-radius: var(--uwise-radius);
+  box-shadow: 0 2px 12px rgba(99, 102, 241, 0.1);
+}
+
+/* ---------- 导航栏渐变 ---------- */
+.md-header {
+  background: linear-gradient(135deg, var(--uwise-gradient-start), var(--uwise-gradient-end)) !important;
+}
+
+.md-tabs {
+  background: linear-gradient(135deg, #5b5ee6, #7c4dff) !important;
+}
+
+/* ---------- 侧边栏样式 ---------- */
+.md-nav__link--active {
+  color: var(--uwise-gradient-start) !important;
+  font-weight: 700;
+}
+
+.md-nav__link--active::before {
+  content: '';
+  width: 3px;
+  height: 100%;
+  background: var(--uwise-gradient-start);
+  border-radius: 2px;
+  position: absolute;
+  left: 0;
+}
+
+/* ---------- Admonition 美化 ---------- */
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: var(--uwise-radius);
+  border-left-width: 4px;
+}
+
+/* ---------- 搜索框美化 ---------- */
+.md-search__form {
+  border-radius: var(--uwise-radius);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.md-search__form:hover {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+/* ---------- 回到顶部按钮 ---------- */
+.md-top {
+  background: var(--uwise-gradient-start) !important;
+  border-radius: 50% !important;
+  box-shadow: 0 2px 8px rgba(99, 102, 241, 0.3) !important;
+}
+
+/* ---------- 链接颜色 ---------- */
+.md-typeset a {
+  color: var(--uwise-primary);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s ease;
+}
+
+.md-typeset a:hover {
+  color: var(--uwise-primary-light);
+  border-bottom-color: var(--uwise-primary-light);
+}
+
+/* ---------- 深色模式适配 ---------- */
+[data-md-color-scheme="slate"] {
+  --uwise-surface: rgba(255, 255, 255, 0.04);
+  --md-primary-fg-color: #4c44ff;
+  --md-accent-fg-color: #67e8f9;
+}
+
+[data-md-color-scheme="slate"] .md-header {
+  background: linear-gradient(135deg, #4338ca, #6366f1) !important;
+}
+
+[data-md-color-scheme="slate"] .md-tabs {
+  background: linear-gradient(135deg, #3b37b8, #5551e0) !important;
+}
+
+[data-md-color-scheme="slate"] .md-content h1:first-of-type {
+  background: linear-gradient(135deg, #818cf8, #a78bfa, #22d3ee);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ---------- 徽章 ---------- */
+.md-typeset .badge {
+  display: inline-block;
+  padding: 0.15em 0.6em;
+  border-radius: 999px;
+  font-size: 0.75em;
+  font-weight: 600;
+  background: linear-gradient(135deg, var(--uwise-gradient-start), var(--uwise-gradient-end));
+  color: white;
+}
+
+/* ---------- 图片圆角 ---------- */
+.md-typeset img {
+  border-radius: var(--uwise-radius);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+}
+
+/* ---------- 动画过渡 ---------- */
+.md-header,
+.md-tabs,
+.md-sidebar,
+.md-content,
+.md-footer {
+  transition: all 0.25s ease;
+}

@@ -1,4 +1,4 @@
-name: uWisdom百科每日更新
+name: uWise 百科每日更新
 
 on:
   schedule:
@@ -27,7 +27,7 @@ jobs:
       
       - name: 配置Git
         run: |
-          git config user.name "uWisdom Bot"
+          git config user.name "uWise Bot"
           git config user.email "uwisdom@users.noreply.github.com"
       
       - name: 运行知识更新脚本
