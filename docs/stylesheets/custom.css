@@ -1,14 +1,42 @@
-/* ===== uWise 百科 - 自定义主题美化 ===== */
+/* ===== uWise 百科 - 自定义主题美化 v2.0 ===== */
 
 /* ---------- Root 变量 ---------- */
 :root {
+  /* 主色调 */
   --uwise-primary: #6366f1;
   --uwise-primary-light: #818cf8;
+  --uwise-primary-dark: #4338ca;
+
+  /* 渐变 */
   --uwise-gradient-start: #6366f1;
   --uwise-gradient-end: #8b5cf6;
   --uwise-accent: #22d3ee;
+
+  /* 间距系统 */
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+  --spacing-xl: 2rem;
+  --spacing-2xl: 3rem;
+
+  /* 圆角系统 */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-2xl: 24px;
+
+  /* 阴影系统 */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.07);
+  --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1);
+  --shadow-xl: 0 20px 25px rgba(0, 0, 0, 0.15);
+  --shadow-2xl: 0 25px 50px rgba(0, 0, 0, 0.25);
+
+  /* 表面 */
   --uwise-surface: rgba(255, 255, 255, 0.06);
-  --uwise-radius: 12px;
+  --uwise-surface-hover: rgba(255, 255, 255, 0.08);
 
   /* Material theme overrides for "primary: custom" */
   --md-primary-fg-color: #6366f1;
@@ -16,6 +44,11 @@
   --md-primary-fg-color--dark: #4338ca;
   --md-accent-fg-color: #67e8f9;
   --md-accent-fg-color--transparent: rgba(34, 211, 238, 0.1);
+
+  /* 动画 */
+  --transition-fast: 0.15s ease;
+  --transition-normal: 0.25s ease;
+  --transition-slow: 0.3s ease;
 }
 
 /* ---------- 全局字体优化 ---------- */
@@ -24,23 +57,36 @@
   line-height: 1.8;
 }
 
+body {
+  font-family: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 .md-typeset h1 {
   font-weight: 800;
   letter-spacing: -0.02em;
   margin-bottom: 0.5em;
+  margin-top: var(--spacing-lg);
 }
 
 .md-typeset h2 {
   font-weight: 700;
   letter-spacing: -0.01em;
   border-bottom: 2px solid var(--md-accent-fg-color);
-  padding-bottom: 0.3em;
-  margin-top: 1.5em;
+  padding-bottom: var(--spacing-sm);
+  margin-top: var(--spacing-2xl);
+  margin-bottom: var(--spacing-lg);
 }
 
 .md-typeset h3 {
   font-weight: 600;
   color: var(--md-accent-fg-color);
+  margin-top: var(--spacing-xl);
+}
+
+.md-typeset h4, .md-typeset h5, .md-typeset h6 {
+  margin-top: var(--spacing-lg);
 }
 
 /* ---------- Hero / 首页样式 ---------- */
@@ -51,15 +97,22 @@
   background-clip: text;
   font-size: 2.4em;
   line-height: 1.2;
+  margin-bottom: var(--spacing-lg);
 }
 
 .md-content blockquote {
   background: var(--uwise-surface);
   border-left: 4px solid var(--uwise-gradient-start);
   border-radius: 0 var(--uwise-radius) var(--uwise-radius) 0;
-  padding: 1em 1.2em;
-  margin: 1.2em 0;
+  padding: var(--spacing-md) var(--spacing-lg);
+  margin: var(--spacing-lg) 0;
   font-style: italic;
+  transition: all var(--transition-normal);
+}
+
+.md-content blockquote:hover {
+  background: var(--uwise-surface-hover);
+  box-shadow: var(--shadow-md);
 }
 
 /* ---------- 卡片式分割线 ---------- */
@@ -67,14 +120,20 @@
   border: none;
   height: 2px;
   background: linear-gradient(90deg, transparent, var(--uwise-gradient-start), var(--uwise-gradient-end), transparent);
-  margin: 2em 0;
+  margin: var(--spacing-2xl) 0;
 }
 
 /* ---------- 表格美化 ---------- */
 .md-typeset table:not([class]) {
   border-radius: var(--uwise-radius);
   overflow: hidden;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  box-shadow: var(--shadow-md);
+  margin: var(--spacing-lg) 0;
+  transition: all var(--transition-normal);
+}
+
+.md-typeset table:not([class]):hover {
+  box-shadow: var(--shadow-lg);
 }
 
 .md-typeset table:not([class]) th {
@@ -82,21 +141,37 @@
   color: white;
   font-weight: 600;
   white-space: nowrap;
+  padding: var(--spacing-sm) var(--spacing-md);
+}
+
+.md-typeset table:not([class]) td {
+  padding: var(--spacing-sm) var(--spacing-md);
 }
 
 .md-typeset table:not([class]) tr:nth-child(even) {
   background-color: var(--uwise-surface);
 }
 
+.md-typeset table:not([class]) tr:hover {
+  background-color: var(--uwise-surface-hover);
+}
+
 /* ---------- 代码块美化 ---------- */
 .md-typeset pre > code {
   border-radius: var(--uwise-radius);
-  box-shadow: 0 2px 12px rgba(99, 102, 241, 0.1);
+  box-shadow: var(--shadow-md);
+  margin: var(--spacing-lg) 0;
+  transition: all var(--transition-normal);
+}
+
+.md-typeset pre > code:hover {
+  box-shadow: var(--shadow-lg);
 }
 
 /* ---------- 导航栏渐变 ---------- */
 .md-header {
   background: linear-gradient(135deg, var(--uwise-gradient-start), var(--uwise-gradient-end)) !important;
+  box-shadow: var(--shadow-md);
 }
 
 .md-tabs {
@@ -104,9 +179,37 @@
 }
 
 /* ---------- 侧边栏样式 ---------- */
+.md-nav {
+  font-size: 0.75rem;
+}
+
+.md-nav__item {
+  padding: var(--spacing-xs) 0;
+  transition: all var(--transition-fast);
+}
+
+.md-nav__item:hover {
+  background-color: var(--md-default-bg-color--lighter);
+  border-radius: var(--radius-md);
+}
+
+.md-nav__link {
+  padding: var(--spacing-sm) var(--spacing-md);
+  border-radius: var(--radius-md);
+  transition: all var(--transition-fast);
+}
+
+.md-nav__link:hover {
+  background: linear-gradient(135deg, var(--uwise-primary) 0%, var(--uwise-primary-light) 100%);
+  color: white;
+  transform: translateX(2px);
+}
+
 .md-nav__link--active {
-  color: var(--uwise-gradient-start) !important;
+  color: var(--uwise-primary) !important;
   font-weight: 700;
+  background: linear-gradient(135deg, rgba(99, 102, 241, 0.1) 0%, rgba(139, 92, 246, 0.1) 100%);
+  border-radius: var(--radius-md);
 }
 
 .md-nav__link--active::before {
@@ -124,23 +227,51 @@
 .md-typeset details {
   border-radius: var(--uwise-radius);
   border-left-width: 4px;
+  box-shadow: var(--shadow-md);
+  margin: var(--spacing-lg) 0;
+  transition: all var(--transition-normal);
+}
+
+.md-typeset .admonition:hover,
+.md-typeset details:hover {
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-2px);
+}
+
+.md-typeset .admonition-title {
+  font-weight: 600;
 }
 
 /* ---------- 搜索框美化 ---------- */
 .md-search__form {
   border-radius: var(--uwise-radius);
   background: rgba(255, 255, 255, 0.08);
+  transition: all var(--transition-fast);
 }
 
 .md-search__form:hover {
   background: rgba(255, 255, 255, 0.12);
+  box-shadow: var(--shadow-md);
+}
+
+.md-search__form:focus-within {
+  background: rgba(255, 255, 255, 0.12);
+  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.2);
 }
 
 /* ---------- 回到顶部按钮 ---------- */
 .md-top {
-  background: var(--uwise-gradient-start) !important;
+  background: linear-gradient(135deg, var(--uwise-primary) 0%, var(--uwise-primary-light) 100%) !important;
   border-radius: 50% !important;
-  box-shadow: 0 2px 8px rgba(99, 102, 241, 0.3) !important;
+  box-shadow: var(--shadow-lg) !important;
+  width: 48px;
+  height: 48px;
+  transition: all var(--transition-normal);
+}
+
+.md-top:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-2xl) !important;
 }
 
 /* ---------- 链接颜色 ---------- */
@@ -148,19 +279,43 @@
   color: var(--uwise-primary);
   text-decoration: none;
   border-bottom: 1px solid transparent;
-  transition: border-color 0.15s ease;
+  transition: all var(--transition-fast);
 }
 
 .md-typeset a:hover {
   color: var(--uwise-primary-light);
   border-bottom-color: var(--uwise-primary-light);
+  transform: translateY(-1px);
+}
+
+/* ---------- 按钮优化 ---------- */
+.md-button {
+  border-radius: var(--radius-md);
+  padding: var(--spacing-sm) var(--spacing-lg);
+  font-weight: 500;
+  transition: all var(--transition-fast);
+  box-shadow: var(--shadow-sm);
+}
+
+.md-button:hover {
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+
+.md-button--primary {
+  background: linear-gradient(135deg, var(--uwise-primary) 0%, var(--uwise-primary-light) 100%);
 }
 
 /* ---------- 深色模式适配 ---------- */
 [data-md-color-scheme="slate"] {
   --uwise-surface: rgba(255, 255, 255, 0.04);
+  --uwise-surface-hover: rgba(255, 255, 255, 0.06);
   --md-primary-fg-color: #4c44ff;
+  --md-primary-fg-color--light: #7c4dff;
+  --md-primary-fg-color--dark: #3b37b8;
   --md-accent-fg-color: #67e8f9;
+  --uwise-primary: #7c4dff;
+  --uwise-primary-light: #a78bfa;
 }
 
 [data-md-color-scheme="slate"] .md-header {
@@ -178,6 +333,34 @@
   background-clip: text;
 }
 
+[data-md-color-scheme="slate"] .card {
+  background: rgba(0, 0, 0, 0.2);
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+[data-md-color-scheme="slate"] .card:hover {
+  border-color: #7c4dff;
+}
+
+/* ---------- 新增：打印样式 ---------- */
+@media print {
+  .md-header,
+  .md-tabs,
+  .md-sidebar,
+  .md-footer,
+  .md-top {
+    display: none;
+  }
+
+  .md-content {
+    margin: 0;
+  }
+
+  .md-content__inner {
+    max-width: none;
+  }
+}
+
 /* ---------- 徽章 ---------- */
 .md-typeset .badge {
   display: inline-block;
@@ -192,7 +375,13 @@
 /* ---------- 图片圆角 ---------- */
 .md-typeset img {
   border-radius: var(--uwise-radius);
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  box-shadow: var(--shadow-lg);
+  transition: all var(--transition-normal);
+}
+
+.md-typeset img:hover {
+  transform: scale(1.02);
+  box-shadow: var(--shadow-xl);
 }
 
 /* ---------- 动画过渡 ---------- */
@@ -201,5 +390,216 @@
 .md-sidebar,
 .md-content,
 .md-footer {
-  transition: all 0.25s ease;
+  transition: all var(--transition-normal);
+}
+
+/* ---------- 新增：卡片组件 ---------- */
+.card {
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lighter);
+  border-radius: var(--radius-lg);
+  padding: var(--spacing-lg);
+  margin: var(--spacing-md) 0;
+  box-shadow: var(--shadow-md);
+  transition: all var(--transition-normal);
+}
+
+.card:hover {
+  box-shadow: var(--shadow-xl);
+  transform: translateY(-2px);
+  border-color: var(--uwise-primary);
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: var(--spacing-sm);
+  color: var(--uwise-primary);
+}
+
+.card-content {
+  color: var(--md-default-fg-color);
+  line-height: 1.6;
+}
+
+/* ---------- 新增：进度条 ---------- */
+.progress-bar {
+  height: 3px;
+  background: linear-gradient(90deg, var(--uwise-primary) 0%, var(--uwise-primary-light) 100%);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0%;
+  transition: width 0.2s ease;
+  z-index: 1001;
+}
+
+/* ---------- 新增：Toast 通知 ---------- */
+.toast {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: var(--spacing-md) var(--spacing-lg);
+  background: var(--uwise-primary);
+  color: white;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-2xl);
+  animation: slideIn 0.3s ease;
+  z-index: 1000;
+  max-width: 300px;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+/* ---------- 新增：空状态 ---------- */
+.empty-state {
+  text-align: center;
+  padding: var(--spacing-2xl);
+  color: var(--md-default-fg-color--light);
+}
+
+.empty-state-icon {
+  font-size: 4rem;
+  opacity: 0.3;
+  margin-bottom: var(--spacing-md);
+}
+
+.empty-state-text {
+  font-size: 1.1rem;
+  margin-bottom: var(--spacing-lg);
+}
+
+/* ---------- 新增：骨架屏加载 ---------- */
+.skeleton {
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200% 100%;
+  animation: skeleton-loading 1.5s infinite;
+  border-radius: var(--radius-md);
+}
+
+@keyframes skeleton-loading {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+/* ---------- 新增：淡入动画 ---------- */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.md-content {
+  animation: fadeIn 0.3s ease;
+}
+
+/* ---------- 新增：可访问性增强 ---------- */
+*:focus {
+  outline: 2px solid var(--uwise-primary);
+  outline-offset: 2px;
+}
+
+*:focus:not(:focus-visible) {
+  outline: none;
+}
+
+*:focus-visible {
+  outline: 2px solid var(--uwise-primary);
+  outline-offset: 2px;
+}
+
+/* 跳转链接 */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: var(--uwise-primary);
+  color: white;
+  padding: var(--spacing-sm) var(--spacing-md);
+  z-index: 100;
+  transition: top var(--transition-normal);
+}
+
+.skip-link:focus {
+  top: 0;
+}
+
+/* 屏幕阅读器专用 */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+/* ---------- 新增：高对比度模式 ---------- */
+@media (prefers-contrast: high) {
+  :root {
+    --uwise-primary: #0000ee;
+    --uwise-accent: #0000ee;
+  }
+
+  .md-typeset a {
+    text-decoration: underline;
+  }
+}
+
+/* ---------- 新增：减少动画 ---------- */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ---------- 新增：响应式优化 ---------- */
+@media screen and (max-width: 76.1875em) {
+  .md-nav--primary .md-nav__title[for="__drawer"] {
+    background: linear-gradient(135deg, var(--uwise-primary) 0%, var(--uwise-primary-light) 100%);
+  }
+
+  .card {
+    padding: var(--spacing-md);
+  }
+}
+
+/* ---------- 新增：页脚优化 ---------- */
+.md-footer {
+  background: linear-gradient(135deg, var(--uwise-primary) 0%, var(--uwise-primary-light) 100%);
+}
+
+.md-footer-meta {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+/* ---------- 新增：内容区最大宽度 ---------- */
+.md-content__inner {
+  max-width: 900px;
+  margin: 0 auto;
 }

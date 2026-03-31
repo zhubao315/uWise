@@ -50,7 +50,8 @@ extra_css:
   - stylesheets/custom.css
 
 extra_javascript:
-  - https://cdn.jsdelivr.net/npm/@iconify/iconify@latest/dist/iconify.min.js
+  - javascripts/extra.js
+  - javascripts/security.js
 
 plugins:
   - search:
@@ -137,5 +138,6 @@ extra:
       link: https://github.com/zhubao315
       name: GitHub
   generator: false
+  manifest: manifest.webmanifest
 
 copyright: Copyright &copy; 2024-2026 朱宝 - uWise 百科
