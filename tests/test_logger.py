@@ -36,5 +36,5 @@ def test_logger_file_creation(tmp_path):
     logger.info("Test message")
 
     assert log_file.exists()
-    content = log_file.read_text(encoding='utf-8')
+    content = log_file.read_text(encoding="utf-8")
     assert "Test message" in content
