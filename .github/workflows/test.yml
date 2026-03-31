@@ -1,0 +1,48 @@
+name: uWise 百科测试
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.11']
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: 'pip'
+
+      - name: 安装依赖
+        run: |
+          pip install -r requirements-dev.txt
+
+      - name: 代码格式检查
+        run: black --check scripts/ tests/
+
+      - name: 代码风格检查
+        run: flake8 scripts/ tests/
+
+      - name: 类型检查
+        run: mypy scripts/
+
+      - name: 运行测试
+        run: pytest tests/ -v --cov=scripts --cov-report=xml
+
+      - name: 上传覆盖率报告
+        uses: codecov/codecov-action@v3
+        with:
+          file: ./coverage.xml
+          flags: unittests
+          name: codecov-umbrella
+          fail_ci_if_error: false
