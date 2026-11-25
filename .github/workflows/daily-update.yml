@@ -23,6 +23,7 @@ jobs:
       - name: 安装依赖
         run: |
           pip install mkdocs mkdocs-material
+          pip install mkdocs-git-revision-date-localized-plugin
           pip install requests beautifulsoup4 openai
       
       - name: 配置Git
