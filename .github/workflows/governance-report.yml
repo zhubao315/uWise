@@ -20,7 +20,7 @@ jobs:
           python-version: '3.11'
           cache: pip
       - name: Install governance dependency
-        run: pip install PyYAML>=6.0
+        run: pip install "PyYAML>=6.0"
       - name: Run shadow publishing gate
         env:
           GITHUB_TOKEN: ${{ secrets.VAULT_SYNC_PAT }}
