@@ -92,6 +92,8 @@ markdown_extensions:
 
 nav:
   - 首页: index.md
+  - 私库词条库:
+    - 词条总览: generated/uwise-encyclopedia.md
   - 核心身份:
     - 架构师: core-identity/architect.md
     - 投资人: core-identity/investor.md

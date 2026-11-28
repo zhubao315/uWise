@@ -1,0 +1,61 @@
+name: Sync uWise Vault (Weekly)
+
+on:
+  schedule:
+    # Monday 03:47 UTC — off the hour, to avoid cron congestion.
+    - cron: '47 3 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: uwise-vault-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.VAULT_SYNC_PAT || secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install MkDocs dependencies
+        run: pip install -r requirements.txt
+
+      - name: Sync private vault entries
+        env:
+          GITHUB_TOKEN: ${{ secrets.VAULT_SYNC_PAT || secrets.GITHUB_TOKEN }}
+          VAULT_REPO: zhubao315/obsidian-vault
+          VAULT_PATH: 02-BUILD/23-uWise
+        run: python3 scripts/sync_uwise_vault.py
+
+      - name: Validate docs build
+        run: mkdocs build --strict
+
+      - name: Commit only when content actually changed
+        env:
+          GITHUB_TOKEN: ${{ secrets.VAULT_SYNC_PAT || secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          TARGET="docs/vault-encyclopedia docs/generated/uwise-encyclopedia.md docs/uwise-encyclopedia-index.json"
+          if [ -z "$(git status --porcelain -- $TARGET)" ]; then
+            echo "No vault changes; skipping commit and deploy."
+            exit 0
+          fi
+          git add $TARGET
+          git commit -m "chore(encyclopedia): weekly sync from private vault ($(date -u +%Y-%m-%d))"
+          git push origin HEAD:main
