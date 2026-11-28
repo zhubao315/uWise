@@ -44,7 +44,7 @@ description: "你最大的资产不是银行账户里的数字，而是你未来
 <details>
 <summary>来源与口径</summary>
 
-- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源：个人知识库（每周同步，未逐条事实核验）
 - 来源标识：`e-37ccab00c393`（稳定 ID，不暴露私库路径）
 - 状态：unreviewed · 分类：concepts
 - 未解析双链：0 条（已保留目标标记）

@@ -5,7 +5,7 @@ description: 从私有 Obsidian 仓库同步的 1891 篇知识词条 · 自动�
 
 # uWise 私库词条总览 · 1891 篇
 
-> 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`。本页由 `scripts/sync_uwise_vault.py` 自动生成。
+> 来源：个人知识库每周同步。本页由 `scripts/sync_uwise_vault.py` 自动生成。
 > 所有词条标记为**未逐条核验**；原始状态分布：[('active', 1485), ('unreviewed', 226), ('draft', 172), ('published', 8)]。
 
 <div class="vault-filter">

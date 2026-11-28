@@ -87,7 +87,7 @@ description: "\"艺术殉道者\"是欧文·斯通在《渴望生活：梵高传
 <details>
 <summary>来源与口径</summary>
 
-- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源：个人知识库（每周同步，未逐条事实核验）
 - 来源标识：`e-9ede7a9935a6`（稳定 ID，不暴露私库路径）
 - 状态：active · 分类：08-Arts-Culture
 - 未解析双链：2 条（已保留目标标记）

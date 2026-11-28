@@ -81,7 +81,7 @@ description: "💡 \"少数产生多数\"不是鸡汤，是经过反复验证的
 <details>
 <summary>来源与口径</summary>
 
-- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源：个人知识库（每周同步，未逐条事实核验）
 - 来源标识：`e-6e86f76118c3`（稳定 ID，不暴露私库路径）
 - 状态：active · 分类：06-Cognitive-Psychology
 - 未解析双链：5 条（已保留目标标记）

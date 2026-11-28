@@ -137,6 +137,11 @@ REDACT_RULES: tuple[tuple[str, re.Pattern[str], str], ...] = (
         re.compile(r"github\.com/zhubao315/obsidian-vault|obsidian_vault|obsidian-vault"),
         "[PRIVATE_SOURCE]",
     ),
+    (
+        "vault_path",
+        re.compile(r"02-BUILD/23-uWise/[^\s`\"'）)，,；;]*"),
+        "[PRIVATE_VAULT_PATH]",
+    ),
 )
 
 
@@ -272,7 +277,7 @@ def main() -> None:  # noqa: C901
             "---\n\n"
             f'# {e["title"]}\n\n{safe.strip()}\n\n'
             "---\n\n<details>\n<summary>来源与口径</summary>\n\n"
-            f"- 来源：{SOURCE}\n"
+            "- 来源：个人知识库（每周同步，未逐条事实核验）\n"
             f"- 来源标识：`{e['source_id']}`（稳定 ID，不暴露私库路径）\n"
             f"- 状态：{status} · 分类：{category}\n"
             f"- 未解析双链：{len(broken)} 条（已保留目标标记）\n"
@@ -326,7 +331,7 @@ def main() -> None:  # noqa: C901
     INDEX_PATH.write_text(
         json.dumps(
             {
-                "source": SOURCE,
+                "source": "personal-knowledge-vault (weekly sync)",
                 "count": len(catalog),
                 "entries": catalog,
             },
@@ -350,7 +355,7 @@ description: 从私有 Obsidian 仓库同步的 {len(catalog)} 篇知识词条 �
 
 # uWise 私库词条总览 · {len(catalog)} 篇
 
-> 来源：`{SOURCE}`。本页由 `scripts/sync_uwise_vault.py` 自动生成。
+> 来源：个人知识库每周同步。本页由 `scripts/sync_uwise_vault.py` 自动生成。
 > 所有词条标记为**未逐条核验**；原始状态分布：{esc(str(by_status.most_common(4)))}。
 
 <div class="vault-filter">

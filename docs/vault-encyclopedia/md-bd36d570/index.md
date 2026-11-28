@@ -80,7 +80,7 @@ description: "\"真正的力量不需要昂贵的装备和复杂的计划，只�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源：个人知识库（每周同步，未逐条事实核验）
 - 来源标识：`e-bd36d57060ed`（稳定 ID，不暴露私库路径）
 - 状态：draft · 分类：06-Cognitive-Psychology
 - 未解析双链：3 条（已保留目标标记）

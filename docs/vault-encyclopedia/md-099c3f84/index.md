@@ -66,7 +66,7 @@ description: "《云笈七签》被尊为\"小道藏\"——宋代《道藏》�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源：个人知识库（每周同步，未逐条事实核验）
 - 来源标识：`e-099c3f84042a`（稳定 ID，不暴露私库路径）
 - 状态：active · 分类：05-Philosophy-Ethics
 - 未解析双链：3 条（已保留目标标记）

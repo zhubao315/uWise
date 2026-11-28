@@ -77,7 +77,7 @@ description: "饮食文化地理学是一种通过食物理解地域文化的研
 <details>
 <summary>来源与口径</summary>
 
-- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源：个人知识库（每周同步，未逐条事实核验）
 - 来源标识：`e-a8fd81f093d4`（稳定 ID，不暴露私库路径）
 - 状态：active · 分类：06-Cognitive-Psychology
 - 未解析双链：2 条（已保留目标标记）

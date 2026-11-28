@@ -70,7 +70,7 @@ description: "定义：好人变成恶魔，往往只需要一个特定的情境
 <details>
 <summary>来源与口径</summary>
 
-- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源：个人知识库（每周同步，未逐条事实核验）
 - 来源标识：`e-f14b197a5464`（稳定 ID，不暴露私库路径）
 - 状态：active · 分类：00-General
 - 未解析双链：6 条（已保留目标标记）

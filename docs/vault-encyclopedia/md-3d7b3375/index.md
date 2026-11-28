@@ -75,7 +75,7 @@ description: "成事三大杠杆是摆脱单打独斗、放大个人价值的核
 <details>
 <summary>来源与口径</summary>
 
-- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源：个人知识库（每周同步，未逐条事实核验）
 - 来源标识：`e-3d7b3375dce3`（稳定 ID，不暴露私库路径）
 - 状态：published · 分类：04-Business-Management
 - 未解析双链：3 条（已保留目标标记）

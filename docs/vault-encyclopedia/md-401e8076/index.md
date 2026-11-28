@@ -71,7 +71,7 @@ description: "蒙田（16 世纪）与荣格（20 世纪）相隔 400 年，却�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源：个人知识库（每周同步，未逐条事实核验）
 - 来源标识：`e-401e80763e71`（稳定 ID，不暴露私库路径）
 - 状态：active · 分类：00-General
 - 未解析双链：1 条（已保留目标标记）

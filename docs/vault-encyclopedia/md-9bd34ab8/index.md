@@ -65,7 +65,7 @@ description: "你以为的极限不是极限，那只是你当前认知的边界
 <details>
 <summary>来源与口径</summary>
 
-- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源：个人知识库（每周同步，未逐条事实核验）
 - 来源标识：`e-9bd34ab801d6`（稳定 ID，不暴露私库路径）
 - 状态：active · 分类：06-Cognitive-Psychology
 - 未解析双链：1 条（已保留目标标记）

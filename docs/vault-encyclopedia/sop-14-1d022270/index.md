@@ -66,7 +66,7 @@ description: "负责人: 🍷 葡萄酒大师 | 核心工具: AI大模型, uProm
 <details>
 <summary>来源与口径</summary>
 
-- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源：个人知识库（每周同步，未逐条事实核验）
 - 来源标识：`e-1d0222704d69`（稳定 ID，不暴露私库路径）
 - 状态：active · 分类：06-Cognitive-Psychology
 - 未解析双链：13 条（已保留目标标记）

@@ -60,7 +60,7 @@ XPRIZE模式是一种用结果悬赏制替代过程考核的创新激励机制�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源：个人知识库（每周同步，未逐条事实核验）
 - 来源标识：`e-098c5a0b83bf`（稳定 ID，不暴露私库路径）
 - 状态：active · 分类：02-AI-Architecture
 - 未解析双链：4 条（已保留目标标记）

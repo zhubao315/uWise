@@ -63,7 +63,7 @@ description: "全库扫描发现：临界 同时与 系统思维(38共现)、第
 <details>
 <summary>来源与口径</summary>
 
-- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源：个人知识库（每周同步，未逐条事实核验）
 - 来源标识：`e-76ed8a79cc14`（稳定 ID，不暴露私库路径）
 - 状态：unreviewed · 分类：concepts
 - 未解析双链：9 条（已保留目标标记）

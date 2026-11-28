@@ -75,7 +75,7 @@ description: "有钱人相信资源是充足的，穷人相信资源是有限的
 <details>
 <summary>来源与口径</summary>
 
-- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源：个人知识库（每周同步，未逐条事实核验）
 - 来源标识：`e-4827a8dd45c7`（稳定 ID，不暴露私库路径）
 - 状态：active · 分类：01-Finance-Investment
 - 未解析双链：3 条（已保留目标标记）

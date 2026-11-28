@@ -34,7 +34,7 @@ description: "知识词条质量保障机制 | 目标：≥2000 词条 · 保真
 
 ### 分层随机抽样（Stratified Random Sample）
 
-**总体**：1,879 篇词条（`02-BUILD/23-uWise/词条/`）
+**总体**：1,879 篇词条（`[PRIVATE_VAULT_PATH]`）
 
 **目标样本**：200 篇（覆盖率 10.6%）
 
@@ -280,7 +280,7 @@ quality_gate.sh
 ### 输入
 
 ```
-输入目录：02-BUILD/23-uWise/词条/*.md
+输入目录：[PRIVATE_VAULT_PATH]
 抽样数量：--sample N（默认 200）
 修复模式：--fix schema|source|links|all
 试运行：  --dry-run（仅输出，不修改）
@@ -311,7 +311,7 @@ reports/uwise_fidelity_sample_YYYY-MM-DD.csv  ← 抽样清单
 <details>
 <summary>来源与口径</summary>
 
-- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源：个人知识库（每周同步，未逐条事实核验）
 - 来源标识：`e-d3f00d53d2fb`（稳定 ID，不暴露私库路径）
 - 状态：unreviewed · 分类：uncategorized
 - 未解析双链：5 条（已保留目标标记）
