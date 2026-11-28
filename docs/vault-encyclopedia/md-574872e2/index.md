@@ -29,8 +29,8 @@ description: "长尾效应（The Long Tail）由克里斯·安德森于2004年�
 
 ## 🔗 关联知识
 
-- 二八原则
-- 网络效应
+- <span class="uw-unresolved" data-target="二八原则" title="未解析的双链目标：二八原则">二八原则</span>
+- <span class="uw-unresolved" data-target="网络效应" title="未解析的双链目标：网络效应">网络效应</span>
 - 利基市场
 
 ## 📊 元数据
@@ -60,10 +60,10 @@ description: "长尾效应（The Long Tail）由克里斯·安德森于2004年�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/长尾效应.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-574872e23c26`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

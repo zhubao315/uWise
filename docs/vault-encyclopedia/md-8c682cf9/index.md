@@ -36,7 +36,7 @@ description: "马尔克斯在《活着为了讲述》中坦言：他所有的叙
 
 ## 🔗 关联知识
 
-- 《活着为了讲述》-加西亚·马尔克斯
+- <span class="uw-unresolved" data-target="《活着为了讲述》-加西亚·马尔克斯" title="未解析的双链目标：《活着为了讲述》-加西亚·马尔克斯">《活着为了讲述》-加西亚·马尔克斯</span>
 - [团队化学反应优于个人能力](../md-0f5a6c3a/)
 - 叙事框架
 - [魔幻现实主义](../md-ae8855c3/)
@@ -80,10 +80,10 @@ description: "马尔克斯在《活着为了讲述》中坦言：他所有的叙
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/外祖母是叙事的源泉.md`
-- 原始状态：已确立 · 分类：08-Arts-Culture
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-8c682cf92e4c`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：08-Arts-Culture
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

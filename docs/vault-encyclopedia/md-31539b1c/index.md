@@ -34,7 +34,7 @@ description: "常见套路。营造出稀缺性，给人物以稀为贵的感觉
 
 ## 相关
 
-- PDCA循环
+- <span class="uw-unresolved" data-target="PDCA循环" title="未解析的双链目标：PDCA循环">PDCA循环</span>
 - [PTSD](../ptsd-md-a2e1522a/)
 - [uWise](../uwise-md-5c3e1a0e/)
 - [万事万物皆有代价](../md-357588bc/)
@@ -59,10 +59,10 @@ description: "常见套路。营造出稀缺性，给人物以稀为贵的感觉
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/稀少性偏误.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-31539b1cff0a`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

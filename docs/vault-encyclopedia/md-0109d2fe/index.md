@@ -32,7 +32,7 @@ description: "面对任何以\"善意\"为名的提议或政策，必须将\"意
 
 ## 🔗 关联知识
 
-- 《通往奴役之路》-弗里德里希·哈耶克
+- <span class="uw-unresolved" data-target="《通往奴役之路》-弗里德里希·哈耶克" title="未解析的双链目标：《通往奴役之路》-弗里德里希·哈耶克">《通往奴役之路》-弗里德里希·哈耶克</span>
 - [非意图后果](../md-e0c84054/)
 
 ## 📊 元数据
@@ -62,10 +62,10 @@ description: "面对任何以\"善意\"为名的提议或政策，必须将\"意
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/善意陷阱识别法——初衷与结果的二元判断框架.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-0109d2fe131e`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

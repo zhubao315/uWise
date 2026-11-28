@@ -22,9 +22,9 @@ A级人才的管理是认知与心理学领域的一个重要概念，它描述�
 
 - [AI Agent 核心原理](../ai-agent-md-7b169b8d/)
 - [AI人才四层分层](../ai-md-9d5f5642/)
-- 生命2.0时代的人类伦理边界重构
+- <span class="uw-unresolved" data-target="生命2.0时代的人类伦理边界重构" title="未解析的双链目标：生命2.0时代的人类伦理边界重构">生命2.0时代的人类伦理边界重构</span>
 - [人优先级-人产品利润的管理铁律](../md-44c6d865/)
-- 信息管理系统
+- <span class="uw-unresolved" data-target="信息管理系统" title="未解析的双链目标：信息管理系统">信息管理系统</span>
 
 ## 📚 参考资料
 
@@ -58,10 +58,10 @@ A级人才的管理是认知与心理学领域的一个重要概念，它描述�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/A级人才的管理.md`
-- 原始状态：draft · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-75a01ca85b54`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -25,7 +25,7 @@ description: "理解用户需求并设计良好体验的系统方法。"
 
 ## 相关
 
-- 用户体验设计
+- <span class="uw-unresolved" data-target="用户体验设计" title="未解析的双链目标：用户体验设计">用户体验设计</span>
 - [微交互设计](../md-611fa066/)
 - 产品设计
 
@@ -48,10 +48,10 @@ description: "理解用户需求并设计良好体验的系统方法。"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/用户研究与体验设计.md`
-- 原始状态：未标注 · 分类：还原自 01-BRAIN（2026-09-17 归档迁移）
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-708281163b7b`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

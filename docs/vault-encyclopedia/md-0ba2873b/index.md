@@ -9,9 +9,9 @@ description: "时间块规划（Time Blocking）是将一天划分为若干固�
 
 ## 相关
 
-- GTD执行
+- <span class="uw-unresolved" data-target="GTD执行" title="未解析的双链目标：GTD执行">GTD执行</span>
 - [90分钟冲刺取代马拉松式工作](../90-md-20aed0d7/)
-- 深度工作四步法-专注力炼金术
+- <span class="uw-unresolved" data-target="深度工作四步法-专注力炼金术" title="未解析的双链目标：深度工作四步法-专注力炼金术">深度工作四步法-专注力炼金术</span>
 
 ## 深度思考
 
@@ -42,10 +42,10 @@ description: "时间块规划（Time Blocking）是将一天划分为若干固�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/时间块规划.md`
-- 原始状态：未标注 · 分类：还原自 01-BRAIN（2026-09-17 归档迁移）
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-0ba2873be0f8`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

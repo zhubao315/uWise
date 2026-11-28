@@ -29,7 +29,7 @@ description: "|------|------|------|"
 
 - [Karpathy：区分娱乐消费与深度学习，破除知识快餐幻觉](../karpathy-md-bcb63ee0/)
 - [知识多巴胺：碎片化信息带来的短时认知快感](../md-d0e67310/)
-- 刻意练习：深度学习的生理与认知底层逻辑
+- <span class="uw-unresolved" data-target="刻意练习：深度学习的生理与认知底层逻辑" title="未解析的双链目标：刻意练习：深度学习的生理与认知底层逻辑">刻意练习：深度学习的生理与认知底层逻辑</span>
 
 ## 💡 个人理解
 
@@ -62,10 +62,10 @@ description: "|------|------|------|"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/认知错觉：假性努力与获得感陷阱.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-1cff7fc6d335`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

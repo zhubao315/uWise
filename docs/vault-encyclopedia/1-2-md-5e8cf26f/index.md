@@ -32,10 +32,10 @@ description: "系统1与系统2是丹尼尔·卡尼曼在《思考，快与慢�
 
 ## 🔗 关联知识
 
-- 《思考，快与慢》-丹尼尔·卡尼曼
+- <span class="uw-unresolved" data-target="《思考，快与慢》-丹尼尔·卡尼曼" title="未解析的双链目标：《思考，快与慢》-丹尼尔·卡尼曼">《思考，快与慢》-丹尼尔·卡尼曼</span>
 - [架构认知框架](../md-b748177b/)
 - [双加工理论](../md-7dd9e37a/)
-- 元认知——你以为你在思考，其实你只是在反应
+- <span class="uw-unresolved" data-target="元认知——你以为你在思考，其实你只是在反应" title="未解析的双链目标：元认知——你以为你在思考，其实你只是在反应">元认知——你以为你在思考，其实你只是在反应</span>
 
 ## 💡 个人理解
 
@@ -79,10 +79,10 @@ description: "系统1与系统2是丹尼尔·卡尼曼在《思考，快与慢�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/系统1与系统2.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-5e8cf26fb855`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

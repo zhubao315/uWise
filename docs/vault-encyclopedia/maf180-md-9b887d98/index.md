@@ -13,7 +13,7 @@ description: "MAF(Maximum Aerobic Function)心率=180-年龄，再根据训练�
 
 - MAF(Maximum Aerobic Function)心率=180-年龄，再根据训练历史和健康状况微调(±5)，是有氧训练的心率上限。
 - MAF心率是训练上限而非目标心率；受伤/生病/停训期间需额外减5；长期系统训练者可加5。
-- 《耐力：无伤、燃脂、轻松的MAF训练法》-菲利普·马费通
+- <span class="uw-unresolved" data-target="《耐力：无伤、燃脂、轻松的MAF训练法》-菲利普·马费通" title="未解析的双链目标：《耐力：无伤、燃脂、轻松的MAF训练法》-菲利普·马费通">《耐力：无伤、燃脂、轻松的MAF训练法》-菲利普·马费通</span>
 
 ## 📖 详细说明
 
@@ -27,7 +27,7 @@ MAF(Maximum Aerobic Function)心率=180-年龄，再根据训练历史和健康�
 
 ## 🔗 关联知识
 
-- 《耐力：无伤、燃脂、轻松的MAF训练法》-菲利普·马费通
+- <span class="uw-unresolved" data-target="《耐力：无伤、燃脂、轻松的MAF训练法》-菲利普·马费通" title="未解析的双链目标：《耐力：无伤、燃脂、轻松的MAF训练法》-菲利普·马费通">《耐力：无伤、燃脂、轻松的MAF训练法》-菲利普·马费通</span>
 
 ## 📊 元数据
 
@@ -56,10 +56,10 @@ MAF(Maximum Aerobic Function)心率=180-年龄，再根据训练历史和健康�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/MAF180心率公式.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-9b887d9808cd`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

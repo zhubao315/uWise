@@ -18,7 +18,7 @@ description: "《周易》的认知方法——通过\"象\"（卦象、物象�
 - 象数思维的优势在于：它不追求精确（因为精确往往意味着简化），而是追求关联（因为关联意味着丰富）。在面对复杂、模糊、多变量的现实问题时，象数思维提供的不是精确答案，而是理解框架。
 - [阴阳辩证](../md-fb8faca8/) — 象数思维的哲学基础
 - [变易思维](../md-e48bb55c/) — 象数思维的目标是理解变化
-- 类比推理 — 象数思维的认知机制
+- <span class="uw-unresolved" data-target="类比推理" title="未解析的双链目标：类比推理">类比推理</span> — 象数思维的认知机制
 
 ## 📖 详细说明
 
@@ -35,8 +35,8 @@ description: "《周易》的认知方法——通过\"象\"（卦象、物象�
 
 - [阴阳辩证](../md-fb8faca8/)
 - [变易思维](../md-e48bb55c/)
-- 类比推理
-- 书单-2026年度
+- <span class="uw-unresolved" data-target="类比推理" title="未解析的双链目标：类比推理">类比推理</span>
+- <span class="uw-unresolved" data-target="书单-2026年度" title="未解析的双链目标：书单-2026年度">书单-2026年度</span>
 
 ## 📊 元数据
 
@@ -65,10 +65,10 @@ description: "《周易》的认知方法——通过\"象\"（卦象、物象�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/象数思维.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-53c394bc40e2`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

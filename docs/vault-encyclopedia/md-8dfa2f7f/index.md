@@ -13,7 +13,7 @@ description: "艾略特·阿伦森的社会心理学经典。人类行为深受�
 
 - 艾略特·阿伦森的社会心理学经典。人类行为深受社会环境影响，我们比自己以为的更不理性、更从众。
 - 从众效应比想象中强大；认知失调驱动态度改变；旁观者效应＝责任分散
-- [认知偏误](../md-6568b24b/)·非暴力沟通·心理学专家技能
+- [认知偏误](../md-6568b24b/)·<span class="uw-unresolved" data-target="非暴力沟通" title="未解析的双链目标：非暴力沟通">非暴力沟通</span>·<span class="uw-unresolved" data-target="心理学专家技能" title="未解析的双链目标：心理学专家技能">心理学专家技能</span>
 
 ## 📖 详细说明
 
@@ -28,8 +28,8 @@ description: "艾略特·阿伦森的社会心理学经典。人类行为深受�
 ## 🔗 关联知识
 
 - [认知偏误](../md-6568b24b/)
-- 非暴力沟通
-- 心理学专家技能
+- <span class="uw-unresolved" data-target="非暴力沟通" title="未解析的双链目标：非暴力沟通">非暴力沟通</span>
+- <span class="uw-unresolved" data-target="心理学专家技能" title="未解析的双链目标：心理学专家技能">心理学专家技能</span>
 
 ## 📊 元数据
 
@@ -58,10 +58,10 @@ description: "艾略特·阿伦森的社会心理学经典。人类行为深受�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/社会性动物.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：4 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-8dfa2f7f5473`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：4 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

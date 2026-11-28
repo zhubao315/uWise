@@ -1,18 +1,18 @@
 ---
 title: "笔记软件的选择"
-description: "在众多双链笔记中，一眼锁定 07-SOURCES/71-书籍/科技科普类/Obsidian的原因：它让我想起了三体中，用于压平雪浪纸的黑曜石。让我感觉到它可能冥冥中有种神奇的力量。我相信用它，在我笔记量足够大以后，我也会像现在一样，把07-SOURCES/71-书籍/科技科普类/Obsidian和《三体》-刘慈欣，产生关联。"
+description: "在众多双链笔记中，一眼锁定 07-SOURCES/71-书籍/科技科普类/Obsidian的原因：它让我想起了三体中，用于压平雪浪纸的黑曜石。让我感觉到它可能冥冥中有种神奇的力量。我相信用它，在我笔记量足够大以后，我也会像现在一样，把07-SOURCES/71-书籍/科技科普类/Obsidian和<span class=\"uw-unresolved\" dat"
 ---
 
 # 笔记软件的选择
 
 ## 📌 核心定义
 
-> 在众多双链笔记中，一眼锁定 07-SOURCES/71-书籍/科技科普类/Obsidian的原因：它让我想起了三体中，用于压平雪浪纸的黑曜石。让我感觉到它可能冥冥中有种神奇的力量。我相信用它，在我笔记量足够大以后，我也会像现在一样，把07-SOURCES/71-书籍/科技科普类/Obsidian和《三体》-刘慈欣，产生关联。
+> 在众多双链笔记中，一眼锁定 07-SOURCES/71-书籍/科技科普类/Obsidian的原因：它让我想起了三体中，用于压平雪浪纸的黑曜石。让我感觉到它可能冥冥中有种神奇的力量。我相信用它，在我笔记量足够大以后，我也会像现在一样，把07-SOURCES/71-书籍/科技科普类/Obsidian和<span class="uw-unresolved" data-target="《三体》-刘慈欣" title="未解析的双链目标：《三体》-刘慈欣">《三体》-刘慈欣</span>，产生关联。
 
 ## 🎯 关键要点
 
-- 在众多双链笔记中，一眼锁定 07-SOURCES/71-书籍/科技科普类/Obsidian的原因：它让我想起了三体中，用于压平雪浪纸的黑曜石。让我感觉到它可能冥冥中有种神奇的力量。我相信用它，在我笔记量足够大以后，我也会像现在一样，把07-SOURCES/71-书籍/科技科普类/Obsidian和《三体》-刘慈欣，产生关联。
-- 目前探索出来的个人最优解，只能 重器轻用 了。
+- 在众多双链笔记中，一眼锁定 07-SOURCES/71-书籍/科技科普类/Obsidian的原因：它让我想起了三体中，用于压平雪浪纸的黑曜石。让我感觉到它可能冥冥中有种神奇的力量。我相信用它，在我笔记量足够大以后，我也会像现在一样，把07-SOURCES/71-书籍/科技科普类/Obsidian和<span class="uw-unresolved" data-target="《三体》-刘慈欣" title="未解析的双链目标：《三体》-刘慈欣">《三体》-刘慈欣</span>，产生关联。
+- 目前探索出来的个人最优解，只能 <span class="uw-unresolved" data-target="重器轻用" title="未解析的双链目标：重器轻用">重器轻用</span> 了。
 - 1，obsidian 或 logseq 用来写个人笔记，以及写作。
 - 2，notion 或语雀，用来团队写作，分享发布等场景。以及 markdown 无法很好表达的表格 database 等复杂内容。
 - 3，任务管理，轻量微观用 [滴答清单](../md-16d39d2e/)，重量宏观用 notion
@@ -22,13 +22,13 @@ description: "在众多双链笔记中，一眼锁定 07-SOURCES/71-书籍/科�
 ## 📖 详细说明
 
 ### 概念解释
-在众多双链笔记中，一眼锁定 07-SOURCES/71-书籍/科技科普类/Obsidian的原因：它让我想起了三体中，用于压平雪浪纸的黑曜石。让我感觉到它可能冥冥中有种神奇的力量。我相信用它，在我笔记量足够大以后，我也会像现在一样，把07-SOURCES/71-书籍/科技科普类/Obsidian和《三体》-刘慈欣，产生关联。
+在众多双链笔记中，一眼锁定 07-SOURCES/71-书籍/科技科普类/Obsidian的原因：它让我想起了三体中，用于压平雪浪纸的黑曜石。让我感觉到它可能冥冥中有种神奇的力量。我相信用它，在我笔记量足够大以后，我也会像现在一样，把07-SOURCES/71-书籍/科技科普类/Obsidian和<span class="uw-unresolved" data-target="《三体》-刘慈欣" title="未解析的双链目标：《三体》-刘慈欣">《三体》-刘慈欣</span>，产生关联。
 
 
 ## 🔗 关联知识
 
-- 《三体》-刘慈欣
-- 重器轻用
+- <span class="uw-unresolved" data-target="《三体》-刘慈欣" title="未解析的双链目标：《三体》-刘慈欣">《三体》-刘慈欣</span>
+- <span class="uw-unresolved" data-target="重器轻用" title="未解析的双链目标：重器轻用">重器轻用</span>
 - [滴答清单](../md-16d39d2e/)
 
 ## 📊 元数据
@@ -41,7 +41,7 @@ description: "在众多双链笔记中，一眼锁定 07-SOURCES/71-书籍/科�
 
 ## 相关
 
-- PDCA循环
+- <span class="uw-unresolved" data-target="PDCA循环" title="未解析的双链目标：PDCA循环">PDCA循环</span>
 - [PTSD](../ptsd-md-a2e1522a/)
 - [uWise](../uwise-md-5c3e1a0e/)
 - [万事万物皆有代价](../md-357588bc/)
@@ -66,10 +66,10 @@ description: "在众多双链笔记中，一眼锁定 07-SOURCES/71-书籍/科�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/笔记软件的选择.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：7 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-c88c2da8acaa`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：7 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

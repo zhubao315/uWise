@@ -122,7 +122,7 @@ import random, os
 
 **质量加分**（+5 分，上限 35 分）：
 - 链接到不同 category 的词条：+3
-- 包含 `` + `` 配对完整：+2
+- 包含 `<span class="uw-unresolved" data-target="` + `" title="未解析的双链目标：` + `">` + `</span>` 配对完整：+2
 
 ---
 
@@ -266,12 +266,12 @@ quality_gate.sh
 
 ## 8. 关联文档
 
-- 2026年度目标 AI Co-Evolution-自主进化的人生操作系统 — 年度目标，uWise 是三大项目之一
-- 2026-07~09 Q3 OKR — Q3 目标，保真度审计是关键 KR
-- 2026-风险登记簿 — 风险登记簿，uWise 质量风险
+- <span class="uw-unresolved" data-target="2026年度目标 AI Co-Evolution-自主进化的人生操作系统" title="未解析的双链目标：2026年度目标 AI Co-Evolution-自主进化的人生操作系统">2026年度目标 AI Co-Evolution-自主进化的人生操作系统</span> — 年度目标，uWise 是三大项目之一
+- <span class="uw-unresolved" data-target="2026-07~09 Q3 OKR" title="未解析的双链目标：2026-07~09 Q3 OKR">2026-07~09 Q3 OKR</span> — Q3 目标，保真度审计是关键 KR
+- <span class="uw-unresolved" data-target="2026-风险登记簿" title="未解析的双链目标：2026-风险登记簿">2026-风险登记簿</span> — 风险登记簿，uWise 质量风险
 - `uwise_fill_audit` — 补全完整性审计（已有脚本）
 - [词条标准化规范](../02-fc20d065/) — 词条模板与字段规范
-- 诊断分析报告 — 全库健康度
+- <span class="uw-unresolved" data-target="诊断分析报告" title="未解析的双链目标：诊断分析报告">诊断分析报告</span> — 全库健康度
 
 ---
 
@@ -311,10 +311,10 @@ reports/uwise_fidelity_sample_YYYY-MM-DD.csv  ← 抽样清单
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`uWise-保真度审计指南.md`
-- 原始状态：未标注 · 分类：未标注
-- 断链别名（无目标，保留为文本）：5 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-d3f00d53d2fb`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：uncategorized
+- 未解析双链：5 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

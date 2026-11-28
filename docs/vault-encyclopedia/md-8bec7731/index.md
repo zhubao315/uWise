@@ -10,8 +10,8 @@ description: "情绪操纵识别是识别他人通过情感手段影响自己决
 ## 相关
 
 - [影响力防御性思维框架](../md-4b735c91/)
-- 课题分离是解决人际烦恼的第一性原理
-- 情绪重评——你的情绪你命名
+- <span class="uw-unresolved" data-target="课题分离是解决人际烦恼的第一性原理" title="未解析的双链目标：课题分离是解决人际烦恼的第一性原理">课题分离是解决人际烦恼的第一性原理</span>
+- <span class="uw-unresolved" data-target="情绪重评——你的情绪你命名" title="未解析的双链目标：情绪重评——你的情绪你命名">情绪重评——你的情绪你命名</span>
 
 ## 深度思考
 
@@ -42,10 +42,10 @@ description: "情绪操纵识别是识别他人通过情感手段影响自己决
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/情绪操纵识别.md`
-- 原始状态：未标注 · 分类：还原自 01-BRAIN（2026-09-17 归档迁移）
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-8bec7731fbf6`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

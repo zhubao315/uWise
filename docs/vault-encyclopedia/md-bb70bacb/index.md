@@ -32,7 +32,7 @@ description: "食物作为文化身份，是指饮食偏好与习惯如何成为
 
 ## 🔗 关联知识
 
-- 《京味儿食足》-崔岱远
+- <span class="uw-unresolved" data-target="《京味儿食足》-崔岱远" title="未解析的双链目标：《京味儿食足》-崔岱远">《京味儿食足》-崔岱远</span>
 - [穷讲究](../md-5261e202/)
 - [餐桌规矩与社会秩序](../md-fc3d420b/)
 - [饮食文化地理学](../md-a8fd81f0/)
@@ -81,10 +81,10 @@ description: "食物作为文化身份，是指饮食偏好与习惯如何成为
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/食物作为文化身份.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-bb70bacbbdfe`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -13,8 +13,8 @@ description: "负责人: 👤 数字人生(../ai-c792b6fb/) | 核心工具: Togg
 
 - SOP目标：建立一套标准化的、AI赋能的流程，用于系统性地识别、分析和消除个人工作与生活中的低效环节，以持续提升单位时间的价值产出。
 - 战略价值：本SOP是“效率倍增”战略支柱的**核心执行与优化引擎**。它通过数据驱动的方式，将“效率提升”从一个模糊的口号，转变为一个可衡量、可迭代、可规模化的个人成长项目，为“智慧学习”和“身心赋能”等其他战略支柱的实现，释放出宝贵的时间和精力资源。
-- 核心技能：人工智能专家技能, 心理学专家技能, [🏗️ 架构师技能](../ai-b539c9a9/)
-- 相关SOP：[SOP-18](../sop-14-1d022270/), SOP-22-目标管理
+- 核心技能：<span class="uw-unresolved" data-target="人工智能专家技能" title="未解析的双链目标：人工智能专家技能">人工智能专家技能</span>, <span class="uw-unresolved" data-target="心理学专家技能" title="未解析的双链目标：心理学专家技能">心理学专家技能</span>, [🏗️ 架构师技能](../ai-b539c9a9/)
+- 相关SOP：[SOP-18](../sop-14-1d022270/), <span class="uw-unresolved" data-target="SOP-22-目标管理" title="未解析的双链目标：SOP-22-目标管理">SOP-22-目标管理</span>
 - 数据来源：Toggl, RescueTime, 任务管理工具（如Todoist, Asana）
 
 ## 📖 详细说明
@@ -28,17 +28,17 @@ description: "负责人: 👤 数字人生(../ai-c792b6fb/) | 核心工具: Togg
 ## 🔗 关联知识
 
 - [数字人生：AI驱动的个人效能倍增与智能生态构建者](../ai-c792b6fb/)
-- 心理学专家技能
-- 人工智能专家技能
-- 全栈工程师技能
-- SOP-21-知识管理
+- <span class="uw-unresolved" data-target="心理学专家技能" title="未解析的双链目标：心理学专家技能">心理学专家技能</span>
+- <span class="uw-unresolved" data-target="人工智能专家技能" title="未解析的双链目标：人工智能专家技能">人工智能专家技能</span>
+- <span class="uw-unresolved" data-target="全栈工程师技能" title="未解析的双链目标：全栈工程师技能">全栈工程师技能</span>
+- <span class="uw-unresolved" data-target="SOP-21-知识管理" title="未解析的双链目标：SOP-21-知识管理">SOP-21-知识管理</span>
 - [架构师：AI时代价值系统的核心引擎](../ai-b539c9a9/)
 - [SOP-14-葡萄酒大师-品鉴笔记撰写](../sop-14-1d022270/)
-- SOP-22-目标管理
+- <span class="uw-unresolved" data-target="SOP-22-目标管理" title="未解析的双链目标：SOP-22-目标管理">SOP-22-目标管理</span>
 
 ## 💡 个人理解
 
-*   运用人工智能专家技能和全栈工程师技能，**用技术手段从根本上消灭重复劳动**，这是实现生产力“倍增”而非“渐增”的关键。
+*   运用<span class="uw-unresolved" data-target="人工智能专家技能" title="未解析的双链目标：人工智能专家技能">人工智能专家技能</span>和<span class="uw-unresolved" data-target="全栈工程师技能" title="未解析的双链目标：全栈工程师技能">全栈工程师技能</span>，**用技术手段从根本上消灭重复劳动**，这是实现生产力“倍增”而非“渐增”的关键。
 
 ## 📊 元数据
 
@@ -67,10 +67,10 @@ description: "负责人: 👤 数字人生(../ai-c792b6fb/) | 核心工具: Togg
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/Sop 23 效率分析.md`
-- 原始状态：draft · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：10 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-9ccdb7f728f6`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：06-Cognitive-Psychology
+- 未解析双链：10 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

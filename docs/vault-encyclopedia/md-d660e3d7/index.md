@@ -12,7 +12,7 @@ description: "How-To-Ask-Questions-The-Smart-Way/README-zhCN.md at main · ryanh
 ## 🎯 关键要点
 
 - [How-To-Ask-Questions-The-Smart-Way/README-zh_CN.md at main · ryanhanwu/How-To-Ask-Questions-The-Smart-Way (github.com)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
-- 《学会提问》-尼尔·布朗 斯图尔特·基利
+- <span class="uw-unresolved" data-target="《学会提问》-尼尔·布朗 斯图尔特·基利" title="未解析的双链目标：《学会提问》-尼尔·布朗 斯图尔特·基利">《学会提问》-尼尔·布朗 斯图尔特·基利</span>
 - 兄弟，你没有说自己用的是个人版，教育版还是企业版。也没有说是否有过可能的分享违禁资源的行为。也没有具体描述不见了是空了还是默认首次登录的预置页面。更没有确保自己前后登录的是同一个账号。就直接来群里甩下一句，我的 notion 笔记不见了，怎么办。这种情况，没人鸟算正常，有人理得感恩。我如果是个喷子，至少可以给你贴上巨婴，伸手党，白嫖怪的标签。虽然你好像什么都没做，只是在群里随口问了个问题。#对话/微信/群聊
 
 ## 📖 详细说明
@@ -23,7 +23,7 @@ description: "How-To-Ask-Questions-The-Smart-Way/README-zhCN.md at main · ryanh
 
 ## 🔗 关联知识
 
-- 《学会提问》-尼尔·布朗 斯图尔特·基利
+- <span class="uw-unresolved" data-target="《学会提问》-尼尔·布朗 斯图尔特·基利" title="未解析的双链目标：《学会提问》-尼尔·布朗 斯图尔特·基利">《学会提问》-尼尔·布朗 斯图尔特·基利</span>
 
 ## 📊 元数据
 
@@ -52,10 +52,10 @@ description: "How-To-Ask-Questions-The-Smart-Way/README-zhCN.md at main · ryanh
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/在网上提问的智慧.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-d660e3d7019d`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

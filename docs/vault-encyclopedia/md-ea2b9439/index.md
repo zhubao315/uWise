@@ -63,7 +63,7 @@ description: "第一性原理：衰老不是不可逆的物理损耗，而是表
 ### 相关条目
 - [长寿逃逸速度](../md-eed06a49/) — 抵达 LEV 的技术时间表
 - [零愚蠢死亡防御体系](../md-b72d712e/) — 早期拦截方法学
-- 数据驱动 Biohacking 闭环 — 个体干预协议
+- <span class="uw-unresolved" data-target="数据驱动 Biohacking 闭环" title="未解析的双链目标：数据驱动 Biohacking 闭环">数据驱动 Biohacking 闭环</span> — 个体干预协议
 
 ---
 
@@ -84,10 +84,10 @@ description: "第一性原理：衰老不是不可逆的物理损耗，而是表
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/衰老作为可编辑信息系统.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-ea2b94397f43`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

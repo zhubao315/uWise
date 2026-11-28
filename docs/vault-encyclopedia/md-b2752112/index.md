@@ -12,14 +12,14 @@ description: "埃米尼亚·伊巴拉提出的概念：人们倾向于做擅长�
 ## 🎯 关键要点
 
 - 埃米尼亚·伊巴拉提出的概念：人们倾向于做擅长的事，反而限制了成长。
-- [舒适区理论](../md-868205dc/) [终身成长方法论](../md-06dcca7f/) [刻意练习](../md-f0df2098/) 职业发展 元认知
+- [舒适区理论](../md-868205dc/) [终身成长方法论](../md-06dcca7f/) [刻意练习](../md-f0df2098/) <span class="uw-unresolved" data-target="职业发展" title="未解析的双链目标：职业发展">职业发展</span> <span class="uw-unresolved" data-target="元认知" title="未解析的双链目标：元认知">元认知</span>
 - *最后更新：2026-06-05*
 
 ## 📖 详细说明
 
 ### 概念解释
 埃米尼亚·伊巴拉提出的概念：人们倾向于做擅长的事，反而限制了成长。
-[舒适区理论](../md-868205dc/) [终身成长方法论](../md-06dcca7f/) [刻意练习](../md-f0df2098/) 职业发展 元认知
+[舒适区理论](../md-868205dc/) [终身成长方法论](../md-06dcca7f/) [刻意练习](../md-f0df2098/) <span class="uw-unresolved" data-target="职业发展" title="未解析的双链目标：职业发展">职业发展</span> <span class="uw-unresolved" data-target="元认知" title="未解析的双链目标：元认知">元认知</span>
 
 ---
 
@@ -35,8 +35,8 @@ description: "埃米尼亚·伊巴拉提出的概念：人们倾向于做擅长�
 - [舒适区理论](../md-868205dc/)
 - [终身成长方法论](../md-06dcca7f/)
 - [刻意练习](../md-f0df2098/)
-- 职业发展
-- 元认知
+- <span class="uw-unresolved" data-target="职业发展" title="未解析的双链目标：职业发展">职业发展</span>
+- <span class="uw-unresolved" data-target="元认知" title="未解析的双链目标：元认知">元认知</span>
 
 ## 📊 元数据
 
@@ -65,10 +65,10 @@ description: "埃米尼亚·伊巴拉提出的概念：人们倾向于做擅长�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/能力陷阱的自我进化框架.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：6 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-b2752112e326`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：6 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

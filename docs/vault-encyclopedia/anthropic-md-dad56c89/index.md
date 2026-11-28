@@ -1,26 +1,26 @@
 ---
 title: "Anthropic提示词教程（中文版）"
-description: "自动创建于 2026-05-08 14:19 | 来源：2025-07-04"
+description: "自动创建于 2026-05-08 14:19 | 来源：<span class=\"uw-unresolved\" data-target=\"2025-07-04\" title=\"未解析的双链目标：2025-07-04\">2025-07-04</span>"
 ---
 
 # Anthropic提示词教程（中文版）
 
 ## 📌 核心定义
 
-> 自动创建于 2026-05-08 14:19 | 来源：2025-07-04
+> 自动创建于 2026-05-08 14:19 | 来源：<span class="uw-unresolved" data-target="2025-07-04" title="未解析的双链目标：2025-07-04">2025-07-04</span>
 
 ## 🎯 关键要点
 
-- 自动创建于 2026-05-08 14:19 | 来源：2025-07-04
-- 此条目在 2025-07-04 中被引用。
+- 自动创建于 2026-05-08 14:19 | 来源：<span class="uw-unresolved" data-target="2025-07-04" title="未解析的双链目标：2025-07-04">2025-07-04</span>
+- 此条目在 <span class="uw-unresolved" data-target="2025-07-04" title="未解析的双链目标：2025-07-04">2025-07-04</span> 中被引用。
 - Anthropic 官方教程[https://docs.anthropic.com/claude/docs](https://docs.anthropic.com/claude/docs)，未来力场的中英对照编译版，[Anthropic提示词教程（中文版）](../anthropic-md-dad56c89/)
 - Anthropic 官方教程[https://docs.anthropic.com/claude/docs](https://docs.anthropic.com/claude/docs)，未来力场的中英对照编译版，[[Anthropic提示词教程（中文版）；  - 学习]；context_triggers=[阅读计划；学习方法；知识管理；读书笔记]*
 
 ## 📖 详细说明
 
 ### 概念解释
-自动创建于 2026-05-08 14:19 | 来源：2025-07-04
-此条目在 2025-07-04 中被引用。
+自动创建于 2026-05-08 14:19 | 来源：<span class="uw-unresolved" data-target="2025-07-04" title="未解析的双链目标：2025-07-04">2025-07-04</span>
+此条目在 <span class="uw-unresolved" data-target="2025-07-04" title="未解析的双链目标：2025-07-04">2025-07-04</span> 中被引用。
 
 ### 关联上下文
 > Anthropic 官方教程[https://docs.anthropic.com/claude/docs](https://docs.anthropic.com/claude/docs)，未来力场的中英对照编译版，[[Anthropic提示词教程（中文版）；  - 学习]；context_triggers=[阅读计划；学习方法；知识管理；读书笔记]*
@@ -32,7 +32,7 @@ description: "自动创建于 2026-05-08 14:19 | 来源：2025-07-04"
 
 ## 🔗 关联知识
 
-- 2025-07-04
+- <span class="uw-unresolved" data-target="2025-07-04" title="未解析的双链目标：2025-07-04">2025-07-04</span>
 - [Anthropic提示词教程（中文版）](../anthropic-md-dad56c89/)
 
 ## 📊 元数据
@@ -47,8 +47,8 @@ description: "自动创建于 2026-05-08 14:19 | 来源：2025-07-04"
 
 ## 调用示例
 
-场景 1：判断「Anthropic提示词教程（中文版）」是否适用时，先复述其核心——自动创建于 2026-05-08 14:19 | 来源：2025-07-04——再对照当前事实逐项核对。
-场景 2：遇到与「Anthropic提示词教程（中文版）」相似的模糊情形，以要点「- 自动创建于 2026-05-08 14:19 | 来源：2025-07-04」为检查清单，避免只凭印象下结论。
+场景 1：判断「Anthropic提示词教程（中文版）」是否适用时，先复述其核心——自动创建于 2026-05-08 14:19 | 来源：<span class="uw-unresolved" data-target="2025-07-04" title="未解析的双链目标：2025-07-04">2025-07-04</span>——再对照当前事实逐项核对。
+场景 2：遇到与「Anthropic提示词教程（中文版）」相似的模糊情形，以要点「- 自动创建于 2026-05-08 14:19 | 来源：<span class="uw-unresolved" data-target="2025-07-04" title="未解析的双链目标：2025-07-04">2025-07-04</span>」为检查清单，避免只凭印象下结论。
 
 ## 边界约束
 
@@ -62,10 +62,10 @@ description: "自动创建于 2026-05-08 14:19 | 来源：2025-07-04"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/Anthropic提示词教程（中文版）.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：8 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-dad56c897e97`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：8 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

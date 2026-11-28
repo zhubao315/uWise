@@ -1,13 +1,13 @@
 ---
 title: "驾驭工程"
-description: "定义：区别于Prompt Engineering和上下文工程，驾驭工程解决的是\"AI在什么环境里工作\"的问题——它关注的不是单次对话的输入输出，而是AI稳定运行所需的整个环境体系。"
+description: "定义：区别于<span class=\"uw-unresolved\" data-target=\"Prompt Engineering\" title=\"未解析的双链目标：Prompt Engineering\">Prompt Engineering</span>和上下文工程，驾驭工程解决的是\"AI在什么环境里工作\"的问题——它关注的不是单次对话的输入输出，而是AI"
 ---
 
 # 驾驭工程
 
 ## 📌 核心定义
 
-> **定义**：区别于Prompt Engineering和上下文工程，驾驭工程解决的是"AI在什么环境里工作"的问题——它关注的不是单次对话的输入输出，而是AI稳定运行所需的整个环境体系。
+> **定义**：区别于<span class="uw-unresolved" data-target="Prompt Engineering" title="未解析的双链目标：Prompt Engineering">Prompt Engineering</span>和上下文工程，驾驭工程解决的是"AI在什么环境里工作"的问题——它关注的不是单次对话的输入输出，而是AI稳定运行所需的整个环境体系。
 
 ## 🎯 关键要点
 
@@ -20,7 +20,7 @@ description: "定义：区别于Prompt Engineering和上下文工程，驾驭工
 ## 📖 详细说明
 
 ### 概念解释
-**定义**：区别于Prompt Engineering和上下文工程，驾驭工程解决的是"AI在什么环境里工作"的问题——它关注的不是单次对话的输入输出，而是AI稳定运行所需的整个环境体系。
+**定义**：区别于<span class="uw-unresolved" data-target="Prompt Engineering" title="未解析的双链目标：Prompt Engineering">Prompt Engineering</span>和上下文工程，驾驭工程解决的是"AI在什么环境里工作"的问题——它关注的不是单次对话的输入输出，而是AI稳定运行所需的整个环境体系。
 ### 为什么需要驾驭工程
 
 当AI从"偶尔使用的工具"变成"日常工作伙伴"，单次交互的优化远远不够。AI需要一个稳定的、可维护的、持续演进的工作环境，才能持续产出高质量结果。这就像人类员工需要办公室、工具、流程手册、知识库一样——AI也需要它的"工作环境"。
@@ -76,9 +76,9 @@ AI的能力边界需要持续维护和扩展：
 
 ## 🔗 关联知识
 
-- Prompt Engineering
-- AI原生工作
-- 从超级个体到超级团队-AI时代组织变革的涌现路径-腾讯研究院
+- <span class="uw-unresolved" data-target="Prompt Engineering" title="未解析的双链目标：Prompt Engineering">Prompt Engineering</span>
+- <span class="uw-unresolved" data-target="AI原生工作" title="未解析的双链目标：AI原生工作">AI原生工作</span>
+- <span class="uw-unresolved" data-target="从超级个体到超级团队-AI时代组织变革的涌现路径-腾讯研究院" title="未解析的双链目标：从超级个体到超级团队-AI时代组织变革的涌现路径-腾讯研究院">从超级个体到超级团队-AI时代组织变革的涌现路径-腾讯研究院</span>
 
 ## 💡 个人理解
 
@@ -96,7 +96,7 @@ AI的能力边界需要持续维护和扩展：
 
 ## 调用示例
 
-场景 1：判断「驾驭工程」是否适用时，先复述其核心——定义：区别于Prompt Engineering和上下文工程，驾驭工程解决的是"AI在什么环境里工作"的问题——它关注的不是单次对话的输入输出，而是AI稳定运行所需的整个环境体系。——再对照当前事实逐项核对。
+场景 1：判断「驾驭工程」是否适用时，先复述其核心——定义：区别于<span class="uw-unresolved" data-target="Prompt Engineering" title="未解析的双链目标：Prompt Engineering">Prompt Engineering</span>和上下文工程，驾驭工程解决的是"AI在什么环境里工作"的问题——它关注的不是单次对话的输入输出，而是AI稳定运行所需的整个环境体系。——再对照当前事实逐项核对。
 场景 2：遇到与「驾驭工程」相似的模糊情形，以要点「- 适时：在正确的时机提供正确的背景」为检查清单，避免只凭印象下结论。
 
 ## 边界约束
@@ -111,10 +111,10 @@ AI的能力边界需要持续维护和扩展：
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/驾驭工程.md`
-- 原始状态：已确立 · 分类：02-AI-Architecture
-- 断链别名（无目标，保留为文本）：6 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-db3f62160da8`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：02-AI-Architecture
+- 未解析双链：6 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -33,8 +33,8 @@ description: "大胆目标激发突破性行动。不要设\"合理\"的目标�
 ## 🔗 关联知识
 
 - 天空不设限
-- 做大事思维
-- 登月思维
+- <span class="uw-unresolved" data-target="做大事思维" title="未解析的双链目标：做大事思维">做大事思维</span>
+- <span class="uw-unresolved" data-target="登月思维" title="未解析的双链目标：登月思维">登月思维</span>
 - [以终为始](../md-007509d0/)
 - [创造模式vs解决问题模式](../vs-md-d6d3ad47/)
 
@@ -77,10 +77,10 @@ description: "大胆目标激发突破性行动。不要设\"合理\"的目标�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/大胆目标设定框架.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-f154a2f03be4`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

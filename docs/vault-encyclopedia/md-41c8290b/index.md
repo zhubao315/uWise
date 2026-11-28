@@ -26,10 +26,10 @@ description: "投资中最大的敌人不是市场，而是自己的贪婪与恐
 
 ## 🔗 关联知识
 
-- 复利效应
+- <span class="uw-unresolved" data-target="复利效应" title="未解析的双链目标：复利效应">复利效应</span>
 - [损失厌恶](../md-556178b2/)
 - [锚定效应](../md-6a1f82c3/)
-- 系统vs目标思维
+- <span class="uw-unresolved" data-target="系统vs目标思维" title="未解析的双链目标：系统vs目标思维">系统vs目标思维</span>
 
 ## 📚 参考资料
 
@@ -67,10 +67,10 @@ description: "投资中最大的敌人不是市场，而是自己的贪婪与恐
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/经验晶体 投资中选择比努力重要用系统对抗人性弱点.md`
-- 原始状态：draft · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-41c8290b362c`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

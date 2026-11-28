@@ -13,12 +13,12 @@ description: "跨度 10 年，能一下从脑海中涌现出来，读过他们�
 
 - 跨度 10 年，能一下从脑海中涌现出来，读过他们不止一部作品，或者一部作品不止一次的，肯定是有什么原因令我深深着迷，之前没有怎么记录，以后如果有再次的机缘巧合重读重看，就争取能写点小感悟，从而有机会挖掘出我喜欢看他们作品的一些深层原因。
 - 另外看能不能随着年岁增长，识别出自己喜欢的作品的类型变化趋势，察觉出一些内在原因。
-- 钱钟书
-- 李开复
-- 莫言
-- 冯唐
-- 李开复
-- 莫言
+- <span class="uw-unresolved" data-target="钱钟书" title="未解析的双链目标：钱钟书">钱钟书</span>
+- <span class="uw-unresolved" data-target="李开复" title="未解析的双链目标：李开复">李开复</span>
+- <span class="uw-unresolved" data-target="莫言" title="未解析的双链目标：莫言">莫言</span>
+- <span class="uw-unresolved" data-target="冯唐" title="未解析的双链目标：冯唐">冯唐</span>
+- <span class="uw-unresolved" data-target="李开复" title="未解析的双链目标：李开复">李开复</span>
+- <span class="uw-unresolved" data-target="莫言" title="未解析的双链目标：莫言">莫言</span>
 
 ## 📖 详细说明
 
@@ -33,10 +33,10 @@ description: "跨度 10 年，能一下从脑海中涌现出来，读过他们�
 
 ## 🔗 关联知识
 
-- 钱钟书
-- 李开复
-- 莫言
-- 冯唐
+- <span class="uw-unresolved" data-target="钱钟书" title="未解析的双链目标：钱钟书">钱钟书</span>
+- <span class="uw-unresolved" data-target="李开复" title="未解析的双链目标：李开复">李开复</span>
+- <span class="uw-unresolved" data-target="莫言" title="未解析的双链目标：莫言">莫言</span>
+- <span class="uw-unresolved" data-target="冯唐" title="未解析的双链目标：冯唐">冯唐</span>
 
 ## 📊 元数据
 
@@ -48,7 +48,7 @@ description: "跨度 10 年，能一下从脑海中涌现出来，读过他们�
 
 ## 相关
 
-- PDCA循环
+- <span class="uw-unresolved" data-target="PDCA循环" title="未解析的双链目标：PDCA循环">PDCA循环</span>
 - [PTSD](../ptsd-md-a2e1522a/)
 - [uWise](../uwise-md-5c3e1a0e/)
 - [万事万物皆有代价](../md-357588bc/)
@@ -73,10 +73,10 @@ description: "跨度 10 年，能一下从脑海中涌现出来，读过他们�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/令我多次沉醉的人或作品.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：11 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-f31630701586`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：11 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

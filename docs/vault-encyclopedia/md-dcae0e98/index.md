@@ -37,14 +37,14 @@ description: "心理表征（Mental Representation）是安德斯·艾利克森�
 
 - [刻意练习](../md-f0df2098/) — 总框架词条
 - [刻意练习-3F循环](../3f-md-33689a23/) — 表征建设的执行引擎
-- 心理表征构建法 — 表征构建的方法论
-- 元认知 — 表征自我监测的认知基础
+- <span class="uw-unresolved" data-target="心理表征构建法" title="未解析的双链目标：心理表征构建法">心理表征构建法</span> — 表征构建的方法论
+- <span class="uw-unresolved" data-target="元认知" title="未解析的双链目标：元认知">元认知</span> — 表征自我监测的认知基础
 - [费曼学习法](../md-e581a556/) — 表征内化的检验工具
 
 ## 📚 参考资料
 
 - 来源：`B3-认知成长-刻意练习_MSH_v3`
-- 原始书籍：《刻意练习》-安德斯·艾利克森
+- 原始书籍：<span class="uw-unresolved" data-target="《刻意练习》-安德斯·艾利克森" title="未解析的双链目标：《刻意练习》-安德斯·艾利克森">《刻意练习》-安德斯·艾利克森</span>
 
 ## 💡 个人理解
 
@@ -78,10 +78,10 @@ description: "心理表征（Mental Representation）是安德斯·艾利克森�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/刻意练习-心理表征.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-dcae0e98ac1c`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -12,14 +12,14 @@ description: "梁启超所著的李鸿章传记，从维新派视角审视这位
 ## 🎯 关键要点
 
 - 梁启超所著的李鸿章传记，从维新派视角审视这位晚清重臣的功过是非。
-- 梁启超 晚清 洋务运动 中国近代史 政治家的视野与智慧
+- <span class="uw-unresolved" data-target="梁启超" title="未解析的双链目标：梁启超">梁启超</span> 晚清 洋务运动 中国近代史 <span class="uw-unresolved" data-target="政治家的视野与智慧" title="未解析的双链目标：政治家的视野与智慧">政治家的视野与智慧</span>
 - *最后更新：2026-06-05*
 
 ## 📖 详细说明
 
 ### 概念解释
 梁启超所著的李鸿章传记，从维新派视角审视这位晚清重臣的功过是非。
-梁启超 晚清 洋务运动 中国近代史 政治家的视野与智慧
+<span class="uw-unresolved" data-target="梁启超" title="未解析的双链目标：梁启超">梁启超</span> 晚清 洋务运动 中国近代史 <span class="uw-unresolved" data-target="政治家的视野与智慧" title="未解析的双链目标：政治家的视野与智慧">政治家的视野与智慧</span>
 
 ---
 
@@ -32,11 +32,11 @@ description: "梁启超所著的李鸿章传记，从维新派视角审视这位
 
 ## 🔗 关联知识
 
-- 梁启超
+- <span class="uw-unresolved" data-target="梁启超" title="未解析的双链目标：梁启超">梁启超</span>
 - 晚清
 - 洋务运动
 - 中国近代史
-- 政治家的视野与智慧
+- <span class="uw-unresolved" data-target="政治家的视野与智慧" title="未解析的双链目标：政治家的视野与智慧">政治家的视野与智慧</span>
 
 ## 📊 元数据
 
@@ -77,10 +77,10 @@ description: "梁启超所著的李鸿章传记，从维新派视角审视这位
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/李鸿章传.md`
-- 原始状态：已确立 · 分类：03-History-Society
-- 断链别名（无目标，保留为文本）：6 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-66a26e28c1ee`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：03-History-Society
+- 未解析双链：6 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

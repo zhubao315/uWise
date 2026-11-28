@@ -28,16 +28,16 @@ description: "反熵（Negentropy）是马克斯·莫尔（Max More）提出的�
 - **学习**是认知层面的反熵——将碎片化的信息整合为结构化的知识。
 - **组织管理**是社会层面的反熵——建立流程和制度对抗组织的自然涣散。
 - **技术进步**是文明层面的反熵——用更少的资源做更多的事，创造更多的秩序。
-*关联：[持续改进](../md-d72794d0/)、[超人类主义](../md-fde9484f/)、[TESCREAL框架](../tescreal-md-e5f4c0b5/)、《反熵原则》-马克斯·莫尔*
-*关联：书单-2026年度*
+*关联：[持续改进](../md-d72794d0/)、[超人类主义](../md-fde9484f/)、[TESCREAL框架](../tescreal-md-e5f4c0b5/)、<span class="uw-unresolved" data-target="《反熵原则》-马克斯·莫尔" title="未解析的双链目标：《反熵原则》-马克斯·莫尔">《反熵原则》-马克斯·莫尔</span>*
+*关联：<span class="uw-unresolved" data-target="书单-2026年度" title="未解析的双链目标：书单-2026年度">书单-2026年度</span>*
 
 ## 🔗 关联知识
 
 - [持续改进](../md-d72794d0/)
 - [超人类主义](../md-fde9484f/)
 - [TESCREAL框架](../tescreal-md-e5f4c0b5/)
-- 《反熵原则》-马克斯·莫尔
-- 书单-2026年度
+- <span class="uw-unresolved" data-target="《反熵原则》-马克斯·莫尔" title="未解析的双链目标：《反熵原则》-马克斯·莫尔">《反熵原则》-马克斯·莫尔</span>
+- <span class="uw-unresolved" data-target="书单-2026年度" title="未解析的双链目标：书单-2026年度">书单-2026年度</span>
 
 ## 💡 个人理解
 
@@ -70,10 +70,10 @@ description: "反熵（Negentropy）是马克斯·莫尔（Max More）提出的�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/反熵.md`
-- 原始状态：已确立 · 分类：05-Philosophy-Ethics
-- 断链别名（无目标，保留为文本）：4 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-0acb2d06729b`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：05-Philosophy-Ethics
+- 未解析双链：4 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

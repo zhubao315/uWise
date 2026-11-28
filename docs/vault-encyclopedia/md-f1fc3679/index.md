@@ -19,7 +19,7 @@ description: "\"文以载道\"是中国文学批评的核心命题，由宋代�
 - 文以载道与"为艺术而艺术"形成张力
 - 《古文观止》的选文标准体现了"文以载道"的理念
 - 现代可理解为：写作要有思想深度，不能只追求技巧
-- 《论语》-孔子 — "辞达而已矣"
+- <span class="uw-unresolved" data-target="《论语》-孔子" title="未解析的双链目标：《论语》-孔子">《论语》-孔子</span> — "辞达而已矣"
 - 《唐诗三百首》 — 诗歌的言志传统
 
 ## 📖 详细说明
@@ -36,12 +36,12 @@ description: "\"文以载道\"是中国文学批评的核心命题，由宋代�
 
 ## 🔗 关联知识
 
-- 《古文观止》
-- 《论语》-孔子
+- <span class="uw-unresolved" data-target="《古文观止》" title="未解析的双链目标：《古文观止》">《古文观止》</span>
+- <span class="uw-unresolved" data-target="《论语》-孔子" title="未解析的双链目标：《论语》-孔子">《论语》-孔子</span>
 - 《唐诗三百首》
-- 《宋词三百首》-朱祖谋
-- 《楚辞》-屈原
-- 《中国哲学简史》-冯友兰
+- <span class="uw-unresolved" data-target="《宋词三百首》-朱祖谋" title="未解析的双链目标：《宋词三百首》-朱祖谋">《宋词三百首》-朱祖谋</span>
+- <span class="uw-unresolved" data-target="《楚辞》-屈原" title="未解析的双链目标：《楚辞》-屈原">《楚辞》-屈原</span>
+- <span class="uw-unresolved" data-target="《中国哲学简史》-冯友兰" title="未解析的双链目标：《中国哲学简史》-冯友兰">《中国哲学简史》-冯友兰</span>
 
 ## 📊 元数据
 
@@ -70,10 +70,10 @@ description: "\"文以载道\"是中国文学批评的核心命题，由宋代�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/文以载道.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：6 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-f1fc3679c3c3`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：6 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -23,7 +23,7 @@ description: "费曼在 1974 年加州理工学院毕业典礼演讲中提出的
 
 ## 🔗 关联知识
 
-- 费曼
+- <span class="uw-unresolved" data-target="费曼" title="未解析的双链目标：费曼">费曼</span>
 - [不确知的快乐](../md-5e09d1fa/)
 - [文化批判](../md-5a6ba04f/)
 
@@ -58,10 +58,10 @@ description: "费曼在 1974 年加州理工学院毕业典礼演讲中提出的
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/货机崇拜科学.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-b07d56deb7e8`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

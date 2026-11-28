@@ -40,11 +40,11 @@ description: "精神家园是指一个人内心深处可以安放灵魂、获得
 
 ## 🔗 关联知识
 
-- 《我与地坛》-史铁生
+- <span class="uw-unresolved" data-target="《我与地坛》-史铁生" title="未解析的双链目标：《我与地坛》-史铁生">《我与地坛》-史铁生</span>
 - [生死哲学的文学表达](../md-699cb590/)
 - [乡愁书写](../md-adc7592d/)
 - [写作作为生存方式](../md-9b84198f/)
-- 情感寄托
+- <span class="uw-unresolved" data-target="情感寄托" title="未解析的双链目标：情感寄托">情感寄托</span>
 - [文学地理学](../md-d74bee3f/)
 - [作家与城市的共生关系](../md-6529fcc6/)
 
@@ -79,10 +79,10 @@ description: "精神家园是指一个人内心深处可以安放灵魂、获得
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/精神家园.md`
-- 原始状态：已确立 · 分类：08-Arts-Culture
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-552807df4f94`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：08-Arts-Culture
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

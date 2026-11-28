@@ -1,26 +1,26 @@
 ---
 title: "Sop 04 全栈工程师 功能开发"
-description: "负责人: ⚙️ 全栈工程师技能 | 核心工具: GitHub Copilot, AI大模型, VS Code, Docker | 效率目标: 将新功能从开发到部署的周期缩短60%"
+description: "负责人: <span class=\"uw-unresolved\" data-target=\"全栈工程师技能\" title=\"未解析的双链目标：全栈工程师技能\">⚙️ 全栈工程师技能</span> | 核心工具: GitHub Copilot, AI大模型, VS Code, Docker | 效率目标: 将新功能从开发到部署的周期缩短60%"
 ---
 
 # Sop 04 全栈工程师 功能开发
 
 ## 📌 核心定义
 
-> **负责人**: ⚙️ 全栈工程师技能 | **核心工具**: GitHub Copilot, AI大模型, VS Code, Docker | **效率目标**: 将新功能从开发到部署的周期缩短60%
+> **负责人**: <span class="uw-unresolved" data-target="全栈工程师技能" title="未解析的双链目标：全栈工程师技能">⚙️ 全栈工程师技能</span> | **核心工具**: GitHub Copilot, AI大模型, VS Code, Docker | **效率目标**: 将新功能从开发到部署的周期缩短60%
 
 ## 🎯 关键要点
 
 - SOP目标：建立一套以测试驱动开发（TDD）为核心，由AI全面赋能的高效、高质量、端到端功能交付流水线。
 - 战略价值：将AI时代端到端价值交付的系统构建者的能力固化为可重复的、规模化的执行力。确保每一个功能开发都不仅是代码的堆砌，更是对产品价值的精准实现和对系统架构的有机生长，直接驱动“效率倍增”。
-- 相关技能：[🏗️ 架构师技能](../ai-b539c9a9/), [产品经理技能](../ai-6fb71c2f/), ☁️ 云计算与云原生技能
-- 相关SOP：SOP-01, SOP-06, SOP-06
+- 相关技能：[🏗️ 架构师技能](../ai-b539c9a9/), [产品经理技能](../ai-6fb71c2f/), <span class="uw-unresolved" data-target="∑ 云计算与云原生" title="未解析的双链目标：∑ 云计算与云原生">☁️ 云计算与云原生技能</span>
+- 相关SOP：<span class="uw-unresolved" data-target="SOP-01-架构师-系统设计分析" title="未解析的双链目标：SOP-01-架构师-系统设计分析">SOP-01</span>, <span class="uw-unresolved" data-target="SOP-06-产品经理-产品需求文档PRD" title="未解析的双链目标：SOP-06-产品经理-产品需求文档PRD">SOP-06</span>, SOP-06
 - uPrompt模板：*[全栈工程师-功能开发模板链接]*
 
 ## 📖 详细说明
 
 ### 概念解释
-**负责人**: ⚙️ 全栈工程师技能 | **核心工具**: GitHub Copilot, AI大模型, VS Code, Docker | **效率目标**: 将新功能从开发到部署的周期缩短60%
+**负责人**: <span class="uw-unresolved" data-target="全栈工程师技能" title="未解析的双链目标：全栈工程师技能">⚙️ 全栈工程师技能</span> | **核心工具**: GitHub Copilot, AI大模型, VS Code, Docker | **效率目标**: 将新功能从开发到部署的周期缩短60%
 1.  **新功能端到端开发**: 接到一个完整的用户故事，需要独立完成从数据库设计到前端展示的全流程开发时。
 2.  **遗留代码重构**: 在修改一个充满“技术债”的老模块时，需要通过测试驱动（TDD）保证重构的安全性。
 3.  **紧急Bug修复**: 生产环境出现严重Bug，需要快速定位、修复并安全发布补丁时。
@@ -28,12 +28,12 @@ description: "负责人: ⚙️ 全栈工程师技能 | 核心工具: GitHub Cop
 
 ## 🔗 关联知识
 
-- 全栈工程师技能
+- <span class="uw-unresolved" data-target="全栈工程师技能" title="未解析的双链目标：全栈工程师技能">全栈工程师技能</span>
 - [产品经理：AI时代价值创造与产品孵化的核心引擎](../ai-6fb71c2f/)
 - [架构师：AI时代价值系统的核心引擎](../ai-b539c9a9/)
-- ∑ 云计算与云原生
-- SOP-01-架构师-系统设计分析
-- SOP-06-产品经理-产品需求文档PRD
+- <span class="uw-unresolved" data-target="∑ 云计算与云原生" title="未解析的双链目标：∑ 云计算与云原生">∑ 云计算与云原生</span>
+- <span class="uw-unresolved" data-target="SOP-01-架构师-系统设计分析" title="未解析的双链目标：SOP-01-架构师-系统设计分析">SOP-01-架构师-系统设计分析</span>
+- <span class="uw-unresolved" data-target="SOP-06-产品经理-产品需求文档PRD" title="未解析的双链目标：SOP-06-产品经理-产品需求文档PRD">SOP-06-产品经理-产品需求文档PRD</span>
 
 ## 💡 个人理解
 
@@ -51,7 +51,7 @@ description: "负责人: ⚙️ 全栈工程师技能 | 核心工具: GitHub Cop
 
 ## 调用示例
 
-场景 1：判断「Sop 04 全栈工程师 功能开发」是否适用时，先复述其核心——负责人: ⚙️ 全栈工程师技能 | 核心工具: GitHub Copilot, AI大模型, VS Code, Docker | 效率目标: 将新功能从开发——再对照当前事实逐项核对。
+场景 1：判断「Sop 04 全栈工程师 功能开发」是否适用时，先复述其核心——负责人: <span class="uw-unresolved" data-target="全栈工程师技能" title="未解析的双链目标：全栈工程师技能">⚙️ 全栈工程师技能</span> | 核心工具: GitHub Copilot, AI大模型, VS Code, Docker | 效率目标: 将新功能从开发——再对照当前事实逐项核对。
 场景 2：遇到与「Sop 04 全栈工程师 功能开发」相似的模糊情形，以要点「- SOP目标：建立一套以测试驱动开发（TDD）为核心，由AI全面赋能的高效、高质量、端到端功能交付流水线。」为检查清单，避免只凭印象下结论。
 
 ## 边界约束
@@ -66,10 +66,10 @@ description: "负责人: ⚙️ 全栈工程师技能 | 核心工具: GitHub Cop
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/SOP-04-全栈工程师-功能开发.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：10 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-3100f0d260e8`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：10 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

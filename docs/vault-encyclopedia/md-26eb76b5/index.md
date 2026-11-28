@@ -34,9 +34,9 @@ description: "\"采药\"是丹道修炼中的关键概念——在身体状态�
 
 - [火候](../md-863a2d0f/)
 - 活子时
-- 心流
-- 《周易参同契》-魏伯阳
-- 《悟真篇》-张伯端
+- <span class="uw-unresolved" data-target="心流" title="未解析的双链目标：心流">心流</span>
+- <span class="uw-unresolved" data-target="《周易参同契》-魏伯阳" title="未解析的双链目标：《周易参同契》-魏伯阳">《周易参同契》-魏伯阳</span>
+- <span class="uw-unresolved" data-target="《悟真篇》-张伯端" title="未解析的双链目标：《悟真篇》-张伯端">《悟真篇》-张伯端</span>
 
 ## 💡 个人理解
 
@@ -69,10 +69,10 @@ description: "\"采药\"是丹道修炼中的关键概念——在身体状态�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/采药——抓住身体状态最佳窗口.md`
-- 原始状态：已确立 · 分类：07-Biology-Health
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-26eb76b57c2c`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：07-Biology-Health
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

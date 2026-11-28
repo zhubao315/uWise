@@ -26,7 +26,7 @@ HIIT(高强度间歇训练)通过交替高低强度运动刺激身体；EPOC(运
 
 ## 🔗 关联知识
 
-- 《硬派健身》-斌卡
+- <span class="uw-unresolved" data-target="《硬派健身》-斌卡" title="未解析的双链目标：《硬派健身》-斌卡">《硬派健身》-斌卡</span>
 
 ## 📊 元数据
 
@@ -37,8 +37,8 @@ HIIT(高强度间歇训练)通过交替高低强度运动刺激身体；EPOC(运
 | 精修时间 | 2026-06-17 11:53 |
 
 ## 关联
-- AI时代的Lollapalooza效应-索引
-- AI时代的Lollapalooza效应：Harness架构下的多模型涌现与复合智能
+- <span class="uw-unresolved" data-target="AI时代的Lollapalooza效应-索引" title="未解析的双链目标：AI时代的Lollapalooza效应-索引">AI时代的Lollapalooza效应-索引</span>
+- <span class="uw-unresolved" data-target="AI时代的Lollapalooza效应：Harness架构下的多模型涌现与复合智能" title="未解析的双链目标：AI时代的Lollapalooza效应：Harness架构下的多模型涌现与复合智能">AI时代的Lollapalooza效应：Harness架构下的多模型涌现与复合智能</span>
 
 ---
 
@@ -59,10 +59,10 @@ HIIT(高强度间歇训练)通过交替高低强度运动刺激身体；EPOC(运
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/HIIT与EPOC效应.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-a3f0946c769a`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -34,9 +34,9 @@ description: "跑步呼吸不是被动的气体交换，而是与步频耦合的
 ## 相关
 
 - [跑步经济性](../md-8a75acc1/)
-- 腹式呼吸、横膈膜与骨盆底肌的呼吸联动
-- Zone2有氧训练——长寿的基石运动
-- 《跑步时该如何呼吸》-巴德·科茨 克莱尔·科瓦奇克
+- <span class="uw-unresolved" data-target="腹式呼吸、横膈膜与骨盆底肌的呼吸联动" title="未解析的双链目标：腹式呼吸、横膈膜与骨盆底肌的呼吸联动">腹式呼吸、横膈膜与骨盆底肌的呼吸联动</span>
+- <span class="uw-unresolved" data-target="Zone2有氧训练——长寿的基石运动" title="未解析的双链目标：Zone2有氧训练——长寿的基石运动">Zone2有氧训练——长寿的基石运动</span>
+- <span class="uw-unresolved" data-target="《跑步时该如何呼吸》-巴德·科茨 克莱尔·科瓦奇克" title="未解析的双链目标：《跑步时该如何呼吸》-巴德·科茨 克莱尔·科瓦奇克">《跑步时该如何呼吸》-巴德·科茨 克莱尔·科瓦奇克</span>
 
 ---
 
@@ -63,10 +63,10 @@ description: "跑步呼吸不是被动的气体交换，而是与步频耦合的
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/跑步呼吸的节奏耦合原理.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-84ee3103e6fc`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -17,7 +17,7 @@ description: "单一学科或单一工具思维会形成病态的确认偏误—
 - 导致系统性认知盲区（看不到其他学科视角下的关键变量）
 - 在跨学科复杂问题面前必然失准
 - 格栅理论——掌握多学科的底层模型，让认知工具箱里有"多种工具"可供选择。
-- 《穷查理宝典》MSH 资产
+- <span class="uw-unresolved" data-target="B6-投资理财-穷查理宝典_MSH_v3" title="未解析的双链目标：B6-投资理财-穷查理宝典_MSH_v3">《穷查理宝典》MSH 资产</span>
 - [格栅理论](../md-e82c36fb/)
 
 ## 📖 详细说明
@@ -33,7 +33,7 @@ description: "单一学科或单一工具思维会形成病态的确认偏误—
 
 ## 🔗 关联知识
 
-- B6-投资理财-穷查理宝典_MSH_v3
+- <span class="uw-unresolved" data-target="B6-投资理财-穷查理宝典_MSH_v3" title="未解析的双链目标：B6-投资理财-穷查理宝典_MSH_v3">B6-投资理财-穷查理宝典_MSH_v3</span>
 - [格栅理论](../md-e82c36fb/)
 - [人类误判心理学](../md-77b1159f/)
 
@@ -68,10 +68,10 @@ description: "单一学科或单一工具思维会形成病态的确认偏误—
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/铁锤人综合征.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-511bc8edf7da`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

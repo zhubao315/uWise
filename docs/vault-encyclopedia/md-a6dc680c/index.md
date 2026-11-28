@@ -13,7 +13,7 @@ description: "基于大语言模型（LLM）构建智能应用的工程实践。
 
 - 基于大语言模型（LLM）构建智能应用的工程实践。涵盖提示工程、RAG、Agent架构、模型微调等核心技术栈。
 - 提示工程是入门必修；RAG解决知识时效性；Agent是应用的高级形态；评估驱动迭代
-- 算力·人工智能专家技能·提示词全生命周期管理
+- <span class="uw-unresolved" data-target="算力" title="未解析的双链目标：算力">算力</span>·<span class="uw-unresolved" data-target="人工智能专家技能" title="未解析的双链目标：人工智能专家技能">人工智能专家技能</span>·<span class="uw-unresolved" data-target="提示词全生命周期管理" title="未解析的双链目标：提示词全生命周期管理">提示词全生命周期管理</span>
 
 ## 📖 详细说明
 
@@ -27,9 +27,9 @@ description: "基于大语言模型（LLM）构建智能应用的工程实践。
 
 ## 🔗 关联知识
 
-- 算力
-- 人工智能专家技能
-- 提示词全生命周期管理
+- <span class="uw-unresolved" data-target="算力" title="未解析的双链目标：算力">算力</span>
+- <span class="uw-unresolved" data-target="人工智能专家技能" title="未解析的双链目标：人工智能专家技能">人工智能专家技能</span>
+- <span class="uw-unresolved" data-target="提示词全生命周期管理" title="未解析的双链目标：提示词全生命周期管理">提示词全生命周期管理</span>
 
 ## 📊 元数据
 
@@ -58,10 +58,10 @@ description: "基于大语言模型（LLM）构建智能应用的工程实践。
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/大模型应用开发.md`
-- 原始状态：已确立 · 分类：02-AI-Architecture
-- 断链别名（无目标，保留为文本）：6 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-a6dc680ccd8b`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：02-AI-Architecture
+- 未解析双链：6 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

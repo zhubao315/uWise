@@ -22,16 +22,16 @@ description: "💡 \"少数产生多数\"不是鸡汤，是经过反复验证的
 ### 概念解释
 世界运行的底层逻辑是幂律分布：少数关键原因产生多数结果。掌握幂律思维，就是学会识别并聚焦于那20%的关键杠杆点，用最小投入撬动最大回报。
 - [战略性放弃清单——决定不做什么比做什么更重要](../md-91d0ccf4/)
-- 二八原则
+- <span class="uw-unresolved" data-target="二八原则" title="未解析的双链目标：二八原则">二八原则</span>
 - 杠杆原理
 - [幂律思维——用关键少数撬动人生杠杆](../md-6e86f761/)
 - 07-SOURCES/71-书籍/学习与效能/《刻意练习》-行动转化
-- 反脆弱
+- <span class="uw-unresolved" data-target="反脆弱" title="未解析的双链目标：反脆弱">反脆弱</span>
 
 > 💡 "少数产生多数"不是鸡汤，是经过反复验证的幂律分布规律。把它当作一面镜子，定期审视自己的资源分配。
 
 *Agent可读性标记：search_keywords=[幂律思维——用关键少数撬动人生杠杆；战略性放弃清单——决定不做什么比做什么更重要]]
-- 二八原则
+- <span class="uw-unresolved" data-target="二八原则" title="未解析的双链目标：二八原则">二八原则</span>
 - 杠杆原理
 - [[反脆弱]；context_triggers=[阅读计划；学习方法；知识管理；投资决策；读书笔记]*
 
@@ -46,9 +46,9 @@ description: "💡 \"少数产生多数\"不是鸡汤，是经过反复验证的
 ## 🔗 关联知识
 
 - [战略性放弃清单——决定不做什么比做什么更重要](../md-91d0ccf4/)
-- 二八原则
+- <span class="uw-unresolved" data-target="二八原则" title="未解析的双链目标：二八原则">二八原则</span>
 - [幂律思维——用关键少数撬动人生杠杆](../md-6e86f761/)
-- 反脆弱
+- <span class="uw-unresolved" data-target="反脆弱" title="未解析的双链目标：反脆弱">反脆弱</span>
 
 ## 💡 个人理解
 
@@ -81,10 +81,10 @@ description: "💡 \"少数产生多数\"不是鸡汤，是经过反复验证的
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/幂律思维——用关键少数撬动人生杠杆.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：5 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-6e86f76118c3`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：5 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

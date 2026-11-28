@@ -42,14 +42,14 @@ description: "峰终定律（Peak-End Rule）是卡尼曼发现的一种记忆�
 ---
 *关联：[系统1与系统2](../1-2-md-5e8cf26f/)、[前景理论](../md-2acfc97e/)、[WYSIATI](../wysiati-md-83d1b753/)*
 
-*关联：书单-2026年度*
+*关联：<span class="uw-unresolved" data-target="书单-2026年度" title="未解析的双链目标：书单-2026年度">书单-2026年度</span>*
 
 ## 🔗 关联知识
 
 - [系统1与系统2](../1-2-md-5e8cf26f/)
 - [前景理论](../md-2acfc97e/)
 - [WYSIATI](../wysiati-md-83d1b753/)
-- 书单-2026年度
+- <span class="uw-unresolved" data-target="书单-2026年度" title="未解析的双链目标：书单-2026年度">书单-2026年度</span>
 
 ## 💡 个人理解
 
@@ -82,10 +82,10 @@ description: "峰终定律（Peak-End Rule）是卡尼曼发现的一种记忆�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/峰终定律.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-00af993ec172`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

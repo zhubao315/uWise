@@ -23,10 +23,10 @@ description: "最后更新：2026-06-05"
 
 - [原文来源](../md-ea1c34c4/)
 - [艺术区的聚集效应](../md-9542ca7e/)
-- SOP-12a-风控Agent
+- <span class="uw-unresolved" data-target="SOP-12a-风控Agent" title="未解析的双链目标：SOP-12a-风控Agent">SOP-12a-风控Agent</span>
 - [沙龙与艺术](../md-7c4683e6/)
 - [房中术的历史与理论](../md-b30426f0/)
-- 时间的流逝、爱情的本质、艺术的价值以及自我的构成
+- <span class="uw-unresolved" data-target="时间的流逝、爱情的本质、艺术的价值以及自我的构成" title="未解析的双链目标：时间的流逝、爱情的本质、艺术的价值以及自我的构成">时间的流逝、爱情的本质、艺术的价值以及自我的构成</span>
 
 ## 💡 个人理解
 
@@ -58,10 +58,10 @@ description: "最后更新：2026-06-05"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/艺术史.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-ea1c34c48edf`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -31,9 +31,9 @@ description: "每一段关系都是一个隐形的\"情感银行账户\"——�
 
 ## 🔗 关联知识
 
-- 课题分离是解决人际烦恼的第一性原理
-- 《非暴力沟通》-马歇尔·卢森堡
-- 《亲密关系》-罗兰·米勒
+- <span class="uw-unresolved" data-target="课题分离是解决人际烦恼的第一性原理" title="未解析的双链目标：课题分离是解决人际烦恼的第一性原理">课题分离是解决人际烦恼的第一性原理</span>
+- <span class="uw-unresolved" data-target="《非暴力沟通》-马歇尔·卢森堡" title="未解析的双链目标：《非暴力沟通》-马歇尔·卢森堡">《非暴力沟通》-马歇尔·卢森堡</span>
+- <span class="uw-unresolved" data-target="《亲密关系》-罗兰·米勒" title="未解析的双链目标：《亲密关系》-罗兰·米勒">《亲密关系》-罗兰·米勒</span>
 
 ## 📚 参考资料
 
@@ -71,10 +71,10 @@ description: "每一段关系都是一个隐形的\"情感银行账户\"——�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/情感账户——人际关系的存取款法则.md`
-- 原始状态：draft · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-e8e0d9ef6a97`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

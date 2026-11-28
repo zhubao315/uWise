@@ -35,11 +35,11 @@ description: "芒格模式是一种以跨学科阅读为核心、以普世智慧
 
 ## 🔗 关联知识
 
-- 多元思维模型的实践指南：从理论到生活应用
-- 逆向思维的具体场景：如何用“反过来想”解决日常问题
-- 认知偏差与多元思维：如何避免“锤子思维”
-- 复利思维：时间与增长的双重力量
-- 《穷查理宝典》-彼得·考夫曼
+- <span class="uw-unresolved" data-target="多元思维模型的实践指南：从理论到生活应用" title="未解析的双链目标：多元思维模型的实践指南：从理论到生活应用">多元思维模型的实践指南：从理论到生活应用</span>
+- <span class="uw-unresolved" data-target="逆向思维的具体场景：如何用“反过来想”解决日常问题" title="未解析的双链目标：逆向思维的具体场景：如何用“反过来想”解决日常问题">逆向思维的具体场景：如何用“反过来想”解决日常问题</span>
+- <span class="uw-unresolved" data-target="认知偏差与多元思维：如何避免“锤子思维”" title="未解析的双链目标：认知偏差与多元思维：如何避免“锤子思维”">认知偏差与多元思维：如何避免“锤子思维”</span>
+- <span class="uw-unresolved" data-target="复利思维：时间与增长的双重力量" title="未解析的双链目标：复利思维：时间与增长的双重力量">复利思维：时间与增长的双重力量</span>
+- <span class="uw-unresolved" data-target="《穷查理宝典》-彼得·考夫曼" title="未解析的双链目标：《穷查理宝典》-彼得·考夫曼">《穷查理宝典》-彼得·考夫曼</span>
 
 ## 💡 个人理解
 
@@ -72,10 +72,10 @@ description: "芒格模式是一种以跨学科阅读为核心、以普世智慧
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/终身学习的芒格模式：如何建立跨学科阅读习惯.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：5 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-b2c2e8d7ee9e`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：5 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

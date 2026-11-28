@@ -23,7 +23,7 @@ description: "赫尔曼·黑塞所有作品共享的核心主题：个体在信�
 
 ## 🔗 关联知识
 
-- 赫尔曼·黑塞
+- <span class="uw-unresolved" data-target="赫尔曼·黑塞" title="未解析的双链目标：赫尔曼·黑塞">赫尔曼·黑塞</span>
 - [通向自我的路](../md-21a23b7f/)
 - [双极性](../md-d4b8f41f/)
 
@@ -54,10 +54,10 @@ description: "赫尔曼·黑塞所有作品共享的核心主题：个体在信�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/精神危机.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-7e3796dbe527`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

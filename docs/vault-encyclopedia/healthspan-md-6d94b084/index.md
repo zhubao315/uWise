@@ -14,7 +14,7 @@ description: "| 维度 | 生理寿命（Lifespan） | 健康寿命（Healthspan�
 - 核心定义：健康寿命（Healthspan）是指个体在无重大疾病、无失能、保持身体与认知功能完整性状态下度过的生命年限。相较于传统关注的生理寿命（Lifespan），健康寿命才是健康管理的终极目标。与之配套的「疾病终末期快速压缩曲线假说」（Morbidity Compression）主张：通过前沿预防与精准干预，将疾病与失能压缩至生命的最后极短阶段，实现「活得久且活得好」。
 - Healthspan vs Lifespan 的核心差异：
 - 应用指导：将「每年健康寿命延长」而非「每年体检指标合格」作为健康投资的北极星指标。所有干预手段（运动、饮食、睡眠、补充、筛查）的终极目标不是多活几年，而是让那最后几年不被病痛蚕食。
-- 关联笔记：《Life Force》-彼得·戴曼迪斯 | [长寿逃逸速度：如何利用当代健康管理熬过科技奇点前夜](../md-4842fd98/) | [精准医疗3.0与传统应对型医学的范式转移](../3-0-md-5ed6ed2b/)
+- 关联笔记：<span class="uw-unresolved" data-target="《Life Force》-彼得·戴曼迪斯" title="未解析的双链目标：《Life Force》-彼得·戴曼迪斯">《Life Force》-彼得·戴曼迪斯</span> | [长寿逃逸速度：如何利用当代健康管理熬过科技奇点前夜](../md-4842fd98/) | [精准医疗3.0与传统应对型医学的范式转移](../3-0-md-5ed6ed2b/)
 
 ## 📖 详细说明
 
@@ -25,7 +25,7 @@ description: "| 维度 | 生理寿命（Lifespan） | 健康寿命（Healthspan�
 
 ## 🔗 关联知识
 
-- 《Life Force》-彼得·戴曼迪斯
+- <span class="uw-unresolved" data-target="《Life Force》-彼得·戴曼迪斯" title="未解析的双链目标：《Life Force》-彼得·戴曼迪斯">《Life Force》-彼得·戴曼迪斯</span>
 - [长寿逃逸速度：如何利用当代健康管理熬过科技奇点前夜](../md-4842fd98/)
 - [精准医疗3.0与传统应对型医学的范式转移](../3-0-md-5ed6ed2b/)
 
@@ -56,10 +56,10 @@ description: "| 维度 | 生理寿命（Lifespan） | 健康寿命（Healthspan�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/健康寿命（Healthspan）与疾病终末期快速压缩曲线假说.md`
-- 原始状态：已确立 · 分类：07-Biology-Health
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-6d94b084b1b7`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：07-Biology-Health
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -44,7 +44,7 @@ description: "先享受新世界果味浓郁易入口的酒，再逐步探索旧
 
 ## 🔗 关联知识
 
-- 《推开红酒的门》-王胜寒
+- <span class="uw-unresolved" data-target="《推开红酒的门》-王胜寒" title="未解析的双链目标：《推开红酒的门》-王胜寒">《推开红酒的门》-王胜寒</span>
 - [品酒不是天赋是技能](../md-b35e6c91/)
 - [最好的酒是你最喜欢的](../md-d2328d7c/)
 - [风土决定风格](../md-669a60b0/)
@@ -76,10 +76,10 @@ description: "先享受新世界果味浓郁易入口的酒，再逐步探索旧
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/螺旋上升不跳级.md`
-- 原始状态：已确立 · 分类：07-Biology-Health
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-1c9616ed22cf`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：07-Biology-Health
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

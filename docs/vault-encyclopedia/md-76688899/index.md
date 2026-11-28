@@ -36,9 +36,9 @@ description: "格雷厄姆提出：用0.5元买入价值1元的东西，即使�
 
 ## 🔗 关联知识
 
-- 《穷查理宝典》-彼得·考夫曼
-- 《巴菲特致股东的信》-沃伦·巴菲特
-- 《投资最重要的事》-霍华德·马克斯
+- <span class="uw-unresolved" data-target="《穷查理宝典》-彼得·考夫曼" title="未解析的双链目标：《穷查理宝典》-彼得·考夫曼">《穷查理宝典》-彼得·考夫曼</span>
+- <span class="uw-unresolved" data-target="《巴菲特致股东的信》-沃伦·巴菲特" title="未解析的双链目标：《巴菲特致股东的信》-沃伦·巴菲特">《巴菲特致股东的信》-沃伦·巴菲特</span>
+- <span class="uw-unresolved" data-target="《投资最重要的事》-霍华德·马克斯" title="未解析的双链目标：《投资最重要的事》-霍华德·马克斯">《投资最重要的事》-霍华德·马克斯</span>
 
 ## 💡 个人理解
 
@@ -71,10 +71,10 @@ description: "格雷厄姆提出：用0.5元买入价值1元的东西，即使�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/安全边际——用价格差对抗不确定性.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-766888990ffe`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

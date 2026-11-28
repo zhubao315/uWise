@@ -22,10 +22,10 @@ description: "最后更新：2026-06-05"
 
 - [原文来源](../md-1306f467/)
 - [错误的因果关系](../md-4868bcd6/)
-- 分布式系统三挑战模型
+- <span class="uw-unresolved" data-target="分布式系统三挑战模型" title="未解析的双链目标：分布式系统三挑战模型">分布式系统三挑战模型</span>
 - [人际关系优化](../md-1a8f4567/)
 - [香气三层体系](../md-9c010052/)
-- 亲密关系5比1黄金比例
+- <span class="uw-unresolved" data-target="亲密关系5比1黄金比例" title="未解析的双链目标：亲密关系5比1黄金比例">亲密关系5比1黄金比例</span>
 
 ## 📚 参考资料
 
@@ -62,10 +62,10 @@ description: "最后更新：2026-06-05"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/三角关系.md`
-- 原始状态：draft · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-1306f46762f0`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

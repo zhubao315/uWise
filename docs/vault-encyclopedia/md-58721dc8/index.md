@@ -33,18 +33,18 @@ description: "\"般若\"（bō rě）是梵语Prajñā的音译，意为\"超越
 ### 实际应用
 
 - [不执着](../md-3e9dc4ac/) — 般若智慧的核心
-- 《道德经》-老子 — 道家的"无为"
-- 《中国哲学简史》-冯友兰 — 佛学与中国哲学的融合
-- 《中信国学大典·六祖坛经》-净因法师
+- <span class="uw-unresolved" data-target="《道德经》-老子" title="未解析的双链目标：《道德经》-老子">《道德经》-老子</span> — 道家的"无为"
+- <span class="uw-unresolved" data-target="《中国哲学简史》-冯友兰" title="未解析的双链目标：《中国哲学简史》-冯友兰">《中国哲学简史》-冯友兰</span> — 佛学与中国哲学的融合
+- <span class="uw-unresolved" data-target="《中信国学大典·六祖坛经》-净因法师" title="未解析的双链目标：《中信国学大典·六祖坛经》-净因法师">《中信国学大典·六祖坛经》-净因法师</span>
 
 ## 🔗 关联知识
 
-- 《金刚经》-南怀瑾
+- <span class="uw-unresolved" data-target="《金刚经》-南怀瑾" title="未解析的双链目标：《金刚经》-南怀瑾">《金刚经》-南怀瑾</span>
 - [禅宗心法](../md-b6b22af6/)
 - [不执着](../md-3e9dc4ac/)
-- 《道德经》-老子
-- 《中国哲学简史》-冯友兰
-- 《中信国学大典·六祖坛经》-净因法师
+- <span class="uw-unresolved" data-target="《道德经》-老子" title="未解析的双链目标：《道德经》-老子">《道德经》-老子</span>
+- <span class="uw-unresolved" data-target="《中国哲学简史》-冯友兰" title="未解析的双链目标：《中国哲学简史》-冯友兰">《中国哲学简史》-冯友兰</span>
+- <span class="uw-unresolved" data-target="《中信国学大典·六祖坛经》-净因法师" title="未解析的双链目标：《中信国学大典·六祖坛经》-净因法师">《中信国学大典·六祖坛经》-净因法师</span>
 
 ## 💡 个人理解
 
@@ -77,10 +77,10 @@ description: "\"般若\"（bō rě）是梵语Prajñā的音译，意为\"超越
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/般若智慧.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：7 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-58721dc8d66f`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：7 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

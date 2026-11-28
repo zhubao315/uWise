@@ -47,7 +47,7 @@ description: "| 鬼仙 | 最低 | 阴神出窍，未能超脱 |"
 - [三关修炼框架](../md-309d4a58/)
 - [性命双修——身心并养的核心逻辑](../md-1c79f270/)
 - [内丹修炼核心术语](../md-1f332cce/)
-- 《钟吕传道集》-钟离权
+- <span class="uw-unresolved" data-target="《钟吕传道集》-钟离权" title="未解析的双链目标：《钟吕传道集》-钟离权">《钟吕传道集》-钟离权</span>
 
 ## 💡 个人理解
 
@@ -80,10 +80,10 @@ description: "| 鬼仙 | 最低 | 阴神出窍，未能超脱 |"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/五仙三成.md`
-- 原始状态：已确立 · 分类：05-Philosophy-Ethics
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-638bdd4c4e3e`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：05-Philosophy-Ethics
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

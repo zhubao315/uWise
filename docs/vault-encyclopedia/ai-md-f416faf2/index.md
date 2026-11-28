@@ -48,7 +48,7 @@ AI解决的核心是**知识工作的规模问题**，如同钢铁解决建筑�
 
 ## 🔗 关联知识
 
-- 原文来源
+- <span class="uw-unresolved" data-target="《AI技术洞见》-未知" title="未解析的双链目标：《AI技术洞见》-未知">原文来源</span>
 
 ## 📚 参考资料
 
@@ -86,10 +86,10 @@ AI解决的核心是**知识工作的规模问题**，如同钢铁解决建筑�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/AI技术洞见.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-f416faf229a1`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

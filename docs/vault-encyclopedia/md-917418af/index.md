@@ -52,10 +52,10 @@ description: "大明朝堂上人人满口仁义道德，私下却行贿结党、
 
 ## 🔗 关联知识
 
-- 系统结构决定行为法则
-- 价值网陷阱识别法——为什么'做对的事'反而会失败
+- <span class="uw-unresolved" data-target="系统结构决定行为法则" title="未解析的双链目标：系统结构决定行为法则">系统结构决定行为法则</span>
+- <span class="uw-unresolved" data-target="价值网陷阱识别法——为什么'做对的事'反而会失败" title="未解析的双链目标：价值网陷阱识别法——为什么'做对的事'反而会失败">价值网陷阱识别法——为什么'做对的事'反而会失败</span>
 - [潜规则](../md-5c198008/)
-- 《置身事内：中国政府与经济发展》-兰小欢
+- <span class="uw-unresolved" data-target="《置身事内：中国政府与经济发展》-兰小欢" title="未解析的双链目标：《置身事内：中国政府与经济发展》-兰小欢">《置身事内：中国政府与经济发展》-兰小欢</span>
 - [清单防护盾法——用系统对抗无能之错](../md-da87fe24/)
 
 ## 📚 参考资料
@@ -94,10 +94,10 @@ description: "大明朝堂上人人满口仁义道德，私下却行贿结党、
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/阴阳脱节诊断法——制度与执行断裂是组织衰败的前兆.md`
-- 原始状态：draft · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-917418afe6ac`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -30,7 +30,7 @@ description: "宫殿建筑等级秩序，指中国传统宫殿通过屋顶形式
 
 ## 🔗 关联知识
 
-- 《故宫营造》-单士元
+- <span class="uw-unresolved" data-target="《故宫营造》-单士元" title="未解析的双链目标：《故宫营造》-单士元">《故宫营造》-单士元</span>
 - [对称之美与中国哲学](../md-b2b847b3/)
 - [古建筑语言解读](../md-ce57480b/)
 - [营造技艺的活态传承](../md-94eb38e0/)
@@ -78,10 +78,10 @@ description: "宫殿建筑等级秩序，指中国传统宫殿通过屋顶形式
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/宫殿建筑等级秩序.md`
-- 原始状态：已确立 · 分类：03-History-Society
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-d3f128f7fe22`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：03-History-Society
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

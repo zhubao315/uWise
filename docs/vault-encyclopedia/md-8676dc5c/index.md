@@ -35,11 +35,11 @@ description: "乔布斯坚持软硬件一体化的封闭系统，与比尔·盖�
 
 ## 🔗 关联知识
 
-- 《史蒂夫·乔布斯传》-沃尔特·艾萨克森
+- <span class="uw-unresolved" data-target="《史蒂夫·乔布斯传》-沃尔特·艾萨克森" title="未解析的双链目标：《史蒂夫·乔布斯传》-沃尔特·艾萨克森">《史蒂夫·乔布斯传》-沃尔特·艾萨克森</span>
 - [现实扭曲力场](../md-2b14ac59/)
 - [极简主义设计](../md-ef3e895c/)
 - 科技与人文的交叉点
-- 创新vs市场调研
+- <span class="uw-unresolved" data-target="创新vs市场调研" title="未解析的双链目标：创新vs市场调研">创新vs市场调研</span>
 
 ## 📊 元数据
 
@@ -68,10 +68,10 @@ description: "乔布斯坚持软硬件一体化的封闭系统，与比尔·盖�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/端到端控制.md`
-- 原始状态：已确立 · 分类：02-AI-Architecture
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-8676dc5c8e92`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：02-AI-Architecture
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

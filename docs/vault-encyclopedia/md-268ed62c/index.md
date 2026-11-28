@@ -15,9 +15,9 @@ description: "用八个标准来评估和提高你的思维质量。"
 - **做决策前**：用八个标准逐一检查
 - **写文章时**：确保每个标准都达到
 - **复盘时**：用标准分析过去的思维
-- 思辨与立场 — 出处书籍
+- <span class="uw-unresolved" data-target="思辨与立场" title="未解析的双链目标：思辨与立场">思辨与立场</span> — 出处书籍
 - [思维八大要素框架](../md-1f821a5c/) — 思维的结构化分析
-- 批判性思维 — 批判性思维的基础
+- <span class="uw-unresolved" data-target="批判性思维" title="未解析的双链目标：批判性思维">批判性思维</span> — 批判性思维的基础
 - [逻辑谬误](../md-1c87989d/) — 逻辑错误的类型
 
 ## 📖 详细说明
@@ -44,11 +44,11 @@ description: "用八个标准来评估和提高你的思维质量。"
 
 ## 🔗 关联知识
 
-- 思辨与立场
+- <span class="uw-unresolved" data-target="思辨与立场" title="未解析的双链目标：思辨与立场">思辨与立场</span>
 - [思维八大要素框架](../md-1f821a5c/)
-- 批判性思维
+- <span class="uw-unresolved" data-target="批判性思维" title="未解析的双链目标：批判性思维">批判性思维</span>
 - [逻辑谬误](../md-1c87989d/)
-- 决策偏差快筛法
+- <span class="uw-unresolved" data-target="决策偏差快筛法" title="未解析的双链目标：决策偏差快筛法">决策偏差快筛法</span>
 
 ## 💡 个人理解
 
@@ -81,10 +81,10 @@ description: "用八个标准来评估和提高你的思维质量。"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/思维质量标准原则.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：5 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-268ed62cb755`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：5 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

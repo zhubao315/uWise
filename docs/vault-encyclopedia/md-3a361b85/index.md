@@ -13,7 +13,7 @@ description: "超量恢复(Supercompensation)是身体在训练刺激后，通�
 
 - 超量恢复(Supercompensation)是身体在训练刺激后，通过恢复过程将机能水平提升到超过训练前基线的生理现象，是训练适应的核心机制。
 - 超量恢复有时间窗口；恢复不足则无法达到超量状态；过度训练会导致机能下降而非提升。
-- 《耐力运动员超量恢复科学》-佚名
+- <span class="uw-unresolved" data-target="《耐力运动员超量恢复科学》-佚名" title="未解析的双链目标：《耐力运动员超量恢复科学》-佚名">《耐力运动员超量恢复科学》-佚名</span>
 
 ## 📖 详细说明
 
@@ -27,7 +27,7 @@ description: "超量恢复(Supercompensation)是身体在训练刺激后，通�
 
 ## 🔗 关联知识
 
-- 《耐力运动员超量恢复科学》-佚名
+- <span class="uw-unresolved" data-target="《耐力运动员超量恢复科学》-佚名" title="未解析的双链目标：《耐力运动员超量恢复科学》-佚名">《耐力运动员超量恢复科学》-佚名</span>
 
 ## 📊 元数据
 
@@ -56,10 +56,10 @@ description: "超量恢复(Supercompensation)是身体在训练刺激后，通�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/超量恢复.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-3a361b857edb`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

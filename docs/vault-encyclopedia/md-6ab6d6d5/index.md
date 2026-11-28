@@ -38,7 +38,7 @@ description: "来源：《徐文兵讲黄帝内经》（徐文兵）"
 - [治未病——预防医学的千年智慧](../md-378ca327/)
 - [天人合一](../md-9046acdd/)
 - [仙学独立](../md-2e09baca/)
-- 《徐文兵讲黄帝内经》-徐文兵
+- <span class="uw-unresolved" data-target="《徐文兵讲黄帝内经》-徐文兵" title="未解析的双链目标：《徐文兵讲黄帝内经》-徐文兵">《徐文兵讲黄帝内经》-徐文兵</span>
 
 ## 💡 个人理解
 
@@ -79,10 +79,10 @@ description: "来源：《徐文兵讲黄帝内经》（徐文兵）"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/中医现代化的路径.md`
-- 原始状态：已确立 · 分类：07-Biology-Health
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-6ab6d6d56ed4`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：07-Biology-Health
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

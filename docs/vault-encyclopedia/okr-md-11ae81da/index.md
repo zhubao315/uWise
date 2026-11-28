@@ -32,10 +32,10 @@ OKR 是一套**目标管理框架**，由 Intel 前 CEO 安迪·格鲁夫发明�
 
 ## 🔗 关联知识
 
-- 个人 OKR 目标管理
+- <span class="uw-unresolved" data-target="个人 OKR 目标管理" title="未解析的双链目标：个人 OKR 目标管理">个人 OKR 目标管理</span>
 - [SMART](../smart-md-2894198b/)
-- 禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑
-- 长期主义
+- <span class="uw-unresolved" data-target="禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑" title="未解析的双链目标：禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑">禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑</span>
+- <span class="uw-unresolved" data-target="长期主义" title="未解析的双链目标：长期主义">长期主义</span>
 
 ## 💡 个人理解
 
@@ -87,10 +87,10 @@ OKR 是一套**目标管理框架**，由 Intel 前 CEO 安迪·格鲁夫发明�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/OKR.md`
-- 原始状态：已确立 · 分类：04-Business-Management
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-11ae81da2fa8`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：04-Business-Management
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

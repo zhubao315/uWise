@@ -12,7 +12,7 @@ description: "开会前，让所有必要与会者，知道这个会为什么开
 ## 🎯 关键要点
 
 - 开会前，让所有必要与会者，知道这个会为什么开，背景信息是什么。
-- 字节跳动高效会议最佳实践——飞阅会
+- <span class="uw-unresolved" data-target="字节跳动高效会议最佳实践——飞阅会" title="未解析的双链目标：字节跳动高效会议最佳实践——飞阅会">字节跳动高效会议最佳实践——飞阅会</span>
 - [[飞阅会流程介绍；  - 思维]；context_triggers=[阅读计划；学习方法；知识管理；读书笔记]*
 
 ## 📖 详细说明
@@ -23,8 +23,8 @@ description: "开会前，让所有必要与会者，知道这个会为什么开
 
 ## 🔗 关联知识
 
-- 字节跳动高效会议最佳实践——飞阅会
-- 飞阅会流程介绍
+- <span class="uw-unresolved" data-target="字节跳动高效会议最佳实践——飞阅会" title="未解析的双链目标：字节跳动高效会议最佳实践——飞阅会">字节跳动高效会议最佳实践——飞阅会</span>
+- <span class="uw-unresolved" data-target="飞阅会流程介绍" title="未解析的双链目标：飞阅会流程介绍">飞阅会流程介绍</span>
 
 ## 📊 元数据
 
@@ -65,10 +65,10 @@ description: "开会前，让所有必要与会者，知道这个会为什么开
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/飞阅会.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-652b18c2ede1`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

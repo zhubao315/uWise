@@ -22,8 +22,8 @@ description: "最后更新：2026-06-05"
 ## 🔗 关联知识
 
 - [原文来源](../md-10d7feb6/)
-- 个人高效学习系统
-- 表征学习
+- <span class="uw-unresolved" data-target="个人高效学习系统" title="未解析的双链目标：个人高效学习系统">个人高效学习系统</span>
+- <span class="uw-unresolved" data-target="表征学习" title="未解析的双链目标：表征学习">表征学习</span>
 - [深度工作四步法——专注力炼金术](../md-9dfaf3f9/)
 - [学习内化](../md-4cb99436/)
 - [跑步是基于感知数据的深度内观](../entry-93a29782/)
@@ -58,10 +58,10 @@ description: "最后更新：2026-06-05"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/图深度学习.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-10d7feb62bd1`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

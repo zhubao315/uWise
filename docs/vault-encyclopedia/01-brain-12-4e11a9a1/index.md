@@ -52,7 +52,7 @@ PARA方法由Tiago Forte首创，其革命性洞见在于：**信息组织的核
 
 ## 🔗 关联知识
 
-- 《打造第二大脑》-蒂亚戈·福特
+- <span class="uw-unresolved" data-target="《打造第二大脑》-蒂亚戈·福特" title="未解析的双链目标：《打造第二大脑》-蒂亚戈·福特">《打造第二大脑》-蒂亚戈·福特</span>
 
 ## 📚 参考资料
 
@@ -90,10 +90,10 @@ PARA方法由Tiago Forte首创，其革命性洞见在于：**信息组织的核
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/01-BRAIN-12-模型.md`
-- 原始状态：draft · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-4e11a9a1a4e5`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

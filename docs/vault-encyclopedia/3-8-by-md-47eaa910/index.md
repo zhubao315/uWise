@@ -1,17 +1,17 @@
 ---
 title: "写卡片3年的8条感悟 by 汪爸刀刀"
-description: "Sina Visitor System(https://weibo.com/1656667652/KvdESpS7p?from=page1005051656667652profile&wvr=6&mod=weibotime&type=comment#rndREDACTEDPHONE57)"
+description: "Sina Visitor System(https://weibo.com/1656667652/KvdESpS7p?from=page1005051656667652profile&wvr=6&mod=weibotime&type=comment#rnd1630046541357)"
 ---
 
 # 写卡片3年的8条感悟 by 汪爸刀刀
 
 ## 📌 核心定义
 
-> [Sina Visitor System](https://weibo.com/1656667652/KvdESpS7p?from=page_1005051656667652_profile&wvr=6&mod=weibotime&type=comment#_rnd[REDACTED_PHONE]57)
+> [Sina Visitor System](https://weibo.com/1656667652/KvdESpS7p?from=page_1005051656667652_profile&wvr=6&mod=weibotime&type=comment#_rnd1630046541357)
 
 ## 🎯 关键要点
 
-- [Sina Visitor System](https://weibo.com/1656667652/KvdESpS7p?from=page_1005051656667652_profile&wvr=6&mod=weibotime&type=comment#_rnd[REDACTED_PHONE]57)
+- [Sina Visitor System](https://weibo.com/1656667652/KvdESpS7p?from=page_1005051656667652_profile&wvr=6&mod=weibotime&type=comment#_rnd1630046541357)
 - 写卡片 3 年的 8 条感悟（附：我在《财新周刊》的老文）
 - 1 把日常思考、实践经验写成卡片，固化下来，有价值的东西就成了进步的阶梯。不写，思考就会随风飘散，人的水平也会原地起落，最新的感悟可能是大前年就思考过的，这意味着低水平重复。
 - 2 不执迷于各类卡片方法和软件。以绝大多数人积累的卡片量之少，根本谈不上系统的方法，方法要和量级、阶段相匹配。复杂的方法，会让早期的坚持之路变得异常艰难。实际上，各阶段的策略很不一样，而且是因人而异的。
@@ -23,7 +23,7 @@ description: "Sina Visitor System(https://weibo.com/1656667652/KvdESpS7p?from=pa
 ## 📖 详细说明
 
 ### 概念解释
-[Sina Visitor System](https://weibo.com/1656667652/KvdESpS7p?from=page_1005051656667652_profile&wvr=6&mod=weibotime&type=comment#_rnd[REDACTED_PHONE]57)
+[Sina Visitor System](https://weibo.com/1656667652/KvdESpS7p?from=page_1005051656667652_profile&wvr=6&mod=weibotime&type=comment#_rnd1630046541357)
 
 
 ## 🔗 关联知识
@@ -40,7 +40,7 @@ description: "Sina Visitor System(https://weibo.com/1656667652/KvdESpS7p?from=pa
 
 ## 相关
 
-- PDCA循环
+- <span class="uw-unresolved" data-target="PDCA循环" title="未解析的双链目标：PDCA循环">PDCA循环</span>
 - [PTSD](../ptsd-md-a2e1522a/)
 - [uWise](../uwise-md-5c3e1a0e/)
 - [万事万物皆有代价](../md-357588bc/)
@@ -65,10 +65,10 @@ description: "Sina Visitor System(https://weibo.com/1656667652/KvdESpS7p?from=pa
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/写卡片3年的8条感悟 by 汪爸刀刀.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-47eaa91032e0`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

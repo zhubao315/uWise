@@ -25,9 +25,9 @@ description: "将重复性任务自动化的方法和工具——减少手动操
 
 ## 相关
 
-- 效率系统联动与配合
-- 编程自动化
-- 系统设计
+- <span class="uw-unresolved" data-target="效率系统联动与配合" title="未解析的双链目标：效率系统联动与配合">效率系统联动与配合</span>
+- <span class="uw-unresolved" data-target="编程自动化" title="未解析的双链目标：编程自动化">编程自动化</span>
+- <span class="uw-unresolved" data-target="系统设计" title="未解析的双链目标：系统设计">系统设计</span>
 
 ---
 
@@ -48,10 +48,10 @@ description: "将重复性任务自动化的方法和工具——减少手动操
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/自动化工作流.md`
-- 原始状态：未标注 · 分类：还原自 01-BRAIN（2026-09-17 归档迁移）
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-8b1651092d43`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -23,10 +23,10 @@ description: "最后更新：2026-06-05"
 
 - [原文来源](../md-9ee803d1/)
 - [长寿70-30法则：生活方式主导寿命的科学依据](../70-30-8675f87b/)
-- SOP-12a-风控Agent
+- <span class="uw-unresolved" data-target="SOP-12a-风控Agent" title="未解析的双链目标：SOP-12a-风控Agent">SOP-12a-风控Agent</span>
 - 要钱还是要生活
 - [液态活检与多维生物标志物在癌症超早期筛查中的量化应用](../md-4b04008b/)
-- 生活美学大师
+- <span class="uw-unresolved" data-target="生活美学大师" title="未解析的双链目标：生活美学大师">生活美学大师</span>
 
 ## 💡 个人理解
 
@@ -58,10 +58,10 @@ description: "最后更新：2026-06-05"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/生活日记.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-9ee803d11572`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

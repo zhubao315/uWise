@@ -36,7 +36,7 @@ description: "互惠原则不只是\"礼尚往来\"，而是一个信任飞轮�
 ## 🔗 关联知识
 
 - [影响力防御性思维框架](../md-4b735c91/)
-- 非暴力沟通
+- <span class="uw-unresolved" data-target="非暴力沟通" title="未解析的双链目标：非暴力沟通">非暴力沟通</span>
 
 ## 📊 元数据
 
@@ -65,10 +65,10 @@ description: "互惠原则不只是\"礼尚往来\"，而是一个信任飞轮�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/先给予再索取的互惠飞轮.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-5e2fc47b73d3`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

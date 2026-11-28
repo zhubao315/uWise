@@ -12,9 +12,9 @@ description: "Folders or Links? The 00-META Approach - YouTube(https://www.youtu
 ## 🎯 关键要点
 
 - [Folders or Links? The 00-META Approach - YouTube](https://www.youtube.com/watch?v=p0zWJ-TLghw)
-- 出自 LYT 笔记框架Linking Your Thinking ，根据自身情况，做了小小的改变。我的理解和使用方法如下：
-- Nick Milo为了解决 [PARA、MOC和TOC联用组织笔记](../para-moc-toc-md-5eba1c6b/) 中提到的 3 对矛盾，提出了 00-META 文件夹结构。
-- 00-META 基于传统 [文件夹和标签](../md-f6d2fec6/)式的PKM 的指导性原则 from lyt系统，但更引入了[MOC](../moc-md-44e2cc58/)来动态地链接散落或分布在各个文件夹中的笔记，这种动态聚合能力（常借用[Notion](../notion-md-b0ddaded/)实现），也远高于标签的简单聚合能力。因此结合[文件夹和标签](../md-f6d2fec6/)及[MOC](../moc-md-44e2cc58/)，最终达到结构性和灵活性的平衡。
+- 出自 <span class="uw-unresolved" data-target="LYT 笔记框架" title="未解析的双链目标：LYT 笔记框架">LYT 笔记框架</span>Linking Your Thinking ，根据自身情况，做了小小的改变。我的理解和使用方法如下：
+- <span class="uw-unresolved" data-target="Nick Milo" title="未解析的双链目标：Nick Milo">Nick Milo</span>为了解决 [PARA、MOC和TOC联用组织笔记](../para-moc-toc-md-5eba1c6b/) 中提到的 3 对矛盾，提出了 00-META 文件夹结构。
+- 00-META 基于传统 [文件夹和标签](../md-f6d2fec6/)式的<span class="uw-unresolved" data-target="PKM 的指导性原则 from lyt" title="未解析的双链目标：PKM 的指导性原则 from lyt">PKM 的指导性原则 from lyt</span>系统，但更引入了[MOC](../moc-md-44e2cc58/)来动态地链接散落或分布在各个文件夹中的笔记，这种动态聚合能力（常借用[Notion](../notion-md-b0ddaded/)实现），也远高于标签的简单聚合能力。因此结合[文件夹和标签](../md-f6d2fec6/)及[MOC](../moc-md-44e2cc58/)，最终达到结构性和灵活性的平衡。
 - 使用这个方法不可缺少的能力之一，就是掌握[Notion](../notion-md-b0ddaded/)。
 - 将Text expand作为MOC的一部分。参见：[Obsidian 笔记重组与拆分的艺术 - 知乎](https://zhuanlan.zhihu.com/p/362762027)
 - [笔记法](../md-136a64aa/)，才是能适应ACCESS多种场景的最终出路。
@@ -45,11 +45,11 @@ description: "Folders or Links? The 00-META Approach - YouTube(https://www.youtu
 
 ## 🔗 关联知识
 
-- LYT 笔记框架
-- Nick Milo
+- <span class="uw-unresolved" data-target="LYT 笔记框架" title="未解析的双链目标：LYT 笔记框架">LYT 笔记框架</span>
+- <span class="uw-unresolved" data-target="Nick Milo" title="未解析的双链目标：Nick Milo">Nick Milo</span>
 - [PARA、MOC和TOC联用组织笔记](../para-moc-toc-md-5eba1c6b/)
 - [文件夹和标签](../md-f6d2fec6/)
-- PKM 的指导性原则 from lyt
+- <span class="uw-unresolved" data-target="PKM 的指导性原则 from lyt" title="未解析的双链目标：PKM 的指导性原则 from lyt">PKM 的指导性原则 from lyt</span>
 - [MOC](../moc-md-44e2cc58/)
 - [Notion](../notion-md-b0ddaded/)
 - [笔记法](../md-136a64aa/)
@@ -61,7 +61,7 @@ description: "Folders or Links? The 00-META Approach - YouTube(https://www.youtu
 - [模板与套路](../md-8acbdae1/)
 - [文献笔记](../md-2df5a4ae/)
 - [项目笔记](../md-12d2b4f8/)
-- PARA方法
+- <span class="uw-unresolved" data-target="PARA方法" title="未解析的双链目标：PARA方法">PARA方法</span>
 ## 📚 参考资料
 
 - 来源：`01-BRAIN/11-概念/C4-商业与管理/ACCESS文件组织法.md`
@@ -98,10 +98,10 @@ description: "Folders or Links? The 00-META Approach - YouTube(https://www.youtu
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/00-META 笔记组织法.md`
-- 原始状态：draft · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：7 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-b09dfb8d53f6`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：06-Cognitive-Psychology
+- 未解析双链：7 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

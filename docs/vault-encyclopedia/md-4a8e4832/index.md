@@ -30,7 +30,7 @@ description: "胡同社会学，是一种以胡同为切入点理解中国城市
 
 ## 🔗 关联知识
 
-- 《胡同里的江湖》-王兵
+- <span class="uw-unresolved" data-target="《胡同里的江湖》-王兵" title="未解析的双链目标：《胡同里的江湖》-王兵">《胡同里的江湖》-王兵</span>
 - [新旧交替期的文化阵痛](../md-4f1b60d6/)
 - [市井力量](../md-4876b7c0/)
 - [日常生活史](../md-dbf29ceb/)
@@ -78,10 +78,10 @@ description: "胡同社会学，是一种以胡同为切入点理解中国城市
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/胡同社会学.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-4a8e4832a5b9`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

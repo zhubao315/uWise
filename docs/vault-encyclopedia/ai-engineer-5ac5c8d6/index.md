@@ -40,10 +40,10 @@ AI Engineer 是随着 GPT-3.5/4、Claude、Gemini 等基础模型的普及而兴
 
 ## 🔗 关联知识
 
-- 《AI Engineering：Building Applications with Foundation Models》-Chip Huyen
-- LLM
-- Prompt Engineering
-- RAG
+- <span class="uw-unresolved" data-target="《AI Engineering：Building Applications with Foundation Models》-Chip Huyen" title="未解析的双链目标：《AI Engineering：Building Applications with Foundation Models》-Chip Huyen">《AI Engineering：Building Applications with Foundation Models》-Chip Huyen</span>
+- <span class="uw-unresolved" data-target="LLM" title="未解析的双链目标：LLM">LLM</span>
+- <span class="uw-unresolved" data-target="Prompt Engineering" title="未解析的双链目标：Prompt Engineering">Prompt Engineering</span>
+- <span class="uw-unresolved" data-target="RAG" title="未解析的双链目标：RAG">RAG</span>
 - [Agent架构模型](../agent-md-415408d2/)
 - 软件工程师
 
@@ -83,10 +83,10 @@ AI Engineer 是随着 GPT-3.5/4、Claude、Gemini 等基础模型的普及而兴
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/AI Engineer角色-AI专家.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：4 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-5ac5c8d6b4ac`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：4 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

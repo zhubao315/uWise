@@ -40,9 +40,9 @@ description: "瑞·达利欧在《原则》中提出了一个根本性的洞见�
 
 - [极度透明](../md-8072377c/)
 - [创意择优](../md-b40c05fb/)
-- 痛苦反思进步公式——把每次挫折转化为原则
-- 《原则》-瑞·达利欧
-- 书单-2026年度
+- <span class="uw-unresolved" data-target="痛苦反思进步公式——把每次挫折转化为原则" title="未解析的双链目标：痛苦反思进步公式——把每次挫折转化为原则">痛苦反思进步公式——把每次挫折转化为原则</span>
+- <span class="uw-unresolved" data-target="《原则》-瑞·达利欧" title="未解析的双链目标：《原则》-瑞·达利欧">《原则》-瑞·达利欧</span>
+- <span class="uw-unresolved" data-target="书单-2026年度" title="未解析的双链目标：书单-2026年度">书单-2026年度</span>
 
 ## 📊 元数据
 
@@ -71,10 +71,10 @@ description: "瑞·达利欧在《原则》中提出了一个根本性的洞见�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/原则化决策.md`
-- 原始状态：已确立 · 分类：01-Finance-Investment
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-b36415f7e963`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：01-Finance-Investment
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

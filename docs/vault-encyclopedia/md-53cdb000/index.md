@@ -38,9 +38,9 @@ description: "\"温柔的玛歌\"\"刚健的波亚克\"比产区数据更易记�
 
 ## 🔗 关联知识
 
-- 《微醺正好：葡萄酒的时光》-苏雅
+- <span class="uw-unresolved" data-target="《微醺正好：葡萄酒的时光》-苏雅" title="未解析的双链目标：《微醺正好：葡萄酒的时光》-苏雅">《微醺正好：葡萄酒的时光》-苏雅</span>
 - [三重叙事提升分享质量](../md-2d7c14d8/)
-- 附着力法则——微小调整大幅提升信息记忆度
+- <span class="uw-unresolved" data-target="附着力法则——微小调整大幅提升信息记忆度" title="未解析的双链目标：附着力法则——微小调整大幅提升信息记忆度">附着力法则——微小调整大幅提升信息记忆度</span>
 
 ## 📊 元数据
 
@@ -69,10 +69,10 @@ description: "\"温柔的玛歌\"\"刚健的波亚克\"比产区数据更易记�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/拟人化降低认知门槛.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-53cdb000f1a1`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

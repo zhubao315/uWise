@@ -44,13 +44,13 @@ description: "冥想是一类训练注意力和觉知的心理练习。不同方
 ## 🔗 关联知识
 
 - [逆人性](../md-4df23b2d/)
-- 碳硅共生
-- 创造力、共情力和审美力
-- 冥想系统研究
+- <span class="uw-unresolved" data-target="碳硅共生" title="未解析的双链目标：碳硅共生">碳硅共生</span>
+- <span class="uw-unresolved" data-target="创造力、共情力和审美力" title="未解析的双链目标：创造力、共情力和审美力">创造力、共情力和审美力</span>
+- <span class="uw-unresolved" data-target="冥想系统研究" title="未解析的双链目标：冥想系统研究">冥想系统研究</span>
 - [12种冥想方法](../12-md-aff1e34a/)
-- 冥想App与音频推荐
-- 元认知
-- 注意力训练与无聊忍受
+- <span class="uw-unresolved" data-target="冥想App与音频推荐" title="未解析的双链目标：冥想App与音频推荐">冥想App与音频推荐</span>
+- <span class="uw-unresolved" data-target="元认知" title="未解析的双链目标：元认知">元认知</span>
+- <span class="uw-unresolved" data-target="注意力训练与无聊忍受" title="未解析的双链目标：注意力训练与无聊忍受">注意力训练与无聊忍受</span>
 
 ## 📚 参考资料
 
@@ -88,10 +88,10 @@ description: "冥想是一类训练注意力和觉知的心理练习。不同方
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/12种冥想方法.md`
-- 原始状态：draft · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：6 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-aff1e34a5f87`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：06-Cognitive-Psychology
+- 未解析双链：6 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

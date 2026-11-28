@@ -29,7 +29,7 @@ description: "成事三大杠杆是摆脱单打独斗、放大个人价值的核
 - **本质**：依靠资本实现财富复利，用钱生钱
 - **复利逻辑**：长期配置稳健投资资产，年化 8%-10%，利滚利持续积累
 - **落地方法**：先坚持储蓄，积累第一桶金，作为撬动资产收益的基础
-- 关联：财务自由 · [长期主义投资原则](../md-b0ddd4fb/)
+- 关联：<span class="uw-unresolved" data-target="财务自由" title="未解析的双链目标：财务自由">财务自由</span> · [长期主义投资原则](../md-b0ddd4fb/)
 
 ### 工具杠杆
 
@@ -48,9 +48,9 @@ description: "成事三大杠杆是摆脱单打独斗、放大个人价值的核
 ## 🔗 关联
 
 - [零边际成本杠杆](../md-496ff582/) — 数字产品的零复制成本杠杆效应
-- 财务自由 — 资本杠杆的具体落地路径
+- <span class="uw-unresolved" data-target="财务自由" title="未解析的双链目标：财务自由">财务自由</span> — 资本杠杆的具体落地路径
 - [长期主义投资原则](../md-b0ddd4fb/) — 复利投资的核心理念
-- ∑ 思维模型库 — 杠杆思维的世界观基础
+- <span class="uw-unresolved" data-target="∑ 思维模型库" title="未解析的双链目标：∑ 思维模型库">∑ 思维模型库</span> — 杠杆思维的世界观基础
 
 ---
 
@@ -75,10 +75,10 @@ description: "成事三大杠杆是摆脱单打独斗、放大个人价值的核
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/成事三大杠杆.md`
-- 原始状态：published · 分类：04-Business-Management
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-3d7b3375dce3`（稳定 ID，不暴露私库路径）
+- 状态：published · 分类：04-Business-Management
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

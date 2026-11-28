@@ -1,17 +1,17 @@
 ---
 title: "Sop 25 投资经理 Im报告撰写"
-description: "负责人: 💰 投资人技能 | 核心工具: AI大模型(Claude/GPT), 投研智库, Excel, Office/Latex | 效率目标: 将标准IM报告撰写周期从5天缩短至1天，且论证深度提升50%"
+description: "负责人: <span class=\"uw-unresolved\" data-target=\"投资人：AI驱动的理性价值发现引擎\" title=\"未解析的双链目标：投资人：AI驱动的理性价值发现引擎\">💰 投资人技能</span> | 核心工具: AI大模型(Claude/GPT), 投研智库, Excel, Office/Latex | 效率目标: 将标准I"
 ---
 
 # Sop 25 投资经理 Im报告撰写
 
 ## 📌 核心定义
 
-> **负责人**: 💰 投资人技能 | **核心工具**: AI大模型(Claude/GPT), 投研智库, Excel, Office/Latex | **效率目标**: 将标准IM报告撰写周期从5天缩短至1天，且论证深度提升50%
+> **负责人**: <span class="uw-unresolved" data-target="投资人：AI驱动的理性价值发现引擎" title="未解析的双链目标：投资人：AI驱动的理性价值发现引擎">💰 投资人技能</span> | **核心工具**: AI大模型(Claude/GPT), 投研智库, Excel, Office/Latex | **效率目标**: 将标准IM报告撰写周期从5天缩短至1天，且论证深度提升50%
 
 ## 🎯 关键要点
 
-- **负责人**: 💰 投资人技能 | **核心工具**: AI大模型(Claude/GPT), 投研智库, Excel, Office/Latex | **效率目标**: 将标准IM报告撰写周期从5天缩短至1天，且论证深度提升50%
+- **负责人**: <span class="uw-unresolved" data-target="投资人：AI驱动的理性价值发现引擎" title="未解析的双链目标：投资人：AI驱动的理性价值发现引擎">💰 投资人技能</span> | **核心工具**: AI大模型(Claude/GPT), 投研智库, Excel, Office/Latex | **效率目标**: 将标准IM报告撰写周期从5天缩短至1天，且论证深度提升50%
 - **项目立项会**：在接触项目初期，需要一份详实的项目分析报告（立项报告）以争取团队资源时。
 - **投决会（IC）**：在完成尽职调查后，需要提交最终的投资决策报告（Invest Memo），供投委会决策。
 - **LP汇报**：向基金出资人（LP）解释为何投资某项目，展示严谨的投资逻辑和详实的数据支撑。
@@ -23,7 +23,7 @@ description: "负责人: 💰 投资人技能 | 核心工具: AI大模型(Claude
 ## 📖 详细说明
 
 ### 概念解释
-**负责人**: 💰 投资人技能 | **核心工具**: AI大模型(Claude/GPT), 投研智库, Excel, Office/Latex | **效率目标**: 将标准IM报告撰写周期从5天缩短至1天，且论证深度提升50%
+**负责人**: <span class="uw-unresolved" data-target="投资人：AI驱动的理性价值发现引擎" title="未解析的双链目标：投资人：AI驱动的理性价值发现引擎">💰 投资人技能</span> | **核心工具**: AI大模型(Claude/GPT), 投研智库, Excel, Office/Latex | **效率目标**: 将标准IM报告撰写周期从5天缩短至1天，且论证深度提升50%
 1.  **项目立项会**: 在接触项目初期，需要一份详实的项目分析报告（立项报告）以争取团队资源时。
 2.  **投决会（IC）**: 在完成尽职调查后，需要提交最终的投资决策报告（Invest Memo），供投委会决策。
 3.  **LP汇报**: 向基金出资人（LP）解释为何投资某项目，展示严谨的投资逻辑和详实的数据支撑。
@@ -31,9 +31,9 @@ description: "负责人: 💰 投资人技能 | 核心工具: AI大模型(Claude
 
 ## 🔗 关联知识
 
-- 投资人：AI驱动的理性价值发现引擎
-- SOP-09-投资人-投资机会分析
-- SOP-07-产品经理-竞品分析
+- <span class="uw-unresolved" data-target="投资人：AI驱动的理性价值发现引擎" title="未解析的双链目标：投资人：AI驱动的理性价值发现引擎">投资人：AI驱动的理性价值发现引擎</span>
+- <span class="uw-unresolved" data-target="SOP-09-投资人-投资机会分析" title="未解析的双链目标：SOP-09-投资人-投资机会分析">SOP-09-投资人-投资机会分析</span>
+- <span class="uw-unresolved" data-target="SOP-07-产品经理-竞品分析" title="未解析的双链目标：SOP-07-产品经理-竞品分析">SOP-07-产品经理-竞品分析</span>
 
 ## 💡 个人理解
 
@@ -59,8 +59,8 @@ description: "负责人: 💰 投资人技能 | 核心工具: AI大模型(Claude
 
 ## 调用示例
 
-场景 1：判断「Sop 25 投资经理 Im报告撰写」是否适用时，先复述其核心——负责人: 💰 投资人技能 | 核心工具: AI大模型(Claude/GPT), 投研智库, Excel, Office/Latex | ——再对照当前事实逐项核对。
-场景 2：遇到与「Sop 25 投资经理 Im报告撰写」相似的模糊情形，以要点「- 负责人: 💰 投资人技能 | 核心工具: AI大模型(Claude/GPT), 投研智库, Excel, Off」为检查清单，避免只凭印象下结论。
+场景 1：判断「Sop 25 投资经理 Im报告撰写」是否适用时，先复述其核心——负责人: <span class="uw-unresolved" data-target="投资人：AI驱动的理性价值发现引擎" title="未解析的双链目标：投资人：AI驱动的理性价值发现引擎">💰 投资人技能</span> | 核心工具: AI大模型(Claude/GPT), 投研智库, Excel, Office/Latex | ——再对照当前事实逐项核对。
+场景 2：遇到与「Sop 25 投资经理 Im报告撰写」相似的模糊情形，以要点「- 负责人: <span class="uw-unresolved" data-target="投资人：AI驱动的理性价值发现引擎" title="未解析的双链目标：投资人：AI驱动的理性价值发现引擎">💰 投资人技能</span> | 核心工具: AI大模型(Claude/GPT), 投研智库, Excel, Off」为检查清单，避免只凭印象下结论。
 
 ## 边界约束
 
@@ -74,10 +74,10 @@ description: "负责人: 💰 投资人技能 | 核心工具: AI大模型(Claude
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/SOP-25-投资经理-IM报告撰写.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：8 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-501893e2d6ff`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：8 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

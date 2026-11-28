@@ -20,7 +20,7 @@ description: "创新方法论是系统性地产生、评估和实施新想法的
 
 ### 概念解释
 创新方法论是系统性地产生、评估和实施新想法的理论框架与实践工具集。
-[设计思维](../md-fe7cc276/) [精益创业](../md-a72d092d/) 禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑 创造性表达 SCAMPER方法
+[设计思维](../md-fe7cc276/) [精益创业](../md-a72d092d/) <span class="uw-unresolved" data-target="禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑" title="未解析的双链目标：禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑">禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑</span> <span class="uw-unresolved" data-target="创造性表达" title="未解析的双链目标：创造性表达">创造性表达</span> SCAMPER方法
 
 ---
 
@@ -40,8 +40,8 @@ description: "创新方法论是系统性地产生、评估和实施新想法的
 
 - [设计思维](../md-fe7cc276/)
 - [精益创业](../md-a72d092d/)
-- 禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑
-- 创造性表达
+- <span class="uw-unresolved" data-target="禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑" title="未解析的双链目标：禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑">禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑</span>
+- <span class="uw-unresolved" data-target="创造性表达" title="未解析的双链目标：创造性表达">创造性表达</span>
 - SCAMPER方法
 
 ## 📊 元数据
@@ -71,10 +71,10 @@ description: "创新方法论是系统性地产生、评估和实施新想法的
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/创新方法论.md`
-- 原始状态：已确立 · 分类：04-Business-Management
-- 断链别名（无目标，保留为文本）：4 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-5eb899a337fe`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：04-Business-Management
+- 未解析双链：4 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

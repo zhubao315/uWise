@@ -20,9 +20,9 @@ description: "社群运营和维护的基础技能——用户活跃度管理、
 
 ## 相关
 
-- 社区运营
-- 用户增长
-- 内容运营
+- <span class="uw-unresolved" data-target="社区运营" title="未解析的双链目标：社区运营">社区运营</span>
+- <span class="uw-unresolved" data-target="用户增长" title="未解析的双链目标：用户增长">用户增长</span>
+- <span class="uw-unresolved" data-target="内容运营" title="未解析的双链目标：内容运营">内容运营</span>
 
 ## 相关笔记
 
@@ -47,10 +47,10 @@ description: "社群运营和维护的基础技能——用户活跃度管理、
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/uSkill-社群运维-v1.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-5a7606838cdc`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

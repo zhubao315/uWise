@@ -20,6 +20,8 @@ jobs:
     steps:
       - name: 检出代码
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: 设置 Python
         uses: actions/setup-python@v5
@@ -31,8 +33,18 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: 构建 MkDocs
-        run: mkdocs build
+      - name: 安装质量门禁依赖
+        run: pip install -r requirements-dev.txt
+
+      - name: 质量门禁（不通过则不发布）
+        run: |
+          black --check scripts/ tests/
+          flake8 scripts/ tests/
+          mypy scripts/
+          pytest tests/ -q
+
+      - name: 构建 MkDocs（严格模式）
+        run: mkdocs build --strict
 
       - name: 上传构建产物
         uses: actions/upload-pages-artifact@v3

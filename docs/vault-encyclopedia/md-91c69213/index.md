@@ -23,7 +23,7 @@ description: "比尔·盖茨创立的慈善新范式：用商业思维和技术�
 
 ## 🔗 关联知识
 
-- 比尔盖茨
+- <span class="uw-unresolved" data-target="比尔盖茨" title="未解析的双链目标：比尔盖茨">比尔盖茨</span>
 - [加速创新](../md-6b3a87e2/)
 - [创造性资本主义](../md-94a19dee/)
 
@@ -54,10 +54,10 @@ description: "比尔·盖茨创立的慈善新范式：用商业思维和技术�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/技术慈善.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-91c69213e1eb`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -36,14 +36,14 @@ description: "《菜根谭》《围炉夜话》《小窗幽记》并称\"处世�
 
 ## 🔗 关联知识
 
-- 《菜根谭》-洪应明
-- 《围炉夜话》-王永彬
-- 《小窗幽记》-陈继儒
+- <span class="uw-unresolved" data-target="《菜根谭》-洪应明" title="未解析的双链目标：《菜根谭》-洪应明">《菜根谭》-洪应明</span>
+- <span class="uw-unresolved" data-target="《围炉夜话》-王永彬" title="未解析的双链目标：《围炉夜话》-王永彬">《围炉夜话》-王永彬</span>
+- <span class="uw-unresolved" data-target="《小窗幽记》-陈继儒" title="未解析的双链目标：《小窗幽记》-陈继儒">《小窗幽记》-陈继儒</span>
 - [道法自然](../md-688f3822/)
 - [般若智慧](../md-58721dc8/)
 - [为学日益与为道日损](../md-e50c8c5c/)
 - [仁](../md-478ac28d/)
-- 《道德经》-老子
+- <span class="uw-unresolved" data-target="《道德经》-老子" title="未解析的双链目标：《道德经》-老子">《道德经》-老子</span>
 
 ## 📊 元数据
 
@@ -72,10 +72,10 @@ description: "《菜根谭》《围炉夜话》《小窗幽记》并称\"处世�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/处世三大奇书的共同智慧.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：4 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-12e83c1ccda5`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：4 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

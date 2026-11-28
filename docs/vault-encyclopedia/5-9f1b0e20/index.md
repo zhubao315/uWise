@@ -77,7 +77,7 @@ description: "当你被一个大任务困住时，不要问\"怎么完成它\"�
 
 ## 🔗 关联知识
 
-- 5%改变法则
+- <span class="uw-unresolved" data-target="5%改变法则" title="未解析的双链目标：5%改变法则">5%改变法则</span>
 - [正反馈循环](../md-5ab31f72/)
 
 ## 📚 参考资料
@@ -116,10 +116,10 @@ description: "当你被一个大任务困住时，不要问\"怎么完成它\"�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/5启动法打破行动瘫痪的微行动公式.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-9f1b0e202e65`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

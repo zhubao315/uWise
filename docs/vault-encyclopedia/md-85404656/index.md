@@ -14,11 +14,11 @@ description: "自演进产品是指能够根据用户行为和环境变化，自
 - 自演进产品是指**能够根据用户行为和环境变化，自主调整、优化和进化的产品系统**。它不是一次性设计完成的静态产物，而是一个具备"生长能力"的有机体。
 - **数据驱动反馈环**：产品内置数据采集→分析→调整的闭环，无需人工干预即可迭代
 - **模块化架构**：各组件松耦合，可独立替换和升级，如同生物体的器官
-- **用户即进化引擎**：用户的每一次使用行为都在"训练"产品，形成碳硅共生的共生关系
+- **用户即进化引擎**：用户的每一次使用行为都在"训练"产品，形成<span class="uw-unresolved" data-target="碳硅共生" title="未解析的双链目标：碳硅共生">碳硅共生</span>的共生关系
 - **容错与渐进式升级**：允许小范围试错，通过A/B测试逐步演化，而非大规模重构
-- 作为[架构师技能](../md-4a5f4c51/)，设计自演进系统的核心挑战在于：**在灵活性和稳定性之间找到平衡**。过度灵活则混乱，过度稳定则僵化。参考二八原则——核心架构保持稳定（20%），业务逻辑允许快速变化（80%）。
-- 自演进产品是长期主义在产品设计中的具体实践。不是追求短期爆发，而是构建一个**持续自我优化的系统**。时间越长，壁垒越深。正如宝哥投资理念中的"复利效应"——产品每天进步1%，一年后是37倍。
-- 碳硅共生 二八原则 长期主义 ARCHITECTURE
+- 作为[架构师技能](../md-4a5f4c51/)，设计自演进系统的核心挑战在于：**在灵活性和稳定性之间找到平衡**。过度灵活则混乱，过度稳定则僵化。参考<span class="uw-unresolved" data-target="二八原则" title="未解析的双链目标：二八原则">二八原则</span>——核心架构保持稳定（20%），业务逻辑允许快速变化（80%）。
+- 自演进产品是<span class="uw-unresolved" data-target="长期主义" title="未解析的双链目标：长期主义">长期主义</span>在产品设计中的具体实践。不是追求短期爆发，而是构建一个**持续自我优化的系统**。时间越长，壁垒越深。正如宝哥投资理念中的"复利效应"——产品每天进步1%，一年后是37倍。
+- <span class="uw-unresolved" data-target="碳硅共生" title="未解析的双链目标：碳硅共生">碳硅共生</span> <span class="uw-unresolved" data-target="二八原则" title="未解析的双链目标：二八原则">二八原则</span> <span class="uw-unresolved" data-target="长期主义" title="未解析的双链目标：长期主义">长期主义</span> <span class="uw-unresolved" data-target="ARCHITECTURE" title="未解析的双链目标：ARCHITECTURE">ARCHITECTURE</span>
 
 ## 📖 详细说明
 
@@ -30,16 +30,16 @@ description: "自演进产品是指能够根据用户行为和环境变化，自
 
 1. **数据驱动反馈环**：产品内置数据采集→分析→调整的闭环，无需人工干预即可迭代
 2. **模块化架构**：各组件松耦合，可独立替换和升级，如同生物体的器官
-3. **用户即进化引擎**：用户的每一次使用行为都在"训练"产品，形成碳硅共生的共生关系
+3. **用户即进化引擎**：用户的每一次使用行为都在"训练"产品，形成<span class="uw-unresolved" data-target="碳硅共生" title="未解析的双链目标：碳硅共生">碳硅共生</span>的共生关系
 4. **容错与渐进式升级**：允许小范围试错，通过A/B测试逐步演化，而非大规模重构
 
 ## 🔗 关联知识
 
-- 碳硅共生
+- <span class="uw-unresolved" data-target="碳硅共生" title="未解析的双链目标：碳硅共生">碳硅共生</span>
 - [架构师技能](../md-4a5f4c51/)
-- 二八原则
-- 长期主义
-- ARCHITECTURE
+- <span class="uw-unresolved" data-target="二八原则" title="未解析的双链目标：二八原则">二八原则</span>
+- <span class="uw-unresolved" data-target="长期主义" title="未解析的双链目标：长期主义">长期主义</span>
+- <span class="uw-unresolved" data-target="ARCHITECTURE" title="未解析的双链目标：ARCHITECTURE">ARCHITECTURE</span>
 
 ## 📊 元数据
 
@@ -68,10 +68,10 @@ description: "自演进产品是指能够根据用户行为和环境变化，自
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/自演进产品.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：12 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-854046562ec0`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：12 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

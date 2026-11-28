@@ -17,7 +17,7 @@ description: "正交性论题（Orthogonality Thesis）是尼克·博斯特罗�
 - 正交性论题对AI安全研究具有深远意义：（1）不能假设超级AI会自动"理解"或"认同"人类价值观；（2）必须在AI系统的设计阶段就明确嵌入人类价值观；（3）"价值对齐"（Value Alignment）不是可选的附加功能，而是生存必需。
 - 一些学者对正交性论题提出质疑。丹尼尔·丹尼特（Daniel Dennett）等人认为，足够高的智能可能需要某种形式的"理解"能力，而理解人类价值观可能是这种能力的副产品。另外，"工具性趋同"论题暗示，即使目标是"无害"的（如制造回形针），超级智能也可能因追求工具性子目标而变得危险。
 - 关联：[超级智能](../md-48b3dbe0/)、[工具性趋同](../md-6483c180/)
-- *关联：书单-2026年度*
+- *关联：<span class="uw-unresolved" data-target="书单-2026年度" title="未解析的双链目标：书单-2026年度">书单-2026年度</span>*
 
 ## 📖 详细说明
 
@@ -34,7 +34,7 @@ description: "正交性论题（Orthogonality Thesis）是尼克·博斯特罗�
 
 - [超级智能](../md-48b3dbe0/)
 - [工具性趋同](../md-6483c180/)
-- 书单-2026年度
+- <span class="uw-unresolved" data-target="书单-2026年度" title="未解析的双链目标：书单-2026年度">书单-2026年度</span>
 
 ## 📊 元数据
 
@@ -63,10 +63,10 @@ description: "正交性论题（Orthogonality Thesis）是尼克·博斯特罗�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/正交性论题.md`
-- 原始状态：已确立 · 分类：02-AI-Architecture
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-932f69423b63`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：02-AI-Architecture
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

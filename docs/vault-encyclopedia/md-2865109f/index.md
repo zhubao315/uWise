@@ -15,8 +15,8 @@ description: "一站式导航：串联知识库中所有冥想相关笔记"
 
 - **一站式导航**：串联知识库中所有冥想相关笔记
 - [逆人性](../md-4df23b2d/) — 冥想是最典型的逆人性练习
-- 心流 — 冥想与心流的神经机制重叠
-- 生活艺术家技能 — 冥想是生活艺术家的核心能力之一
+- <span class="uw-unresolved" data-target="心流" title="未解析的双链目标：心流">心流</span> — 冥想与心流的神经机制重叠
+- <span class="uw-unresolved" data-target="生活艺术家技能" title="未解析的双链目标：生活艺术家技能">生活艺术家技能</span> — 冥想是生活艺术家的核心能力之一
 - 项目/uWise → 归类于智慧百科
 - **核心心法**：心不乱、气不躁、念不杂，处处都是修行道场。
 - 最后更新：2026-05-17
@@ -27,7 +27,7 @@ description: "一站式导航：串联知识库中所有冥想相关笔记"
 **一站式导航**：串联知识库中所有冥想相关笔记
 | 文档 | 路径 | 说明 |
 |------|------|------|
-| 📖 **冥想系统研究** | 冥想系统研究 | 全文总纲：科学→流派→心法→实修→境界→入世→高山修 |
+| 📖 **冥想系统研究** | <span class="uw-unresolved" data-target="冥想系统研究" title="未解析的双链目标：冥想系统研究">冥想系统研究</span> | 全文总纲：科学→流派→心法→实修→境界→入世→高山修 |
 | 📋 **12种冥想方法** | [12种冥想方法](../12-md-aff1e34a/) | 12种主流流派速览，含选择指南 |
 
 ---
@@ -39,23 +39,23 @@ description: "一站式导航：串联知识库中所有冥想相关笔记"
 
 ## 🔗 关联知识
 
-- 冥想系统研究
+- <span class="uw-unresolved" data-target="冥想系统研究" title="未解析的双链目标：冥想系统研究">冥想系统研究</span>
 - [12种冥想方法](../12-md-aff1e34a/)
-- 元认知
-- 元认知暂停键
-- 元认知觉察法——在自动驾驶与主动控制之间建立切换开关
-- 注意力训练与无聊忍受
-- 心流
-- 注意力机制
-- 冥想App与音频推荐
-- 晨间习惯优化方案
-- 晨间习惯追踪表
+- <span class="uw-unresolved" data-target="元认知" title="未解析的双链目标：元认知">元认知</span>
+- <span class="uw-unresolved" data-target="元认知暂停键" title="未解析的双链目标：元认知暂停键">元认知暂停键</span>
+- <span class="uw-unresolved" data-target="元认知觉察法——在自动驾驶与主动控制之间建立切换开关" title="未解析的双链目标：元认知觉察法——在自动驾驶与主动控制之间建立切换开关">元认知觉察法——在自动驾驶与主动控制之间建立切换开关</span>
+- <span class="uw-unresolved" data-target="注意力训练与无聊忍受" title="未解析的双链目标：注意力训练与无聊忍受">注意力训练与无聊忍受</span>
+- <span class="uw-unresolved" data-target="心流" title="未解析的双链目标：心流">心流</span>
+- <span class="uw-unresolved" data-target="注意力机制" title="未解析的双链目标：注意力机制">注意力机制</span>
+- <span class="uw-unresolved" data-target="冥想App与音频推荐" title="未解析的双链目标：冥想App与音频推荐">冥想App与音频推荐</span>
+- <span class="uw-unresolved" data-target="晨间习惯优化方案" title="未解析的双链目标：晨间习惯优化方案">晨间习惯优化方案</span>
+- <span class="uw-unresolved" data-target="晨间习惯追踪表" title="未解析的双链目标：晨间习惯追踪表">晨间习惯追踪表</span>
 
-- 跑步与健康系统
+- <span class="uw-unresolved" data-target="跑步与健康系统" title="未解析的双链目标：跑步与健康系统">跑步与健康系统</span>
 - 首长保健手册
-- 日常养生与习惯养成建议
-- 《禅者的初心》-铃木俊隆
-- 《和悉达多散步》-费勇
+- <span class="uw-unresolved" data-target="日常养生与习惯养成建议" title="未解析的双链目标：日常养生与习惯养成建议">日常养生与习惯养成建议</span>
+- <span class="uw-unresolved" data-target="《禅者的初心》-铃木俊隆" title="未解析的双链目标：《禅者的初心》-铃木俊隆">《禅者的初心》-铃木俊隆</span>
+- <span class="uw-unresolved" data-target="《和悉达多散步》-费勇" title="未解析的双链目标：《和悉达多散步》-费勇">《和悉达多散步》-费勇</span>
 ## 📚 参考资料
 
 - 来源：`01-BRAIN/11-概念/C3-身心健康/冥想知识库.md`
@@ -92,10 +92,10 @@ description: "一站式导航：串联知识库中所有冥想相关笔记"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/冥想知识库.md`
-- 原始状态：draft · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：17 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-2865109f173b`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：06-Cognitive-Psychology
+- 未解析双链：17 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

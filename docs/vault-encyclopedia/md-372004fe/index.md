@@ -52,7 +52,7 @@ description: "中央电视台电视文化中心，英文简称TVCC（Television 
 
 ---
 
-**关联词条**：北京CBD的城市记忆 · [建筑即文化表达](../md-011a484e/) · `解构主义建筑`
+**关联词条**：<span class="uw-unresolved" data-target="北京CBD的城市记忆" title="未解析的双链目标：北京CBD的城市记忆">北京CBD的城市记忆</span> · [建筑即文化表达](../md-011a484e/) · `解构主义建筑`
 
 ---
 
@@ -73,10 +73,10 @@ description: "中央电视台电视文化中心，英文简称TVCC（Television 
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/中央电视台电视文化中心.md`
-- 原始状态：draft · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-372004fec68d`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：concepts
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -1,13 +1,13 @@
 ---
 title: "Sop 27 P4 Agentic Finance 对抗性投研系统"
-description: "负责人: AI专家技能 + 象限转换渐进法——从雇员到投资人的阶梯路径 + 全栈工程师技能 | 核心工具: 4090集群, vLLM/TextGen, Python, MoA架构, 回测框架 | 效率目标: 100次虚拟辩论 → 幸存者策略 | 关键洞察: 对抗式AI决策优于单一模型"
+description: "负责人: <span class=\"uw-unresolved\" data-target=\"AI专家技能\" title=\"未解析的双链目标：AI专家技能\">AI专家技能</span> + <span class=\"uw-unresolved\" data-target=\"象限转换渐进法——从雇员到投资人的阶梯路径\" title=\"未解析的双链目标：象限转换渐进"
 ---
 
 # Sop 27 P4 Agentic Finance 对抗性投研系统
 
 ## 📌 核心定义
 
-> **负责人**: AI专家技能 + 象限转换渐进法——从雇员到投资人的阶梯路径 + 全栈工程师技能 | **核心工具**: 4090集群, vLLM/TextGen, Python, MoA架构, 回测框架 | **效率目标**: 100次虚拟辩论 → 幸存者策略 | **关键洞察**: 对抗式AI决策优于单一模型
+> **负责人**: <span class="uw-unresolved" data-target="AI专家技能" title="未解析的双链目标：AI专家技能">AI专家技能</span> + <span class="uw-unresolved" data-target="象限转换渐进法——从雇员到投资人的阶梯路径" title="未解析的双链目标：象限转换渐进法——从雇员到投资人的阶梯路径">象限转换渐进法——从雇员到投资人的阶梯路径</span> + <span class="uw-unresolved" data-target="全栈工程师技能" title="未解析的双链目标：全栈工程师技能">全栈工程师技能</span> | **核心工具**: 4090集群, vLLM/TextGen, Python, MoA架构, 回测框架 | **效率目标**: 100次虚拟辩论 → 幸存者策略 | **关键洞察**: 对抗式AI决策优于单一模型
 
 ## 🎯 关键要点
 
@@ -20,7 +20,7 @@ description: "负责人: AI专家技能 + 象限转换渐进法——从雇员�
 ## 📖 详细说明
 
 ### 概念解释
-**负责人**: AI专家技能 + 象限转换渐进法——从雇员到投资人的阶梯路径 + 全栈工程师技能 | **核心工具**: 4090集群, vLLM/TextGen, Python, MoA架构, 回测框架 | **效率目标**: 100次虚拟辩论 → 幸存者策略 | **关键洞察**: 对抗式AI决策优于单一模型
+**负责人**: <span class="uw-unresolved" data-target="AI专家技能" title="未解析的双链目标：AI专家技能">AI专家技能</span> + <span class="uw-unresolved" data-target="象限转换渐进法——从雇员到投资人的阶梯路径" title="未解析的双链目标：象限转换渐进法——从雇员到投资人的阶梯路径">象限转换渐进法——从雇员到投资人的阶梯路径</span> + <span class="uw-unresolved" data-target="全栈工程师技能" title="未解析的双链目标：全栈工程师技能">全栈工程师技能</span> | **核心工具**: 4090集群, vLLM/TextGen, Python, MoA架构, 回测框架 | **效率目标**: 100次虚拟辩论 → 幸存者策略 | **关键洞察**: 对抗式AI决策优于单一模型
 1. **高净值投资决策**: 为高净值客户提供AI增强的投资决策内参服务
 2. **量化策略研发**: 通过多Agent对抗发现有效策略，避免过拟合
 3. **风险控制验证**: 独立风控Agent提供一票否决，防止黑天鹅事件
@@ -31,13 +31,13 @@ description: "负责人: AI专家技能 + 象限转换渐进法——从雇员�
 ## 🔗 关联知识
 
 - [AI专家技能-AI专家](../ai-0548e71f/)
-- 象限转换渐进法——从雇员到投资人的阶梯路径
-- 全栈工程师技能
-- SOP-05-大规模代码AI开发工作流
-- SOP-09-投资人-投资机会分析
-- SOP-02-全栈工程师-功能开发
-- 2025-12-31
-- 2025年度目标 AI-Led Evolution
+- <span class="uw-unresolved" data-target="象限转换渐进法——从雇员到投资人的阶梯路径" title="未解析的双链目标：象限转换渐进法——从雇员到投资人的阶梯路径">象限转换渐进法——从雇员到投资人的阶梯路径</span>
+- <span class="uw-unresolved" data-target="全栈工程师技能" title="未解析的双链目标：全栈工程师技能">全栈工程师技能</span>
+- <span class="uw-unresolved" data-target="SOP-05-大规模代码AI开发工作流" title="未解析的双链目标：SOP-05-大规模代码AI开发工作流">SOP-05-大规模代码AI开发工作流</span>
+- <span class="uw-unresolved" data-target="SOP-09-投资人-投资机会分析" title="未解析的双链目标：SOP-09-投资人-投资机会分析">SOP-09-投资人-投资机会分析</span>
+- <span class="uw-unresolved" data-target="SOP-02-全栈工程师-功能开发" title="未解析的双链目标：SOP-02-全栈工程师-功能开发">SOP-02-全栈工程师-功能开发</span>
+- <span class="uw-unresolved" data-target="2025-12-31" title="未解析的双链目标：2025-12-31">2025-12-31</span>
+- <span class="uw-unresolved" data-target="2025年度目标 AI-Led Evolution" title="未解析的双链目标：2025年度目标 AI-Led Evolution">2025年度目标 AI-Led Evolution</span>
 
 ## 💡 个人理解
 
@@ -61,7 +61,7 @@ description: "负责人: AI专家技能 + 象限转换渐进法——从雇员�
 
 ## 调用示例
 
-场景 1：判断「Sop 27 P4 Agentic Finance 对抗性投研系统」是否适用时，先复述其核心——负责人: AI专家技能 + 象限转换渐进法——从雇员到投资人的阶梯路径 + 全栈工程师技能 | 核心工具: 4090集群, vLLM/Text——再对照当前事实逐项核对。
+场景 1：判断「Sop 27 P4 Agentic Finance 对抗性投研系统」是否适用时，先复述其核心——负责人: <span class="uw-unresolved" data-target="AI专家技能" title="未解析的双链目标：AI专家技能">AI专家技能</span> + <span class="uw-unresolved" data-target="象限转换渐进法——从雇员到投资人的阶梯路径" title="未解析的双链目标：象限转换渐进法——从雇员到投资人的阶梯路径">象限转换渐进法——从雇员到投资人的阶梯路径</span> + <span class="uw-unresolved" data-target="全栈工程师技能" title="未解析的双链目标：全栈工程师技能">全栈工程师技能</span> | 核心工具: 4090集群, vLLM/Text——再对照当前事实逐项核对。
 场景 2：遇到与「Sop 27 P4 Agentic Finance 对抗性投研系统」相似的模糊情形，以要点「- 财务目标：年化收益18%+，利润30-40万，订阅收入50万」为检查清单，避免只凭印象下结论。
 
 ## 边界约束
@@ -76,10 +76,10 @@ description: "负责人: AI专家技能 + 象限转换渐进法——从雇员�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/SOP-27-P4-Agentic-Finance-对抗性投研系统.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：16 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-345d6e94bd99`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：16 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

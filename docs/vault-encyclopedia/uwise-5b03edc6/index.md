@@ -59,7 +59,7 @@ description: "- 13周走跑结合课表框架(../13-md-97653f21/)"
 - [历史分析方法](../md-5a3605d2/)
 - [反向排除清单](../md-edc366d5/)
 - [发明专利底稿撰写 SOP](../sop-md-3aacc2b1/)
-- 叙事结构
+- <span class="uw-unresolved" data-target="叙事结构" title="未解析的双链目标：叙事结构">叙事结构</span>
 - [多元思维模型](../md-cf9fa412/)
 - [多元迁移能力](../md-b1fc4002/)
 - [大胆目标设定框架](../md-f154a2f0/)
@@ -120,17 +120,17 @@ description: "- 13周走跑结合课表框架(../13-md-97653f21/)"
 - [零愚蠢死亡防御体系](../md-b72d712e/)
 - [零边际成本杠杆](../md-496ff582/)
 - [静坐三调法](../md-4e7868ef/)
-- 非暴力沟通
+- <span class="uw-unresolved" data-target="非暴力沟通" title="未解析的双链目标：非暴力沟通">非暴力沟通</span>
 
 ---
 
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`∑ uWise-框架.md`
-- 原始状态：未标注 · 分类：未标注
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-5b03edc6d55d`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：uncategorized
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

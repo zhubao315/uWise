@@ -26,7 +26,7 @@ description: "表观遗传学：通过生活方式进行基因表达的实时编
 
 ## 🔗 关联知识
 
-- 《Life Force》-彼得·戴曼迪斯
+- <span class="uw-unresolved" data-target="《Life Force》-彼得·戴曼迪斯" title="未解析的双链目标：《Life Force》-彼得·戴曼迪斯">《Life Force》-彼得·戴曼迪斯</span>
 - [NAD+代谢通路与去乙酰化酶Sirtuins的抗衰老机理](../nad-sirtuins-md-3122d6e5/)
 - [肌肉内分泌学：抗阻力训练对神经营养因子BDNF的激活效应](../bdnf-md-d57cff4c/)
 - [长寿逃逸速度：如何利用当代健康管理熬过科技奇点前夜](../md-4842fd98/)
@@ -62,10 +62,10 @@ description: "表观遗传学：通过生活方式进行基因表达的实时编
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/表观遗传学：通过生活方式进行基因表达的实时编程.md`
-- 原始状态：已确立 · 分类：02-AI-Architecture
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-50d49f63d400`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：02-AI-Architecture
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

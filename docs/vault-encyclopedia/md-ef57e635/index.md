@@ -19,8 +19,8 @@ description: "性善论（孟子）：人性本善，人天生具有\"四端\"�
 - 荀子的"性恶"不是说人不能为善，而是说善需要后天努力
 - 两者殊途同归：都强调修养和教化的重要性
 - 告子主张"性无善无不善"，是第三种立场
-- 《孟子》-孟子 — 性善论
-- 《荀子》-荀子 — 性恶论
+- <span class="uw-unresolved" data-target="《孟子》-孟子" title="未解析的双链目标：《孟子》-孟子">《孟子》-孟子</span> — 性善论
+- <span class="uw-unresolved" data-target="《荀子》-荀子" title="未解析的双链目标：《荀子》-荀子">《荀子》-荀子</span> — 性恶论
 
 ## 📖 详细说明
 
@@ -33,16 +33,16 @@ description: "性善论（孟子）：人性本善，人天生具有\"四端\"�
 
 ### 实际应用
 
-- 《道德经》-老子 — 道家对人性的理解
+- <span class="uw-unresolved" data-target="《道德经》-老子" title="未解析的双链目标：《道德经》-老子">《道德经》-老子</span> — 道家对人性的理解
 
 ## 🔗 关联知识
 
-- 《孟子》-孟子
-- 《荀子》-荀子
-- 《中国哲学简史》-冯友兰
-- 《国学的天空》-傅佩荣
+- <span class="uw-unresolved" data-target="《孟子》-孟子" title="未解析的双链目标：《孟子》-孟子">《孟子》-孟子</span>
+- <span class="uw-unresolved" data-target="《荀子》-荀子" title="未解析的双链目标：《荀子》-荀子">《荀子》-荀子</span>
+- <span class="uw-unresolved" data-target="《中国哲学简史》-冯友兰" title="未解析的双链目标：《中国哲学简史》-冯友兰">《中国哲学简史》-冯友兰</span>
+- <span class="uw-unresolved" data-target="《国学的天空》-傅佩荣" title="未解析的双链目标：《国学的天空》-傅佩荣">《国学的天空》-傅佩荣</span>
 - [化性起伪](../md-e4dab78b/)
-- 《道德经》-老子
+- <span class="uw-unresolved" data-target="《道德经》-老子" title="未解析的双链目标：《道德经》-老子">《道德经》-老子</span>
 - [仁](../md-478ac28d/)
 
 ## 📊 元数据
@@ -72,10 +72,10 @@ description: "性善论（孟子）：人性本善，人天生具有\"四端\"�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/性善论与性恶论.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：8 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-ef57e6351d66`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：8 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

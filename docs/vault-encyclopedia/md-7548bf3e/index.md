@@ -40,9 +40,9 @@ Y = X^α（α ≠ 1 时即幂律分布）
 
 ## 相关
 
-- 二八法则
+- <span class="uw-unresolved" data-target="二八原则" title="未解析的双链目标：二八原则">二八法则</span>
 - [长尾理论：打破二八定律](../md-52400fbd/)
-- 复利效应
+- <span class="uw-unresolved" data-target="复利效应" title="未解析的双链目标：复利效应">复利效应</span>
 
 ---
 
@@ -63,10 +63,10 @@ Y = X^α（α ≠ 1 时即幂律分布）
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/幂次法则.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-7548bf3ecd82`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

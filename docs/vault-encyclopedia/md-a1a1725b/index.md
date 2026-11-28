@@ -30,9 +30,9 @@ description: "传统养生哲学的核心理念——身体健康的根基在于
 
 ## 相关
 
-- 斯多葛哲学
-- 内心堡垒
-- 压力管理
+- <span class="uw-unresolved" data-target="斯多葛哲学" title="未解析的双链目标：斯多葛哲学">斯多葛哲学</span>
+- <span class="uw-unresolved" data-target="内心堡垒" title="未解析的双链目标：内心堡垒">内心堡垒</span>
+- <span class="uw-unresolved" data-target="压力管理" title="未解析的双链目标：压力管理">压力管理</span>
 
 ---
 
@@ -53,10 +53,10 @@ description: "传统养生哲学的核心理念——身体健康的根基在于
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/养生先养心.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-a1a1725b0ad3`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

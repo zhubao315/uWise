@@ -33,7 +33,7 @@ description: "迈克尔·波特（Michael Porter）在《竞争战略》中提�
 
 - [波特五力](../md-9f449037/)
 - [价值链分析模型](../md-23d8e6cb/)
-- 行业演变分析框架
+- <span class="uw-unresolved" data-target="行业演变分析框架" title="未解析的双链目标：行业演变分析框架">行业演变分析框架</span>
 
 ## 📊 元数据
 
@@ -62,10 +62,10 @@ description: "迈克尔·波特（Michael Porter）在《竞争战略》中提�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/三大竞争战略.md`
-- 原始状态：已确立 · 分类：01-Finance-Investment
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-cf067793dd74`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：01-Finance-Investment
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

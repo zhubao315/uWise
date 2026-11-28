@@ -23,12 +23,12 @@ description: "巴菲特从芒格处吸收并完善的价值投资核心概念：
 
 ## 🔗 关联知识
 
-- 巴菲特
-- 彼得·蒂尔
+- <span class="uw-unresolved" data-target="巴菲特" title="未解析的双链目标：巴菲特">巴菲特</span>
+- <span class="uw-unresolved" data-target="彼得·蒂尔" title="未解析的双链目标：彼得·蒂尔">彼得·蒂尔</span>
 - [内在价值](../md-8767fe8e/)
-- 护城河分析框架：5大维度评估企业竞争力
-- 元护城河
-- 巴菲特护城河理论：如何判断企业竞争力
+- <span class="uw-unresolved" data-target="护城河分析框架：5大维度评估企业竞争力" title="未解析的双链目标：护城河分析框架：5大维度评估企业竞争力">护城河分析框架：5大维度评估企业竞争力</span>
+- <span class="uw-unresolved" data-target="元护城河" title="未解析的双链目标：元护城河">元护城河</span>
+- <span class="uw-unresolved" data-target="巴菲特护城河理论：如何判断企业竞争力" title="未解析的双链目标：巴菲特护城河理论：如何判断企业竞争力">巴菲特护城河理论：如何判断企业竞争力</span>
 
 ## 💡 个人理解
 
@@ -80,10 +80,10 @@ description: "巴菲特从芒格处吸收并完善的价值投资核心概念：
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/护城河.md`
-- 原始状态：已确立 · 分类：01-Finance-Investment
-- 断链别名（无目标，保留为文本）：5 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-2600f1673829`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：01-Finance-Investment
+- 未解析双链：5 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

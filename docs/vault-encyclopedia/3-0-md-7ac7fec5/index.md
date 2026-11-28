@@ -19,7 +19,7 @@ description: "定义：迈克斯·泰格马克（Max Tegmark）提出的生命�
 
 ### 概念解释
 <!-- AI辅助丰富：基于读书笔记提炼 -->
-生命3.0的核心特征：生命体不仅能够**学习新行为**（软件升级），还能**重新设计自己的物理形态**（硬件升级），从根本上摆脱了生物进化的限制。在 AI 时代，这指向通用人工智能（AGI）可能成为"生命3.0"的载体——一种能够自主改进自身代码和物理结构的存在。概念被《未来简史：从智人到智神》-尤瓦尔·赫拉利和《超级智能》-尼克·博斯特罗姆广泛引用，作为讨论 AI 对人类未来影响的框架。
+生命3.0的核心特征：生命体不仅能够**学习新行为**（软件升级），还能**重新设计自己的物理形态**（硬件升级），从根本上摆脱了生物进化的限制。在 AI 时代，这指向通用人工智能（AGI）可能成为"生命3.0"的载体——一种能够自主改进自身代码和物理结构的存在。概念被<span class="uw-unresolved" data-target="《未来简史：从智人到智神》-尤瓦尔·赫拉利" title="未解析的双链目标：《未来简史：从智人到智神》-尤瓦尔·赫拉利">《未来简史：从智人到智神》-尤瓦尔·赫拉利</span>和<span class="uw-unresolved" data-target="《超级智能》-尼克·博斯特罗姆" title="未解析的双链目标：《超级智能》-尼克·博斯特罗姆">《超级智能》-尼克·博斯特罗姆</span>广泛引用，作为讨论 AI 对人类未来影响的框架。
 
 
 ### 实际应用
@@ -28,14 +28,14 @@ description: "定义：迈克斯·泰格马克（Max Tegmark）提出的生命�
 
 ## 🔗 关联知识
 
-- 《未来简史：从智人到智神》-尤瓦尔·赫拉利
-- 《超级智能》-尼克·博斯特罗姆
+- <span class="uw-unresolved" data-target="《未来简史：从智人到智神》-尤瓦尔·赫拉利" title="未解析的双链目标：《未来简史：从智人到智神》-尤瓦尔·赫拉利">《未来简史：从智人到智神》-尤瓦尔·赫拉利</span>
+- <span class="uw-unresolved" data-target="《超级智能》-尼克·博斯特罗姆" title="未解析的双链目标：《超级智能》-尼克·博斯特罗姆">《超级智能》-尼克·博斯特罗姆</span>
 - [奇点临近](../md-e67263ee/)
 - [超级智能](../md-48b3dbe0/)
-- 《强化学习》-Richard Sutton
-- 《深度学习》-伊恩·古德费洛
-- 《生成式AI》-Stephen Wolfram
-- 《今日简史：人类命运大议题》-尤瓦尔·赫拉利
+- <span class="uw-unresolved" data-target="《强化学习》-Richard Sutton" title="未解析的双链目标：《强化学习》-Richard Sutton">《强化学习》-Richard Sutton</span>
+- <span class="uw-unresolved" data-target="《深度学习》-伊恩·古德费洛" title="未解析的双链目标：《深度学习》-伊恩·古德费洛">《深度学习》-伊恩·古德费洛</span>
+- <span class="uw-unresolved" data-target="《生成式AI》-Stephen Wolfram" title="未解析的双链目标：《生成式AI》-Stephen Wolfram">《生成式AI》-Stephen Wolfram</span>
+- <span class="uw-unresolved" data-target="《今日简史：人类命运大议题》-尤瓦尔·赫拉利" title="未解析的双链目标：《今日简史：人类命运大议题》-尤瓦尔·赫拉利">《今日简史：人类命运大议题》-尤瓦尔·赫拉利</span>
 
 ## 📊 元数据
 
@@ -64,10 +64,10 @@ description: "定义：迈克斯·泰格马克（Max Tegmark）提出的生命�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/生命3.0.md`
-- 原始状态：已确立 · 分类：00-General
-- 断链别名（无目标，保留为文本）：8 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-7ac7fec5bf7a`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：00-General
+- 未解析双链：8 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -1,13 +1,13 @@
 ---
 title: "Sop 26 Rpvi 大规模代码Ai开发工作流"
-description: "负责人: 🤖 AI专家技能 | 核心工具: Claude Code/GPT-4, Git Worktree, 自动化测试框架, 代码压缩工具 | 效率目标: 上下文使用 ↓60%, AI准确率 ↑120%, Bug修复速度 ↑10x | 关键洞察: 解决AI在5000+行代码后\"智商断崖式下降\"问题"
+description: "负责人: <span class=\"uw-unresolved\" data-target=\"人工智能专家\" title=\"未解析的双链目标：人工智能专家\">🤖 AI专家技能</span> | 核心工具: Claude Code/GPT-4, Git Worktree, 自动化测试框架, 代码压缩工具 | 效率目标: 上下文使用 ↓60%, AI准确率 ↑12"
 ---
 
 # Sop 26 Rpvi 大规模代码Ai开发工作流
 
 ## 📌 核心定义
 
-> **负责人**: 🤖 AI专家技能 | **核心工具**: Claude Code/GPT-4, Git Worktree, 自动化测试框架, 代码压缩工具 | **效率目标**: 上下文使用 ↓60%, AI准确率 ↑120%, Bug修复速度 ↑10x | **关键洞察**: 解决AI在5000+行代码后"智商断崖式下降"问题
+> **负责人**: <span class="uw-unresolved" data-target="人工智能专家" title="未解析的双链目标：人工智能专家">🤖 AI专家技能</span> | **核心工具**: Claude Code/GPT-4, Git Worktree, 自动化测试框架, 代码压缩工具 | **效率目标**: 上下文使用 ↓60%, AI准确率 ↑120%, Bug修复速度 ↑10x | **关键洞察**: 解决AI在5000+行代码后"智商断崖式下降"问题
 
 ## 🎯 关键要点
 
@@ -20,7 +20,7 @@ description: "负责人: 🤖 AI专家技能 | 核心工具: Claude Code/GPT-4, 
 ## 📖 详细说明
 
 ### 概念解释
-**负责人**: 🤖 AI专家技能 | **核心工具**: Claude Code/GPT-4, Git Worktree, 自动化测试框架, 代码压缩工具 | **效率目标**: 上下文使用 ↓60%, AI准确率 ↑120%, Bug修复速度 ↑10x | **关键洞察**: 解决AI在5000+行代码后"智商断崖式下降"问题
+**负责人**: <span class="uw-unresolved" data-target="人工智能专家" title="未解析的双链目标：人工智能专家">🤖 AI专家技能</span> | **核心工具**: Claude Code/GPT-4, Git Worktree, 自动化测试框架, 代码压缩工具 | **效率目标**: 上下文使用 ↓60%, AI准确率 ↑120%, Bug修复速度 ↑10x | **关键洞察**: 解决AI在5000+行代码后"智商断崖式下降"问题
 1.  **大型项目开发**: 当AI需要处理超过5000行代码库时，传统对话式开发效率急剧下降的场景。
 2.  **复杂功能迭代**: 需要在现有大型代码基础上添加新模块或重构核心逻辑的场景。
 3.  **Bug修复与优化**: 面对复杂系统级Bug，需要快速定位、验证和修复的场景。
@@ -30,20 +30,20 @@ description: "负责人: 🤖 AI专家技能 | 核心工具: Claude Code/GPT-4, 
 
 ## 🔗 关联知识
 
-- 人工智能专家
+- <span class="uw-unresolved" data-target="人工智能专家" title="未解析的双链目标：人工智能专家">人工智能专家</span>
 - [AI专家技能-AI专家](../ai-0548e71f/)
 - [架构师技能](../md-4a5f4c51/)
-- 心理学专家技能
-- 象限转换渐进法——从雇员到投资人的阶梯路径
-- 全栈工程师技能
-- 终身学习者技能
-- 产品经理技能
-- SOP-15-AI专家-提示词优化与测试
-- SOP-02-全栈工程师-功能开发
-- SOP-01-架构师-系统设计分析
+- <span class="uw-unresolved" data-target="心理学专家技能" title="未解析的双链目标：心理学专家技能">心理学专家技能</span>
+- <span class="uw-unresolved" data-target="象限转换渐进法——从雇员到投资人的阶梯路径" title="未解析的双链目标：象限转换渐进法——从雇员到投资人的阶梯路径">象限转换渐进法——从雇员到投资人的阶梯路径</span>
+- <span class="uw-unresolved" data-target="全栈工程师技能" title="未解析的双链目标：全栈工程师技能">全栈工程师技能</span>
+- <span class="uw-unresolved" data-target="终身学习者技能" title="未解析的双链目标：终身学习者技能">终身学习者技能</span>
+- <span class="uw-unresolved" data-target="产品经理技能" title="未解析的双链目标：产品经理技能">产品经理技能</span>
+- <span class="uw-unresolved" data-target="SOP-15-AI专家-提示词优化与测试" title="未解析的双链目标：SOP-15-AI专家-提示词优化与测试">SOP-15-AI专家-提示词优化与测试</span>
+- <span class="uw-unresolved" data-target="SOP-02-全栈工程师-功能开发" title="未解析的双链目标：SOP-02-全栈工程师-功能开发">SOP-02-全栈工程师-功能开发</span>
+- <span class="uw-unresolved" data-target="SOP-01-架构师-系统设计分析" title="未解析的双链目标：SOP-01-架构师-系统设计分析">SOP-01-架构师-系统设计分析</span>
 
-- 2025-12-31
-- 2025年度目标 AI-Led Evolution
+- <span class="uw-unresolved" data-target="2025-12-31" title="未解析的双链目标：2025-12-31">2025-12-31</span>
+- <span class="uw-unresolved" data-target="2025年度目标 AI-Led Evolution" title="未解析的双链目标：2025年度目标 AI-Led Evolution">2025年度目标 AI-Led Evolution</span>
 - [我的SOP](../sop-md-ef75ddfe/)
 ## 💡 个人理解
 
@@ -59,7 +59,7 @@ description: "负责人: 🤖 AI专家技能 | 核心工具: Claude Code/GPT-4, 
 
 ## 调用示例
 
-场景 1：判断「Sop 26 Rpvi 大规模代码Ai开发工作流」是否适用时，先复述其核心——负责人: 🤖 AI专家技能 | 核心工具: Claude Code/GPT-4, Git Worktree, 自动化测试框架, 代码压缩工具 | 效率目标: ——再对照当前事实逐项核对。
+场景 1：判断「Sop 26 Rpvi 大规模代码Ai开发工作流」是否适用时，先复述其核心——负责人: <span class="uw-unresolved" data-target="人工智能专家" title="未解析的双链目标：人工智能专家">🤖 AI专家技能</span> | 核心工具: Claude Code/GPT-4, Git Worktree, 自动化测试框架, 代码压缩工具 | 效率目标: ——再对照当前事实逐项核对。
 场景 2：遇到与「Sop 26 Rpvi 大规模代码Ai开发工作流」相似的模糊情形，以要点「- SOP目标：建立一套可扩展、可复现、高准确率的AI辅助大规模代码开发流程，突破传统对话式开发的上下文限制，实现万行级代码库的高效迭代。」为检查清单，避免只凭印象下结论。
 
 ## 边界约束
@@ -74,10 +74,10 @@ description: "负责人: 🤖 AI专家技能 | 核心工具: Claude Code/GPT-4, 
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/SOP-26-RPVI-大规模代码AI开发工作流.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：14 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-b59390bf66db`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：14 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

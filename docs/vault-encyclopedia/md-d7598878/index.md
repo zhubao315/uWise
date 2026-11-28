@@ -35,14 +35,14 @@ description: "信贷周期（Credit Cycle）是霍华德·马克斯《周期》�
 ## 🔗 关联知识
 
 - [情绪钟摆](../md-67e5f1e5/) — 信贷是钟摆摆幅的物理放大器
-- 《债务危机》-瑞·达利欧 — 债务周期的完整框架
-- 周期理论 — 周期家族总览
+- <span class="uw-unresolved" data-target="《债务危机》-瑞·达利欧" title="未解析的双链目标：《债务危机》-瑞·达利欧">《债务危机》-瑞·达利欧</span> — 债务周期的完整框架
+- <span class="uw-unresolved" data-target="周期理论" title="未解析的双链目标：周期理论">周期理论</span> — 周期家族总览
 - [安全边际](../md-21e4edc8/) — 收缩期的容错机制
 
 ## 📚 参考资料
 
 - 来源：`B6-投资理财-周期_MSH_v3`
-- 原始书籍：《周期》-霍华德·马克斯
+- 原始书籍：<span class="uw-unresolved" data-target="《周期》-霍华德·马克斯" title="未解析的双链目标：《周期》-霍华德·马克斯">《周期》-霍华德·马克斯</span>
 
 ## 💡 个人理解
 
@@ -76,10 +76,10 @@ description: "信贷周期（Credit Cycle）是霍华德·马克斯《周期》�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/信贷周期.md`
-- 原始状态：已确立 · 分类：01-Finance-Investment
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-d75988789e6e`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：01-Finance-Investment
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

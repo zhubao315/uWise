@@ -16,7 +16,7 @@ description: "集体智慧（Collective Intelligence）与众包模式（Crowdso
 - **去中心化创新**：XPRIZE 模式证明，最突破性的解决方案往往来自领域外的"跨界者"，而非传统权威
 - **认知多样性红利**：不同背景、不同思维模式的人协作，产生的创新质量远超同质化团队
 - 指数时代的核心能力，不再是个体的"知道多少"，而是"能调动多少集体智慧"。将众包模式嵌入个人工作流，是放大个体影响力的核心杠杆。
-- 来源：《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒
+- 来源：<span class="uw-unresolved" data-target="《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒" title="未解析的双链目标：《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒">《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒</span>
 - 参见：[从消费思维到设计思维的认知跃迁](../md-a7121f11/) | [戴曼迪斯：指数技术驱动的文明进化逻辑](../md-eab1b13c/)
 
 ## 📖 详细说明
@@ -33,7 +33,7 @@ description: "集体智慧（Collective Intelligence）与众包模式（Crowdso
 
 ## 🔗 关联知识
 
-- 《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒
+- <span class="uw-unresolved" data-target="《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒" title="未解析的双链目标：《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒">《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒</span>
 - [从消费思维到设计思维的认知跃迁](../md-a7121f11/)
 - [戴曼迪斯：指数技术驱动的文明进化逻辑](../md-eab1b13c/)
 
@@ -64,10 +64,10 @@ description: "集体智慧（Collective Intelligence）与众包模式（Crowdso
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/集体智慧与众包模式的时代价值.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-d5b6e30be4a7`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

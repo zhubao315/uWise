@@ -18,7 +18,7 @@ description: "写作不是思考的结果，而是思考的媒介。不写，就
 - 遇到模糊的想法时，立即写下来，哪怕只是碎片
 - 重要决策前，先写一份简短的分析文档
 - 每天花10分钟做闪念笔记，捕捉脑中的想法
-- 《深度工作》-卡尔·纽波特 — 专注写作是深度工作的核心实践场景
+- <span class="uw-unresolved" data-target="《深度工作》-卡尔·纽波特" title="未解析的双链目标：《深度工作》-卡尔·纽波特">《深度工作》-卡尔·纽波特</span> — 专注写作是深度工作的核心实践场景
 
 ## 📖 详细说明
 
@@ -31,8 +31,8 @@ description: "写作不是思考的结果，而是思考的媒介。不写，就
 
 ## 🔗 关联知识
 
-- 《深度工作》-卡尔·纽波特
-- B9-哲学宗教-蒙田随笔_MSH_v3
+- <span class="uw-unresolved" data-target="《深度工作》-卡尔·纽波特" title="未解析的双链目标：《深度工作》-卡尔·纽波特">《深度工作》-卡尔·纽波特</span>
+- <span class="uw-unresolved" data-target="B9-哲学宗教-蒙田随笔_MSH_v3" title="未解析的双链目标：B9-哲学宗教-蒙田随笔_MSH_v3">B9-哲学宗教-蒙田随笔_MSH_v3</span>
 
 ## 💡 个人理解
 
@@ -65,10 +65,10 @@ description: "写作不是思考的结果，而是思考的媒介。不写，就
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/写作即思考.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-3738fbdf55d7`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

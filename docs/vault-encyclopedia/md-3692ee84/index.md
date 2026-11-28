@@ -49,9 +49,9 @@ description: "\"We are as gods—and we might as well get good at it.\""
 
 ## 🔗 关联知识
 
-- 《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒
+- <span class="uw-unresolved" data-target="《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒" title="未解析的双链目标：《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒">《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒</span>
 - [指数型伦理：适配技术迭代的新型规则体系](../md-9b7e6141/)
-- 生命2.0时代的人类伦理边界重构
+- <span class="uw-unresolved" data-target="生命2.0时代的人类伦理边界重构" title="未解析的双链目标：生命2.0时代的人类伦理边界重构">生命2.0时代的人类伦理边界重构</span>
 
 ## 📊 元数据
 
@@ -80,10 +80,10 @@ description: "\"We are as gods—and we might as well get good at it.\""
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/技术神性与人类谦卑的平衡之道.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-3692ee84615e`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

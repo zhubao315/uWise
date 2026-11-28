@@ -42,8 +42,8 @@ description: "核心框架：用两个划分轴——是否存在中心决策节
 
 - [AI Agent 核心原理](../ai-agent-md-7b169b8d/)
 - [组织竞争力公式](../md-1f0e544b/)
-- AI超级个体
-- 涌现优于设计原则
+- <span class="uw-unresolved" data-target="AI超级个体" title="未解析的双链目标：AI超级个体">AI超级个体</span>
+- <span class="uw-unresolved" data-target="涌现优于设计原则" title="未解析的双链目标：涌现优于设计原则">涌现优于设计原则</span>
 
 ## 📚 参考资料
 
@@ -81,10 +81,10 @@ description: "核心框架：用两个划分轴——是否存在中心决策节
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/超级团队三大形态模型.md`
-- 原始状态：draft · 分类：02-AI-Architecture
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-d4dd956712b4`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：02-AI-Architecture
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

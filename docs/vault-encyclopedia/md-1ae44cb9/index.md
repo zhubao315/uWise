@@ -26,8 +26,8 @@ description: "超越传统引线键合的芯片封装技术——通过更紧密
 ## 相关
 
 - [HBM高带宽存储器](../hbm-md-60f429a3/)
-- 半导体产业链
-- 摩尔定律
+- <span class="uw-unresolved" data-target="半导体产业链" title="未解析的双链目标：半导体产业链">半导体产业链</span>
+- <span class="uw-unresolved" data-target="摩尔定律" title="未解析的双链目标：摩尔定律">摩尔定律</span>
 
 ---
 
@@ -48,10 +48,10 @@ description: "超越传统引线键合的芯片封装技术——通过更紧密
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/先进封装.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-1ae44cb94633`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

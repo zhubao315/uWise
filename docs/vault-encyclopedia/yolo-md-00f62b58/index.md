@@ -23,9 +23,9 @@ description: "最后更新：2026-06-05"
 
 - [原文来源](../yolo-md-00f62b58/)
 - [具身智能与机器人技术对未来实体劳动供应链的重构](../md-91747050/)
-- 人生文件夹：从 CompanyOS 到 LifeOS - 将文件系统哲学应用于人生管理
+- <span class="uw-unresolved" data-target="人生文件夹：从 CompanyOS 到 LifeOS - 将文件系统哲学应用于人生管理" title="未解析的双链目标：人生文件夹：从 CompanyOS 到 LifeOS - 将文件系统哲学应用于人生管理">人生文件夹：从 CompanyOS 到 LifeOS - 将文件系统哲学应用于人生管理</span>
 - MLOps
-- LYT 笔记框架
+- <span class="uw-unresolved" data-target="LYT 笔记框架" title="未解析的双链目标：LYT 笔记框架">LYT 笔记框架</span>
 - [崛起中的10亿人与跨越发展经济学](../10-md-4022c93d/)
 
 ## 💡 个人理解
@@ -58,10 +58,10 @@ YOLO是一个值得深入研究的概念，与Architecture密切相关。
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/YOLO.md`
-- 原始状态：已确立 · 分类：02-AI-Architecture
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-00f62b580eb7`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：02-AI-Architecture
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -38,8 +38,8 @@ description: "感知不是被动接收信息——大脑会主动\"建构\"我�
 
 - [注意与意识](../md-738b8657/)
 - [记忆的建构性](../md-99b70b1a/)
-- 认知偏差
-- 《认知心理学》-罗伯特·索尔所
+- <span class="uw-unresolved" data-target="认知偏差" title="未解析的双链目标：认知偏差">认知偏差</span>
+- <span class="uw-unresolved" data-target="《认知心理学》-罗伯特·索尔所" title="未解析的双链目标：《认知心理学》-罗伯特·索尔所">《认知心理学》-罗伯特·索尔所</span>
 
 ## 💡 个人理解
 
@@ -72,10 +72,10 @@ description: "感知不是被动接收信息——大脑会主动\"建构\"我�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/感知的建构性.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-bbd93578483c`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

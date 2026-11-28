@@ -12,9 +12,9 @@ description: "负责人: 🍷 葡萄酒大师 | 核心工具: AI大模型, uProm
 ## 🎯 关键要点
 
 - SOP目标：建立一套标准化的、AI增强的流程，用于系统化地品鉴、分析葡萄酒，并高效地将感官体验转化为结构化的知识资产和可传播的文化内容。
-- 战略价值：本SOP是“身心赋能”和“沟通精进”两大战略支柱的交汇点。它不仅通过感官训练提升生活品质，更是将个人体验和知识，转化为公开影响力和社交资本的核心规程，为生活艺术家技能提供丰富素材。
-- 核心技能：生活艺术家技能, 💰 投资人技能, 📚 终身学习者技能, 📷 摄影家技能
-- 相关SOP：SOP-08, SOP-21-知识管理
+- 战略价值：本SOP是“身心赋能”和“沟通精进”两大战略支柱的交汇点。它不仅通过感官训练提升生活品质，更是将个人体验和知识，转化为公开影响力和社交资本的核心规程，为<span class="uw-unresolved" data-target="生活艺术家技能" title="未解析的双链目标：生活艺术家技能">生活艺术家技能</span>提供丰富素材。
+- 核心技能：<span class="uw-unresolved" data-target="生活艺术家技能" title="未解析的双链目标：生活艺术家技能">生活艺术家技能</span>, <span class="uw-unresolved" data-target="投资人：AI驱动的理性价值发现引擎" title="未解析的双链目标：投资人：AI驱动的理性价值发现引擎">💰 投资人技能</span>, <span class="uw-unresolved" data-target="终身学习者：AI时代智慧学习与知识复利的引擎" title="未解析的双链目标：终身学习者：AI时代智慧学习与知识复利的引擎">📚 终身学习者技能</span>, <span class="uw-unresolved" data-target="摄影家：AI时代光影叙事与视觉表达的探索者" title="未解析的双链目标：摄影家：AI时代光影叙事与视觉表达的探索者">📷 摄影家技能</span>
+- 相关SOP：<span class="uw-unresolved" data-target="SOP-04-技术博客内容生产线" title="未解析的双链目标：SOP-04-技术博客内容生产线">SOP-08</span>, <span class="uw-unresolved" data-target="SOP-21-知识管理" title="未解析的双链目标：SOP-21-知识管理">SOP-21-知识管理</span>
 - 核心平台：Obsidian, Vivino, Wine-Searcher, uPrompt
 
 ## 📖 详细说明
@@ -28,12 +28,12 @@ description: "负责人: 🍷 葡萄酒大师 | 核心工具: AI大模型, uProm
 
 ## 🔗 关联知识
 
-- 生活艺术家技能
-- 投资人：AI驱动的理性价值发现引擎
-- SOP-04-技术博客内容生产线
-- 摄影家：AI时代光影叙事与视觉表达的探索者
-- 终身学习者：AI时代智慧学习与知识复利的引擎
-- SOP-21-知识管理
+- <span class="uw-unresolved" data-target="生活艺术家技能" title="未解析的双链目标：生活艺术家技能">生活艺术家技能</span>
+- <span class="uw-unresolved" data-target="投资人：AI驱动的理性价值发现引擎" title="未解析的双链目标：投资人：AI驱动的理性价值发现引擎">投资人：AI驱动的理性价值发现引擎</span>
+- <span class="uw-unresolved" data-target="SOP-04-技术博客内容生产线" title="未解析的双链目标：SOP-04-技术博客内容生产线">SOP-04-技术博客内容生产线</span>
+- <span class="uw-unresolved" data-target="摄影家：AI时代光影叙事与视觉表达的探索者" title="未解析的双链目标：摄影家：AI时代光影叙事与视觉表达的探索者">摄影家：AI时代光影叙事与视觉表达的探索者</span>
+- <span class="uw-unresolved" data-target="终身学习者：AI时代智慧学习与知识复利的引擎" title="未解析的双链目标：终身学习者：AI时代智慧学习与知识复利的引擎">终身学习者：AI时代智慧学习与知识复利的引擎</span>
+- <span class="uw-unresolved" data-target="SOP-21-知识管理" title="未解析的双链目标：SOP-21-知识管理">SOP-21-知识管理</span>
 
 ## 💡 个人理解
 
@@ -66,10 +66,10 @@ description: "负责人: 🍷 葡萄酒大师 | 核心工具: AI大模型, uProm
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/SOP-14-葡萄酒大师-品鉴笔记撰写.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：13 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-1d0222704d69`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：13 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

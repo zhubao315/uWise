@@ -35,11 +35,11 @@ description: "查理·芒格在《穷查理宝典》中系统整理的25种人�
 ## 🔗 关联知识
 
 - [人类误判心理学](../md-77b1159f/)
-- Lollapalooza效应（核爆效应）
+- <span class="uw-unresolved" data-target="Lollapalooza效应（核爆效应）" title="未解析的双链目标：Lollapalooza效应（核爆效应）">Lollapalooza效应（核爆效应）</span>
 - [多元思维模型](../md-cf9fa412/)
 - [逆向思维](../md-4b0332a7/)
 - [能力圈](../md-b445a5c0/)
-- 认知偏差
+- <span class="uw-unresolved" data-target="认知偏差" title="未解析的双链目标：认知偏差">认知偏差</span>
 
 ## 📚 参考资料
 
@@ -77,10 +77,10 @@ description: "查理·芒格在《穷查理宝典》中系统整理的25种人�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/从众心理.md`
-- 原始状态：draft · 分类：01-Finance-Investment
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-098abbd719e8`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：01-Finance-Investment
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

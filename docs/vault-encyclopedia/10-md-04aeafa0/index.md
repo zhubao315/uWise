@@ -33,10 +33,10 @@ description: "\"最优秀的人才和其他人之间的差距是指数级的。\
 
 ## 🔗 关联知识
 
-- 我的经验与教训
+- <span class="uw-unresolved" data-target="我的经验与教训" title="未解析的双链目标：我的经验与教训">我的经验与教训</span>
 - [A级人才的管理](../a-md-75a01ca8/)
 - [极度透明](../md-8072377c/)
-- 做大事思维
+- <span class="uw-unresolved" data-target="做大事思维" title="未解析的双链目标：做大事思维">做大事思维</span>
 - [组织护城河](../md-8e68719b/)
 
 ## 📊 元数据
@@ -66,10 +66,10 @@ description: "\"最优秀的人才和其他人之间的差距是指数级的。\
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/10分人才理论.md`
-- 原始状态：已确立 · 分类：04-Business-Management
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-04aeafa02c17`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：04-Business-Management
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

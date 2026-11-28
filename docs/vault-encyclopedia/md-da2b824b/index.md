@@ -36,9 +36,9 @@ BAPO原则（Business Architecture Practice Organization）强调实践是架构
 
 ## 🔗 关联知识
 
-- 《富兰克林自传》-本杰明·富兰克林
-- BAPO原则
-- 富兰克林13条美德模型
+- <span class="uw-unresolved" data-target="《富兰克林自传》-本杰明·富兰克林" title="未解析的双链目标：《富兰克林自传》-本杰明·富兰克林">《富兰克林自传》-本杰明·富兰克林</span>
+- <span class="uw-unresolved" data-target="BAPO原则" title="未解析的双链目标：BAPO原则">BAPO原则</span>
+- <span class="uw-unresolved" data-target="富兰克林13条美德模型" title="未解析的双链目标：富兰克林13条美德模型">富兰克林13条美德模型</span>
 - [习惯系统](../md-af092b5a/)
 
 ## 📚 参考资料
@@ -77,10 +77,10 @@ BAPO原则（Business Architecture Practice Organization）强调实践是架构
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/自律是自由的代价.md`
-- 原始状态：draft · 分类：04-Business-Management
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-da2b824b8ab5`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：04-Business-Management
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

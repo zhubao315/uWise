@@ -18,7 +18,7 @@ description: "库兹韦尔的加速回报定律本质是一个 宏观技术史�
 - 否 → 保持传统策略
 - **S曲线接班识别**：单一技术趋缓时不匆忙退出，判断新载体是否已在接力
 - **接口优先于功能**：选择工具时优先评估其API友好度（接入AI的能力），而非当前功能完整度
-- 关联：B3-认知成长-奇点更近_MSH_v3
+- 关联：<span class="uw-unresolved" data-target="B3-认知成长-奇点更近_MSH_v3" title="未解析的双链目标：B3-认知成长-奇点更近_MSH_v3">B3-认知成长-奇点更近_MSH_v3</span>
 
 ## 📖 详细说明
 
@@ -35,11 +35,11 @@ description: "库兹韦尔的加速回报定律本质是一个 宏观技术史�
 2. **S曲线接班识别**：单一技术趋缓时不匆忙退出，判断新载体是否已在接力
 3. **接口优先于功能**：选择工具时优先评估其API友好度（接入AI的能力），而非当前功能完整度
 
-关联：B3-认知成长-奇点更近_MSH_v3
+关联：<span class="uw-unresolved" data-target="B3-认知成长-奇点更近_MSH_v3" title="未解析的双链目标：B3-认知成长-奇点更近_MSH_v3">B3-认知成长-奇点更近_MSH_v3</span>
 
 ## 🔗 关联知识
 
-- B3-认知成长-奇点更近_MSH_v3
+- <span class="uw-unresolved" data-target="B3-认知成长-奇点更近_MSH_v3" title="未解析的双链目标：B3-认知成长-奇点更近_MSH_v3">B3-认知成长-奇点更近_MSH_v3</span>
 
 ## 💡 个人理解
 
@@ -72,10 +72,10 @@ description: "库兹韦尔的加速回报定律本质是一个 宏观技术史�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/加速回报定律的微观决策映射：从宏观预测到个体操作.md`
-- 原始状态：已确立 · 分类：02-AI-Architecture
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-5dbc976ee9b3`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：02-AI-Architecture
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

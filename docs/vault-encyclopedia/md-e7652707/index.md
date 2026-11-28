@@ -46,9 +46,9 @@ description: "当面临选择犹豫不决时，用\"动机至善、私心了无\
 
 ## 🔗 关联知识
 
-- 《稻盛和夫》-稻盛和夫
-- 禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑
-- 长期主义
+- <span class="uw-unresolved" data-target="《稻盛和夫》-稻盛和夫" title="未解析的双链目标：《稻盛和夫》-稻盛和夫">《稻盛和夫》-稻盛和夫</span>
+- <span class="uw-unresolved" data-target="禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑" title="未解析的双链目标：禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑">禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑</span>
+- <span class="uw-unresolved" data-target="长期主义" title="未解析的双链目标：长期主义">长期主义</span>
 - [逆向思维](../md-4b0332a7/)
 
 ## 💡 个人理解
@@ -68,7 +68,7 @@ description: "当面临选择犹豫不决时，用\"动机至善、私心了无\
 - [创伤储存在身体中](../md-13899e05/)
 - [友谊是照见自己的镜子](../md-62abd48b/)
 - [好解释思维——用可检验性对抗认知自满](../md-027bf46f/)
-- 富人思维与穷人思维
+- <span class="uw-unresolved" data-target="富人思维与穷人思维" title="未解析的双链目标：富人思维与穷人思维">富人思维与穷人思维</span>
 - [富足心态与匮乏心态](../md-4827a8dd/)
 
 ---
@@ -90,10 +90,10 @@ description: "当面临选择犹豫不决时，用\"动机至善、私心了无\
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/动机至善是最好的决策算法.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：4 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-e7652707ebc2`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：4 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

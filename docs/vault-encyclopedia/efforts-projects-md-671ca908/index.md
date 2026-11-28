@@ -13,7 +13,7 @@ description: "其实就是传统的项目思维，适合有工期、协作、具
 
 - 其实就是传统的项目思维，适合有工期、协作、具体目标的事情。而努力思维，更适合个人思考的长期发展。
 - efforts思维，就是成长式思维。
-- 在ACCESS文件组织法中的具体体现就是：Calendar和Cards文件夹存放efforts，Spaces文件夹存放projects。
+- 在<span class="uw-unresolved" data-target="ACCESS文件组织法" title="未解析的双链目标：ACCESS文件组织法">ACCESS文件组织法</span>中的具体体现就是：Calendar和Cards文件夹存放efforts，Spaces文件夹存放projects。
 
 ## 📖 详细说明
 
@@ -23,7 +23,7 @@ description: "其实就是传统的项目思维，适合有工期、协作、具
 
 ## 🔗 关联知识
 
-- ACCESS文件组织法
+- <span class="uw-unresolved" data-target="ACCESS文件组织法" title="未解析的双链目标：ACCESS文件组织法">ACCESS文件组织法</span>
 
 ## 📊 元数据
 
@@ -52,10 +52,10 @@ description: "其实就是传统的项目思维，适合有工期、协作、具
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/用efforts而非projects思维，去发展自己的想法.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-671ca9081f56`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

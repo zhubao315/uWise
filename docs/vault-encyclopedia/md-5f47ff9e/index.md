@@ -22,15 +22,15 @@ description: "💡 不要迷信\"苦功\"——大脑需要休息来整合信息
 大脑存在两种互补的思维模式——专注模式（聚焦推理）和发散模式（自由联想），二者不能同时开启。高效学习和创造性工作的关键，不是"一直专注"，而是在两种模式之间有节奏地切换。
 - [检索练习取代被动复习](../md-ba56b4ff/)
 - [番茄工作法](../md-4a6b3303/)
-- 心流理论
-- 元认知
+- <span class="uw-unresolved" data-target="《心流》-米哈里·契克森米哈赖" title="未解析的双链目标：《心流》-米哈里·契克森米哈赖">心流理论</span>
+- <span class="uw-unresolved" data-target="元认知" title="未解析的双链目标：元认知">元认知</span>
 - 07-SOURCES/71-书籍/学习与效能/《刻意练习》-行动转化
 
 > 💡 不要迷信"苦功"——大脑需要休息来整合信息。最高效的学习节奏是"专注-放松-专注-放松"的交替，而不是"连续专注3小时然后崩溃"。
 
 *Agent可读性标记：search_keywords=[检索练习取代被动复习]]
 - [番茄工作法](../md-4a6b3303/)
-- 元认知
+- <span class="uw-unresolved" data-target="元认知" title="未解析的双链目标：元认知">元认知</span>
 - [[刻意练习；专注发散双模式切换法]；context_triggers=[阅读计划；学习方法；系统设计；知识管理；云原生]*
 
 
@@ -42,8 +42,8 @@ description: "💡 不要迷信\"苦功\"——大脑需要休息来整合信息
 
 - [检索练习取代被动复习](../md-ba56b4ff/)
 - [番茄工作法](../md-4a6b3303/)
-- 《心流》-米哈里·契克森米哈赖
-- 元认知
+- <span class="uw-unresolved" data-target="《心流》-米哈里·契克森米哈赖" title="未解析的双链目标：《心流》-米哈里·契克森米哈赖">《心流》-米哈里·契克森米哈赖</span>
+- <span class="uw-unresolved" data-target="元认知" title="未解析的双链目标：元认知">元认知</span>
 
 ## 💡 个人理解
 
@@ -76,10 +76,10 @@ description: "💡 不要迷信\"苦功\"——大脑需要休息来整合信息
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/专注-发散双模式切换法.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：5 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-5f47ff9e5cdf`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：5 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

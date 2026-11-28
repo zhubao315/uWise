@@ -16,7 +16,7 @@ description: "指数型思维与线性心智的时代断层，指技术以指数
 - **心智侧**：人类大脑在漫长采集-狩猎时期进化出的威胁感知、部落归属、短视决策等线性认知模块，无法自然适配指数级环境
 - **断层后果**：当个体/组织用线性心智驾驭指数级工具时，必然出现意义迷失、技术滥用、伦理滞后等系统性风险
 - 戴曼迪斯指出，这不是一个能"自然愈合"的断层——技术不会减速，人类心智也不会自发升级。唯一的出路是**主动用科学工具（心流神经科学、元认知训练、指数型伦理框架）干预意识进化，人为弥合这一鸿沟**。
-- 来源：《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒
+- 来源：<span class="uw-unresolved" data-target="《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒" title="未解析的双链目标：《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒">《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒</span>
 - 参见：[指数型伦理：适配技术迭代的新型规则体系](../md-9b7e6141/) | [心流状态的科学落地与巅峰认知训练](../md-ec3c0e68/)
 
 ## 📖 详细说明
@@ -33,7 +33,7 @@ description: "指数型思维与线性心智的时代断层，指技术以指数
 
 ## 🔗 关联知识
 
-- 《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒
+- <span class="uw-unresolved" data-target="《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒" title="未解析的双链目标：《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒">《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒</span>
 - [指数型伦理：适配技术迭代的新型规则体系](../md-9b7e6141/)
 - [心流状态的科学落地与巅峰认知训练](../md-ec3c0e68/)
 
@@ -64,10 +64,10 @@ description: "指数型思维与线性心智的时代断层，指技术以指数
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/指数型思维与线性心智的时代断层.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-9e8d18d36aea`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

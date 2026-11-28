@@ -58,7 +58,7 @@ DIKW 模型将数据、信息、知识、智慧纳入到一种金字塔形的层
 - [Framework_STAR](../framework-star-9c7661d5/)
 - [SOP-27-P4-Agentic-Finance-对抗性投研系统](../sop-27-p4-agentic-finance-345d6e94/)
 - [SOP-26-人生操作系统-自主进化流程](../sop-26-dc6f4da3/)
-- SOP-12-风控Agent
+- <span class="uw-unresolved" data-target="SOP-12-风控Agent" title="未解析的双链目标：SOP-12-风控Agent">SOP-12-风控Agent</span>
 - [SOP-15-摄影家-摄影作品后期处理](../sop-15-774e2a8d/)
 - [SOP-06-云计算专家-容器化部署](../sop-06-a1f4b4dc/)
 - [SOP-18-数字人生-个人数据分析报告](../sop-18-94bfb773/)
@@ -88,10 +88,10 @@ DIKW 模型将数据、信息、知识、智慧纳入到一种金字塔形的层
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/Framework_DIKW.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-203027fd194c`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

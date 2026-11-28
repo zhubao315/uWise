@@ -57,10 +57,10 @@ AI 数据中心（训练+推理）
 
 ## 🔗 关联
 
-- AI算力平台方案 — AI 算力爆发是 HBM 需求的根本驱动力
+- <span class="uw-unresolved" data-target="AI算力平台方案" title="未解析的双链目标：AI算力平台方案">AI算力平台方案</span> — AI 算力爆发是 HBM 需求的根本驱动力
 - [玻璃基板封装技术](../md-fd8344ae/) — 下一代先进封装路径，HBM4 将采用玻璃中介层
 - [HBM高带宽存储器](../hbm-md-60f429a3/) — 技术细节与演进路线
-- ∑ 思维模型库 — 技术泡沫第一性原理分析
+- <span class="uw-unresolved" data-target="∑ 思维模型库" title="未解析的双链目标：∑ 思维模型库">∑ 思维模型库</span> — 技术泡沫第一性原理分析
 
 ---
 
@@ -85,10 +85,10 @@ AI 数据中心（训练+推理）
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/美光AI存储印钞机与良性技术泡沫.md`
-- 原始状态：published · 分类：01-Finance-Investment
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-b05ffe92f00b`（稳定 ID，不暴露私库路径）
+- 状态：published · 分类：01-Finance-Investment
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

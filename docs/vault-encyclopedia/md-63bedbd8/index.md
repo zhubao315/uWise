@@ -25,9 +25,9 @@ description: "根据运动目标制定科学的饮食方案——增肌/减脂/�
 
 ## 相关
 
-- 运动营养
+- <span class="uw-unresolved" data-target="运动营养" title="未解析的双链目标：运动营养">运动营养</span>
 - [力量训练](../md-8dc3c81e/)
-- 跑步训练计划
+- <span class="uw-unresolved" data-target="跑步训练计划" title="未解析的双链目标：跑步训练计划">跑步训练计划</span>
 
 ---
 
@@ -48,10 +48,10 @@ description: "根据运动目标制定科学的饮食方案——增肌/减脂/�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/营养规划.md`
-- 原始状态：未标注 · 分类：还原自 01-BRAIN（2026-09-17 归档迁移）
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-63bedbd82bbe`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

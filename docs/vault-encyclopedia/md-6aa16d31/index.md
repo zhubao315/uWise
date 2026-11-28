@@ -23,7 +23,7 @@ description: "村上春树作品的核心结构特征：主人公在现实世界
 
 ## 🔗 关联知识
 
-- 村上春树
+- <span class="uw-unresolved" data-target="村上春树" title="未解析的双链目标：村上春树">村上春树</span>
 - [地下意识之旅](../md-6ca1d97e/)
 
 ## 📊 元数据
@@ -53,10 +53,10 @@ description: "村上春树作品的核心结构特征：主人公在现实世界
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/平行世界.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-6aa16d316bea`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

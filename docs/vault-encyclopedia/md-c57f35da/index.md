@@ -32,7 +32,7 @@ description: "训练的核心原则——逐步增加训练刺激，迫使身体
 ## 相关
 
 - [力量训练](../md-8dc3c81e/)
-- 运动生理学
+- <span class="uw-unresolved" data-target="运动生理学" title="未解析的双链目标：运动生理学">运动生理学</span>
 - [伤病是身体的信号，不是需要克服的障碍](../md-977b41a5/)
 
 ---
@@ -54,10 +54,10 @@ description: "训练的核心原则——逐步增加训练刺激，迫使身体
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/渐进超负荷.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-c57f35da86e6`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

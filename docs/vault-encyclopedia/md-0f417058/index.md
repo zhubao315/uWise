@@ -38,9 +38,9 @@ description: "饮酒头痛的主因是脱水，解决方案是每喝一杯酒配
 
 ## 🔗 关联知识
 
-- 《看图学葡萄酒（大师典藏版）》-玛德琳·帕克特 贾斯汀·海默克
+- <span class="uw-unresolved" data-target="《看图学葡萄酒（大师典藏版）》-玛德琳·帕克特 贾斯汀·海默克" title="未解析的双链目标：《看图学葡萄酒（大师典藏版）》-玛德琳·帕克特 贾斯汀·海默克">《看图学葡萄酒（大师典藏版）》-玛德琳·帕克特 贾斯汀·海默克</span>
 - [酒后头痛的祛魅](../md-82f657f1/)
-- 奥卡姆剃刀
+- <span class="uw-unresolved" data-target="奥卡姆剃刀" title="未解析的双链目标：奥卡姆剃刀">奥卡姆剃刀</span>
 - [清单是专家的谦卑而非无能](../md-a47e4a0c/)
 
 ## 📊 元数据
@@ -70,10 +70,10 @@ description: "饮酒头痛的主因是脱水，解决方案是每喝一杯酒配
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/最简单方案最有效.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-0f417058fd35`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

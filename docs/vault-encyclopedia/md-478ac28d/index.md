@@ -19,8 +19,8 @@ description: "\"仁\"是儒家思想的核心概念，孔子思想的最高范�
 - 仁是内在德性，不是外在规范（与"礼"相对）
 - 仁需要终身修养，孔子自己也不敢说已达到"仁"
 - 仁与"义""礼""智""信"并称五常，但仁是统摄其他四者的核心
-- 《孟子》-孟子 — 孟子发展为"仁政"思想
-- 《中庸》-子思 — "仁者人也"
+- <span class="uw-unresolved" data-target="《孟子》-孟子" title="未解析的双链目标：《孟子》-孟子">《孟子》-孟子</span> — 孟子发展为"仁政"思想
+- <span class="uw-unresolved" data-target="《中庸》-子思" title="未解析的双链目标：《中庸》-子思">《中庸》-子思</span> — "仁者人也"
 
 ## 📖 详细说明
 
@@ -36,11 +36,11 @@ description: "\"仁\"是儒家思想的核心概念，孔子思想的最高范�
 
 ## 🔗 关联知识
 
-- 《论语》-孔子
-- 《孟子》-孟子
-- 《中庸》-子思
-- 《中国哲学简史》-冯友兰
-- 《国学的天空》-傅佩荣
+- <span class="uw-unresolved" data-target="《论语》-孔子" title="未解析的双链目标：《论语》-孔子">《论语》-孔子</span>
+- <span class="uw-unresolved" data-target="《孟子》-孟子" title="未解析的双链目标：《孟子》-孟子">《孟子》-孟子</span>
+- <span class="uw-unresolved" data-target="《中庸》-子思" title="未解析的双链目标：《中庸》-子思">《中庸》-子思</span>
+- <span class="uw-unresolved" data-target="《中国哲学简史》-冯友兰" title="未解析的双链目标：《中国哲学简史》-冯友兰">《中国哲学简史》-冯友兰</span>
+- <span class="uw-unresolved" data-target="《国学的天空》-傅佩荣" title="未解析的双链目标：《国学的天空》-傅佩荣">《国学的天空》-傅佩荣</span>
 - [仁者寿——道德修养与长寿的内在关联](../md-0e939deb/)
 - [养德即养身——道德修养的健康效益](../md-8c90748b/)
 
@@ -92,10 +92,10 @@ description: "\"仁\"是儒家思想的核心概念，孔子思想的最高范�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/仁.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：7 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-478ac28d9338`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：7 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

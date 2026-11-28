@@ -34,8 +34,8 @@ description: "习得性无助（塞利格曼）：当人或动物反复经历不
 - [PERMA模型](../perma-md-06eb2cbd/)
 - [乐观主义](../md-f9943752/)
 - [认知三角](../md-23d9755e/)
-- 《改变心理学的40项研究》-罗杰·霍克
-- 《真实的幸福》-马丁·塞利格曼
+- <span class="uw-unresolved" data-target="《改变心理学的40项研究》-罗杰·霍克" title="未解析的双链目标：《改变心理学的40项研究》-罗杰·霍克">《改变心理学的40项研究》-罗杰·霍克</span>
+- <span class="uw-unresolved" data-target="《真实的幸福》-马丁·塞利格曼" title="未解析的双链目标：《真实的幸福》-马丁·塞利格曼">《真实的幸福》-马丁·塞利格曼</span>
 
 ## 💡 个人理解
 
@@ -79,10 +79,10 @@ description: "习得性无助（塞利格曼）：当人或动物反复经历不
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/习得性无助.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-78d1f111d436`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

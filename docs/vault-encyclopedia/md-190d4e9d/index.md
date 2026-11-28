@@ -45,7 +45,7 @@ description: "\"无善无恶心之体，有善有恶意之动，知善知恶是�
 - [传习录](../md-46547b80/)
 - [知行合一](../md-a870daa5/)
 - [致良知](../md-75571b18/)
-- 事上磨练原则
+- <span class="uw-unresolved" data-target="事上磨练原则" title="未解析的双链目标：事上磨练原则">事上磨练原则</span>
 - [心即理](../md-e553c511/)
 
 ## 📊 元数据
@@ -75,10 +75,10 @@ description: "\"无善无恶心之体，有善有恶意之动，知善知恶是�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/四句教.md`
-- 原始状态：已确立 · 分类：05-Philosophy-Ethics
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-190d4e9de203`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：05-Philosophy-Ethics
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

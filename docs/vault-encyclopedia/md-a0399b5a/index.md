@@ -35,10 +35,10 @@ description: "关键认知：进步和退步之间的差距不是线性的，而
 
 ## 🔗 关联知识
 
-- 长期主义
+- <span class="uw-unresolved" data-target="长期主义" title="未解析的双链目标：长期主义">长期主义</span>
 - [身份驱动习惯法](../md-8a97a0c8/)
-- 《习惯的力量》-查尔斯·杜希格
-- 《原子习惯》-詹姆斯·克利尔
+- <span class="uw-unresolved" data-target="《习惯的力量》-查尔斯·杜希格" title="未解析的双链目标：《习惯的力量》-查尔斯·杜希格">《习惯的力量》-查尔斯·杜希格</span>
+- <span class="uw-unresolved" data-target="《原子习惯》-詹姆斯·克利尔" title="未解析的双链目标：《原子习惯》-詹姆斯·克利尔">《原子习惯》-詹姆斯·克利尔</span>
 
 ## 💡 个人理解
 
@@ -71,10 +71,10 @@ description: "关键认知：进步和退步之间的差距不是线性的，而
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/习惯复利效应.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-a0399b5a1fd2`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

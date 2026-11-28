@@ -13,8 +13,8 @@ description: "负责人: 🏃 健身跑者 | 核心工具: AI大模型, Strava/G
 
 - SOP目标：建立一套以**长期主义**为核心，数据驱动、AI赋能的动态训练与恢复管理系统，用于科学地提升运动表现，预防伤病，并实现身心状态的持续优化。
 - 战略价值：本SOP是“身心赋能”战略支柱的**核心操作系统**。它不仅是关于跑步，更是关于纪律、韧性和数据化自我管理的实践。通过 این SOP，我将跑步从单纯的体能训练，升华为一个可衡量、可优化、可持续的个人成长项目，其培养的意志力将直接反哺我的职业与学习。
-- 核心技能：人工智能专家技能, 心理学专家技能, [数字人生技能](../ai-c792b6fb/)
-- 相关SOP：SOP-18, SOP-22-目标管理
+- 核心技能：<span class="uw-unresolved" data-target="人工智能专家技能" title="未解析的双链目标：人工智能专家技能">人工智能专家技能</span>, <span class="uw-unresolved" data-target="心理学专家技能" title="未解析的双链目标：心理学专家技能">心理学专家技能</span>, [数字人生技能](../ai-c792b6fb/)
+- 相关SOP：SOP-18, <span class="uw-unresolved" data-target="SOP-22-目标管理" title="未解析的双链目标：SOP-22-目标管理">SOP-22-目标管理</span>
 - 数据平台：Strava, Garmin Connect, Keep
 
 ## 📖 详细说明
@@ -29,9 +29,9 @@ description: "负责人: 🏃 健身跑者 | 核心工具: AI大模型, Strava/G
 ## 🔗 关联知识
 
 - [数字人生：AI驱动的个人效能倍增与智能生态构建者](../ai-c792b6fb/)
-- 心理学专家技能
-- 人工智能专家技能
-- SOP-22-目标管理
+- <span class="uw-unresolved" data-target="心理学专家技能" title="未解析的双链目标：心理学专家技能">心理学专家技能</span>
+- <span class="uw-unresolved" data-target="人工智能专家技能" title="未解析的双链目标：人工智能专家技能">人工智能专家技能</span>
+- <span class="uw-unresolved" data-target="SOP-22-目标管理" title="未解析的双链目标：SOP-22-目标管理">SOP-22-目标管理</span>
 
 ## 💡 个人理解
 
@@ -64,10 +64,10 @@ description: "负责人: 🏃 健身跑者 | 核心工具: AI大模型, Strava/G
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/Sop 13 健身跑者 训练计划制定.md`
-- 原始状态：draft · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：6 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-7d790e211795`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：06-Cognitive-Psychology
+- 未解析双链：6 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

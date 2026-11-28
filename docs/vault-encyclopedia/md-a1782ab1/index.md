@@ -39,12 +39,12 @@ description: "偏斜度（Skewness）是纳西姆·塔勒布《随机漫步的�
 - [风险的真面目](../md-f3603262/) — 永久损失风险的定义层
 - [杠铃策略](../md-4f45e4e2/) — 偏斜度优化的结构工具
 - [火鸡问题](../entry-c670762d/) — 负偏斜的"安全记录"幻觉
-- 反脆弱 — 从偏斜度到"从波动中获益"
+- <span class="uw-unresolved" data-target="反脆弱" title="未解析的双链目标：反脆弱">反脆弱</span> — 从偏斜度到"从波动中获益"
 
 ## 📚 参考资料
 
 - 来源：`B6-投资理财-随机漫步的傻瓜_MSH_v3`
-- 原始书籍：《随机漫步的傻瓜》-纳西姆·尼古拉斯·塔勒布
+- 原始书籍：<span class="uw-unresolved" data-target="《随机漫步的傻瓜》-纳西姆·尼古拉斯·塔勒布" title="未解析的双链目标：《随机漫步的傻瓜》-纳西姆·尼古拉斯·塔勒布">《随机漫步的傻瓜》-纳西姆·尼古拉斯·塔勒布</span>
 
 ## 💡 个人理解
 
@@ -78,10 +78,10 @@ description: "偏斜度（Skewness）是纳西姆·塔勒布《随机漫步的�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/偏斜度.md`
-- 原始状态：已确立 · 分类：01-Finance-Investment
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-a1782ab1518d`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：01-Finance-Investment
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

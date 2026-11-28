@@ -42,8 +42,8 @@ description: "来源：《荣格自传》（荣格）《安静》（凯恩）"
 - [内向性格的优势](../md-1068fc46/)
 - [恢复性壁龛](../md-34052cd7/)
 - [情商四维度](../md-f4a16bbb/)
-- 《荣格自传：回忆·梦·思考》-卡尔·荣格
-- 《安静：内向性格的竞争力》-苏珊·凯恩
+- <span class="uw-unresolved" data-target="《荣格自传：回忆·梦·思考》-卡尔·荣格" title="未解析的双链目标：《荣格自传：回忆·梦·思考》-卡尔·荣格">《荣格自传：回忆·梦·思考》-卡尔·荣格</span>
+- <span class="uw-unresolved" data-target="《安静：内向性格的竞争力》-苏珊·凯恩" title="未解析的双链目标：《安静：内向性格的竞争力》-苏珊·凯恩">《安静：内向性格的竞争力》-苏珊·凯恩</span>
 
 ## 💡 个人理解
 
@@ -76,10 +76,10 @@ description: "来源：《荣格自传》（荣格）《安静》（凯恩）"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/人格类型.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-92b995b3734f`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

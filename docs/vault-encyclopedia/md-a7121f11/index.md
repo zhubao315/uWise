@@ -16,7 +16,7 @@ description: "从消费思维到设计思维的认知跃迁，是指数时代个
 - **轻量化资源盘点**：优先利用现有资源与低成本技能，不盲目消费
 - **原型快速迭代**：极简方案 → 试用复盘 → 持续优化，形成"发现—设计—落地—迭代"闭环
 - 指数时代的核心竞争力不再是"拥有什么"，而是"能创造什么"。被动消费者被算法奴役，主动设计者驾驭算法。
-- 来源：《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒
+- 来源：<span class="uw-unresolved" data-target="《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒" title="未解析的双链目标：《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒">《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒</span>
 - 参见：[富足时代的意义危机与精神自救](../md-f7d8f07a/) | [混沌时代：将变革混乱转化为创造动能](../md-bf3e8413/)
 
 ## 📖 详细说明
@@ -33,7 +33,7 @@ description: "从消费思维到设计思维的认知跃迁，是指数时代个
 
 ## 🔗 关联知识
 
-- 《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒
+- <span class="uw-unresolved" data-target="《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒" title="未解析的双链目标：《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒">《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒</span>
 - [富足时代的意义危机与精神自救](../md-f7d8f07a/)
 - [混沌时代：将变革混乱转化为创造动能](../md-bf3e8413/)
 
@@ -73,10 +73,10 @@ description: "从消费思维到设计思维的认知跃迁，是指数时代个
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/从消费思维到设计思维的认知跃迁.md`
-- 原始状态：draft · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-a7121f11807a`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

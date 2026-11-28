@@ -26,11 +26,11 @@ description: "Agent可读性标记：searchkeywords=  - 思维工具；逻辑树
 ## 🔗 关联知识
 
 - [原文来源](../md-9a023335/)
-- 刻意练习：深度学习的生理与认知底层逻辑
-- 峰终定律：记忆自我的压缩算法与体验设计的底层逻辑
+- <span class="uw-unresolved" data-target="刻意练习：深度学习的生理与认知底层逻辑" title="未解析的双链目标：刻意练习：深度学习的生理与认知底层逻辑">刻意练习：深度学习的生理与认知底层逻辑</span>
+- <span class="uw-unresolved" data-target="峰终定律：记忆自我的压缩算法与体验设计的底层逻辑" title="未解析的双链目标：峰终定律：记忆自我的压缩算法与体验设计的底层逻辑">峰终定律：记忆自我的压缩算法与体验设计的底层逻辑</span>
 - [光环效应](../md-4b3c2857/)
 - [给下属写周报](../md-4be76478/)
-- LLM是语言大师逻辑矮子
+- <span class="uw-unresolved" data-target="LLM是语言大师逻辑矮子" title="未解析的双链目标：LLM是语言大师逻辑矮子">LLM是语言大师逻辑矮子</span>
 
 ## 💡 个人理解
 
@@ -74,10 +74,10 @@ description: "Agent可读性标记：searchkeywords=  - 思维工具；逻辑树
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/逻辑树.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-9a023335e411`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

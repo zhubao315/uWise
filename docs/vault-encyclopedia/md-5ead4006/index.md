@@ -46,9 +46,9 @@ description: "从《凤凰架构》提炼的三条可迁移决策智慧：接受
 
 ## 🔗 关联知识
 
-- 《凤凰架构：构建可靠的大型分布式系统》-周志明 · 凤凰架构-周志明
-- 质量属性与架构权衡 · 架构风格与模式 · 微服务粒度
-- 云原生基础设施 · 系统设计
+- <span class="uw-unresolved" data-target="《凤凰架构：构建可靠的大型分布式系统》-周志明" title="未解析的双链目标：《凤凰架构：构建可靠的大型分布式系统》-周志明">《凤凰架构：构建可靠的大型分布式系统》-周志明</span> · <span class="uw-unresolved" data-target="凤凰架构-周志明" title="未解析的双链目标：凤凰架构-周志明">凤凰架构-周志明</span>
+- <span class="uw-unresolved" data-target="质量属性与架构权衡" title="未解析的双链目标：质量属性与架构权衡">质量属性与架构权衡</span> · <span class="uw-unresolved" data-target="架构风格与模式" title="未解析的双链目标：架构风格与模式">架构风格与模式</span> · <span class="uw-unresolved" data-target="微服务粒度" title="未解析的双链目标：微服务粒度">微服务粒度</span>
+- <span class="uw-unresolved" data-target="云原生基础设施" title="未解析的双链目标：云原生基础设施">云原生基础设施</span> · <span class="uw-unresolved" data-target="系统设计" title="未解析的双链目标：系统设计">系统设计</span>
 
 ## 📚 参考资料
 
@@ -83,7 +83,7 @@ description: "从《凤凰架构》提炼的三条可迁移决策智慧：接受
 - **适用**：架构选型、B 端方案权衡、需求冲突裁决、技术说服与面试深挖
 - **不适用**：单一组件内部算法优化；已有强约束的合规一致性（不能"主动牺牲"法规要求）；与业务目标无关的纯技术炫技
 - **误用**：① 把"取舍"当不做决策的借口；② 用"演进"拒绝一切前瞻设计；③ 局部降级做成核心业务可静默失败
-- **组合**：与 质量属性与架构权衡 连用做取舍表；与 微服务粒度 连用做拆分触发条件
+- **组合**：与 <span class="uw-unresolved" data-target="质量属性与架构权衡" title="未解析的双链目标：质量属性与架构权衡">质量属性与架构权衡</span> 连用做取舍表；与 <span class="uw-unresolved" data-target="微服务粒度" title="未解析的双链目标：微服务粒度">微服务粒度</span> 连用做拆分触发条件
 
 ## 📊 元数据
 
@@ -114,10 +114,10 @@ description: "从《凤凰架构》提炼的三条可迁移决策智慧：接受
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/可消亡部件·架构演进·分布式取舍——《凤凰架构》三条智慧.md`
-- 原始状态：已确立 · 分类：02-AI-Architecture
-- 断链别名（无目标，保留为文本）：9 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-5ead40066664`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：02-AI-Architecture
+- 未解析双链：9 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

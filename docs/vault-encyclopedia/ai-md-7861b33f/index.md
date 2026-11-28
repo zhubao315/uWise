@@ -66,7 +66,7 @@ AI 正在瓦解传统层级组织，企业正逼近一个临界点——从层�
 - AI-Co_Context_Scaffolds — 人机双脑协同范式，与本框架中"超级个体+AI 智能体"一致
 - [Agent编排](../agent-md-78745e36/) — 四类智能体协同的技术实现基础
 - [成事三大杠杆](../md-3d7b3375/) — 工具杠杆（AI）在此框架中最大化应用
-- uSkill — 技能自动化与 Agent 生态构建
+- <span class="uw-unresolved" data-target="uSkill" title="未解析的双链目标：uSkill">uSkill</span> — 技能自动化与 Agent 生态构建
 - [媒介环境感知协议](../md-ec167e39/) — 信息感知与过滤的协议层思路
 
 ---
@@ -93,10 +93,10 @@ AI 正在瓦解传统层级组织，企业正逼近一个临界点——从层�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/组织奇点与AI原生公司架构.md`
-- 原始状态：published · 分类：02-AI-Architecture
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-7861b33fccff`（稳定 ID，不暴露私库路径）
+- 状态：published · 分类：02-AI-Architecture
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

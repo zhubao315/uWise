@@ -20,9 +20,9 @@ description: "投资中最重要的不是技术，而是心态。心态决定了
 
 ### 概念解释
 投资中最重要的不是技术，而是心态。心态决定了投资者在面对波动、亏损和诱惑时的应对方式。
-- 反共识投资的哲学基础 — 逆向投资的心态基础
+- <span class="uw-unresolved" data-target="反共识投资的哲学基础" title="未解析的双链目标：反共识投资的哲学基础">反共识投资的哲学基础</span> — 逆向投资的心态基础
 - [止损的哲学](../md-32921696/) — 承认失败的心态修炼
-- 恐惧与贪婪的钟摆 — 心态修炼的理论基础
+- <span class="uw-unresolved" data-target="恐惧与贪婪的钟摆" title="未解析的双链目标：恐惧与贪婪的钟摆">恐惧与贪婪的钟摆</span> — 心态修炼的理论基础
 
 
 ### 实际应用
@@ -31,9 +31,9 @@ description: "投资中最重要的不是技术，而是心态。心态决定了
 
 ## 🔗 关联知识
 
-- 反共识投资的哲学基础
+- <span class="uw-unresolved" data-target="反共识投资的哲学基础" title="未解析的双链目标：反共识投资的哲学基础">反共识投资的哲学基础</span>
 - [止损的哲学](../md-32921696/)
-- 恐惧与贪婪的钟摆
+- <span class="uw-unresolved" data-target="恐惧与贪婪的钟摆" title="未解析的双链目标：恐惧与贪婪的钟摆">恐惧与贪婪的钟摆</span>
 
 ## 📚 参考资料
 
@@ -71,10 +71,10 @@ description: "投资中最重要的不是技术，而是心态。心态决定了
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/投资者心态修炼.md`
-- 原始状态：draft · 分类：01-Finance-Investment
-- 断链别名（无目标，保留为文本）：4 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-76aa2247f863`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：01-Finance-Investment
+- 未解析双链：4 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

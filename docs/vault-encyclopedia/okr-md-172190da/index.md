@@ -28,14 +28,14 @@ OKR（Objectives & Key Results）是把**战略意图**翻译成**可度量结�
 
 ## 应用场景
 
-- 个人：季度 OKR 管理人生主线（见 ∑ 模板索引 的 OKR 模板）。
+- 个人：季度 OKR 管理人生主线（见 <span class="uw-unresolved" data-target="∑ 模板索引" title="未解析的双链目标：∑ 模板索引">∑ 模板索引</span> 的 OKR 模板）。
 - 团队：对齐与优先级排序。
-- 与 [战略OKR管理](../okr-md-172190da/) 的季度复盘、优先议题排序 联动。
+- 与 [战略OKR管理](../okr-md-172190da/) 的季度复盘、<span class="uw-unresolved" data-target="优先议题排序" title="未解析的双链目标：优先议题排序">优先议题排序</span> 联动。
 
 ## 相关
 
-- 优先议题排序 · 大胆目标的设定方法 · 四大核心资产规划
-- ∑ 产出层
+- <span class="uw-unresolved" data-target="优先议题排序" title="未解析的双链目标：优先议题排序">优先议题排序</span> · <span class="uw-unresolved" data-target="大胆目标的设定方法" title="未解析的双链目标：大胆目标的设定方法">大胆目标的设定方法</span> · <span class="uw-unresolved" data-target="四大核心资产规划" title="未解析的双链目标：四大核心资产规划">四大核心资产规划</span>
+- <span class="uw-unresolved" data-target="∑ 产出层" title="未解析的双链目标：∑ 产出层">∑ 产出层</span>
 
 ---
 
@@ -56,10 +56,10 @@ OKR（Objectives & Key Results）是把**战略意图**翻译成**可度量结�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/战略OKR管理.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：6 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-172190daf5c2`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：6 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

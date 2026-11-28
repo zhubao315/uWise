@@ -36,11 +36,11 @@ description: "稻盛和夫创立的管理模式：把公司分成小的独立核
 
 ## 🔗 关联知识
 
-- 稻盛和夫的人生哲学
-- 人生方程式
+- <span class="uw-unresolved" data-target="稻盛和夫的人生哲学" title="未解析的双链目标：稻盛和夫的人生哲学">稻盛和夫的人生哲学</span>
+- <span class="uw-unresolved" data-target="人生方程式" title="未解析的双链目标：人生方程式">人生方程式</span>
 - [工作即修行](../md-f33555a5/)
 - [极度透明原则](../md-776a1af9/)
-- 利他即利己-真正的利他最终回归利己
+- <span class="uw-unresolved" data-target="利他即利己-真正的利他最终回归利己" title="未解析的双链目标：利他即利己-真正的利他最终回归利己">利他即利己-真正的利他最终回归利己</span>
 
 ## 📊 元数据
 
@@ -69,10 +69,10 @@ description: "稻盛和夫创立的管理模式：把公司分成小的独立核
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/阿米巴经营.md`
-- 原始状态：已确立 · 分类：04-Business-Management
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-11cb911f3e5a`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：04-Business-Management
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

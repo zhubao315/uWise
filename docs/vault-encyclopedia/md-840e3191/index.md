@@ -51,7 +51,7 @@ description: "通用语言（Ubiquitous Language）是领域驱动设计（DDD�
 
 - [限界上下文](../md-aaac6830/)
 - [领域驱动设计](../md-e02beb58/)
-- 《领域驱动设计：软件核心复杂性应对之道》-Eric Evans
+- <span class="uw-unresolved" data-target="《领域驱动设计：软件核心复杂性应对之道》-Eric Evans" title="未解析的双链目标：《领域驱动设计：软件核心复杂性应对之道》-Eric Evans">《领域驱动设计：软件核心复杂性应对之道》-Eric Evans</span>
 
 ## 📊 元数据
 
@@ -80,10 +80,10 @@ description: "通用语言（Ubiquitous Language）是领域驱动设计（DDD�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/通用语言.md`
-- 原始状态：已确立 · 分类：02-AI-Architecture
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-840e319136e4`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：02-AI-Architecture
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

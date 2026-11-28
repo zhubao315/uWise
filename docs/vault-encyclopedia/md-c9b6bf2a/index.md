@@ -31,8 +31,8 @@ description: "\"Pain + Reflection = Progress\"是瑞·达利欧在《原则》�
 
 ## 🔗 关联知识
 
-- 痛苦反思进步公式——把每次挫折转化为原则
-- 系统化决策框架
+- <span class="uw-unresolved" data-target="痛苦反思进步公式——把每次挫折转化为原则" title="未解析的双链目标：痛苦反思进步公式——把每次挫折转化为原则">痛苦反思进步公式——把每次挫折转化为原则</span>
+- <span class="uw-unresolved" data-target="系统化决策框架" title="未解析的双链目标：系统化决策框架">系统化决策框架</span>
 - [极度透明原则](../md-776a1af9/)
 - [五步闭环法——从目标到执行的通用问题解决框架](../md-2249fa2c/)
 - [疼痛是信号，不是需要克服的障碍](../md-0f86d0eb/)
@@ -65,10 +65,10 @@ description: "\"Pain + Reflection = Progress\"是瑞·达利欧在《原则》�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/痛苦+反思=进步.md`
-- 原始状态：已确立 · 分类：01-Finance-Investment
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-c9b6bf2a4a12`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：01-Finance-Investment
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

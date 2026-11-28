@@ -16,8 +16,8 @@ description: "技术奇点（Technological Singularity）是指人工智能超�
 - 通向技术奇点的可能路径包括：（1）全脑仿真——完整扫描并复制人脑结构；（2）AI递归自我改进——机器学习系统不断优化自身算法；（3）人机融合——通过脑机接口将人类认知与机器计算能力结合。库兹韦尔特别强调"人机融合"路径，认为人类不会被AI取代，而是与AI共生进化。
 - 批评者认为指数增长不可能无限持续，物理定律终将设限。另有学者指出，智能的"质"不能简单用"量"来衡量，模拟神经元不等于理解意识。TESCREAL框架的批评者则认为，奇点叙事本质上是一种技术乌托邦信仰，忽视了社会权力结构和伦理维度。
 - 无论奇点是否到来，这一概念已经深刻影响了AI安全研究、投资决策和公共政策讨论。理解奇点假说，有助于我们在AI快速发展的时代保持清醒的判断力。
-- 关联：[加速回报定律](../md-892d53b0/)、[超级智能](../md-48b3dbe0/)、[人机融合](../md-4af6b0aa/)、碳硅共生、《奇点更近》-雷·库兹韦尔
-- *关联：书单-2026年度*
+- 关联：[加速回报定律](../md-892d53b0/)、[超级智能](../md-48b3dbe0/)、[人机融合](../md-4af6b0aa/)、<span class="uw-unresolved" data-target="碳硅共生" title="未解析的双链目标：碳硅共生">碳硅共生</span>、<span class="uw-unresolved" data-target="《奇点更近》-雷·库兹韦尔" title="未解析的双链目标：《奇点更近》-雷·库兹韦尔">《奇点更近》-雷·库兹韦尔</span>
+- *关联：<span class="uw-unresolved" data-target="书单-2026年度" title="未解析的双链目标：书单-2026年度">书单-2026年度</span>*
 
 ## 📖 详细说明
 
@@ -35,9 +35,9 @@ description: "技术奇点（Technological Singularity）是指人工智能超�
 - [加速回报定律](../md-892d53b0/)
 - [超级智能](../md-48b3dbe0/)
 - [人机融合](../md-4af6b0aa/)
-- 碳硅共生
-- 《奇点更近》-雷·库兹韦尔
-- 书单-2026年度
+- <span class="uw-unresolved" data-target="碳硅共生" title="未解析的双链目标：碳硅共生">碳硅共生</span>
+- <span class="uw-unresolved" data-target="《奇点更近》-雷·库兹韦尔" title="未解析的双链目标：《奇点更近》-雷·库兹韦尔">《奇点更近》-雷·库兹韦尔</span>
+- <span class="uw-unresolved" data-target="书单-2026年度" title="未解析的双链目标：书单-2026年度">书单-2026年度</span>
 
 ## 💡 个人理解
 
@@ -70,10 +70,10 @@ description: "技术奇点（Technological Singularity）是指人工智能超�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/技术奇点.md`
-- 原始状态：已确立 · 分类：02-AI-Architecture
-- 断链别名（无目标，保留为文本）：6 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-c79855c705ec`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：02-AI-Architecture
+- 未解析双链：6 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

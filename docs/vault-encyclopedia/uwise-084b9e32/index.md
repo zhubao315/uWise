@@ -78,11 +78,11 @@ description: "分析时间: 2026-06-17 | 词条总量: 2,503 篇"
 
 | 断链目标 | 次数 | 说明 |
 |----------|------|------|
-| `Home` | 677x | 00-META 入口文件 |
-| `书单-2026年度` | 77x | 02-BUILD 书单 |
-| `2024-11-01` | 28x | 日记文件 |
-| `《爱的艺术》-艾里希·弗洛姆` | 25x | 07-SOURCES 书籍笔记 |
-| `《道德经》-老子` | 23x | 07-SOURCES 书籍笔记 |
+| `<span class="uw-unresolved" data-target="Home" title="未解析的双链目标：Home">Home</span>` | 677x | 00-META 入口文件 |
+| `<span class="uw-unresolved" data-target="书单-2026年度" title="未解析的双链目标：书单-2026年度">书单-2026年度</span>` | 77x | 02-BUILD 书单 |
+| `<span class="uw-unresolved" data-target="2024-11-01" title="未解析的双链目标：2024-11-01">2024-11-01</span>` | 28x | 日记文件 |
+| `<span class="uw-unresolved" data-target="《爱的艺术》-艾里希·弗洛姆" title="未解析的双链目标：《爱的艺术》-艾里希·弗洛姆">《爱的艺术》-艾里希·弗洛姆</span>` | 25x | 07-SOURCES 书籍笔记 |
+| `<span class="uw-unresolved" data-target="《道德经》-老子" title="未解析的双链目标：《道德经》-老子">《道德经》-老子</span>` | 23x | 07-SOURCES 书籍笔记 |
 
 > **结论**: 34% 断链率看似高，但均指向 01-BRAIN/07-SOURCES 等外部文件，词条间的内部链接健康度良好。这是设计如此——uWise 词条需要链接回源文件以保持溯源关系。
 
@@ -207,10 +207,10 @@ description: "分析时间: 2026-06-17 | 词条总量: 2,503 篇"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条质量分析报告.md`
-- 原始状态：未标注 · 分类：未标注
-- 断链别名（无目标，保留为文本）：5 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-084b9e32bcf6`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：uncategorized
+- 未解析双链：5 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

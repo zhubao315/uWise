@@ -52,8 +52,8 @@ description: "视频精选《易经》三十句金句，从\"天道根基\"\"修
 
 - [太极思维](../md-c45ecd8f/)
 - [阴阳辩证](../md-fb8faca8/)
-- 《周易》-廖名春（群书笔记）
-- 东方智慧原则手册——儒道佛30条核心原则
+- <span class="uw-unresolved" data-target="《周易》-廖名春" title="未解析的双链目标：《周易》-廖名春">《周易》-廖名春</span>（群书笔记）
+- <span class="uw-unresolved" data-target="东方智慧原则手册——儒道佛30条核心原则" title="未解析的双链目标：东方智慧原则手册——儒道佛30条核心原则">东方智慧原则手册——儒道佛30条核心原则</span>
 
 ## 相关
 
@@ -82,10 +82,10 @@ description: "视频精选《易经》三十句金句，从\"天道根基\"\"修
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/易经三十句金句三层解读.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-682cbd9a5716`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -36,7 +36,7 @@ description: "\"火候\"是丹道修炼中最核心也最隐秘的概念——�
 - [万古丹经王](../md-202e953f/)
 - Zone 2有氧训练
 - 训练周期化
-- 《周易参同契》-魏伯阳
+- <span class="uw-unresolved" data-target="《周易参同契》-魏伯阳" title="未解析的双链目标：《周易参同契》-魏伯阳">《周易参同契》-魏伯阳</span>
 
 ## 💡 个人理解
 
@@ -69,10 +69,10 @@ description: "\"火候\"是丹道修炼中最核心也最隐秘的概念——�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/火候.md`
-- 原始状态：已确立 · 分类：07-Biology-Health
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-863a2d0f1500`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：07-Biology-Health
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

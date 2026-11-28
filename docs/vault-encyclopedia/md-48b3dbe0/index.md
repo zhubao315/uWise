@@ -16,8 +16,8 @@ description: "超级智能（Superintelligence）是指在所有认知领域—�
 - 超级智能面临的核心挑战是"控制问题"（Control Problem）：如何确保一个比人类聪明得多的系统始终按照人类的意愿行事？博斯特罗姆警告，一旦超级智能出现，人类可能只有一次机会来设定其目标系统。如果第一次就搞错了，后果可能是灾难性的、不可逆的。
 - 博斯特罗姆提出了两个关键论题来支撑其分析。正交性论题认为智能水平与最终目标在逻辑上是独立的——一个超级智能可以有任何目标，包括对人类有害的目标。工具性趋同认为无论最终目标是什么，足够智能的系统都会追求自我保护、资源获取等"工具性"子目标。
 - 随着大语言模型（LLM）的快速发展，超级智能的讨论从纯理论走向现实关切。OpenAI、Anthropic等机构投入大量资源研究AI对齐（AI Alignment），试图确保未来更强大的AI系统与人类利益保持一致。然而，AI对齐问题至今没有公认的解决方案。
-- 关联：[技术奇点](../md-c79855c7/)、[存在性风险](../md-c3044f63/)、AI能力边界、《超级智能》-尼克·博斯特罗姆
-- *关联：书单-2026年度*
+- 关联：[技术奇点](../md-c79855c7/)、[存在性风险](../md-c3044f63/)、<span class="uw-unresolved" data-target="AI能力边界" title="未解析的双链目标：AI能力边界">AI能力边界</span>、<span class="uw-unresolved" data-target="《超级智能》-尼克·博斯特罗姆" title="未解析的双链目标：《超级智能》-尼克·博斯特罗姆">《超级智能》-尼克·博斯特罗姆</span>
+- *关联：<span class="uw-unresolved" data-target="书单-2026年度" title="未解析的双链目标：书单-2026年度">书单-2026年度</span>*
 
 ## 📖 详细说明
 
@@ -34,9 +34,9 @@ description: "超级智能（Superintelligence）是指在所有认知领域—�
 
 - [技术奇点](../md-c79855c7/)
 - [存在性风险](../md-c3044f63/)
-- AI能力边界
-- 《超级智能》-尼克·博斯特罗姆
-- 书单-2026年度
+- <span class="uw-unresolved" data-target="AI能力边界" title="未解析的双链目标：AI能力边界">AI能力边界</span>
+- <span class="uw-unresolved" data-target="《超级智能》-尼克·博斯特罗姆" title="未解析的双链目标：《超级智能》-尼克·博斯特罗姆">《超级智能》-尼克·博斯特罗姆</span>
+- <span class="uw-unresolved" data-target="书单-2026年度" title="未解析的双链目标：书单-2026年度">书单-2026年度</span>
 
 ## 💡 个人理解
 
@@ -69,10 +69,10 @@ description: "超级智能（Superintelligence）是指在所有认知领域—�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/超级智能.md`
-- 原始状态：已确立 · 分类：02-AI-Architecture
-- 断链别名（无目标，保留为文本）：6 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-48b3dbe03f8b`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：02-AI-Architecture
+- 未解析双链：6 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -40,7 +40,7 @@ description: "知行鸿沟，是指知识分子在认知层面清楚地看到问
 
 ## 🔗 关联知识
 
-- 《北京，1912》-穆儒丐
+- <span class="uw-unresolved" data-target="《北京，1912》-穆儒丐" title="未解析的双链目标：《北京，1912》-穆儒丐">《北京，1912》-穆儒丐</span>
 - [阶层坠落与精神危机](../md-d879e3ac/)
 - [写作作为生存方式](../md-9b84198f/)
 - [边缘人的相互辨认](../md-99a2d341/)
@@ -78,10 +78,10 @@ description: "知行鸿沟，是指知识分子在认知层面清楚地看到问
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/知行鸿沟.md`
-- 原始状态：已确立 · 分类：08-Arts-Culture
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-272552c8c766`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：08-Arts-Culture
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

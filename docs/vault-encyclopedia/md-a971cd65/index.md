@@ -13,7 +13,7 @@ description: "人体运动时有三大供能系统：磷酸原系统(ATP-CP，6-
 
 - 人体运动时有三大供能系统：磷酸原系统(ATP-CP，6-8秒极限)、糖酵解系统(无氧，30秒-2分钟)、有氧氧化系统(长时间)，三者协同工作，主导地位随运动强度和时间切换。
 - 1.短跑冲刺依赖磷酸原系统;2.400-800米跑依赖糖酵解系统;3.5公里以上以有氧系统为主;4.训练目的是优化各系统的切换效率。
-- 《跑步的科学》-皮特·容克
+- <span class="uw-unresolved" data-target="《跑步的科学》-皮特·容克" title="未解析的双链目标：《跑步的科学》-皮特·容克">《跑步的科学》-皮特·容克</span>
 
 ## 📖 详细说明
 
@@ -27,7 +27,7 @@ description: "人体运动时有三大供能系统：磷酸原系统(ATP-CP，6-
 
 ## 🔗 关联知识
 
-- 《跑步的科学》-皮特·容克
+- <span class="uw-unresolved" data-target="《跑步的科学》-皮特·容克" title="未解析的双链目标：《跑步的科学》-皮特·容克">《跑步的科学》-皮特·容克</span>
 
 ## 📊 元数据
 
@@ -39,7 +39,7 @@ description: "人体运动时有三大供能系统：磷酸原系统(ATP-CP，6-
 
 ## 相关
 
-- PDCA循环
+- <span class="uw-unresolved" data-target="PDCA循环" title="未解析的双链目标：PDCA循环">PDCA循环</span>
 - [PTSD](../ptsd-md-a2e1522a/)
 - [uWise](../uwise-md-5c3e1a0e/)
 - [万事万物皆有代价](../md-357588bc/)
@@ -64,10 +64,10 @@ description: "人体运动时有三大供能系统：磷酸原系统(ATP-CP，6-
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/三大能量系统模型.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-a971cd659b2f`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

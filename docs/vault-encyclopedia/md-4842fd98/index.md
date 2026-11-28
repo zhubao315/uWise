@@ -26,7 +26,7 @@ description: "长寿逃逸速度：如何利用当代健康管理熬过科技奇
 
 ## 🔗 关联知识
 
-- 《Life Force》-彼得·戴曼迪斯
+- <span class="uw-unresolved" data-target="《Life Force》-彼得·戴曼迪斯" title="未解析的双链目标：《Life Force》-彼得·戴曼迪斯">《Life Force》-彼得·戴曼迪斯</span>
 - [精准医疗3.0与传统应对型医学的范式转移](../3-0-md-5ed6ed2b/)
 - [健康寿命（Healthspan）与疾病终末期快速压缩曲线假说](../healthspan-md-6d94b084/)
 
@@ -61,10 +61,10 @@ description: "长寿逃逸速度：如何利用当代健康管理熬过科技奇
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/长寿逃逸速度：如何利用当代健康管理熬过科技奇点前夜.md`
-- 原始状态：已确立 · 分类：02-AI-Architecture
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-4842fd98b82b`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：02-AI-Architecture
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

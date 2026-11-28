@@ -37,11 +37,11 @@ description: "\"真正的力量不需要昂贵的装备和复杂的计划，只�
 
 ## 🔗 关联知识
 
-- 《囚徒健身》-保罗·威德
+- <span class="uw-unresolved" data-target="《囚徒健身》-保罗·威德" title="未解析的双链目标：《囚徒健身》-保罗·威德">《囚徒健身》-保罗·威德</span>
 - [自重训练六艺](../md-3258b534/)
-- 自重训练 vs 器械训练的优劣对比
+- <span class="uw-unresolved" data-target="自重训练 vs 器械训练的优劣对比" title="未解析的双链目标：自重训练 vs 器械训练的优劣对比">自重训练 vs 器械训练的优劣对比</span>
 - [渐进式超负荷模型](../md-8c1d078f/)
-- 《硬派健身》-斌卡
+- <span class="uw-unresolved" data-target="《硬派健身》-斌卡" title="未解析的双链目标：《硬派健身》-斌卡">《硬派健身》-斌卡</span>
 - [斯多葛主义](../md-980bcbc0/)
 
 ## 📚 参考资料
@@ -80,10 +80,10 @@ description: "\"真正的力量不需要昂贵的装备和复杂的计划，只�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/极简健身哲学.md`
-- 原始状态：draft · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-bd36d57060ed`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

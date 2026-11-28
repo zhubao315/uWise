@@ -23,10 +23,10 @@ AI产品设计中理解用户认知模式、决策偏见和情感需求的方法
 
 ## 🔗 关联知识
 
-- 心理学专家技能
-- 认知偏差与多元思维：如何避免“锤子思维”
-- 产品经理技能
-- 《思考，快与慢》-丹尼尔·卡尼曼
+- <span class="uw-unresolved" data-target="心理学专家技能" title="未解析的双链目标：心理学专家技能">心理学专家技能</span>
+- <span class="uw-unresolved" data-target="认知偏差与多元思维：如何避免“锤子思维”" title="未解析的双链目标：认知偏差与多元思维：如何避免“锤子思维”">认知偏差与多元思维：如何避免“锤子思维”</span>
+- <span class="uw-unresolved" data-target="产品经理技能" title="未解析的双链目标：产品经理技能">产品经理技能</span>
+- <span class="uw-unresolved" data-target="《思考，快与慢》-丹尼尔·卡尼曼" title="未解析的双链目标：《思考，快与慢》-丹尼尔·卡尼曼">《思考，快与慢》-丹尼尔·卡尼曼</span>
 
 ## 📊 元数据
 
@@ -55,10 +55,10 @@ AI产品设计中理解用户认知模式、决策偏见和情感需求的方法
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/用户心理研究.md`
-- 原始状态：已确立 · 分类：04-Business-Management
-- 断链别名（无目标，保留为文本）：4 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-4bb51c0ca6de`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：04-Business-Management
+- 未解析双链：4 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

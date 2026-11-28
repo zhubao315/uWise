@@ -37,9 +37,9 @@ description: "在长寿时代，无形资产比有形资产更重要。无形资
 
 - 百岁人生
 - [终身学习](../md-3f780209/)
-- 心理韧性
+- <span class="uw-unresolved" data-target="心理韧性" title="未解析的双链目标：心理韧性">心理韧性</span>
 - [成长型思维](../md-20d2ef32/)
-- 能力资产化（MAPS）
+- <span class="uw-unresolved" data-target="能力资产化（MAPS）" title="未解析的双链目标：能力资产化（MAPS）">能力资产化（MAPS）</span>
 
 ## 📊 元数据
 
@@ -68,10 +68,10 @@ description: "在长寿时代，无形资产比有形资产更重要。无形资
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/无形资产投资.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-1eb25af4612c`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -40,8 +40,8 @@ description: "在自动化和 AI 时代，注意力不是可无限占用的资�
 - [深度工作-节奏模式](../md-1c804c20/)
 - [90分钟冲刺取代马拉松式工作](../90-md-20aed0d7/)
 - [冥想](../md-6092071b/)
-- 用仪式习惯替代意志力驱动
-- 心流：最优体验心理学
+- <span class="uw-unresolved" data-target="用仪式习惯替代意志力驱动" title="未解析的双链目标：用仪式习惯替代意志力驱动">用仪式习惯替代意志力驱动</span>
+- <span class="uw-unresolved" data-target="《心流》-米哈里·契克森米哈赖" title="未解析的双链目标：《心流》-米哈里·契克森米哈赖">心流：最优体验心理学</span>
 
 ## 📚 参考资料
 
@@ -80,10 +80,10 @@ description: "在自动化和 AI 时代，注意力不是可无限占用的资�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/深度工作-注意力护城河.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-9b177e148ba1`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

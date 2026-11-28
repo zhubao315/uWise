@@ -27,14 +27,14 @@ description: "-   要点 1："
 本笔记由 [Agent] 基于骨架模板补全，待用户后续追加深度内容。
 ## 🔗 关联知识
 
-- 《动手学深度学习》-阿斯顿·张
-- 《AI产品经理手册》-待定
-- 《机器学习》-周志华
-- 《深度学习》-伊恩·古德费洛
-- 《统计学习方法》-李航
-- 《AI 3.0》-梅拉妮·米歇尔
-- 《人工智能》-李开复 王咏刚
-- 《强化学习》-Richard Sutton
+- <span class="uw-unresolved" data-target="《动手学深度学习》-阿斯顿·张" title="未解析的双链目标：《动手学深度学习》-阿斯顿·张">《动手学深度学习》-阿斯顿·张</span>
+- <span class="uw-unresolved" data-target="《AI产品经理手册》-待定" title="未解析的双链目标：《AI产品经理手册》-待定">《AI产品经理手册》-待定</span>
+- <span class="uw-unresolved" data-target="《机器学习》-周志华" title="未解析的双链目标：《机器学习》-周志华">《机器学习》-周志华</span>
+- <span class="uw-unresolved" data-target="《深度学习》-伊恩·古德费洛" title="未解析的双链目标：《深度学习》-伊恩·古德费洛">《深度学习》-伊恩·古德费洛</span>
+- <span class="uw-unresolved" data-target="《统计学习方法》-李航" title="未解析的双链目标：《统计学习方法》-李航">《统计学习方法》-李航</span>
+- <span class="uw-unresolved" data-target="《AI 3.0》-梅拉妮·米歇尔" title="未解析的双链目标：《AI 3.0》-梅拉妮·米歇尔">《AI 3.0》-梅拉妮·米歇尔</span>
+- <span class="uw-unresolved" data-target="《人工智能》-李开复 王咏刚" title="未解析的双链目标：《人工智能》-李开复 王咏刚">《人工智能》-李开复 王咏刚</span>
+- <span class="uw-unresolved" data-target="《强化学习》-Richard Sutton" title="未解析的双链目标：《强化学习》-Richard Sutton">《强化学习》-Richard Sutton</span>
 
 ## 💡 个人理解
 
@@ -85,10 +85,10 @@ description: "-   要点 1："
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/机器学习.md`
-- 原始状态：已确立 · 分类：02-AI-Architecture
-- 断链别名（无目标，保留为文本）：8 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-937b75e361cf`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：02-AI-Architecture
+- 未解析双链：8 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

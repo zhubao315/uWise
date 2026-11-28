@@ -1,11 +1,11 @@
 ---
 title: "uRead"
-description: "组件正本路由页 · 完整档案见 uLife OS 组件体系 §四 · 项目正本见 uRead-项目分析与路线图"
+description: "组件正本路由页 · 完整档案见 <span class=\"uw-unresolved\" data-target=\"uLife OS 组件体系\" title=\"未解析的双链目标：uLife OS 组件体系\">uLife OS 组件体系</span> §四 · 项目正本见 <span class=\"uw-unresolved\" data-target=\"uRea"
 ---
 
 # uRead
 
-> **组件正本路由页** · 完整档案见 uLife OS 组件体系 §四 · 项目正本见 uRead-项目分析与路线图
+> **组件正本路由页** · 完整档案见 <span class="uw-unresolved" data-target="uLife OS 组件体系" title="未解析的双链目标：uLife OS 组件体系">uLife OS 组件体系</span> §四 · 项目正本见 <span class="uw-unresolved" data-target="uRead-项目分析与路线图" title="未解析的双链目标：uRead-项目分析与路线图">uRead-项目分析与路线图</span>
 
 ## 一句话定位
 
@@ -14,7 +14,7 @@ uRead（知识层）把读书、语音、研报等**非结构化输入**蒸馏�
 ## 现状（2026-09-17）
 
 - 项目笔记 **69 篇**；读书笔记资产 **1,540 篇**（`07-SOURCES/71-书籍`）
-- 产品化 **0**（见 uRead读书笔记产品化项目）
+- 产品化 **0**（见 <span class="uw-unresolved" data-target="uRead读书笔记产品化项目" title="未解析的双链目标：uRead读书笔记产品化项目">uRead读书笔记产品化项目</span>）
 - 双索引：向量 + 图谱；在跑"语音/阅读 → 自动蒸馏"闭环
 
 ## 关键指标与计划
@@ -28,9 +28,9 @@ uRead（知识层）把读书、语音、研报等**非结构化输入**蒸馏�
 
 ## 关联
 
-- 体系：uLife OS 组件体系 · 我的项目
-- 项目正本：uRead-项目分析与路线图 · uRead读书笔记产品化项目 · 阅读流水线
-- 方向：人生设计-朱宝（变现）· 收入变现执行台账
+- 体系：<span class="uw-unresolved" data-target="uLife OS 组件体系" title="未解析的双链目标：uLife OS 组件体系">uLife OS 组件体系</span> · <span class="uw-unresolved" data-target="我的项目" title="未解析的双链目标：我的项目">我的项目</span>
+- 项目正本：<span class="uw-unresolved" data-target="uRead-项目分析与路线图" title="未解析的双链目标：uRead-项目分析与路线图">uRead-项目分析与路线图</span> · <span class="uw-unresolved" data-target="uRead读书笔记产品化项目" title="未解析的双链目标：uRead读书笔记产品化项目">uRead读书笔记产品化项目</span> · <span class="uw-unresolved" data-target="阅读流水线" title="未解析的双链目标：阅读流水线">阅读流水线</span>
+- 方向：<span class="uw-unresolved" data-target="人生设计-朱宝" title="未解析的双链目标：人生设计-朱宝">人生设计-朱宝</span>（变现）· <span class="uw-unresolved" data-target="收入变现执行台账" title="未解析的双链目标：收入变现执行台账">收入变现执行台账</span>
 
 ---
 
@@ -51,10 +51,10 @@ uRead（知识层）把读书、语音、研报等**非结构化输入**蒸馏�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/uRead.md`
-- 原始状态：已确立 · 分类：来源待考（uWise 词条，无 01-BRAIN 对应）
-- 断链别名（无目标，保留为文本）：10 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-7625c8e6249e`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：concepts
+- 未解析双链：10 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -34,9 +34,9 @@ description: "摄影本质上是「用光线作画」。光质（软硬）和光
 
 ## 相关
 
-- 曝光三角
+- <span class="uw-unresolved" data-target="曝光三角" title="未解析的双链目标：曝光三角">曝光三角</span>
 - [视觉语言](../md-63647ef2/)
-- 色彩理论与摄影
+- <span class="uw-unresolved" data-target="色彩理论与摄影" title="未解析的双链目标：色彩理论与摄影">色彩理论与摄影</span>
 
 ## 常见误区
 
@@ -69,10 +69,10 @@ description: "摄影本质上是「用光线作画」。光质（软硬）和光
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/光质与光位.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-9c7a896c0dba`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

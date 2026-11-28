@@ -40,9 +40,9 @@ description: "广为流传的\"亚硫酸盐致头痛\"缺乏科学依据，真�
 
 ## 🔗 关联知识
 
-- 《看图学葡萄酒（大师典藏版）》-玛德琳·帕克特 贾斯汀·海默克
+- <span class="uw-unresolved" data-target="《看图学葡萄酒（大师典藏版）》-玛德琳·帕克特 贾斯汀·海默克" title="未解析的双链目标：《看图学葡萄酒（大师典藏版）》-玛德琳·帕克特 贾斯汀·海默克">《看图学葡萄酒（大师典藏版）》-玛德琳·帕克特 贾斯汀·海默克</span>
 - [最简单方案最有效](../md-0f417058/)
-- 伪知识识别术
+- <span class="uw-unresolved" data-target="伪知识识别术" title="未解析的双链目标：伪知识识别术">伪知识识别术</span>
 - [好解释思维——用可检验性对抗认知自满](../md-027bf46f/)
 
 ## 📊 元数据
@@ -72,10 +72,10 @@ description: "广为流传的\"亚硫酸盐致头痛\"缺乏科学依据，真�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/酒后头痛的祛魅.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-82f657f1f66e`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

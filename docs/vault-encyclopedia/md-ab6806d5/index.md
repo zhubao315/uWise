@@ -54,8 +54,8 @@ description: "《遵生八笺》是明代养生百科全书，将养生分为八
 
 - [养性十大要](../md-4a919c5f/)
 - 四时养生
-- 生活美学大师
-- 《遵生八笺》-高濂
+- <span class="uw-unresolved" data-target="生活美学大师" title="未解析的双链目标：生活美学大师">生活美学大师</span>
+- <span class="uw-unresolved" data-target="《遵生八笺》-高濂" title="未解析的双链目标：《遵生八笺》-高濂">《遵生八笺》-高濂</span>
 
 ## 📊 元数据
 
@@ -84,10 +84,10 @@ description: "《遵生八笺》是明代养生百科全书，将养生分为八
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/遵生八笺养生体系.md`
-- 原始状态：已确立 · 分类：07-Biology-Health
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-ab6806d50bf8`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：07-Biology-Health
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

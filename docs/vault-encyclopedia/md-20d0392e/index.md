@@ -35,8 +35,8 @@ description: "来源：《情绪》（巴瑞特）《身体从未忘记》（范
 - [情绪建构理论](../md-0978236b/)
 - [创伤储存在身体中](../md-13899e05/)
 - [情绪粒度](../md-8e67c75a/)
-- 《情绪》-莉莎·费德曼·巴瑞特
-- 《身体从未忘记》-巴塞尔·范德考克
+- <span class="uw-unresolved" data-target="《情绪》-莉莎·费德曼·巴瑞特" title="未解析的双链目标：《情绪》-莉莎·费德曼·巴瑞特">《情绪》-莉莎·费德曼·巴瑞特</span>
+- <span class="uw-unresolved" data-target="《身体从未忘记》-巴塞尔·范德考克" title="未解析的双链目标：《身体从未忘记》-巴塞尔·范德考克">《身体从未忘记》-巴塞尔·范德考克</span>
 
 ## 💡 个人理解
 
@@ -69,10 +69,10 @@ description: "来源：《情绪》（巴瑞特）《身体从未忘记》（范
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/身体内感受.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-20d0392e6bf7`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

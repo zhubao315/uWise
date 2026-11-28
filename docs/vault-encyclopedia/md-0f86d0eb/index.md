@@ -13,7 +13,7 @@ description: "跑步中的疼痛不是需要\"硬抗\"的敌人，而是身体�
 
 - 跑步中的疼痛不是需要"硬抗"的敌人，而是身体发出的信号。区分"好的疼痛"(肌肉疲劳)和"坏的疼痛"(关节/肌腱损伤)是跑者必备的自我保护能力。
 - 跑步中出现尖锐刺痛应立即停止;钝痛且随运动减轻可继续;关节疼痛(膝盖/脚踝)必须休息;肌肉酸痛可在低强度下继续;学会倾听身体的声音而非忽视它。
-- 《跑步心理学》-杰夫·布朗
+- <span class="uw-unresolved" data-target="《跑步心理学》-杰夫·布朗" title="未解析的双链目标：《跑步心理学》-杰夫·布朗">《跑步心理学》-杰夫·布朗</span>
 
 ## 📖 详细说明
 
@@ -23,7 +23,7 @@ description: "跑步中的疼痛不是需要\"硬抗\"的敌人，而是身体�
 
 ## 🔗 关联知识
 
-- 《跑步心理学》-杰夫·布朗
+- <span class="uw-unresolved" data-target="《跑步心理学》-杰夫·布朗" title="未解析的双链目标：《跑步心理学》-杰夫·布朗">《跑步心理学》-杰夫·布朗</span>
 
 ## 📊 元数据
 
@@ -36,7 +36,7 @@ description: "跑步中的疼痛不是需要\"硬抗\"的敌人，而是身体�
 - [肖像感大片](../entry-a6ff716e/)
 - （共驾职业概念待创建）
 - [燊赫国学](../entry-78b22adc/)
-- uSkill-tool-agent-skill-creator
+- <span class="uw-unresolved" data-target="uSkill-tool-agent-skill-creator" title="未解析的双链目标：uSkill-tool-agent-skill-creator">uSkill-tool-agent-skill-creator</span>
 
 ---
 
@@ -57,10 +57,10 @@ description: "跑步中的疼痛不是需要\"硬抗\"的敌人，而是身体�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/疼痛是信号，不是需要克服的障碍.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-0f86d0eb2c1d`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

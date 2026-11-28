@@ -64,11 +64,11 @@ description: "玻璃基板（Glass Core Substrate）是以玻璃取代传统 ABF
 
 ## 🔗 关联
 
-- AI算力平台方案 — AI 芯片算力爆发是玻璃基板的核心驱动力
+- <span class="uw-unresolved" data-target="AI算力平台方案" title="未解析的双链目标：AI算力平台方案">AI算力平台方案</span> — AI 芯片算力爆发是玻璃基板的核心驱动力
 - [CPO共封装光学](../cpo-md-2386a290/) — CPO 是玻璃基板的远期核心场景
 - [HBM高带宽存储器](../hbm-md-60f429a3/) — HBM4 将采用玻璃中介层
 - [先进封装](../md-1ae44cb9/) — 玻璃基板属于先进封装（Advanced Packaging）子领域
-- ∑ 思维模型库 — 技术路线选择中的第一性原理思考
+- <span class="uw-unresolved" data-target="∑ 思维模型库" title="未解析的双链目标：∑ 思维模型库">∑ 思维模型库</span> — 技术路线选择中的第一性原理思考
 
 ---
 
@@ -93,10 +93,10 @@ description: "玻璃基板（Glass Core Substrate）是以玻璃取代传统 ABF
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/玻璃基板封装技术.md`
-- 原始状态：published · 分类：02-AI-Architecture
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-fd8344ae178b`（稳定 ID，不暴露私库路径）
+- 状态：published · 分类：02-AI-Architecture
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

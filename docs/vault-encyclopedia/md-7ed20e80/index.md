@@ -18,7 +18,7 @@ description: "一级园（Premier Cru）是勃艮第分级体系中的第二等�
 - **酒标标识：** 一级园酒标有几种写法："Volnay 1er Cru Les Caillerets"（村庄名 + 等级 + 园名）、"Volnay Premier Cru"（只标等级不标具体园名，通常是多个一级园混酿）。后者品质通常不如前者，因为单一园更能体现风土个性。
 - **性价比之选：** 对于想体验勃艮第风土精髓但预算有限的爱好者来说，一级园是最佳入口。例如伯恩丘的Volnay、Pommard一级园，夜丘的Gevrey-Chambertin、Chambolle-Musigny一级园，都以相对亲民的价格提供了接近特级园的体验。
 - **与特级园的差距：** 顶级一级园（如Chambolle-Musigny的Les Amoureuses、Vosne-Romanee的Les Malconsorts）在盲品中常能与特级园抗衡。价格差距更多来自市场认知和稀缺性，而非绝对品质。
-- 《Inside Burgundy》-贾斯珀·莫里斯
+- <span class="uw-unresolved" data-target="《Inside Burgundy》-贾斯珀·莫里斯" title="未解析的双链目标：《Inside Burgundy》-贾斯珀·莫里斯">《Inside Burgundy》-贾斯珀·莫里斯</span>
 
 ## 📖 详细说明
 
@@ -43,7 +43,7 @@ description: "一级园（Premier Cru）是勃艮第分级体系中的第二等�
 
 ## 🔗 关联知识
 
-- 《Inside Burgundy》-贾斯珀·莫里斯
+- <span class="uw-unresolved" data-target="《Inside Burgundy》-贾斯珀·莫里斯" title="未解析的双链目标：《Inside Burgundy》-贾斯珀·莫里斯">《Inside Burgundy》-贾斯珀·莫里斯</span>
 - [特级园](../md-e11fe8ea/)
 - [风土（Terroir）](../terroir-md-d53b6fe9/)
 - [旧世界葡萄酒](../md-1d124039/)
@@ -75,10 +75,10 @@ description: "一级园（Premier Cru）是勃艮第分级体系中的第二等�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/一级园.md`
-- 原始状态：已确立 · 分类：07-Biology-Health
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-7ed20e80b631`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：07-Biology-Health
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -43,7 +43,7 @@ description: "《周易参同契》被尊为\"万古丹经王\"——世界上�
 - [火候](../md-863a2d0f/)
 - [象数思维](../md-53c394bc/)
 - [天人合一](../md-9046acdd/)
-- 《周易参同契》-魏伯阳
+- <span class="uw-unresolved" data-target="《周易参同契》-魏伯阳" title="未解析的双链目标：《周易参同契》-魏伯阳">《周易参同契》-魏伯阳</span>
 
 ## 📊 元数据
 
@@ -72,10 +72,10 @@ description: "《周易参同契》被尊为\"万古丹经王\"——世界上�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/万古丹经王.md`
-- 原始状态：已确立 · 分类：05-Philosophy-Ethics
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-202e953f7c57`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：05-Philosophy-Ethics
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

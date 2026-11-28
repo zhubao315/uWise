@@ -24,7 +24,7 @@ description: "余华在《活着》中通过福贵的故事传达了一个朴素
 
 ## 🔗 关联知识
 
-- 《活着》-余华
+- <span class="uw-unresolved" data-target="《活着》-余华" title="未解析的双链目标：《活着》-余华">《活着》-余华</span>
 - [《活出生命的意义》-维克多·弗兰克尔](../entry-deddd3bf/)
 
 ## 📊 元数据
@@ -54,10 +54,10 @@ description: "余华在《活着》中通过福贵的故事传达了一个朴素
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/人是为了活着本身而活着.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-cf7286f9498e`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

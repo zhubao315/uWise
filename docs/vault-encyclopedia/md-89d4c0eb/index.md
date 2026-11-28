@@ -29,7 +29,7 @@ description: "🍺 挑酒看性格——日本四大厂的风格分野是\"工�
 
 ## 🔗 关联知识
 
-- 我的喝酒哲学——饮酒的本质是唤醒感受
+- <span class="uw-unresolved" data-target="我的喝酒哲学" title="未解析的双链目标：我的喝酒哲学">我的喝酒哲学</span>——饮酒的本质是唤醒感受
 - [品酒不是天赋是技能](../md-b35e6c91/) · [酒食搭配三原则](../md-71e18a4c/) · [最好的酒是你最喜欢的](../md-d2328d7c/)
 - [啤酒品鉴九路-2026-07-25-安克雷奇还有明天](../entry-ebd1d87c/) · [葡萄酒品鉴体系](../md-3388909f/)
 
@@ -64,10 +64,10 @@ description: "🍺 挑酒看性格——日本四大厂的风格分野是\"工�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/挑酒看性格：日式四大厂与本地风土的映射.md`
-- 原始状态：已确立 · 分类：05-Sensory-Appreciation
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-89d4c0eba4d9`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：05-Sensory-Appreciation
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

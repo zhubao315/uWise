@@ -32,10 +32,10 @@ description: "塔拉·韦斯特弗17岁前从未上过学。她没有小学文�
 
 ## 🔗 关联知识
 
-- 涌现优于设计原则
-- 教育即解放
-- 原生家庭不是命运
-- 被退学的孩子可能是最有创造力的
+- <span class="uw-unresolved" data-target="涌现优于设计原则" title="未解析的双链目标：涌现优于设计原则">涌现优于设计原则</span>
+- <span class="uw-unresolved" data-target="教育即解放" title="未解析的双链目标：教育即解放">教育即解放</span>
+- <span class="uw-unresolved" data-target="原生家庭不是命运" title="未解析的双链目标：原生家庭不是命运">原生家庭不是命运</span>
+- <span class="uw-unresolved" data-target="被退学的孩子可能是最有创造力的" title="未解析的双链目标：被退学的孩子可能是最有创造力的">被退学的孩子可能是最有创造力的</span>
 
 ## 📊 元数据
 
@@ -64,10 +64,10 @@ description: "塔拉·韦斯特弗17岁前从未上过学。她没有小学文�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/从未上过学也可以成为剑桥博士.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：4 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-79965df1b8d5`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：4 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

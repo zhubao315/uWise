@@ -28,7 +28,7 @@ description: "基于8个大的分类：图像处理、视频生成、3D生成、
 
 ## 🔗 关联知识
 
-- 原文来源
+- <span class="uw-unresolved" data-target="2024年AI的50个关键词" title="未解析的双链目标：2024年AI的50个关键词">原文来源</span>
 
 ## 📚 参考资料
 
@@ -66,10 +66,10 @@ description: "基于8个大的分类：图像处理、视频生成、3D生成、
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/基于8个大的分类：图像处理、视频生成、3D生成、编程助手、Agent、端侧智能、具身智能、基础模型，精选了50个关键词.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-eeda8f61947d`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -23,7 +23,7 @@ description: "梭罗在瓦尔登湖畔两年两个月的实践与其核心理念
 
 ## 🔗 关联知识
 
-- 梭罗
+- <span class="uw-unresolved" data-target="梭罗" title="未解析的双链目标：梭罗">梭罗</span>
 - [超验主义](../md-400acda9/)
 - [自然与自我](../md-7b2d3cd7/)
 
@@ -54,10 +54,10 @@ description: "梭罗在瓦尔登湖畔两年两个月的实践与其核心理念
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/简朴生活.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-d33e5f628385`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

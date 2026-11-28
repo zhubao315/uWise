@@ -37,13 +37,13 @@ description: "移情聆听（Empathic Listening）是史蒂芬·柯维《高效�
 
 - [情感账户](../md-c92adaf4/) — 移情聆听是最高利率的存款行为
 - [双赢思维](../md-c885c594/) — 双赢协议的前提是双方被理解
-- 《非暴力沟通》-马歇尔·卢森堡 — 观察/感受/需要/请求四步的沟通技术
+- <span class="uw-unresolved" data-target="《非暴力沟通》-马歇尔·卢森堡" title="未解析的双链目标：《非暴力沟通》-马歇尔·卢森堡">《非暴力沟通》-马歇尔·卢森堡</span> — 观察/感受/需要/请求四步的沟通技术
 - [头脑极度开放](../md-4d665777/) — 聆听时的认知姿态（找真相而非找支持）
 
 ## 📚 参考资料
 
 - 来源：`B2-实用技能-七个习惯_MSH_v3`
-- 原始书籍：《高效能人士的七个习惯》-史蒂芬·柯维
+- 原始书籍：<span class="uw-unresolved" data-target="《高效能人士的七个习惯》-史蒂芬·柯维" title="未解析的双链目标：《高效能人士的七个习惯》-史蒂芬·柯维">《高效能人士的七个习惯》-史蒂芬·柯维</span>
 
 ## 💡 个人理解
 
@@ -77,10 +77,10 @@ description: "移情聆听（Empathic Listening）是史蒂芬·柯维《高效�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/移情聆听.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-d2efc4fc9292`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

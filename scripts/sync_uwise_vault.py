@@ -114,14 +114,68 @@ def parse_fm(text: str) -> tuple[dict[str, Any], str]:
     return fm, body
 
 
+REDACT_RULES: tuple[tuple[str, re.Pattern[str], str], ...] = (
+    ("phone", re.compile(r"(?<!\d)1[3-9]\d{9}(?!\d)"), "[REDACTED_PHONE]"),
+    ("email", re.compile(r"\b[\w.+-]+@[\w-]+\.[\w.]+\b"), "[REDACTED_EMAIL]"),
+    (
+        "token",
+        re.compile(r"gh[pousr]_[A-Za-z0-9]{20,}|github_pat_[A-Za-z0-9_]{30,}"),
+        "[REDACTED_TOKEN]",
+    ),
+    (
+        "secret",
+        re.compile(r"(?i)(api[_-]?key|token|secret|password)\s*[:=]\s*[\"\']?[A-Za-z0-9_\-]{16,}"),
+        "[REDACTED_SECRET]",
+    ),
+    (
+        "path",
+        re.compile(r"(?:/home/[^/\s]+|/root/|C:\\Users\\|/fs/|/opt/data/obsidian)[^\s`\"\'）)]*"),
+        "[REDACTED_PATH]",
+    ),
+    (
+        "repo",
+        re.compile(r"github\.com/zhubao315/obsidian-vault|obsidian_vault|obsidian-vault"),
+        "[PRIVATE_SOURCE]",
+    ),
+)
+
+
+def normalize_status(value: object) -> str:
+    """Map inconsistent source statuses to a small controlled vocabulary."""
+    v = str(value or "").strip().strip('"')
+    low = v.lower()
+    if not v or low in ("未标注", "none", "null"):
+        return "unreviewed"
+    if low in ("draft", "草稿"):
+        return "draft"
+    if low in ("published", "已发布"):
+        return "published"
+    if low in ("active", "已确立", "成熟"):
+        return "active"
+    return v
+
+
+def normalize_category(fm: dict[str, Any], rel: str) -> str:
+    """Derive a public category without exposing the private source path."""
+    value = str(fm.get("category") or "").strip().strip('"')
+    if value:
+        return value
+    source = str(fm.get("source") or "").strip().strip('"')
+    if "B6-" in source or "investment" in source.lower():
+        return "finance-investment"
+    if "01-BRAIN" in source:
+        return "concepts"
+    if "reading" in str(fm.get("source_type") or "").lower():
+        return "reading"
+    return "uncategorized"
+
+
 def redact(text: str) -> str:
     """Remove private identifiers before publishing."""
-    return (
-        text.replace("16300465413", "[REDACTED_PHONE]")
-        .replace("obsidian_vault", "personal-knowledge-vault")
-        .replace("obsidian-vault", "personal-knowledge-vault")
-        .replace("github.com/zhubao315/obsidian-vault", "[PRIVATE_VAULT]")
-    )
+    cleaned = text
+    for _name, pattern, replacement in REDACT_RULES:
+        cleaned = pattern.sub(replacement, cleaned)
+    return cleaned
 
 
 def main() -> None:  # noqa: C901
@@ -144,6 +198,7 @@ def main() -> None:  # noqa: C901
                 "slug": slugify(title if title != p.stem else rel, rel),
                 "title": title,
                 "rel": rel,
+                "source_id": "e-" + hashlib.sha1(rel.encode("utf8")).hexdigest()[:12],
                 "fm": fm,
                 "body": body,
                 "aliases": fm.get("aliases") if isinstance(fm.get("aliases"), list) else [],
@@ -174,7 +229,16 @@ def main() -> None:  # noqa: C901
             slug = targets.get(target)
             if slug is None:
                 broken.append(target)
-                return label
+                escaped = (
+                    target.replace("&", "&amp;")
+                    .replace('"', "&quot;")
+                    .replace("<", "&lt;")
+                    .replace(">", "&gt;")
+                )
+                return (
+                    f'<span class="uw-unresolved" data-target="{escaped}" '
+                    f'title="未解析的双链目标：{escaped}">{label}</span>'
+                )
             return f"[{label}](../{slug}/)"
 
         return wl.sub(repl, body), broken
@@ -193,8 +257,8 @@ def main() -> None:  # noqa: C901
             if s and not s.startswith("#") and len(s) > 12:
                 summary = re.sub(r"[*_`\[\]]", "", s)[:180]
                 break
-        status = str(e["fm"].get("status", "未标注")).strip('"')
-        category = str(e["fm"].get("category", e["fm"].get("source", ""))).strip('"')
+        status = normalize_status(e["fm"].get("status"))
+        category = normalize_category(e["fm"], e["rel"])
         quality = (
             "stub"
             if len(safe.strip()) < 300
@@ -208,10 +272,11 @@ def main() -> None:  # noqa: C901
             "---\n\n"
             f'# {e["title"]}\n\n{safe.strip()}\n\n'
             "---\n\n<details>\n<summary>来源与口径</summary>\n\n"
-            f'- 来源：`{SOURCE}`\n- 私库路径：`{e["rel"]}`\n'
-            f'- 原始状态：{status} · 分类：{category or "未标注"}\n'
-            f"- 断链别名（无目标，保留为文本）：{len(broken)} 条\n"
-            "- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。\n\n</details>\n"
+            f"- 来源：{SOURCE}\n"
+            f"- 来源标识：`{e['source_id']}`（稳定 ID，不暴露私库路径）\n"
+            f"- 状态：{status} · 分类：{category}\n"
+            f"- 未解析双链：{len(broken)} 条（已保留目标标记）\n"
+            "- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。\n\n</details>\n"
         )
         d = OUT / e["slug"]
         d.mkdir(parents=True, exist_ok=True)
@@ -224,16 +289,46 @@ def main() -> None:  # noqa: C901
                 "category": category,
                 "quality": quality,
                 "broken_links": len(broken),
-                "source_path": e["rel"],
+                "source_id": e["source_id"],
             }
         )
+
+    def esc(value: object) -> str:
+        """Escape HTML-sensitive characters in generated tables."""
+        return (
+            str(value)
+            .replace("&", "&amp;")
+            .replace("<", "&lt;")
+            .replace(">", "&gt;")
+            .replace('"', "&quot;")
+        )
+
+    broken_counter: dict[str, int] = {}
+    # targets are collected during conversion; recompute from the rendered pages
+    for page_path in OUT.glob("*/index.md"):
+        content = page_path.read_text(encoding="utf8")
+        for m in re.finditer(r'class="uw-unresolved" data-target="([^"]+)"', content):
+            target = m.group(1)
+            broken_counter[target] = broken_counter.get(target, 0) + 1
+    top_broken = sorted(broken_counter.items(), key=lambda kv: -kv[1])[:100]
+    broken_md = (
+        "---\ntitle: uWise 未解析双链报告\n"
+        "description: 按引用频次排序的未解析双链目标 · 自动生成\n---\n\n"
+        "# 未解析双链报告\n\n"
+        f"> 共 {sum(broken_counter.values())} 个未解析引用，{len(broken_counter)} 个不同目标。"
+        "这些引用已在词条页保留为可识别标记，但尚未连接到正式词条。\n\n"
+        "| 目标 | 引用次数 |\n|---|---:|\n"
+        + "\n".join(f"| {esc(t)} | {n} |" for t, n in top_broken)
+        + "\n"
+    )
+    (PAGES_DIR / "uwise-broken-links.md").write_text(broken_md, encoding="utf8")
 
     INDEX_PATH.write_text(
         json.dumps(
             {
                 "source": SOURCE,
                 "count": len(catalog),
-                "skills": catalog,
+                "entries": catalog,
             },
             ensure_ascii=False,
             indent=2,
@@ -242,13 +337,6 @@ def main() -> None:  # noqa: C901
         encoding="utf8",
     )
 
-    esc = (
-        lambda s: str(s)
-        .replace("&", "&amp;")
-        .replace("<", "&lt;")
-        .replace(">", "&gt;")
-        .replace('"', "&quot;")
-    )
     by_status = collections.Counter(c["status"] for c in catalog)
     rows = "\n".join(
         f'| [{esc(c["title"])}](/uWise/vault-encyclopedia/{c["slug"]}/) | {esc(c["status"])} | '

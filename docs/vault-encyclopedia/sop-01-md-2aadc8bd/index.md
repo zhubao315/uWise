@@ -31,7 +31,7 @@ description: "负责人: 🏗️ 架构师技能(../ai-b539c9a9/) | 核心工具
 
 - [架构师：AI时代价值系统的核心引擎](../ai-b539c9a9/)
 - [AI专家技能-AI专家](../ai-0548e71f/)
-- 象限转换渐进法——从雇员到投资人的阶梯路径
+- <span class="uw-unresolved" data-target="象限转换渐进法——从雇员到投资人的阶梯路径" title="未解析的双链目标：象限转换渐进法——从雇员到投资人的阶梯路径">象限转换渐进法——从雇员到投资人的阶梯路径</span>
 - [云计算与云原生技能](../ai-735d66b0/)
 - [架构师技能](../md-4a5f4c51/)
 
@@ -64,10 +64,10 @@ description: "负责人: 🏗️ 架构师技能(../ai-b539c9a9/) | 核心工具
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/Sop 01 架构师 系统设计分析.md`
-- 原始状态：draft · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-2aadc8bd314d`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

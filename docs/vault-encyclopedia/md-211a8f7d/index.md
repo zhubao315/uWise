@@ -39,10 +39,10 @@ description: "老子所著的道家经典，仅 5000 字却涵盖宇宙观、政
 
 - [道家](../md-ef37e78a/)
 - [斯多葛主义](../md-980bcbc0/)
-- 《庄子》-庄周
+- <span class="uw-unresolved" data-target="《庄子》-庄周" title="未解析的双链目标：《庄子》-庄周">《庄子》-庄周</span>
 - [无为而治](../md-992b5a9a/)
 - [中国哲学史](../md-2369b0fe/)
-- 长期主义
+- <span class="uw-unresolved" data-target="长期主义" title="未解析的双链目标：长期主义">长期主义</span>
 
 ## 📊 元数据
 
@@ -71,10 +71,10 @@ description: "老子所著的道家经典，仅 5000 字却涵盖宇宙观、政
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/道德经.md`
-- 原始状态：已确立 · 分类：05-Philosophy-Ethics
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-211a8f7d2ea4`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：05-Philosophy-Ethics
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

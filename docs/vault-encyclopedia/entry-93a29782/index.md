@@ -28,7 +28,7 @@ description: "跑步提供了独特的身体感知数据流——通过觉察身
 ## 相关
 
 - [跑步冥想](../md-29bd90b9/)
-- 内心堡垒
+- <span class="uw-unresolved" data-target="内心堡垒" title="未解析的双链目标：内心堡垒">内心堡垒</span>
 - [跑步是孤独的内在修行](../md-8fafe4e5/)
 
 ## 相关笔记
@@ -54,10 +54,10 @@ description: "跑步提供了独特的身体感知数据流——通过觉察身
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/跑步是基于感知数据的深度内观.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-93a29782d37f`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

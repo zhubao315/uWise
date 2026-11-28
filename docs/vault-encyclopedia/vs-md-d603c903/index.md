@@ -31,10 +31,10 @@ description: "极端斯坦与平均斯坦是塔勒布在《黑天鹅》中提出
 
 ## 🔗 关联知识
 
-- 黑天鹅
+- <span class="uw-unresolved" data-target="黑天鹅" title="未解析的双链目标：黑天鹅">黑天鹅</span>
 - [偏斜度与非对称收益](../md-deaf11e4/)
 - [尾部效应](../md-3823c1a5/)
-- 复利的非线性模型
+- <span class="uw-unresolved" data-target="复利的非线性模型" title="未解析的双链目标：复利的非线性模型">复利的非线性模型</span>
 
 ## 💡 个人理解
 
@@ -78,10 +78,10 @@ description: "极端斯坦与平均斯坦是塔勒布在《黑天鹅》中提出
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/极端斯坦vs平均斯坦.md`
-- 原始状态：已确立 · 分类：01-Finance-Investment
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-d603c9031ccb`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：01-Finance-Investment
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

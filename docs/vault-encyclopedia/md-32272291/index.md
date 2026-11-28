@@ -34,7 +34,7 @@ EMH 的核心不是"价格永远正确"，而是"你很难持续地比别人更�
 
 - [随机漫步理论](../md-54487759/)
 - [指数投资原则](../md-c74f06c1/)
-- 行为金融学
+- <span class="uw-unresolved" data-target="行为金融学" title="未解析的双链目标：行为金融学">行为金融学</span>
 - [投资中的非共识正确](../md-75c5a1fc/)
 
 ## 💡 个人理解
@@ -79,10 +79,10 @@ EMH 对我最有价值的不是"市场总是对的"，而是它划出了一条**
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/有效市场假说.md`
-- 原始状态：已确立 · 分类：01-Finance-Investment
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-322722913e3a`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：01-Finance-Investment
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -22,10 +22,10 @@ description: "通过心理学原理系统化改善人际交往质量的方法论
 
 ## 🔗 关联知识
 
-- 心理学专家技能
+- <span class="uw-unresolved" data-target="心理学专家技能" title="未解析的双链目标：心理学专家技能">心理学专家技能</span>
 - [沟通精进-战略支柱](../entry-d6bf0b65/)
-- 《幸福的婚姻》-约翰·戈特曼
-- 终身学习者技能
+- <span class="uw-unresolved" data-target="《幸福的婚姻》-约翰·戈特曼" title="未解析的双链目标：《幸福的婚姻》-约翰·戈特曼">《幸福的婚姻》-约翰·戈特曼</span>
+- <span class="uw-unresolved" data-target="终身学习者技能" title="未解析的双链目标：终身学习者技能">终身学习者技能</span>
 
 ## 💡 个人理解
 
@@ -58,10 +58,10 @@ description: "通过心理学原理系统化改善人际交往质量的方法论
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/人际关系优化.md`
-- 原始状态：已确立 · 分类：07-Biology-Health
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-1a8f45672a62`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：07-Biology-Health
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

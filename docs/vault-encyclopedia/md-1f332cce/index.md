@@ -15,7 +15,7 @@ description: "来源：《悟真篇》《大成捷要》《道窍谈》《三车
 - 与 [三关修炼框架](../md-309d4a58/) 的关系：内丹修炼的三阶段框架
 - 与 [火候](../md-863a2d0f/) 的关系：丹道修炼的精细调控
 - 与 [万古丹经王](../md-202e953f/) 的关系：内丹理论的源头
-- 来源：《悟真篇》-张伯端、《大成捷要》-柳华阳、《道窍谈》-李西月
+- 来源：<span class="uw-unresolved" data-target="《悟真篇》-张伯端" title="未解析的双链目标：《悟真篇》-张伯端">《悟真篇》-张伯端</span>、<span class="uw-unresolved" data-target="《大成捷要》-柳华阳" title="未解析的双链目标：《大成捷要》-柳华阳">《大成捷要》-柳华阳</span>、<span class="uw-unresolved" data-target="《道窍谈》-李西月" title="未解析的双链目标：《道窍谈》-李西月">《道窍谈》-李西月</span>
 
 ## 📖 详细说明
 
@@ -42,9 +42,9 @@ description: "来源：《悟真篇》《大成捷要》《道窍谈》《三车
 - [三关修炼框架](../md-309d4a58/)
 - [火候](../md-863a2d0f/)
 - [万古丹经王](../md-202e953f/)
-- 《悟真篇》-张伯端
-- 《大成捷要》-柳华阳
-- 《道窍谈》-李西月
+- <span class="uw-unresolved" data-target="《悟真篇》-张伯端" title="未解析的双链目标：《悟真篇》-张伯端">《悟真篇》-张伯端</span>
+- <span class="uw-unresolved" data-target="《大成捷要》-柳华阳" title="未解析的双链目标：《大成捷要》-柳华阳">《大成捷要》-柳华阳</span>
+- <span class="uw-unresolved" data-target="《道窍谈》-李西月" title="未解析的双链目标：《道窍谈》-李西月">《道窍谈》-李西月</span>
 
 ## 💡 个人理解
 
@@ -77,10 +77,10 @@ description: "来源：《悟真篇》《大成捷要》《道窍谈》《三车
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/内丹修炼核心术语.md`
-- 原始状态：已确立 · 分类：07-Biology-Health
-- 断链别名（无目标，保留为文本）：6 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-1f332cce2b12`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：07-Biology-Health
+- 未解析双链：6 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

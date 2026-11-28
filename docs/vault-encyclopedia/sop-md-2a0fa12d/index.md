@@ -13,7 +13,7 @@ description: "为什么我一直执着 SOP 呢？因为其背后代表着你的�
 
 - 为什么我一直执着 SOP 呢？因为其背后代表着你的每一次经验是可复用的。祈盼偶得的灵感，用在个人创作上无可厚非，但在工作上，始终要有一个 DDL，没有 SOP，我预感但凡遇到一点卡点就会在原地兜圈子，始终走不出来。
 - SOP 之上还有一个 SOP，要像写代码一样，让这份 SOP，可迭代、可复用、易维护、可拓展
-- SOP-17-发明专利底稿撰写
+- <span class="uw-unresolved" data-target="SOP-17-发明专利底稿撰写" title="未解析的双链目标：SOP-17-发明专利底稿撰写">SOP-17-发明专利底稿撰写</span>
 - A[开始] --> B[需求分析]
 - 生成一个 SOP制定 的 SOP 可迭代、可复用、易维护、可拓展
 - 根据这个规范，生成一个 发明专利底稿撰写 SOP
@@ -28,8 +28,8 @@ description: "为什么我一直执着 SOP 呢？因为其背后代表着你的�
 
 ## 🔗 关联知识
 
-- SOP-24-SOP制定方法论
-- SOP-17-发明专利底稿撰写
+- <span class="uw-unresolved" data-target="SOP-24-SOP制定方法论" title="未解析的双链目标：SOP-24-SOP制定方法论">SOP-24-SOP制定方法论</span>
+- <span class="uw-unresolved" data-target="SOP-17-发明专利底稿撰写" title="未解析的双链目标：SOP-17-发明专利底稿撰写">SOP-17-发明专利底稿撰写</span>
 
 ## 💡 个人理解
 
@@ -81,10 +81,10 @@ SOP的核心价值是"把隐性知识显性化"——你脑子里的经验，写
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/SOP.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-2a0fa12dd034`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

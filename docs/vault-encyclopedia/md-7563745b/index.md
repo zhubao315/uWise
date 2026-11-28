@@ -39,11 +39,11 @@ description: "来源：《道教与养生》《仙学详述》（陈撄宁）"
 
 ## 🔗 关联知识
 
-- 正念冥想
-- 腹式呼吸、横膈膜与骨盆底肌的呼吸联动
+- <span class="uw-unresolved" data-target="正念冥想" title="未解析的双链目标：正念冥想">正念冥想</span>
+- <span class="uw-unresolved" data-target="腹式呼吸、横膈膜与骨盆底肌的呼吸联动" title="未解析的双链目标：腹式呼吸、横膈膜与骨盆底肌的呼吸联动">腹式呼吸、横膈膜与骨盆底肌的呼吸联动</span>
 - [仙学独立](../md-2e09baca/)
-- 《道教与养生》-陈撄宁
-- 《仙学详述》-陈撄宁
+- <span class="uw-unresolved" data-target="《道教与养生》-陈撄宁" title="未解析的双链目标：《道教与养生》-陈撄宁">《道教与养生》-陈撄宁</span>
+- <span class="uw-unresolved" data-target="《仙学详述》-陈撄宁" title="未解析的双链目标：《仙学详述》-陈撄宁">《仙学详述》-陈撄宁</span>
 
 ## 📚 参考资料
 
@@ -81,10 +81,10 @@ description: "来源：《道教与养生》《仙学详述》（陈撄宁）"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/听息法——高级冥想技术.md`
-- 原始状态：draft · 分类：07-Biology-Health
-- 断链别名（无目标，保留为文本）：4 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-7563745be8c6`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：07-Biology-Health
+- 未解析双链：4 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

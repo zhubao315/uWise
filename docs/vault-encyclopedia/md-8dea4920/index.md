@@ -35,15 +35,15 @@ description: "豪车悖论（The Man in the Car Paradox）是摩根·豪泽尔�
 
 ## 🔗 关联知识
 
-- 延迟满足 — 展示型冲动的冷静期工具
+- <span class="uw-unresolved" data-target="延迟满足" title="未解析的双链目标：延迟满足">延迟满足</span> — 展示型冲动的冷静期工具
 - [储蓄率](../md-e575f5af/) — 自由成本的数学基础
-- 控制二分法能量聚焦术 — 聚焦可掌控的（行为）而非不可控的（他人评价）
-- 《纳瓦尔宝典》-埃里克·乔根森 — 声誉与财富的哲学
+- <span class="uw-unresolved" data-target="控制二分法能量聚焦术" title="未解析的双链目标：控制二分法能量聚焦术">控制二分法能量聚焦术</span> — 聚焦可掌控的（行为）而非不可控的（他人评价）
+- <span class="uw-unresolved" data-target="《纳瓦尔宝典》-埃里克·乔根森" title="未解析的双链目标：《纳瓦尔宝典》-埃里克·乔根森">《纳瓦尔宝典》-埃里克·乔根森</span> — 声誉与财富的哲学
 
 ## 📚 参考资料
 
 - 来源：`B6-投资理财-金钱心理学_MSH_v3`
-- 原始书籍：《金钱心理学》-摩根·豪泽尔
+- 原始书籍：<span class="uw-unresolved" data-target="《金钱心理学》-摩根·豪泽尔" title="未解析的双链目标：《金钱心理学》-摩根·豪泽尔">《金钱心理学》-摩根·豪泽尔</span>
 
 ## 💡 个人理解
 
@@ -77,10 +77,10 @@ description: "豪车悖论（The Man in the Car Paradox）是摩根·豪泽尔�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/豪车悖论.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：4 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-8dea49208523`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：4 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

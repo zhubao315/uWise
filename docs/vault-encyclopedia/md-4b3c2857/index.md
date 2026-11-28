@@ -39,7 +39,7 @@ description: "光环效应是指：我们让某一个方面照花了眼睛，并
 - [思考过程](../entry-de63fc2e/)
 - [医学的疆与界](../md-cdcaffc4/)
 - [程序正义 - 结果正义](../entry-86c8c0ac/)
-- 国家“十五五”规划
+- <span class="uw-unresolved" data-target="国家“十五五”规划" title="未解析的双链目标：国家“十五五”规划">国家“十五五”规划</span>
 - [修仙天规-物理学十大法则](../entry-3830457c/)
 
 ---
@@ -61,10 +61,10 @@ description: "光环效应是指：我们让某一个方面照花了眼睛，并
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/光环效应.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-4b3c2857b894`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -36,16 +36,16 @@ description: "人类与AI协同工作的模式，正在经历从\"人用工具\"
 4. **边界明确**：清晰定义哪些事情AI可以自主做，哪些必须人类批准。
 5. **优雅降级**：当AI能力不足时，系统能平滑地将控制权交回人类。
 
-*关联：碳硅共生、[驾驭工程](../md-db3f6216/)、[AI Agent 核心原理](../ai-agent-md-7b169b8d/)*
+*关联：<span class="uw-unresolved" data-target="碳硅共生" title="未解析的双链目标：碳硅共生">碳硅共生</span>、[驾驭工程](../md-db3f6216/)、[AI Agent 核心原理](../ai-agent-md-7b169b8d/)*
 
-*关联：书单-2026年度*
+*关联：<span class="uw-unresolved" data-target="书单-2026年度" title="未解析的双链目标：书单-2026年度">书单-2026年度</span>*
 
 ## 🔗 关联知识
 
-- 碳硅共生
+- <span class="uw-unresolved" data-target="碳硅共生" title="未解析的双链目标：碳硅共生">碳硅共生</span>
 - [驾驭工程](../md-db3f6216/)
 - [AI Agent 核心原理](../ai-agent-md-7b169b8d/)
-- 书单-2026年度
+- <span class="uw-unresolved" data-target="书单-2026年度" title="未解析的双链目标：书单-2026年度">书单-2026年度</span>
 
 ## 💡 个人理解
 
@@ -78,10 +78,10 @@ description: "人类与AI协同工作的模式，正在经历从\"人用工具\"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/人机协作.md`
-- 原始状态：已确立 · 分类：02-AI-Architecture
-- 断链别名（无目标，保留为文本）：4 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-cc933a8e791b`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：02-AI-Architecture
+- 未解析双链：4 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -44,7 +44,7 @@ uWise 项目设计目标 1,249 个词条，分布于 4 大领域（金融投研 
 | `uSkill-README.md` | 2x | uSkill README 引用 |
 | `uSkill-VI.md` | 0x | **可归档/删除**（零引用） |
 
-> 167x 引用 `uSkill` 表明这些文件**被全库作为"uSkill 概念词条"使用**，但实际是 uWise 项目对 uSkill 项目的引用占位。建议：保留 `uSkill.md` 作为占位，其余 4 个标记为 `待合并到 22-uSkill/`。
+> 167x 引用 `<span class="uw-unresolved" data-target="uSkill" title="未解析的双链目标：uSkill">uSkill</span>` 表明这些文件**被全库作为"uSkill 概念词条"使用**，但实际是 uWise 项目对 uSkill 项目的引用占位。建议：保留 `uSkill.md` 作为占位，其余 4 个标记为 `待合并到 22-uSkill/`。
 
 ### 📋 规范文档（1 篇 — 不应留此）
 
@@ -64,7 +64,7 @@ uWise 项目设计目标 1,249 个词条，分布于 4 大领域（金融投研 
 
 - 词条/ 仍保留为"缓冲池"角色
 - 4 大领域目录暂未物理创建（已存在 哲学伦理/、商业管理/、投研风控/，未创建 金融投研/、AI架构/、通用方法/）
-- 参见 `4大领域分类索引`（待创建）
+- 参见 `<span class="uw-unresolved" data-target="4大领域分类索引" title="未解析的双链目标：4大领域分类索引">4大领域分类索引</span>`（待创建）
 
 ---
 
@@ -85,10 +85,10 @@ uWise 项目设计目标 1,249 个词条，分布于 4 大领域（金融投研 
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/README.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-e605285fc96a`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

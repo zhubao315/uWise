@@ -24,7 +24,7 @@ description: "为实现\"数据从存储到被消费\"这一目标，围绕数�
 ### 概念解释
 数据中台治理体系强调**用起来才是目标**：数据中台的最终产出不是数据仓库/数据湖，而是**可消费的数据服务**。治理不是为了"管数据"，而是为了让数据从"消耗资源的负担"转化为"创造价值的资产"。因此服务层设计应优先于存储层，治理贯穿采集到消费全链路。
 
-该体系是对 数据治理框架 的操作化拓展，也是 数据中台 的方法论内核。
+该体系是对 <span class="uw-unresolved" data-target="数据治理框架" title="未解析的双链目标：数据治理框架">数据治理框架</span> 的操作化拓展，也是 <span class="uw-unresolved" data-target="数据中台" title="未解析的双链目标：数据中台">数据中台</span> 的方法论内核。
 
 ### 实际应用
 
@@ -35,8 +35,8 @@ description: "为实现\"数据从存储到被消费\"这一目标，围绕数�
 
 ## 🔗 关联知识
 
-- 数据治理框架 · 数据中台 · 数据仓库 · 数据湖 · 数据分析师
-- 数据隐私 · 数据科学
+- <span class="uw-unresolved" data-target="数据治理框架" title="未解析的双链目标：数据治理框架">数据治理框架</span> · <span class="uw-unresolved" data-target="数据中台" title="未解析的双链目标：数据中台">数据中台</span> · <span class="uw-unresolved" data-target="数据仓库" title="未解析的双链目标：数据仓库">数据仓库</span> · 数据湖 · <span class="uw-unresolved" data-target="数据分析师" title="未解析的双链目标：数据分析师">数据分析师</span>
+- <span class="uw-unresolved" data-target="数据隐私" title="未解析的双链目标：数据隐私">数据隐私</span> · 数据科学
 
 ## 📊 元数据
 
@@ -65,10 +65,10 @@ description: "为实现\"数据从存储到被消费\"这一目标，围绕数�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/数据中台治理体系.md`
-- 原始状态：已确立 · 分类：03-Data-Architecture
-- 断链别名（无目标，保留为文本）：7 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-7f38f070c93d`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：03-Data-Architecture
+- 未解析双链：7 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

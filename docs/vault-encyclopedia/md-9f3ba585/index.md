@@ -30,7 +30,7 @@ description: "城市传记方法论，是把\"传记\"这一用于人物的文�
 
 ## 🔗 关联知识
 
-- 《北京传》-邱华栋
+- <span class="uw-unresolved" data-target="《北京传》-邱华栋" title="未解析的双链目标：《北京传》-邱华栋">《北京传》-邱华栋</span>
 - [城市身份跃迁](../md-759c6f4a/)
 - [梁陈方案思维](../md-8bac3595/)
 - [百姓视角的城市史](../md-b4a4391c/)
@@ -78,10 +78,10 @@ description: "城市传记方法论，是把\"传记\"这一用于人物的文�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/城市传记方法论.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-9f3ba585911a`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

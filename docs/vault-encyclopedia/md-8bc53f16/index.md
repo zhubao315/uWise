@@ -19,8 +19,8 @@ description: "\"魏晋风度\"指魏晋时期（220-420年）士人阶层的独�
 - 魏晋风度有其时代背景：政治黑暗、生命无常
 - 魏晋风度对后世文人影响深远（李白、苏轼、袁宏道等）
 - 魏晋风度与道家思想有密切关联
-- 《庄子》-庄周 — 逍遥游的精神自由
-- 《道德经》-老子 — 道法自然
+- <span class="uw-unresolved" data-target="《庄子》-庄周" title="未解析的双链目标：《庄子》-庄周">《庄子》-庄周</span> — 逍遥游的精神自由
+- <span class="uw-unresolved" data-target="《道德经》-老子" title="未解析的双链目标：《道德经》-老子">《道德经》-老子</span> — 道法自然
 
 ## 📖 详细说明
 
@@ -36,12 +36,12 @@ description: "\"魏晋风度\"指魏晋时期（220-420年）士人阶层的独�
 
 ## 🔗 关联知识
 
-- 《世说新语》-佚名
-- 《庄子》-庄周
-- 《道德经》-老子
-- 《中国哲学简史》-冯友兰
+- <span class="uw-unresolved" data-target="《世说新语》-佚名" title="未解析的双链目标：《世说新语》-佚名">《世说新语》-佚名</span>
+- <span class="uw-unresolved" data-target="《庄子》-庄周" title="未解析的双链目标：《庄子》-庄周">《庄子》-庄周</span>
+- <span class="uw-unresolved" data-target="《道德经》-老子" title="未解析的双链目标：《道德经》-老子">《道德经》-老子</span>
+- <span class="uw-unresolved" data-target="《中国哲学简史》-冯友兰" title="未解析的双链目标：《中国哲学简史》-冯友兰">《中国哲学简史》-冯友兰</span>
 - 《唐诗三百首》
-- 《楚辞》-屈原
+- <span class="uw-unresolved" data-target="《楚辞》-屈原" title="未解析的双链目标：《楚辞》-屈原">《楚辞》-屈原</span>
 
 ## 📊 元数据
 
@@ -70,10 +70,10 @@ description: "\"魏晋风度\"指魏晋时期（220-420年）士人阶层的独�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/魏晋风度.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：7 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-8bc53f16bf68`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：7 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

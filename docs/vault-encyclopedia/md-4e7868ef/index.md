@@ -17,8 +17,8 @@ description: "来源：《静坐修道与内功》（南怀瑾）"
 - 2. **调息**（过渡）：关注呼吸，让呼吸自然变慢变细
 - 3. **调心**（核心）：从关注呼吸过渡到关注觉知本身
 - 与 [听息法——高级冥想技术](../md-7563745b/) 的关系：听息法是调息的高级形式
-- 与 坐忘 的关系：坐忘是调心的最高境界
-- 与 正念冥想 的关系：三调法是东方冥想的系统化方法
+- 与 <span class="uw-unresolved" data-target="坐忘" title="未解析的双链目标：坐忘">坐忘</span> 的关系：坐忘是调心的最高境界
+- 与 <span class="uw-unresolved" data-target="正念冥想" title="未解析的双链目标：正念冥想">正念冥想</span> 的关系：三调法是东方冥想的系统化方法
 
 ## 📖 详细说明
 
@@ -42,9 +42,9 @@ description: "来源：《静坐修道与内功》（南怀瑾）"
 ## 🔗 关联知识
 
 - [听息法——高级冥想技术](../md-7563745b/)
-- 坐忘
-- 正念冥想
-- 《静坐修道与内功》-南怀瑾
+- <span class="uw-unresolved" data-target="坐忘" title="未解析的双链目标：坐忘">坐忘</span>
+- <span class="uw-unresolved" data-target="正念冥想" title="未解析的双链目标：正念冥想">正念冥想</span>
+- <span class="uw-unresolved" data-target="《静坐修道与内功》-南怀瑾" title="未解析的双链目标：《静坐修道与内功》-南怀瑾">《静坐修道与内功》-南怀瑾</span>
 
 ## 💡 个人理解
 
@@ -85,10 +85,10 @@ description: "来源：《静坐修道与内功》（南怀瑾）"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/静坐三调法.md`
-- 原始状态：已确立 · 分类：07-Biology-Health
-- 断链别名（无目标，保留为文本）：5 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-4e7868ef77fc`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：07-Biology-Health
+- 未解析双链：5 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

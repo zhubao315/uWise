@@ -16,8 +16,8 @@ description: "卡尼曼提出的人类认知双系统模型：系统1（S1） �
 - "理性决策"本质是 S2 对 S1 输出的**事后审计**。审计频率与深度决定了决策质量的上限。
 - S1 的运算规则遵循 WYSIATI——仅基于当前可获取的信息构建最连贯的故事，自动忽略缺失证据。
 - 双系统架构不是设计缺陷，而是进化优化：在生存压力下，对草丛中阴影的快速反应（S1）比概率推演（S2）更能保命。文明的速度远超进化的速度，硬件未更新，软件已过时。
-- 在 AI 时代，S1 的启发式运算可外包给 Agent（模式识别、信息检索、概率估算），让 S2 专注于价值判断与约束定义。这构成 uSkill-agent-元认知防火墙 的底层认知理论基础。
-- 元认知
+- 在 AI 时代，S1 的启发式运算可外包给 Agent（模式识别、信息检索、概率估算），让 S2 专注于价值判断与约束定义。这构成 <span class="uw-unresolved" data-target="uSkill-agent-元认知防火墙" title="未解析的双链目标：uSkill-agent-元认知防火墙">uSkill-agent-元认知防火墙</span> 的底层认知理论基础。
+- <span class="uw-unresolved" data-target="元认知" title="未解析的双链目标：元认知">元认知</span>
 - [锚定效应](../md-6a1f82c3/)
 
 ## 📖 详细说明
@@ -32,11 +32,11 @@ description: "卡尼曼提出的人类认知双系统模型：系统1（S1） �
 
 ## 🔗 关联知识
 
-- uSkill-agent-元认知防火墙
-- 元认知
+- <span class="uw-unresolved" data-target="uSkill-agent-元认知防火墙" title="未解析的双链目标：uSkill-agent-元认知防火墙">uSkill-agent-元认知防火墙</span>
+- <span class="uw-unresolved" data-target="元认知" title="未解析的双链目标：元认知">元认知</span>
 - [锚定效应](../md-6a1f82c3/)
 - [人类误判心理学](../md-77b1159f/)
-- 元认知暂停法——在刺激与反应之间创造选择空间
+- <span class="uw-unresolved" data-target="元认知暂停法——在刺激与反应之间创造选择空间" title="未解析的双链目标：元认知暂停法——在刺激与反应之间创造选择空间">元认知暂停法——在刺激与反应之间创造选择空间</span>
 
 ## 💡 个人理解
 
@@ -69,10 +69,10 @@ description: "卡尼曼提出的人类认知双系统模型：系统1（S1） �
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/系统1与系统2：碳基认知的双处理器架构.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：5 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-776b9321e8c0`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：5 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

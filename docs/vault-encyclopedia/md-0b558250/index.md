@@ -23,7 +23,7 @@ description: "辜鸿铭对东西方文明差异的核心诊断：东方文明以
 
 ## 🔗 关联知识
 
-- 辜鸿铭
+- <span class="uw-unresolved" data-target="辜鸿铭" title="未解析的双链目标：辜鸿铭">辜鸿铭</span>
 
 ## 📊 元数据
 
@@ -52,10 +52,10 @@ description: "辜鸿铭对东西方文明差异的核心诊断：东方文明以
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/精神与物质.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-0b558250e6d0`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

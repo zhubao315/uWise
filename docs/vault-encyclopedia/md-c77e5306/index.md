@@ -27,10 +27,10 @@ description: "自我中心思维是批判性思维的最大障碍，因为你无
 
 ## 🔗 关联知识
 
-- 思辨与立场
-- 批判性思维
+- <span class="uw-unresolved" data-target="思辨与立场" title="未解析的双链目标：思辨与立场">思辨与立场</span>
+- <span class="uw-unresolved" data-target="批判性思维" title="未解析的双链目标：批判性思维">批判性思维</span>
 - [认知偏差清单](../md-2eecaefc/)
-- 决策偏差快筛法——用10条检查清单给思维做体检
+- <span class="uw-unresolved" data-target="决策偏差快筛法——用10条检查清单给思维做体检" title="未解析的双链目标：决策偏差快筛法——用10条检查清单给思维做体检">决策偏差快筛法——用10条检查清单给思维做体检</span>
 - [反对派强制练习法——用红队思维打破确认偏误闭环](../md-c3a514be/)
 
 ## 📊 元数据
@@ -72,10 +72,10 @@ description: "自我中心思维是批判性思维的最大障碍，因为你无
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/自我中心思维.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-c77e5306b512`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -13,7 +13,7 @@ description: "丹尼尔斯将跑步训练分为五种配速区间：E(轻松跑)
 
 - 丹尼尔斯将跑步训练分为五种配速区间：E(轻松跑)、M(马拉松配速)、T(乳酸阈值)、I(间歇跑)、R(重复跑)，每种对应特定的生理训练目的。
 - 1.用近期比赛成绩查VDOT表获取各区间配速;2.E跑占总跑量75-80%;3.M跑模拟比赛强度;4.T跑提高乳酸清除能力;5.I跑提升VO2max;6.R跑提高跑步经济性。
-- 《丹尼尔斯经典跑步训练法》-杰克·丹尼尔斯
+- <span class="uw-unresolved" data-target="《丹尼尔斯经典跑步训练法》-杰克·丹尼尔斯" title="未解析的双链目标：《丹尼尔斯经典跑步训练法》-杰克·丹尼尔斯">《丹尼尔斯经典跑步训练法》-杰克·丹尼尔斯</span>
 
 ## 📖 详细说明
 
@@ -27,7 +27,7 @@ description: "丹尼尔斯将跑步训练分为五种配速区间：E(轻松跑)
 
 ## 🔗 关联知识
 
-- 《丹尼尔斯经典跑步训练法》-杰克·丹尼尔斯
+- <span class="uw-unresolved" data-target="《丹尼尔斯经典跑步训练法》-杰克·丹尼尔斯" title="未解析的双链目标：《丹尼尔斯经典跑步训练法》-杰克·丹尼尔斯">《丹尼尔斯经典跑步训练法》-杰克·丹尼尔斯</span>
 
 ## 📊 元数据
 
@@ -39,7 +39,7 @@ description: "丹尼尔斯将跑步训练分为五种配速区间：E(轻松跑)
 
 ## 相关
 
-- PDCA循环
+- <span class="uw-unresolved" data-target="PDCA循环" title="未解析的双链目标：PDCA循环">PDCA循环</span>
 - [PTSD](../ptsd-md-a2e1522a/)
 - [uWise](../uwise-md-5c3e1a0e/)
 - [万事万物皆有代价](../md-357588bc/)
@@ -64,10 +64,10 @@ description: "丹尼尔斯将跑步训练分为五种配速区间：E(轻松跑)
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/五种配速区间模型（E_M_T_I_R）.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-6acefddf6a06`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

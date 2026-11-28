@@ -25,7 +25,7 @@ description: "最后更新：2026-06-05"
 - [身心赋能-战略支柱](../entry-6237962e/)
 - 知识产权顾问-AI时代创新资产的战略守护者
 - [战略性放弃清单——决定不做什么比做什么更重要](../md-91d0ccf4/)
-- SOP-14-AI驱动的OKR与数据复盘
+- <span class="uw-unresolved" data-target="SOP-14-AI驱动的OKR与数据复盘" title="未解析的双链目标：SOP-14-AI驱动的OKR与数据复盘">SOP-14-AI驱动的OKR与数据复盘</span>
 - [效率倍增-战略支柱](../entry-f8cc0351/)
 
 ## 💡 个人理解
@@ -58,10 +58,10 @@ description: "最后更新：2026-06-05"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/蓝海战略.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-20fa19aa0292`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

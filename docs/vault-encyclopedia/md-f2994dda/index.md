@@ -37,10 +37,10 @@ description: "依恋风格指个体在亲密关系中形成的情感联结模式
 
 ## 🔗 关联知识
 
-- 依恋理论
+- <span class="uw-unresolved" data-target="依恋理论" title="未解析的双链目标：依恋理论">依恋理论</span>
 - [爱情三角理论](../md-19c2c7ba/)
 - [原生家庭的影响](../md-145c8857/)
-- 《亲密关系》-罗兰·米勒
+- <span class="uw-unresolved" data-target="《亲密关系》-罗兰·米勒" title="未解析的双链目标：《亲密关系》-罗兰·米勒">《亲密关系》-罗兰·米勒</span>
 
 ## 💡 个人理解
 
@@ -84,10 +84,10 @@ description: "依恋风格指个体在亲密关系中形成的情感联结模式
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/依恋风格.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-f2994ddab06e`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

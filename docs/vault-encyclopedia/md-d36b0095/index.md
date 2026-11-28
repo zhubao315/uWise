@@ -13,7 +13,7 @@ description: "格拉宁记录柳比歇夫56年的时间统计法。通过精确�
 
 - 格拉宁记录柳比歇夫56年的时间统计法。通过精确记录时间开销，实现惊人的学术产出和丰富的人生体验。
 - 时间统计法＝每分钟都值得记录；精确的自我观察带来自我管理；数量积累产生质量飞跃
-- [刻意练习](../md-f0df2098/)·长期主义·[OKR](../okr-md-11ae81da/)
+- [刻意练习](../md-f0df2098/)·<span class="uw-unresolved" data-target="长期主义" title="未解析的双链目标：长期主义">长期主义</span>·[OKR](../okr-md-11ae81da/)
 
 ## 📖 详细说明
 
@@ -28,7 +28,7 @@ description: "格拉宁记录柳比歇夫56年的时间统计法。通过精确�
 ## 🔗 关联知识
 
 - [刻意练习](../md-f0df2098/)
-- 长期主义
+- <span class="uw-unresolved" data-target="长期主义" title="未解析的双链目标：长期主义">长期主义</span>
 - [OKR](../okr-md-11ae81da/)
 
 ## 📊 元数据
@@ -70,10 +70,10 @@ description: "格拉宁记录柳比歇夫56年的时间统计法。通过精确�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/奇特的一生.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-d36b00953919`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

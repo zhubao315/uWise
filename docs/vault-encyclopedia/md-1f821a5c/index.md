@@ -15,8 +15,8 @@ description: "任何思维过程都可以分解为八个要素。用这个框架
 - **面对问题时**：用八大要素逐一检查
 - **做决策时**：确保每个要素都经过思考
 - **复盘时**：用八大要素分析过去的决策
-- 思辨与立场 — 出处书籍
-- 批判性思维 — 批判性思维的基础
+- <span class="uw-unresolved" data-target="思辨与立场" title="未解析的双链目标：思辨与立场">思辨与立场</span> — 出处书籍
+- <span class="uw-unresolved" data-target="批判性思维" title="未解析的双链目标：批判性思维">批判性思维</span> — 批判性思维的基础
 - 思维工具 — 思维的辅助工具
 - [逻辑树](../md-9a023335/) — 分析问题的工具
 
@@ -44,11 +44,11 @@ description: "任何思维过程都可以分解为八个要素。用这个框架
 
 ## 🔗 关联知识
 
-- 思辨与立场
-- 批判性思维
+- <span class="uw-unresolved" data-target="思辨与立场" title="未解析的双链目标：思辨与立场">思辨与立场</span>
+- <span class="uw-unresolved" data-target="批判性思维" title="未解析的双链目标：批判性思维">批判性思维</span>
 - 思维工具
 - [逻辑树](../md-9a023335/)
-- 决策思维模型
+- <span class="uw-unresolved" data-target="决策思维模型" title="未解析的双链目标：决策思维模型">决策思维模型</span>
 
 ## 💡 个人理解
 
@@ -81,10 +81,10 @@ description: "任何思维过程都可以分解为八个要素。用这个框架
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/思维八大要素框架.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：5 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-1f821a5cc981`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：5 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

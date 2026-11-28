@@ -39,13 +39,13 @@ description: "可信度加权决策（Credibility-Weighted Decision Making）是
 
 - [原则化决策](../md-b36415f7/) — 经验→规则→复用的决策基础
 - [创意择优](../md-b40c05fb/) — 观点可信度>职位权力的组织文化
-- 能力圈原则实践：如何界定自己的投资边界 — 可信度的领域边界
+- <span class="uw-unresolved" data-target="能力圈原则实践：如何界定自己的投资边界" title="未解析的双链目标：能力圈原则实践：如何界定自己的投资边界">能力圈原则实践：如何界定自己的投资边界</span> — 可信度的领域边界
 - [投资中的非共识正确](../md-75c5a1fc/) — 可信反对者的价值
 
 ## 📚 参考资料
 
 - 来源：`B3-认知成长-原则_MSH_v3`
-- 原始书籍：《原则》-瑞·达利欧
+- 原始书籍：<span class="uw-unresolved" data-target="《原则》-瑞·达利欧" title="未解析的双链目标：《原则》-瑞·达利欧">《原则》-瑞·达利欧</span>
 
 ## 💡 个人理解
 
@@ -79,10 +79,10 @@ description: "可信度加权决策（Credibility-Weighted Decision Making）是
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/可信度加权决策.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-f4ec29c406e0`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

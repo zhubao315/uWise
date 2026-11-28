@@ -43,14 +43,14 @@ description: "头脑极度开放（Radical Open-mindedness）是瑞·达利欧�
 ## 🔗 关联知识
 
 - [可信度加权决策](../md-f4ec29c4/) — 开放心态的决策落地机制
-- 认知偏差与多元思维：如何避免“锤子思维” — 确认偏误与思维定式的认知科学
+- <span class="uw-unresolved" data-target="认知偏差与多元思维：如何避免“锤子思维”" title="未解析的双链目标：认知偏差与多元思维：如何避免“锤子思维”">认知偏差与多元思维：如何避免“锤子思维”</span> — 确认偏误与思维定式的认知科学
 - [投资中的非共识正确](../md-75c5a1fc/) — 开放心态在投资中的价值
 - [终身学习者](../md-447f9faa/) — 持续吸收新信息的学习论
 
 ## 📚 参考资料
 
 - 来源：`B3-认知成长-原则_MSH_v3`
-- 原始书籍：《原则》-瑞·达利欧
+- 原始书籍：<span class="uw-unresolved" data-target="《原则》-瑞·达利欧" title="未解析的双链目标：《原则》-瑞·达利欧">《原则》-瑞·达利欧</span>
 
 ## 💡 个人理解
 
@@ -84,10 +84,10 @@ description: "头脑极度开放（Radical Open-mindedness）是瑞·达利欧�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/头脑极度开放.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-4d6657772d1c`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -27,7 +27,7 @@ description: "凯利·麦格尼格尔（Kelly McGonigal）的自控力科学：�
 ### 实际应用
 
 - **减少损耗**：保证睡眠、管理压力，把最需要自控的事放在状态最好的时段。
-- **环境设计**：提前移除诱惑（见 环境设计优于意志力），而非临场硬扛。
+- **环境设计**：提前移除诱惑（见 <span class="uw-unresolved" data-target="环境设计优于意志力" title="未解析的双链目标：环境设计优于意志力">环境设计优于意志力</span>），而非临场硬扛。
 - **破解道德许可**：做对的事之后不给自己"奖励性放纵"的理由。
 - **破解破罐破摔**：破戒后立刻回到正轨，不因一次失误否定全局。
 - **训练**：用冥想、运动、规律作息增强自控的"肌肉"。
@@ -36,8 +36,8 @@ description: "凯利·麦格尼格尔（Kelly McGonigal）的自控力科学：�
 
 - [认知偏误](../md-6568b24b/)
 - [正念](../md-ef26f3ba/)
-- 环境设计优于意志力
-- 习惯建立的四法则模型
+- <span class="uw-unresolved" data-target="环境设计优于意志力" title="未解析的双链目标：环境设计优于意志力">环境设计优于意志力</span>
+- <span class="uw-unresolved" data-target="习惯建立的四法则模型" title="未解析的双链目标：习惯建立的四法则模型">习惯建立的四法则模型</span>
 
 ## 💡 个人理解
 
@@ -81,10 +81,10 @@ description: "凯利·麦格尼格尔（Kelly McGonigal）的自控力科学：�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/自控力：斯坦福大学最受欢迎心理学课程.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-7a247fbdad70`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

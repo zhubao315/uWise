@@ -30,7 +30,7 @@ description: "城市传说学（Urban Legend Studies）是民俗学与民间文�
 
 ## 🔗 关联知识
 
-- 《北京中轴线传说》-杨建业
+- <span class="uw-unresolved" data-target="《北京中轴线传说》-杨建业" title="未解析的双链目标：《北京中轴线传说》-杨建业">《北京中轴线传说》-杨建业</span>
 - [八臂哪吒城](../md-5df1d4eb/)
 - [建筑遗产的民间叙事](../md-154edfe8/)
 - [民间叙事](../md-b24111bf/)
@@ -79,10 +79,10 @@ description: "城市传说学（Urban Legend Studies）是民俗学与民间文�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/城市传说学.md`
-- 原始状态：已确立 · 分类：03-History-Society
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-90cc899c3b07`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：03-History-Society
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

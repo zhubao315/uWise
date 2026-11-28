@@ -16,7 +16,7 @@ description: "戴曼迪斯的文明进化逻辑，指以指数型技术为核心
 - **四大力量**：指数技术 + DIY 创新者 + 科技慈善家 + 崛起中的 10 亿人
 - **元问题意识**：技术解决"能不能"，但"该不该""为什么"需要人类自己回答
 - 戴曼迪斯的最独特之处在于，他对技术的乐观不是盲目的——每一阶段的技术突破之后，他都追问"然后呢？"这个追问最终将他从技术布道者推向了文明哲学家。
-- 来源：《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒
+- 来源：<span class="uw-unresolved" data-target="《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒" title="未解析的双链目标：《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒">《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒</span>
 - 参见：[指数型思维与线性心智的时代断层](../md-9e8d18d3/) | [指数型伦理：适配技术迭代的新型规则体系](../md-9b7e6141/)
 
 ## 📖 详细说明
@@ -33,7 +33,7 @@ description: "戴曼迪斯的文明进化逻辑，指以指数型技术为核心
 
 ## 🔗 关联知识
 
-- 《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒
+- <span class="uw-unresolved" data-target="《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒" title="未解析的双链目标：《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒">《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒</span>
 - [指数型思维与线性心智的时代断层](../md-9e8d18d3/)
 - [指数型伦理：适配技术迭代的新型规则体系](../md-9b7e6141/)
 
@@ -64,10 +64,10 @@ description: "戴曼迪斯的文明进化逻辑，指以指数型技术为核心
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/戴曼迪斯：指数技术驱动的文明进化逻辑.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-eab1b13c39a4`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

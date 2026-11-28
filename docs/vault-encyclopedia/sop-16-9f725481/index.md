@@ -15,7 +15,7 @@ description: "负责人: 🎮 游戏王者 | 核心工具: AI大模型, 游戏�
 - 战略价值：本SOP是您作为“省季军级”选手，将顶尖游戏理解**“内化为能力”**和**“外化为影响力”**的核心规程。它既是保持和提升竞技状态的“训练手册”，也是通过内容创作实现“沟通精进”和商业变现的“生产力工具”。
 - 路径一 (竞技提升)：
 - 路径二 (内容创作)：
-- 核心技能：心理学专家技能, 💰 投资人技能, 人工智能专家技能
+- 核心技能：<span class="uw-unresolved" data-target="心理学专家技能" title="未解析的双链目标：心理学专家技能">心理学专家技能</span>, <span class="uw-unresolved" data-target="投资人：AI驱动的理性价值发现引擎" title="未解析的双链目标：投资人：AI驱动的理性价值发现引擎">💰 投资人技能</span>, <span class="uw-unresolved" data-target="人工智能专家技能" title="未解析的双链目标：人工智能专家技能">人工智能专家技能</span>
 
 ## 📖 详细说明
 
@@ -28,10 +28,10 @@ description: "负责人: 🎮 游戏王者 | 核心工具: AI大模型, 游戏�
 
 ## 🔗 关联知识
 
-- 投资人：AI驱动的理性价值发现引擎
-- 人工智能专家技能
-- 心理学专家技能
-- SOP-04-技术博客内容生产线
+- <span class="uw-unresolved" data-target="投资人：AI驱动的理性价值发现引擎" title="未解析的双链目标：投资人：AI驱动的理性价值发现引擎">投资人：AI驱动的理性价值发现引擎</span>
+- <span class="uw-unresolved" data-target="人工智能专家技能" title="未解析的双链目标：人工智能专家技能">人工智能专家技能</span>
+- <span class="uw-unresolved" data-target="心理学专家技能" title="未解析的双链目标：心理学专家技能">心理学专家技能</span>
+- <span class="uw-unresolved" data-target="SOP-04-技术博客内容生产线" title="未解析的双链目标：SOP-04-技术博客内容生产线">SOP-04-技术博客内容生产线</span>
 
 ## 💡 个人理解
 
@@ -64,10 +64,10 @@ description: "负责人: 🎮 游戏王者 | 核心工具: AI大模型, 游戏�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/SOP-16-游戏王者-游戏攻略分析.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：7 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-9f725481234b`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：7 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

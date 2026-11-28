@@ -1,13 +1,13 @@
 ---
 title: "知识分类体系"
-description: "- MECE原则：相互独立，完全穷尽"
+description: "- <span class=\"uw-unresolved\" data-target=\"MECE原则\" title=\"未解析的双链目标：MECE原则\">MECE原则</span>：相互独立，完全穷尽"
 ---
 
 # 知识分类体系
 
 ## 分类原则
 
-- **MECE原则**：相互独立，完全穷尽
+- **<span class="uw-unresolved" data-target="MECE原则" title="未解析的双链目标：MECE原则">MECE原则</span>**：相互独立，完全穷尽
 - **层级清晰**：最多4层深度
 - **语义明确**：每个分类有清晰定义
 - **可扩展性**：支持新增领域
@@ -110,10 +110,10 @@ description: "- MECE原则：相互独立，完全穷尽"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`知识分类体系.md`
-- 原始状态：未标注 · 分类：未标注
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-39211d30ca79`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：uncategorized
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

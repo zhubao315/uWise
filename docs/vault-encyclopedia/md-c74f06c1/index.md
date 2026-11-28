@@ -34,7 +34,7 @@ description: "指数投资原则基于一个简单而深刻的观察：由于市
 
 - [有效市场假说](../md-32272291/)
 - [随机漫步理论](../md-54487759/)
-- 长期主义
+- <span class="uw-unresolved" data-target="长期主义" title="未解析的双链目标：长期主义">长期主义</span>
 
 ## 💡 个人理解
 
@@ -78,10 +78,10 @@ description: "指数投资原则基于一个简单而深刻的观察：由于市
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/指数投资原则.md`
-- 原始状态：已确立 · 分类：01-Finance-Investment
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-c74f06c1676b`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：01-Finance-Investment
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -29,11 +29,11 @@ description: "6D演进模型描述了技术从萌芽到颠覆的必经之路，�
 - **职业规划**：审计核心技能所处的6D阶段
 - **投资决策**：D3阶段是行业洗牌期，D5阶段是平台经济爆发期
 ---
-*关联：指数型机会识别协议 | [6D演进模型](../6d-md-45fae356/)*
+*关联：<span class="uw-unresolved" data-target="指数型机会识别协议" title="未解析的双链目标：指数型机会识别协议">指数型机会识别协议</span> | [6D演进模型](../6d-md-45fae356/)*
 
 ## 🔗 关联知识
 
-- 指数型机会识别协议
+- <span class="uw-unresolved" data-target="指数型机会识别协议" title="未解析的双链目标：指数型机会识别协议">指数型机会识别协议</span>
 - [6D演进模型](../6d-md-45fae356/)
 
 ## 📊 元数据
@@ -63,10 +63,10 @@ description: "6D演进模型描述了技术从萌芽到颠覆的必经之路，�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/指数型技术的6D演进框架.md`
-- 原始状态：已确立 · 分类：02-AI-Architecture
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-0ea791427f43`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：02-AI-Architecture
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

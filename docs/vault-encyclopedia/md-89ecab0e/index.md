@@ -12,14 +12,14 @@ description: "《大学》是儒家四书之一，提出\"三纲领\"（明明�
 ## 🎯 关键要点
 
 - 《大学》是儒家四书之一，提出"三纲领"（明明德、亲民、止于至善）和"八条目"。
-- 儒家伦理与现代职业道德的结合路径 《论语》-孔子 [中庸](../md-794ffa42/) [中国哲学史](../md-2369b0fe/) 修身四课日课复利法
+- <span class="uw-unresolved" data-target="儒家伦理与现代职业道德的结合路径" title="未解析的双链目标：儒家伦理与现代职业道德的结合路径">儒家伦理与现代职业道德的结合路径</span> <span class="uw-unresolved" data-target="《论语》-孔子" title="未解析的双链目标：《论语》-孔子">《论语》-孔子</span> [中庸](../md-794ffa42/) [中国哲学史](../md-2369b0fe/) <span class="uw-unresolved" data-target="修身四课日课复利法" title="未解析的双链目标：修身四课日课复利法">修身四课日课复利法</span>
 - *最后更新：2026-06-05*
 
 ## 📖 详细说明
 
 ### 概念解释
 《大学》是儒家四书之一，提出"三纲领"（明明德、亲民、止于至善）和"八条目"。
-儒家伦理与现代职业道德的结合路径 《论语》-孔子 [中庸](../md-794ffa42/) [中国哲学史](../md-2369b0fe/) 修身四课日课复利法
+<span class="uw-unresolved" data-target="儒家伦理与现代职业道德的结合路径" title="未解析的双链目标：儒家伦理与现代职业道德的结合路径">儒家伦理与现代职业道德的结合路径</span> <span class="uw-unresolved" data-target="《论语》-孔子" title="未解析的双链目标：《论语》-孔子">《论语》-孔子</span> [中庸](../md-794ffa42/) [中国哲学史](../md-2369b0fe/) <span class="uw-unresolved" data-target="修身四课日课复利法" title="未解析的双链目标：修身四课日课复利法">修身四课日课复利法</span>
 
 ---
 
@@ -32,11 +32,11 @@ description: "《大学》是儒家四书之一，提出\"三纲领\"（明明�
 
 ## 🔗 关联知识
 
-- 儒家伦理与现代职业道德的结合路径
-- 《论语》-孔子
+- <span class="uw-unresolved" data-target="儒家伦理与现代职业道德的结合路径" title="未解析的双链目标：儒家伦理与现代职业道德的结合路径">儒家伦理与现代职业道德的结合路径</span>
+- <span class="uw-unresolved" data-target="《论语》-孔子" title="未解析的双链目标：《论语》-孔子">《论语》-孔子</span>
 - [中庸](../md-794ffa42/)
 - [中国哲学史](../md-2369b0fe/)
-- 修身四课日课复利法
+- <span class="uw-unresolved" data-target="修身四课日课复利法" title="未解析的双链目标：修身四课日课复利法">修身四课日课复利法</span>
 
 ## 📊 元数据
 
@@ -77,10 +77,10 @@ description: "《大学》是儒家四书之一，提出\"三纲领\"（明明�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/大学.md`
-- 原始状态：已确立 · 分类：05-Philosophy-Ethics
-- 断链别名（无目标，保留为文本）：9 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-89ecab0ebafd`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：05-Philosophy-Ethics
+- 未解析双链：9 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -73,9 +73,9 @@ description: "基于日本医学博士安川康介《上瘾式学习：科学的
 ## 🔗 关联
 
 - [认知跃迁三层次](../entry-b36bed0e/) — 学习对应的认知升级路径
-- 元认知 — 对学习过程的自我监控与反思
+- <span class="uw-unresolved" data-target="元认知" title="未解析的双链目标：元认知">元认知</span> — 对学习过程的自我监控与反思
 - [信息即负熵](../md-af237fd6/) — 学习本质是建立有序的知识结构
-- ∑ 思维模型库 — 交叉训练在思维模型层面的应用
+- <span class="uw-unresolved" data-target="∑ 思维模型库" title="未解析的双链目标：∑ 思维模型库">∑ 思维模型库</span> — 交叉训练在思维模型层面的应用
 
 ---
 
@@ -100,10 +100,10 @@ description: "基于日本医学博士安川康介《上瘾式学习：科学的
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/上瘾式学习五大科学武器.md`
-- 原始状态：published · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-4b8d2a843eb4`（稳定 ID，不暴露私库路径）
+- 状态：published · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

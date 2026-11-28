@@ -25,7 +25,7 @@ description: "核心框架：四种涌现路径可交叉复用，共性关键条
 
 **机制**：超级个体自然抱团
 
-**描述**：组织中已经存在若干AI超级个体，他们在日常工作中自然发现彼此，因为相似的工作方式和效率追求而自发组成小团队。没有自上而下的推动，完全是"物以类聚"的自然结果。
+**描述**：组织中已经存在若干<span class="uw-unresolved" data-target="AI超级个体" title="未解析的双链目标：AI超级个体">AI超级个体</span>，他们在日常工作中自然发现彼此，因为相似的工作方式和效率追求而自发组成小团队。没有自上而下的推动，完全是"物以类聚"的自然结果。
 
 **典型过程**：
 1. 个别成员率先成为超级个体（通常是因为个人好奇心和探索欲）
@@ -37,7 +37,7 @@ description: "核心框架：四种涌现路径可交叉复用，共性关键条
 **适用条件**：
 - 组织文化相对开放，允许自由探索
 - 没有过多的流程限制阻碍个人创新
-- 超级个体的成果能够被他人看到（能力外溢的前提）
+- 超级个体的成果能够被他人看到（<span class="uw-unresolved" data-target="能力外溢" title="未解析的双链目标：能力外溢">能力外溢</span>的前提）
 
 **优势**：最自然、阻力最小、团队凝聚力最强
 
@@ -64,10 +64,10 @@ description: "核心框架：四种涌现路径可交叉复用，共性关键条
 
 ## 🔗 关联知识
 
-- AI超级个体
-- 能力外溢
-- 涌现优于设计原则
-- 管理者园丁论
+- <span class="uw-unresolved" data-target="AI超级个体" title="未解析的双链目标：AI超级个体">AI超级个体</span>
+- <span class="uw-unresolved" data-target="能力外溢" title="未解析的双链目标：能力外溢">能力外溢</span>
+- <span class="uw-unresolved" data-target="涌现优于设计原则" title="未解析的双链目标：涌现优于设计原则">涌现优于设计原则</span>
+- <span class="uw-unresolved" data-target="管理者园丁论" title="未解析的双链目标：管理者园丁论">管理者园丁论</span>
 - [超级团队三大形态模型](../md-d4dd9567/)
 
 ## 📚 参考资料
@@ -106,10 +106,10 @@ description: "核心框架：四种涌现路径可交叉复用，共性关键条
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/超级团队涌现路径模型.md`
-- 原始状态：draft · 分类：02-AI-Architecture
-- 断链别名（无目标，保留为文本）：6 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-656db527ff6b`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：02-AI-Architecture
+- 未解析双链：6 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

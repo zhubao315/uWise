@@ -16,7 +16,7 @@ description: "褚时健，中国烟草大王，71岁入狱，75岁保外就医�
 - **深耕而非广撒**：十年只做一件事，把每一个细节（土壤、灌溉、间距）做到极致
 - **时间构建护城河**：种橙子的十年看似"慢"，但正因为这份慢，建立了竞争对手无法快速复制的壁垒
 - **复利思维**：每年的积累都在前一年的基础上增长，第十年的回报远超前几年之和
-- 宝哥作为2026年度目标，"慢即是快"的理念贯穿投资哲学：
+- 宝哥作为<span class="uw-unresolved" data-target="2026年度目标" title="未解析的双链目标：2026年度目标">2026年度目标</span>，"慢即是快"的理念贯穿投资哲学：
 - 不追短期热点，寻找需要时间才能兑现价值的标的
 - 愿意承受"看起来很慢"的等待期
 
@@ -35,12 +35,12 @@ description: "褚时健，中国烟草大王，71岁入狱，75岁保外就医�
 
 ## 🔗 关联知识
 
-- 2026年度目标
+- <span class="uw-unresolved" data-target="2026年度目标" title="未解析的双链目标：2026年度目标">2026年度目标</span>
 - [逆人性](../md-4df23b2d/)
 - [强人特质](../md-010fd985/)
-- 长期主义
-- 二八原则
-- 前期：先写起来
+- <span class="uw-unresolved" data-target="长期主义" title="未解析的双链目标：长期主义">长期主义</span>
+- <span class="uw-unresolved" data-target="二八原则" title="未解析的双链目标：二八原则">二八原则</span>
+- <span class="uw-unresolved" data-target="前期：先写起来" title="未解析的双链目标：前期：先写起来">前期：先写起来</span>
 
 ## 📊 元数据
 
@@ -69,10 +69,10 @@ description: "褚时健，中国烟草大王，71岁入狱，75岁保外就医�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/慢即是快：褚时健的长期主义哲学.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：5 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-42eae3c636ca`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：5 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

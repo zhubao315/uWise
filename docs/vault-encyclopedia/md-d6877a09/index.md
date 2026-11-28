@@ -38,7 +38,7 @@ description: "《十三邀》中13位思想者的共同点：不是答案相同�
 ## 🔗 关联知识
 
 - 《十三邀》-许知远
-- 涌现优于设计原则
+- <span class="uw-unresolved" data-target="涌现优于设计原则" title="未解析的双链目标：涌现优于设计原则">涌现优于设计原则</span>
 
 ## 📊 元数据
 
@@ -75,10 +75,10 @@ description: "《十三邀》中13位思想者的共同点：不是答案相同�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/每个人都在用自己的方式抵抗平庸.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-d6877a09a786`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

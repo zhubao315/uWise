@@ -20,7 +20,7 @@ description: "\"鉴于往事，有资于治道\"是宋神宗为《资治通鉴�
 - 司马光的政治立场（保守派）影响了他对历史事件的评价
 - 现代可理解为：从历史案例中提炼决策智慧
 - [通古今之变](../md-3d6e35cc/) — 司马迁的历史观
-- 《史记》-司马迁 — 纪传体通史
+- <span class="uw-unresolved" data-target="《史记》-司马迁" title="未解析的双链目标：《史记》-司马迁">《史记》-司马迁</span> — 纪传体通史
 
 ## 📖 详细说明
 
@@ -36,12 +36,12 @@ description: "\"鉴于往事，有资于治道\"是宋神宗为《资治通鉴�
 
 ## 🔗 关联知识
 
-- 《资治通鉴》-司马光
+- <span class="uw-unresolved" data-target="《资治通鉴》-司马光" title="未解析的双链目标：《资治通鉴》-司马光">《资治通鉴》-司马光</span>
 - [通古今之变](../md-3d6e35cc/)
-- 《史记》-司马迁
-- 《中国哲学简史》-冯友兰
-- 《古文观止》
-- 《论语》-孔子
+- <span class="uw-unresolved" data-target="《史记》-司马迁" title="未解析的双链目标：《史记》-司马迁">《史记》-司马迁</span>
+- <span class="uw-unresolved" data-target="《中国哲学简史》-冯友兰" title="未解析的双链目标：《中国哲学简史》-冯友兰">《中国哲学简史》-冯友兰</span>
+- <span class="uw-unresolved" data-target="《古文观止》" title="未解析的双链目标：《古文观止》">《古文观止》</span>
+- <span class="uw-unresolved" data-target="《论语》-孔子" title="未解析的双链目标：《论语》-孔子">《论语》-孔子</span>
 
 ## 📊 元数据
 
@@ -70,10 +70,10 @@ description: "\"鉴于往事，有资于治道\"是宋神宗为《资治通鉴�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/鉴于往事有资于治道.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：6 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-d4ecfb03e545`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：6 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

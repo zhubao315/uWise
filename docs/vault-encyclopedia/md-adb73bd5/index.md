@@ -15,7 +15,7 @@ description: "核心主张：AI 时代，注意力深度本身成为稀缺资源
 
 ## 关联
 
-- [信息即负熵](../md-af237fd6/) · 深度工作方法论 · 创造力与苦难
+- [信息即负熵](../md-af237fd6/) · <span class="uw-unresolved" data-target="深度工作方法论" title="未解析的双链目标：深度工作方法论">深度工作方法论</span> · <span class="uw-unresolved" data-target="创造力与苦难" title="未解析的双链目标：创造力与苦难">创造力与苦难</span>
 
 > 相关：深度工作的神经基础见 [创造力的神经基础](../md-646f34ec/)
 
@@ -38,10 +38,10 @@ description: "核心主张：AI 时代，注意力深度本身成为稀缺资源
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/深度工作-吸引力护城河.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-adb73bd55e71`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -39,7 +39,7 @@ description: "弗兰克尔在奥斯维辛的发现：最深刻的意义往往诞
 ## 🔗 关联知识
 
 - [《活出生命的意义》-维克多·弗兰克尔](../entry-deddd3bf/)
-- 设计即权衡
+- <span class="uw-unresolved" data-target="设计即权衡" title="未解析的双链目标：设计即权衡">设计即权衡</span>
 
 ## 📊 元数据
 
@@ -68,10 +68,10 @@ description: "弗兰克尔在奥斯维辛的发现：最深刻的意义往往诞
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/苦难不是意义的障碍而是意义的来源.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-a5ed38d9369b`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

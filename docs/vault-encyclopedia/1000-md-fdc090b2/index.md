@@ -23,7 +23,7 @@ description: "凯文·凯利提出的创作者经济经典理论：任何创作�
 
 ## 🔗 关联知识
 
-- 凯文凯利
+- <span class="uw-unresolved" data-target="凯文凯利" title="未解析的双链目标：凯文凯利">凯文凯利</span>
 - [幂次法则](../md-7548bf3e/)
 
 ## 📚 参考资料
@@ -62,10 +62,10 @@ description: "凯文·凯利提出的创作者经济经典理论：任何创作�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/1000个铁杆粉丝.md`
-- 原始状态：draft · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-fdc090b244a9`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -38,7 +38,7 @@ description: "留住一个人唯一的方法，是对方自愿留下。 爱情�
 - [爱与自由](../md-1a9c6a48/)
 - [Situationship与亲密关系困境](../situationship-md-3448b2b1/)
 - [自由就是被别人讨厌](../md-eb52cdc1/) — 课题分离，允许他人按自我意愿存在
-- 《被讨厌的勇气》-岸见一郎
+- <span class="uw-unresolved" data-target="《被讨厌的勇气》-岸见一郎" title="未解析的双链目标：《被讨厌的勇气》-岸见一郎">《被讨厌的勇气》-岸见一郎</span>
 - [肉体之爱](../md-cfa0d30e/) · [激情之爱](../md-0afa051c/)
 
 ## 📚 参考资料
@@ -72,10 +72,10 @@ description: "留住一个人唯一的方法，是对方自愿留下。 爱情�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/他者性：爱的本质是尊重自由.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-1bf30e53f18c`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

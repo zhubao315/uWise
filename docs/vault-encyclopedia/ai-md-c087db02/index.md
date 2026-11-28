@@ -18,9 +18,9 @@ description: "将美学融入日常生活，用创造力让生活更有质感的
 
 ## 相关
 
-- 审美教育
-- 创意写作
-- 摄影
+- <span class="uw-unresolved" data-target="审美教育" title="未解析的双链目标：审美教育">审美教育</span>
+- <span class="uw-unresolved" data-target="创意写作" title="未解析的双链目标：创意写作">创意写作</span>
+- <span class="uw-unresolved" data-target="摄影" title="未解析的双链目标：摄影">摄影</span>
 
 ---
 
@@ -41,10 +41,10 @@ description: "将美学融入日常生活，用创造力让生活更有质感的
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/生活艺术家-AI时代美学生活与创新灵感的缔造者.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-c087db02c225`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

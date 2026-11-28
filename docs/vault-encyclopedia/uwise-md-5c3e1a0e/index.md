@@ -1,11 +1,11 @@
 ---
 title: "uWise"
-description: "组件正本路由页 · 完整档案见 uLife OS 组件体系 §六 · 词条入口见 ∑ uWise-参考(../uwise-eb467319/)"
+description: "组件正本路由页 · 完整档案见 <span class=\"uw-unresolved\" data-target=\"uLife OS 组件体系\" title=\"未解析的双链目标：uLife OS 组件体系\">uLife OS 组件体系</span> §六 · 词条入口见 ∑ uWise-参考(../uwise-eb467319/)"
 ---
 
 # uWise
 
-> **组件正本路由页** · 完整档案见 uLife OS 组件体系 §六 · 词条入口见 [∑ uWise-参考](../uwise-eb467319/)
+> **组件正本路由页** · 完整档案见 <span class="uw-unresolved" data-target="uLife OS 组件体系" title="未解析的双链目标：uLife OS 组件体系">uLife OS 组件体系</span> §六 · 词条入口见 [∑ uWise-参考](../uwise-eb467319/)
 
 ## 一句话定位
 
@@ -29,9 +29,9 @@ uWise（知识/验证层）是 **Agent 可读的词条百科 + 可信输出验�
 
 ## 关联
 
-- 体系：uLife OS 组件体系 · 我的项目
+- 体系：<span class="uw-unresolved" data-target="uLife OS 组件体系" title="未解析的双链目标：uLife OS 组件体系">uLife OS 组件体系</span> · <span class="uw-unresolved" data-target="我的项目" title="未解析的双链目标：我的项目">我的项目</span>
 - 词条：[∑ uWise-参考](../uwise-eb467319/) · [知识分类体系](../md-39211d30/) · [词条标准化规范](../02-fc20d065/)
-- 验证：投研智库 · LoopX · 2026年度 OKR（O2）
+- 验证：<span class="uw-unresolved" data-target="投研智库" title="未解析的双链目标：投研智库">投研智库</span> · <span class="uw-unresolved" data-target="LoopX" title="未解析的双链目标：LoopX">LoopX</span> · <span class="uw-unresolved" data-target="2026年度 OKR" title="未解析的双链目标：2026年度 OKR">2026年度 OKR</span>（O2）
 
 ---
 
@@ -52,10 +52,10 @@ uWise（知识/验证层）是 **Agent 可读的词条百科 + 可信输出验�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/uWise.md`
-- 原始状态：已确立 · 分类：来源待考（uWise 词条，无 01-BRAIN 对应）
-- 断链别名（无目标，保留为文本）：6 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-5c3e1a0ee11d`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：concepts
+- 未解析双链：6 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

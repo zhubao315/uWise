@@ -31,10 +31,10 @@ description: "儿童叙事视角，是一种以儿童作为观察者与叙述者
 
 ## 🔗 关联知识
 
-- 《城南旧事》-林海音
+- <span class="uw-unresolved" data-target="《城南旧事》-林海音" title="未解析的双链目标：《城南旧事》-林海音">《城南旧事》-林海音</span>
 - [成长即离别](../md-ce6b4f63/)
 - [小人物叙事](../md-7a2a6c3b/)
-- 叙事结构
+- <span class="uw-unresolved" data-target="叙事结构" title="未解析的双链目标：叙事结构">叙事结构</span>
 - [边缘人的相互辨认](../md-99a2d341/)
 - [幽默背后的悲悯](../md-04745252/)
 
@@ -80,10 +80,10 @@ description: "儿童叙事视角，是一种以儿童作为观察者与叙述者
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/儿童叙事视角.md`
-- 原始状态：已确立 · 分类：08-Arts-Culture
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-ff98267b5c07`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：08-Arts-Culture
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

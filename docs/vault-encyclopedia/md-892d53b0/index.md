@@ -41,9 +41,9 @@ description: "加速回报定律（Law of Accelerating Returns）由雷·库兹�
 
 ## 相关概念
 
-- 加速回报定律与人类线性思维的冲突错觉 — 认知层阐述
+- <span class="uw-unresolved" data-target="加速回报定律与人类线性思维的冲突错觉" title="未解析的双链目标：加速回报定律与人类线性思维的冲突错觉">加速回报定律与人类线性思维的冲突错觉</span> — 认知层阐述
 - [加速回报定律的微观决策映射：从宏观预测到个体操作](../md-5dbc976e/) — 个体操作层
-- 2029通用人工智能：图灵测试的终结与新定义 — AGI时间线预测
+- <span class="uw-unresolved" data-target="2029通用人工智能：图灵测试的终结与新定义" title="未解析的双链目标：2029通用人工智能：图灵测试的终结与新定义">2029通用人工智能：图灵测试的终结与新定义</span> — AGI时间线预测
 - [2045奇点假说：非生物智能对人类新皮质的云端扩容](../2045-md-fbb0e1b3/) — 终极推论
 - [人机融合](../md-4af6b0aa/) — 加速回报定律在认知增强中的体现
 - 摩尔定律 — 加速回报定律的经典案例
@@ -73,10 +73,10 @@ description: "加速回报定律（Law of Accelerating Returns）由雷·库兹�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/加速回报定律.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-892d53b04e52`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

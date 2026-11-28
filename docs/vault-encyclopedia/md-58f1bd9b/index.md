@@ -1,17 +1,17 @@
 ---
 title: "双链笔记与概念挖坑"
-description: "双链笔记(../md-6636e0fa/)，卡片盒笔记法 - Zettelkasten，的更牛逼的一点是："
+description: "双链笔记(../md-6636e0fa/)，<span class=\"uw-unresolved\" data-target=\"卡片盒笔记法 - Zettelkasten\" title=\"未解析的双链目标：卡片盒笔记法 - Zettelkasten\">卡片盒笔记法 - Zettelkasten</span>，的更牛逼的一点是："
 ---
 
 # 双链笔记与概念挖坑
 
 ## 📌 核心定义
 
-> [双链笔记](../md-6636e0fa/)，卡片盒笔记法 - Zettelkasten，的更牛逼的一点是：
+> [双链笔记](../md-6636e0fa/)，<span class="uw-unresolved" data-target="卡片盒笔记法 - Zettelkasten" title="未解析的双链目标：卡片盒笔记法 - Zettelkasten">卡片盒笔记法 - Zettelkasten</span>，的更牛逼的一点是：
 
 ## 🎯 关键要点
 
-- [双链笔记](../md-6636e0fa/)，卡片盒笔记法 - Zettelkasten，的更牛逼的一点是：
+- [双链笔记](../md-6636e0fa/)，<span class="uw-unresolved" data-target="卡片盒笔记法 - Zettelkasten" title="未解析的双链目标：卡片盒笔记法 - Zettelkasten">卡片盒笔记法 - Zettelkasten</span>，的更牛逼的一点是：
 - **一个真相是，我们的几乎所有争执，辩论，学习，都是围绕一个个词语，概念展开的。**
 - 而卡片笔记就能完美的把这个词语/概念的坑挖出来。
 - 只要挖出来，就证明自己掌握了关键所在，至于填坑不填坑，都行，看情况，有很大灵活性。
@@ -29,7 +29,7 @@ description: "双链笔记(../md-6636e0fa/)，卡片盒笔记法 - Zettelkasten�
 ## 🔗 关联知识
 
 - [双链笔记](../md-6636e0fa/)
-- 卡片盒笔记法 - Zettelkasten
+- <span class="uw-unresolved" data-target="卡片盒笔记法 - Zettelkasten" title="未解析的双链目标：卡片盒笔记法 - Zettelkasten">卡片盒笔记法 - Zettelkasten</span>
 - [功利主义](../md-b7b8b360/)
 
 ## 📚 参考资料
@@ -53,8 +53,8 @@ description: "双链笔记(../md-6636e0fa/)，卡片盒笔记法 - Zettelkasten�
 
 ## 调用示例
 
-场景 1：判断「双链笔记与概念挖坑」是否适用时，先复述其核心——[双链笔记](../md-6636e0fa/)，卡片盒笔记法 - Zettelkasten，的更牛逼的一点是：——再对照当前事实逐项核对。
-场景 2：遇到与「双链笔记与概念挖坑」相似的模糊情形，以要点「- [双链笔记](../md-6636e0fa/)，卡片盒笔记法 - Zettelkasten，的更牛逼的一点是：」为检查清单，避免只凭印象下结论。
+场景 1：判断「双链笔记与概念挖坑」是否适用时，先复述其核心——[双链笔记](../md-6636e0fa/)，<span class="uw-unresolved" data-target="卡片盒笔记法 - Zettelkasten" title="未解析的双链目标：卡片盒笔记法 - Zettelkasten">卡片盒笔记法 - Zettelkasten</span>，的更牛逼的一点是：——再对照当前事实逐项核对。
+场景 2：遇到与「双链笔记与概念挖坑」相似的模糊情形，以要点「- [双链笔记](../md-6636e0fa/)，<span class="uw-unresolved" data-target="卡片盒笔记法 - Zettelkasten" title="未解析的双链目标：卡片盒笔记法 - Zettelkasten">卡片盒笔记法 - Zettelkasten</span>，的更牛逼的一点是：」为检查清单，避免只凭印象下结论。
 
 ## 边界约束
 
@@ -68,10 +68,10 @@ description: "双链笔记(../md-6636e0fa/)，卡片盒笔记法 - Zettelkasten�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/双链笔记与概念挖坑.md`
-- 原始状态：draft · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：5 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-58f1bd9b077d`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：06-Cognitive-Psychology
+- 未解析双链：5 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

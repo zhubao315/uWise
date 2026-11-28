@@ -20,7 +20,7 @@ description: "番茄工作法（Pomodoro Technique）是由弗朗西斯科·西�
 
 ### 概念解释
 番茄工作法（Pomodoro Technique）是由弗朗西斯科·西里洛于 1980 年代发明的时间管理方法，通过 25 分钟专注工作 + 5 分钟休息的循环来提升效率。
-时间管理 [GTD](../gtd-md-629cd766/) [深度工作四步法——专注力炼金术](../md-9dfaf3f9/) 心流 [最小可执行单元思维](../md-a912ecfa/)
+<span class="uw-unresolved" data-target="时间管理" title="未解析的双链目标：时间管理">时间管理</span> [GTD](../gtd-md-629cd766/) [深度工作四步法——专注力炼金术](../md-9dfaf3f9/) <span class="uw-unresolved" data-target="心流" title="未解析的双链目标：心流">心流</span> [最小可执行单元思维](../md-a912ecfa/)
 
 ---
 
@@ -38,10 +38,10 @@ description: "番茄工作法（Pomodoro Technique）是由弗朗西斯科·西�
 
 ## 🔗 关联知识
 
-- 时间管理
+- <span class="uw-unresolved" data-target="时间管理" title="未解析的双链目标：时间管理">时间管理</span>
 - [GTD](../gtd-md-629cd766/)
 - [深度工作四步法——专注力炼金术](../md-9dfaf3f9/)
-- 心流
+- <span class="uw-unresolved" data-target="心流" title="未解析的双链目标：心流">心流</span>
 - [最小可执行单元思维](../md-a912ecfa/)
 
 ## 💡 个人理解
@@ -75,10 +75,10 @@ description: "番茄工作法（Pomodoro Technique）是由弗朗西斯科·西�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/番茄工作法图解.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：4 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-6ef463d4b222`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：4 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

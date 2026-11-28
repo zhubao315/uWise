@@ -1,17 +1,17 @@
 ---
 title: "∑ 葡萄酒词条索引"
-description: "- 《葡萄酒商业管理》-霍尔 — 葡萄酒产业商业运作"
+description: "- <span class=\"uw-unresolved\" data-target=\"《葡萄酒商业管理》-霍尔\" title=\"未解析的双链目标：《葡萄酒商业管理》-霍尔\">《葡萄酒商业管理》-霍尔</span> — 葡萄酒产业商业运作"
 ---
 
 # ∑ 葡萄酒词条索引
 
 ## 关联笔记
 
-- 《葡萄酒商业管理》-霍尔 — 葡萄酒产业商业运作
-- 《葡萄酒感官评价》-杰克逊 — 葡萄酒品鉴科学
-- 《葡萄酒的自然史》-塔特萨尔 — 葡萄酒历史与文化
-- 《DK葡萄酒百科全书》-佚名 — 葡萄酒百科
-- 《伟大的葡萄酒》-休·约翰逊 — 葡萄酒文化
+- <span class="uw-unresolved" data-target="《葡萄酒商业管理》-霍尔" title="未解析的双链目标：《葡萄酒商业管理》-霍尔">《葡萄酒商业管理》-霍尔</span> — 葡萄酒产业商业运作
+- <span class="uw-unresolved" data-target="《葡萄酒感官评价》-杰克逊" title="未解析的双链目标：《葡萄酒感官评价》-杰克逊">《葡萄酒感官评价》-杰克逊</span> — 葡萄酒品鉴科学
+- <span class="uw-unresolved" data-target="《葡萄酒的自然史》-塔特萨尔" title="未解析的双链目标：《葡萄酒的自然史》-塔特萨尔">《葡萄酒的自然史》-塔特萨尔</span> — 葡萄酒历史与文化
+- <span class="uw-unresolved" data-target="《DK葡萄酒百科全书》-佚名" title="未解析的双链目标：《DK葡萄酒百科全书》-佚名">《DK葡萄酒百科全书》-佚名</span> — 葡萄酒百科
+- <span class="uw-unresolved" data-target="《伟大的葡萄酒》-休·约翰逊" title="未解析的双链目标：《伟大的葡萄酒》-休·约翰逊">《伟大的葡萄酒》-休·约翰逊</span> — 葡萄酒文化
 
 ---
 
@@ -123,10 +123,10 @@ description: "- 《葡萄酒商业管理》-霍尔 — 葡萄酒产业商业运�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/∑ 葡萄酒词条索引.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：5 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-69c0de6a363b`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：5 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

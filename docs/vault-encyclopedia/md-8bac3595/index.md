@@ -30,7 +30,7 @@ description: "梁陈方案思维，指面临重大决策时借鉴 1950 年梁思
 
 ## 🔗 关联知识
 
-- 《北京传》-邱华栋
+- <span class="uw-unresolved" data-target="《北京传》-邱华栋" title="未解析的双链目标：《北京传》-邱华栋">《北京传》-邱华栋</span>
 - [城市传记方法论](../md-9f3ba585/)
 - [城市身份跃迁](../md-759c6f4a/)
 - [梁陈方案](../md-b473e43c/)
@@ -78,10 +78,10 @@ description: "梁陈方案思维，指面临重大决策时借鉴 1950 年梁思
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/梁陈方案思维.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-8bac35952ec3`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

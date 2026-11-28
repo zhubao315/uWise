@@ -48,9 +48,9 @@ description: "适用范围：所有与 Hermes Agent 的交互、Agent 自身运�
 
 ## 🔗 关联知识
 
-- Agent接手指南
-- 维护SOP
-- ∑ 思维模型库
+- <span class="uw-unresolved" data-target="Agent接手指南" title="未解析的双链目标：Agent接手指南">Agent接手指南</span>
+- <span class="uw-unresolved" data-target="维护SOP" title="未解析的双链目标：维护SOP">维护SOP</span>
+- <span class="uw-unresolved" data-target="∑ 思维模型库" title="未解析的双链目标：∑ 思维模型库">∑ 思维模型库</span>
 - [数字人生：AI驱动的个人效能倍增与智能生态构建者](../ai-c792b6fb/)
 
 ## 📚 参考资料
@@ -89,10 +89,10 @@ description: "适用范围：所有与 Hermes Agent 的交互、Agent 自身运�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/AI Agent 核心原理.md`
-- 原始状态：draft · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-7b169b8dba91`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

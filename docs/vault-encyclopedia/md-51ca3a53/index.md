@@ -26,11 +26,11 @@ description: "先储蓄，再消费。不是收入 - 支出 = 储蓄，而是收
 
 ## 🔗 关联知识
 
-- 财富自由之路
+- <span class="uw-unresolved" data-target="财富自由之路" title="未解析的双链目标：财富自由之路">财富自由之路</span>
 - [七年财务自由计划](../md-6ca93a52/)
 - [交叉点概念](../md-87dbd433/)
 - [生命能量理论](../md-c555b3d0/)
-- 复利原则
+- <span class="uw-unresolved" data-target="复利原则" title="未解析的双链目标：复利原则">复利原则</span>
 
 ## 📊 元数据
 
@@ -71,10 +71,10 @@ description: "先储蓄，再消费。不是收入 - 支出 = 储蓄，而是收
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/储蓄先行原则.md`
-- 原始状态：已确立 · 分类：01-Finance-Investment
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-51ca3a53f049`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：01-Finance-Investment
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

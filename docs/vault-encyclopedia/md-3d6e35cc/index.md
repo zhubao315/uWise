@@ -19,8 +19,8 @@ description: "\"通古今之变\"出自司马迁《报任安书》，是司马�
 - 司马迁的历史观包含了"天人感应"的成分
 - 《史记》的"纪传体"体例体现了"通古今之变"的方法论
 - 现代可理解为：从历史中寻找规律，指导当下决策
-- 《资治通鉴》-司马光 — "鉴于往事，有资于治道"
-- 《中国哲学简史》-冯友兰 — 中国哲学的历史维度
+- <span class="uw-unresolved" data-target="《资治通鉴》-司马光" title="未解析的双链目标：《资治通鉴》-司马光">《资治通鉴》-司马光</span> — "鉴于往事，有资于治道"
+- <span class="uw-unresolved" data-target="《中国哲学简史》-冯友兰" title="未解析的双链目标：《中国哲学简史》-冯友兰">《中国哲学简史》-冯友兰</span> — 中国哲学的历史维度
 
 ## 📖 详细说明
 
@@ -36,11 +36,11 @@ description: "\"通古今之变\"出自司马迁《报任安书》，是司马�
 
 ## 🔗 关联知识
 
-- 《史记》-司马迁
-- 《资治通鉴》-司马光
-- 《中国哲学简史》-冯友兰
-- 《古文观止》
-- 《论语》-孔子
+- <span class="uw-unresolved" data-target="《史记》-司马迁" title="未解析的双链目标：《史记》-司马迁">《史记》-司马迁</span>
+- <span class="uw-unresolved" data-target="《资治通鉴》-司马光" title="未解析的双链目标：《资治通鉴》-司马光">《资治通鉴》-司马光</span>
+- <span class="uw-unresolved" data-target="《中国哲学简史》-冯友兰" title="未解析的双链目标：《中国哲学简史》-冯友兰">《中国哲学简史》-冯友兰</span>
+- <span class="uw-unresolved" data-target="《古文观止》" title="未解析的双链目标：《古文观止》">《古文观止》</span>
+- <span class="uw-unresolved" data-target="《论语》-孔子" title="未解析的双链目标：《论语》-孔子">《论语》-孔子</span>
 
 ## 📊 元数据
 
@@ -69,10 +69,10 @@ description: "\"通古今之变\"出自司马迁《报任安书》，是司马�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/通古今之变.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：7 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-3d6e35ccbceb`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：7 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -33,11 +33,11 @@ description: "你的财富蓝图决定了你的财务状况。财富蓝图是你
 
 ## 🔗 关联知识
 
-- 有钱人和你想的不一样
-- 富人思维与穷人思维
+- <span class="uw-unresolved" data-target="有钱人和你想的不一样" title="未解析的双链目标：有钱人和你想的不一样">有钱人和你想的不一样</span>
+- <span class="uw-unresolved" data-target="富人思维与穷人思维" title="未解析的双链目标：富人思维与穷人思维">富人思维与穷人思维</span>
 - [身份驱动习惯法](../md-8a97a0c8/)
-- 习惯冰山模型三层改变法
-- 灵魂被想法染色——习惯性思维决定心智状态
+- <span class="uw-unresolved" data-target="习惯冰山模型三层改变法" title="未解析的双链目标：习惯冰山模型三层改变法">习惯冰山模型三层改变法</span>
+- <span class="uw-unresolved" data-target="灵魂被想法染色——习惯性思维决定心智状态" title="未解析的双链目标：灵魂被想法染色——习惯性思维决定心智状态">灵魂被想法染色——习惯性思维决定心智状态</span>
 
 ## 📊 元数据
 
@@ -66,10 +66,10 @@ description: "你的财富蓝图决定了你的财务状况。财富蓝图是你
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/财富蓝图模型.md`
-- 原始状态：已确立 · 分类：01-Finance-Investment
-- 断链别名（无目标，保留为文本）：4 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-019fa0cd46a8`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：01-Finance-Investment
+- 未解析双链：4 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

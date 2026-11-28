@@ -13,9 +13,9 @@ description: "<!-- O-83 桥接卡 2026-09-07：承接库内 8 处引用。数据
 
 ## 🔗 关联
 
-- 全马训练数据管理系统 — 数据管理框架
-- 高驰Pace4 — 设备端
-- 2026-09 OKR — 月跑量 ≥180km 追踪
+- <span class="uw-unresolved" data-target="全马训练数据管理系统" title="未解析的双链目标：全马训练数据管理系统">全马训练数据管理系统</span> — 数据管理框架
+- <span class="uw-unresolved" data-target="高驰Pace4" title="未解析的双链目标：高驰Pace4">高驰Pace4</span> — 设备端
+- <span class="uw-unresolved" data-target="2026-09 OKR" title="未解析的双链目标：2026-09 OKR">2026-09 OKR</span> — 月跑量 ≥180km 追踪
 
 ---
 
@@ -36,10 +36,10 @@ description: "<!-- O-83 桥接卡 2026-09-07：承接库内 8 处引用。数据
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/我的 Training Hub 数据.md`
-- 原始状态：未标注 · 分类：来源待考（uWise 词条，无 01-BRAIN 对应）
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-e66b8843f8d6`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

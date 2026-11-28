@@ -25,7 +25,7 @@ description: "💡 判断学习是否有效的唯一标准：合上书/关掉视
 - [费曼学习法](../md-e581a556/)
 - [善用测试效应和生成效应让学习高效](../md-db235a2f/)
 - 艾宾浩斯遗忘曲线
-- 元认知
+- <span class="uw-unresolved" data-target="元认知" title="未解析的双链目标：元认知">元认知</span>
 - 07-SOURCES/71-书籍/学习与效能/《刻意练习》-行动转化
 
 > 💡 判断学习是否有效的唯一标准：合上书/关掉视频后，你能回忆起多少？如果答案是"很少"，说明你一直在用被动学习——切换到检索练习，同样的时间，效果翻倍。
@@ -33,7 +33,7 @@ description: "💡 判断学习是否有效的唯一标准：合上书/关掉视
 *Agent可读性标记：search_keywords=[检索练习取代被动复习；专注-发散双模式切换法]]
 - [费曼学习法](../md-e581a556/)
 - 艾宾浩斯遗忘曲线
-- 元认知
+- <span class="uw-unresolved" data-target="元认知" title="未解析的双链目标：元认知">元认知</span>
 - [[刻意练习]；context_triggers=[阅读计划；学习方法；知识管理；读书笔记]*
 
 
@@ -46,7 +46,7 @@ description: "💡 判断学习是否有效的唯一标准：合上书/关掉视
 - [专注-发散双模式切换法](../md-5f47ff9e/)
 - [费曼学习法](../md-e581a556/)
 - [善用测试效应和生成效应让学习高效](../md-db235a2f/)
-- 元认知
+- <span class="uw-unresolved" data-target="元认知" title="未解析的双链目标：元认知">元认知</span>
 
 ## 📊 元数据
 
@@ -75,10 +75,10 @@ description: "💡 判断学习是否有效的唯一标准：合上书/关掉视
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/检索练习取代被动复习.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-ba56b4fff790`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

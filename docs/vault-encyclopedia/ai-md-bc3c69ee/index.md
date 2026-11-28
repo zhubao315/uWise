@@ -20,8 +20,8 @@ description: "利用人工智能技术进行量化投资和对冲交易的前沿
 
 ### 概念解释
 利用人工智能技术进行量化投资和对冲交易的前沿探索。
-- 反共识投资的哲学基础 — AI能否发现反共识机会？
-- 投资心理学 — AI能否克服人类的情绪弱点？
+- <span class="uw-unresolved" data-target="反共识投资的哲学基础" title="未解析的双链目标：反共识投资的哲学基础">反共识投资的哲学基础</span> — AI能否发现反共识机会？
+- <span class="uw-unresolved" data-target="投资心理学" title="未解析的双链目标：投资心理学">投资心理学</span> — AI能否克服人类的情绪弱点？
 
 
 ### 实际应用
@@ -30,8 +30,8 @@ description: "利用人工智能技术进行量化投资和对冲交易的前沿
 
 ## 🔗 关联知识
 
-- 反共识投资的哲学基础
-- 投资心理学
+- <span class="uw-unresolved" data-target="反共识投资的哲学基础" title="未解析的双链目标：反共识投资的哲学基础">反共识投资的哲学基础</span>
+- <span class="uw-unresolved" data-target="投资心理学" title="未解析的双链目标：投资心理学">投资心理学</span>
 
 ## 📚 参考资料
 
@@ -69,10 +69,10 @@ description: "利用人工智能技术进行量化投资和对冲交易的前沿
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/AI对冲基金项目详解.md`
-- 原始状态：draft · 分类：01-Finance-Investment
-- 断链别名（无目标，保留为文本）：4 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-bc3c69ee6244`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：01-Finance-Investment
+- 未解析双链：4 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -36,12 +36,12 @@ description: "\"香草美人\"是屈原在《楚辞》中创造的象征体系�
 
 ## 🔗 关联知识
 
-- 《楚辞》-屈原
+- <span class="uw-unresolved" data-target="《楚辞》-屈原" title="未解析的双链目标：《楚辞》-屈原">《楚辞》-屈原</span>
 - [诗言志](../md-1e354d99/)
 - 《唐诗三百首》
-- 《古文观止》
-- 《中国哲学简史》-冯友兰
-- 《庄子》-庄周
+- <span class="uw-unresolved" data-target="《古文观止》" title="未解析的双链目标：《古文观止》">《古文观止》</span>
+- <span class="uw-unresolved" data-target="《中国哲学简史》-冯友兰" title="未解析的双链目标：《中国哲学简史》-冯友兰">《中国哲学简史》-冯友兰</span>
+- <span class="uw-unresolved" data-target="《庄子》-庄周" title="未解析的双链目标：《庄子》-庄周">《庄子》-庄周</span>
 
 ## 📊 元数据
 
@@ -70,10 +70,10 @@ description: "\"香草美人\"是屈原在《楚辞》中创造的象征体系�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/香草美人.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：4 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-f777c6abe9c4`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：4 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

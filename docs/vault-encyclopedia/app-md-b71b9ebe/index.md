@@ -22,8 +22,8 @@ description: "最后更新：2026-06-05"
 ## 🔗 关联知识
 
 - [原文来源](../app-md-b71b9ebe/)
-- AI时代的Lollapalooza效应：Harness架构下的多模型涌现与复合智能
-- 人生文件夹：从 CompanyOS 到 LifeOS - 将文件系统哲学应用于人生管理
+- <span class="uw-unresolved" data-target="AI时代的Lollapalooza效应：Harness架构下的多模型涌现与复合智能" title="未解析的双链目标：AI时代的Lollapalooza效应：Harness架构下的多模型涌现与复合智能">AI时代的Lollapalooza效应：Harness架构下的多模型涌现与复合智能</span>
+- <span class="uw-unresolved" data-target="人生文件夹：从 CompanyOS 到 LifeOS - 将文件系统哲学应用于人生管理" title="未解析的双链目标：人生文件夹：从 CompanyOS 到 LifeOS - 将文件系统哲学应用于人生管理">人生文件夹：从 CompanyOS 到 LifeOS - 将文件系统哲学应用于人生管理</span>
 - [PastSpec驱动开发（SDD）](../pastspec-sdd-4bb4dd92/)
 - [探索与发现 Exploration & Discovery](../exploration-discovery-md-f30b64da/)
 - [健康寿命（Healthspan）与疾病终末期快速压缩曲线假说](../healthspan-md-6d94b084/)
@@ -58,10 +58,10 @@ description: "最后更新：2026-06-05"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/悦跑圈app.md`
-- 原始状态：已确立 · 分类：07-Biology-Health
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-b71b9ebeb80a`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：07-Biology-Health
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

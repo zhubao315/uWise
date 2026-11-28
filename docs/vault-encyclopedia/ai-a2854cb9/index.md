@@ -31,9 +31,9 @@ description: "这揭示了一个反直觉的规律：在信息过剩的时代，
 
 ## 🔗 关联知识
 
-- 批判性思维
-- 《必然》-凯文·凯利
-- 学习方法系统研究
+- <span class="uw-unresolved" data-target="批判性思维" title="未解析的双链目标：批判性思维">批判性思维</span>
+- <span class="uw-unresolved" data-target="《必然》-凯文·凯利" title="未解析的双链目标：《必然》-凯文·凯利">《必然》-凯文·凯利</span>
+- <span class="uw-unresolved" data-target="学习方法系统研究" title="未解析的双链目标：学习方法系统研究">学习方法系统研究</span>
 
 ## 📊 元数据
 
@@ -62,10 +62,10 @@ description: "这揭示了一个反直觉的规律：在信息过剩的时代，
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/答案免费问题值钱——在AI时代修炼提问力.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-a2854cb9a3ae`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

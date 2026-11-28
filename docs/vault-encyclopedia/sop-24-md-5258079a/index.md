@@ -13,8 +13,8 @@ description: "负责人: 产品经理技能(../ai-6fb71c2f/) | 核心工具: AI�
 
 - SOP目标：建立一套标准化的、AI驱动的竞品情报采集与分析流程，从海量噪音中提炼出对产品决策有决定性影响的战略洞察。
 - 战略价值：竞品分析通过AI赋能，从“单纯的抄袭/对标”转变为“战略层面的降维打击”。它直接服务于**“智慧学习”**（快速吸收行业经验）和**“决策精进”**（基于数据的理性判断），确保产品始终保持在市场前沿。
-- 核心技能：[产品经理技能](../ai-6fb71c2f/), 💰 投资人技能
-- 相关SOP：SOP-05-PRD文档, SOP-02-投资机会分析
+- 核心技能：[产品经理技能](../ai-6fb71c2f/), <span class="uw-unresolved" data-target="投资人：AI驱动的理性价值发现引擎" title="未解析的双链目标：投资人：AI驱动的理性价值发现引擎">💰 投资人技能</span>
+- 相关SOP：<span class="uw-unresolved" data-target="SOP-06-产品经理-产品需求文档PRD" title="未解析的双链目标：SOP-06-产品经理-产品需求文档PRD">SOP-05-PRD文档</span>, <span class="uw-unresolved" data-target="SOP-09-投资人-投资机会分析" title="未解析的双链目标：SOP-09-投资人-投资机会分析">SOP-02-投资机会分析</span>
 - 核心平台/工具：Perplexity Pro, Sensor Tower (如可用), SimilarWeb
 
 ## 📖 详细说明
@@ -29,9 +29,9 @@ description: "负责人: 产品经理技能(../ai-6fb71c2f/) | 核心工具: AI�
 ## 🔗 关联知识
 
 - [产品经理：AI时代价值创造与产品孵化的核心引擎](../ai-6fb71c2f/)
-- 投资人：AI驱动的理性价值发现引擎
-- SOP-06-产品经理-产品需求文档PRD
-- SOP-09-投资人-投资机会分析
+- <span class="uw-unresolved" data-target="投资人：AI驱动的理性价值发现引擎" title="未解析的双链目标：投资人：AI驱动的理性价值发现引擎">投资人：AI驱动的理性价值发现引擎</span>
+- <span class="uw-unresolved" data-target="SOP-06-产品经理-产品需求文档PRD" title="未解析的双链目标：SOP-06-产品经理-产品需求文档PRD">SOP-06-产品经理-产品需求文档PRD</span>
+- <span class="uw-unresolved" data-target="SOP-09-投资人-投资机会分析" title="未解析的双链目标：SOP-09-投资人-投资机会分析">SOP-09-投资人-投资机会分析</span>
 
 ## 💡 个人理解
 
@@ -64,10 +64,10 @@ description: "负责人: 产品经理技能(../ai-6fb71c2f/) | 核心工具: AI�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/Sop 24 产品经理 竞品分析.md`
-- 原始状态：draft · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：6 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-5258079a00b4`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：06-Cognitive-Psychology
+- 未解析双链：6 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

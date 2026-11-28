@@ -13,12 +13,12 @@ description: "Obsidian 中文社区-圆桌第二期 · 面向实战的知识管�
 
 - [Obsidian 中文社区-圆桌第二期 · 面向实战的知识管理工作流分享_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1QY4y147VR/?spm_id_from=333.788)
 - 为什么要做笔记，合理做笔记，能帮助自己找到以前学过的知识，思考过的东西。
-- 存储作用的笔记的常见笔记组织方法
-- PKM 的指导性原则 from lyt有什么实际应用
+- 存储作用的笔记的<span class="uw-unresolved" data-target="常见笔记组织方法" title="未解析的双链目标：常见笔记组织方法">常见笔记组织方法</span>
+- <span class="uw-unresolved" data-target="PKM 的指导性原则 from lyt" title="未解析的双链目标：PKM 的指导性原则 from lyt">PKM 的指导性原则 from lyt</span>有什么实际应用
 - 寻找问题答案。比如回答某个问题，它的方法和知识从历史笔记中检索并唤醒，而不用完全依赖大脑记忆提取。
 - 写作。写论文或写普通文章都需要：素材的渐进积累、文章的结构组织。
-- 创新。促进思考，尤其是当个人知识管理系统中的笔记发生连接和交互，形成知识图谱，就有更多潜在的可能性。
-- 如何构建PKM 的指导性原则 from lyt中的知识图谱。分 2 类：
+- 创新。促进思考，尤其是当<span class="uw-unresolved" data-target="个人知识管理系统" title="未解析的双链目标：个人知识管理系统">个人知识管理系统</span>中的笔记发生连接和交互，形成知识图谱，就有更多潜在的可能性。
+- 如何构建<span class="uw-unresolved" data-target="PKM 的指导性原则 from lyt" title="未解析的双链目标：PKM 的指导性原则 from lyt">PKM 的指导性原则 from lyt</span>中的知识图谱。分 2 类：
 
 ## 📖 详细说明
 
@@ -28,9 +28,9 @@ description: "Obsidian 中文社区-圆桌第二期 · 面向实战的知识管�
 
 ## 🔗 关联知识
 
-- 常见笔记组织方法
-- PKM 的指导性原则 from lyt
-- 个人知识管理系统
+- <span class="uw-unresolved" data-target="常见笔记组织方法" title="未解析的双链目标：常见笔记组织方法">常见笔记组织方法</span>
+- <span class="uw-unresolved" data-target="PKM 的指导性原则 from lyt" title="未解析的双链目标：PKM 的指导性原则 from lyt">PKM 的指导性原则 from lyt</span>
+- <span class="uw-unresolved" data-target="个人知识管理系统" title="未解析的双链目标：个人知识管理系统">个人知识管理系统</span>
 - [个人知识库](../entry-cabc221b/)
 
 ## 📊 元数据
@@ -60,10 +60,10 @@ description: "Obsidian 中文社区-圆桌第二期 · 面向实战的知识管�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/ryooo的知识管理工作流.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：7 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-0b800f851513`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：7 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

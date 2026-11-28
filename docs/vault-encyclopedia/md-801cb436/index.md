@@ -12,14 +12,14 @@ description: "个人阅读书单管理，按类别、状态、评分组织的阅
 ## 🎯 关键要点
 
 - 个人阅读书单管理，按类别、状态、评分组织的阅读计划。
-- 读书笔记命名规范 [uRead](../uread-md-7625c8e6/) [终身成长方法论](../md-06dcca7f/) 阅读方法 知识管理
+- <span class="uw-unresolved" data-target="读书笔记命名规范" title="未解析的双链目标：读书笔记命名规范">读书笔记命名规范</span> [uRead](../uread-md-7625c8e6/) [终身成长方法论](../md-06dcca7f/) <span class="uw-unresolved" data-target="阅读方法" title="未解析的双链目标：阅读方法">阅读方法</span> <span class="uw-unresolved" data-target="知识管理" title="未解析的双链目标：知识管理">知识管理</span>
 - *最后更新：2026-06-05*
 
 ## 📖 详细说明
 
 ### 概念解释
 个人阅读书单管理，按类别、状态、评分组织的阅读计划。
-读书笔记命名规范 [uRead](../uread-md-7625c8e6/) [终身成长方法论](../md-06dcca7f/) 阅读方法 知识管理
+<span class="uw-unresolved" data-target="读书笔记命名规范" title="未解析的双链目标：读书笔记命名规范">读书笔记命名规范</span> [uRead](../uread-md-7625c8e6/) [终身成长方法论](../md-06dcca7f/) <span class="uw-unresolved" data-target="阅读方法" title="未解析的双链目标：阅读方法">阅读方法</span> <span class="uw-unresolved" data-target="知识管理" title="未解析的双链目标：知识管理">知识管理</span>
 
 ---
 
@@ -32,11 +32,11 @@ description: "个人阅读书单管理，按类别、状态、评分组织的阅
 
 ## 🔗 关联知识
 
-- 读书笔记命名规范
+- <span class="uw-unresolved" data-target="读书笔记命名规范" title="未解析的双链目标：读书笔记命名规范">读书笔记命名规范</span>
 - [uRead](../uread-md-7625c8e6/)
 - [终身成长方法论](../md-06dcca7f/)
-- 阅读方法
-- 知识管理
+- <span class="uw-unresolved" data-target="阅读方法" title="未解析的双链目标：阅读方法">阅读方法</span>
+- <span class="uw-unresolved" data-target="知识管理" title="未解析的双链目标：知识管理">知识管理</span>
 
 ## 💡 个人理解
 
@@ -69,10 +69,10 @@ description: "个人阅读书单管理，按类别、状态、评分组织的阅
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/我的书单.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：9 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-801cb4369ee0`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：9 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

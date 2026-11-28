@@ -41,12 +41,12 @@ description: "系统基模（Archetypes）是复杂系统中反复出现的、�
 - [杠杆点思维](../md-8fc5e4f6/) — 破局工具：打结构不打参数
 - [存量与流量](../md-09c75ed5/) — 基模背后的系统动力学
 - [反馈回路](../md-b96ed9e3/) — 调节/增强引擎
-- 局部最优化对整体系统目标的破坏性研究 — 公地悲剧的底层逻辑
+- <span class="uw-unresolved" data-target="局部最优化对整体系统目标的破坏性研究" title="未解析的双链目标：局部最优化对整体系统目标的破坏性研究">局部最优化对整体系统目标的破坏性研究</span> — 公地悲剧的底层逻辑
 
 ## 📚 参考资料
 
 - 来源：`B3-认知成长-系统之美_MSH_v3`
-- 原始书籍：《系统之美》-德内拉·梅多斯
+- 原始书籍：<span class="uw-unresolved" data-target="《系统之美》-德内拉·梅多斯" title="未解析的双链目标：《系统之美》-德内拉·梅多斯">《系统之美》-德内拉·梅多斯</span>
 
 ## 💡 个人理解
 
@@ -80,10 +80,10 @@ description: "系统基模（Archetypes）是复杂系统中反复出现的、�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/系统基模.md`
-- 原始状态：已确立 · 分类：02-AI-Architecture
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-72b69ccc40d7`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：02-AI-Architecture
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

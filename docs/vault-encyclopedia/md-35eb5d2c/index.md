@@ -13,7 +13,7 @@ description: "翻译录入；信息管理系统；contexttriggers=阅读计划�
 
 - 将个人大脑中的想法、别人说的话、图像、视频，结合科技产品，用最快的、最 AI 的速度
 - 录入成**文字**，保存下来，以便将来快速翻阅和搜索。
-- 不可检索的图像和视频，给一个文字标题，当 key，放入信息管理系统
+- 不可检索的图像和视频，给一个文字标题，当 key，放入<span class="uw-unresolved" data-target="信息管理系统" title="未解析的双链目标：信息管理系统">信息管理系统</span>
 
 ## 📖 详细说明
 
@@ -42,7 +42,7 @@ description: "翻译录入；信息管理系统；contexttriggers=阅读计划�
 
 ## 🔗 关联知识
 
-- 信息管理系统
+- <span class="uw-unresolved" data-target="信息管理系统" title="未解析的双链目标：信息管理系统">信息管理系统</span>
 - [翻译录入](../md-8716a66e/)
 
 ## 📊 元数据
@@ -72,10 +72,10 @@ description: "翻译录入；信息管理系统；contexttriggers=阅读计划�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/如何高效录入.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-35eb5d2cb975`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

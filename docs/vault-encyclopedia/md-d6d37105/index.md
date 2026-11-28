@@ -42,10 +42,10 @@ description: "熬不过去，便是终点；熬得过去，便是新生。 熬�
 
 ## 🔗 关联知识
 
-- 结硬寨打呆仗的长期主义 — 同构：以笨功夫与耐心取胜
+- <span class="uw-unresolved" data-target="结硬寨打呆仗的长期主义" title="未解析的双链目标：结硬寨打呆仗的长期主义">结硬寨打呆仗的长期主义</span> — 同构：以笨功夫与耐心取胜
 - [事以密成：藏状态与行事主动权](../md-ec11e801/) — 同为"暗中积蓄、掌握主动"
-- 《毛泽东选集》-毛泽东 — 持久战与主动权思想来源
-- 《坚毅》-安吉拉·达克沃思 — 激情与毅力的长期坚持
+- <span class="uw-unresolved" data-target="《毛泽东选集》-毛泽东" title="未解析的双链目标：《毛泽东选集》-毛泽东">《毛泽东选集》-毛泽东</span> — 持久战与主动权思想来源
+- <span class="uw-unresolved" data-target="《坚毅》-安吉拉·达克沃思" title="未解析的双链目标：《坚毅》-安吉拉·达克沃思">《坚毅》-安吉拉·达克沃思</span> — 激情与毅力的长期坚持
 - [成事学](../md-e0d06fda/)
 
 ## 📚 参考资料
@@ -79,10 +79,10 @@ description: "熬不过去，便是终点；熬得过去，便是新生。 熬�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/熬：主动蛰伏与积蓄力量.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-d6d3710536e0`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

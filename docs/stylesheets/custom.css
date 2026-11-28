@@ -603,3 +603,13 @@ body {
   max-width: 900px;
   margin: 0 auto;
 }
+
+/* 统一设计令牌与未解析双链标记 */
+:root {
+  --uwise-radius: 10px;
+}
+.uw-unresolved {
+  border-bottom: 1px dashed var(--muted, #64748b);
+  color: var(--muted, #64748b);
+  cursor: help;
+}

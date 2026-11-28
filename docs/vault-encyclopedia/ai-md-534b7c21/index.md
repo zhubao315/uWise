@@ -31,9 +31,9 @@ description: "将语音识别（ASR）、语音合成（TTS）、语音理解集
 
 ## 相关
 
-- LLM应用开发
-- 语音识别
-- 《自然语言处理综论》-Daniel Jurafsky
+- <span class="uw-unresolved" data-target="LLM应用开发" title="未解析的双链目标：LLM应用开发">LLM应用开发</span>
+- <span class="uw-unresolved" data-target="语音识别" title="未解析的双链目标：语音识别">语音识别</span>
+- <span class="uw-unresolved" data-target="《自然语言处理综论》-Daniel Jurafsky" title="未解析的双链目标：《自然语言处理综论》-Daniel Jurafsky">《自然语言处理综论》-Daniel Jurafsky</span>
 
 ---
 
@@ -54,10 +54,10 @@ description: "将语音识别（ASR）、语音合成（TTS）、语音理解集
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/语音AI集成.md`
-- 原始状态：未标注 · 分类：还原自 01-BRAIN（2026-09-17 归档迁移）
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-534b7c217f03`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

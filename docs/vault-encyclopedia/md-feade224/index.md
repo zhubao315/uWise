@@ -39,9 +39,9 @@ description: "估值是评估资产内在价值的过程，是投资决策的核
 
 - [安全边际](../md-21e4edc8/)
 - [价值投资](../md-d5f5a7c9/)
-- 复利思维
-- 禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑
-- 金融市场
+- <span class="uw-unresolved" data-target="复利思维" title="未解析的双链目标：复利思维">复利思维</span>
+- <span class="uw-unresolved" data-target="禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑" title="未解析的双链目标：禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑">禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑</span>
+- <span class="uw-unresolved" data-target="金融市场" title="未解析的双链目标：金融市场">金融市场</span>
 
 ## 💡 个人理解
 
@@ -95,10 +95,10 @@ description: "估值是评估资产内在价值的过程，是投资决策的核
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/估值.md`
-- 原始状态：已确立 · 分类：01-Finance-Investment
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-feade22417a9`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：01-Finance-Investment
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

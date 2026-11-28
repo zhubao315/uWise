@@ -12,14 +12,14 @@ description: "马克操（A-Skip, B-Skip等）是田径热身和跑步技术训�
 ## 🎯 关键要点
 
 - 马克操（A-Skip, B-Skip等）是田径热身和跑步技术训练的标准动作。
-- [跑步技术](../md-5f75c238/) 热身 运动与健康 田径训练 柔韧性训练
+- [跑步技术](../md-5f75c238/) 热身 <span class="uw-unresolved" data-target="运动与健康" title="未解析的双链目标：运动与健康">运动与健康</span> 田径训练 <span class="uw-unresolved" data-target="柔韧性训练" title="未解析的双链目标：柔韧性训练">柔韧性训练</span>
 - *最后更新：2026-06-05*
 
 ## 📖 详细说明
 
 ### 概念解释
 马克操（A-Skip, B-Skip等）是田径热身和跑步技术训练的标准动作。
-[跑步技术](../md-5f75c238/) 热身 运动与健康 田径训练 柔韧性训练
+[跑步技术](../md-5f75c238/) 热身 <span class="uw-unresolved" data-target="运动与健康" title="未解析的双链目标：运动与健康">运动与健康</span> 田径训练 <span class="uw-unresolved" data-target="柔韧性训练" title="未解析的双链目标：柔韧性训练">柔韧性训练</span>
 
 ---
 
@@ -34,9 +34,9 @@ description: "马克操（A-Skip, B-Skip等）是田径热身和跑步技术训�
 
 - [跑步技术](../md-5f75c238/)
 - 热身
-- 运动与健康
+- <span class="uw-unresolved" data-target="运动与健康" title="未解析的双链目标：运动与健康">运动与健康</span>
 - 田径训练
-- 柔韧性训练
+- <span class="uw-unresolved" data-target="柔韧性训练" title="未解析的双链目标：柔韧性训练">柔韧性训练</span>
 
 ## 📊 元数据
 
@@ -77,10 +77,10 @@ description: "马克操（A-Skip, B-Skip等）是田径热身和跑步技术训�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/马克操.md`
-- 原始状态：已确立 · 分类：07-Biology-Health
-- 断链别名（无目标，保留为文本）：6 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-3b7423715f2c`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：07-Biology-Health
+- 未解析双链：6 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

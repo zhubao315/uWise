@@ -43,12 +43,12 @@ description: "防御型投资（Defensive Investing）是霍华德·马克斯的
 - [风险的真面目](../md-f3603262/) — 防御型投资的风险基础
 - [安全边际](../md-21e4edc8/) — 防御的核心工具
 - [清单防护盾法——用系统对抗无能之错](../md-da87fe24/) — 规则化防御的工具化
-- 复利效应 — "避免归零"的复利逻辑
+- <span class="uw-unresolved" data-target="复利效应" title="未解析的双链目标：复利效应">复利效应</span> — "避免归零"的复利逻辑
 
 ## 📚 参考资料
 
 - 来源：`B6-投资理财-投资最重要的事_MSH_v3`
-- 原始书籍：《投资最重要的事》-霍华德·马克斯
+- 原始书籍：<span class="uw-unresolved" data-target="《投资最重要的事》-霍华德·马克斯" title="未解析的双链目标：《投资最重要的事》-霍华德·马克斯">《投资最重要的事》-霍华德·马克斯</span>
 
 ## 💡 个人理解
 
@@ -82,10 +82,10 @@ description: "防御型投资（Defensive Investing）是霍华德·马克斯的
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/防御型投资.md`
-- 原始状态：已确立 · 分类：01-Finance-Investment
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-4cfaf1ddd3e1`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：01-Finance-Investment
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

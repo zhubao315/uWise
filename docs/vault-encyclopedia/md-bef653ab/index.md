@@ -56,11 +56,11 @@ description: "杠铃策略是反脆弱思维的核心实操方法论，其本质
 - **决策模式**：时间检验的原则（保守）+ 小规模实验（激进）
 
 ### 关联概念
-- 凸性偏差 — 杠铃策略的数学基础
-- 反脆弱 — 杠铃策略的哲学根基
+- <span class="uw-unresolved" data-target="凸性偏差" title="未解析的双链目标：凸性偏差">凸性偏差</span> — 杠铃策略的数学基础
+- <span class="uw-unresolved" data-target="反脆弱" title="未解析的双链目标：反脆弱">反脆弱</span> — 杠铃策略的哲学根基
 - [选择权](../md-115716c0/) — 杠铃策略的实践表达
-- 林迪效应 — 时间筛选机制验证杠铃策略
-- 医源性损伤 — 避免过度干预的杠铃配置
+- <span class="uw-unresolved" data-target="林迪效应" title="未解析的双链目标：林迪效应">林迪效应</span> — 时间筛选机制验证杠铃策略
+- <span class="uw-unresolved" data-target="医源性损伤" title="未解析的双链目标：医源性损伤">医源性损伤</span> — 避免过度干预的杠铃配置
 
 ---
 
@@ -81,10 +81,10 @@ description: "杠铃策略是反脆弱思维的核心实操方法论，其本质
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/杠铃策略——极端组合实现反脆弱.md`
-- 原始状态：已确立 · 分类：《反脆弱：从不确定性中获益》-纳西姆·尼古拉斯·塔勒布
-- 断链别名（无目标，保留为文本）：4 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-bef653ab9706`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：uncategorized
+- 未解析双链：4 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

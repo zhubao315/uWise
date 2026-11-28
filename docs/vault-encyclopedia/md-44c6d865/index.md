@@ -59,9 +59,9 @@ description: "利润 = f(产品质量) → 产品质量 = f(人才质量) → �
 
 ## 🔗 关联知识
 
-- 战时切换-根据形势切换领导风格
+- <span class="uw-unresolved" data-target="战时切换-根据形势切换领导风格" title="未解析的双链目标：战时切换-根据形势切换领导风格">战时切换-根据形势切换领导风格</span>
 - [核心习惯撬动全局](../md-dc04be63/)
-- 复利思维
+- <span class="uw-unresolved" data-target="复利思维" title="未解析的双链目标：复利思维">复利思维</span>
 - [幂律思维——用关键少数撬动人生杠杆](../md-6e86f761/)
 - [经验晶体索引](../md-f8e89378/)
 - [创业方法论](../md-720a766e/)
@@ -102,10 +102,10 @@ description: "利润 = f(产品质量) → 产品质量 = f(人才质量) → �
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/人优先级-人产品利润的管理铁律.md`
-- 原始状态：draft · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-44c6d86574ee`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

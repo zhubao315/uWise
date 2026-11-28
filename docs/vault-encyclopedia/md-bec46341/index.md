@@ -21,10 +21,10 @@ description: "最后更新：2026-06-05"
 ## 🔗 关联知识
 
 - [原文来源](../md-bec46341/)
-- 失控智慧——设计规则而非设计结果
+- <span class="uw-unresolved" data-target="失控智慧——设计规则而非设计结果" title="未解析的双链目标：失控智慧——设计规则而非设计结果">失控智慧——设计规则而非设计结果</span>
 - [习惯系统](../md-af092b5a/)
-- 多变酬赏设计法则
-- SOP-12a-风控Agent
+- <span class="uw-unresolved" data-target="多变酬赏设计法则" title="未解析的双链目标：多变酬赏设计法则">多变酬赏设计法则</span>
+- <span class="uw-unresolved" data-target="SOP-12a-风控Agent" title="未解析的双链目标：SOP-12a-风控Agent">SOP-12a-风控Agent</span>
 - [创新生态系统](../md-1a884571/)
 
 ## 💡 个人理解
@@ -57,10 +57,10 @@ description: "最后更新：2026-06-05"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/组织设计.md`
-- 原始状态：已确立 · 分类：04-Business-Management
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-bec4634115ad`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：04-Business-Management
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

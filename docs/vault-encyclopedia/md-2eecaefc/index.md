@@ -41,13 +41,13 @@ description: "来源：《思考，快与慢》（卡尼曼）《对伪心理学
 
 ## 🔗 关联知识
 
-- 王阳明心学-破心中贼
-- 25种人类误判心理学清单
+- <span class="uw-unresolved" data-target="王阳明心学-破心中贼" title="未解析的双链目标：王阳明心学-破心中贼">王阳明心学-破心中贼</span>
+- <span class="uw-unresolved" data-target="25种人类误判心理学清单" title="未解析的双链目标：25种人类误判心理学清单">25种人类误判心理学清单</span>
 - [斯多葛主义](../md-980bcbc0/)
 - [双系统理论——快思考与慢思考](../md-0b8d1137/)
 - [确认偏误](../md-06606852/)
 - [损失厌恶](../md-556178b2/)
-- 《思考，快与慢》-丹尼尔·卡尼曼
+- <span class="uw-unresolved" data-target="《思考，快与慢》-丹尼尔·卡尼曼" title="未解析的双链目标：《思考，快与慢》-丹尼尔·卡尼曼">《思考，快与慢》-丹尼尔·卡尼曼</span>
 
 ## 📊 元数据
 
@@ -76,10 +76,10 @@ description: "来源：《思考，快与慢》（卡尼曼）《对伪心理学
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/认知偏差清单.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-2eecaefc0f51`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

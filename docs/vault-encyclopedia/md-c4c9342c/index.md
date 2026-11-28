@@ -13,7 +13,7 @@ description: "中国学术文献网络出版总库(http://61.175.198.136:8083/rw
 
 - 通过浙江图书馆的入口，免费下载知网文章
 - [中国学术文献网络出版总库](http://61.175.198.136:8083/rwt/288/http/GEZC6MJZFZZUPLSSG63B/kns55/brief/result.aspx)
-- [浙江省公共图书馆资源服务门户 (zjlib.cn)](http://zjisa.zjlib.cn/home/zy_home.jsp)
+- [浙江省公共图书馆资源服务门户 (zjlib.cn)](http://zjisa.zjlib.cn[REDACTED_PATH]
 
 ## 📖 详细说明
 
@@ -64,10 +64,10 @@ description: "中国学术文献网络出版总库(http://61.175.198.136:8083/rw
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/文献下载.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：0 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-c4c9342c884b`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：0 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -13,7 +13,7 @@ description: "累积疲劳(Cumulative Fatigue)是汉森训练法的核心理论�
 
 - 累积疲劳(Cumulative Fatigue)是汉森训练法的核心理论，通过在训练周期中持续积累适度疲劳(而非单次极限疲劳)，使身体在比赛日达到最佳状态。
 - 累积疲劳不等于过度训练；需要精确的强度控制和恢复安排；与传统的"长距离拉练"理念有本质区别。
-- 《汉森马拉松训练法》-汉森兄弟
+- <span class="uw-unresolved" data-target="《汉森马拉松训练法》-汉森兄弟" title="未解析的双链目标：《汉森马拉松训练法》-汉森兄弟">《汉森马拉松训练法》-汉森兄弟</span>
 
 ## 📖 详细说明
 
@@ -27,7 +27,7 @@ description: "累积疲劳(Cumulative Fatigue)是汉森训练法的核心理论�
 
 ## 🔗 关联知识
 
-- 《汉森马拉松训练法》-汉森兄弟
+- <span class="uw-unresolved" data-target="《汉森马拉松训练法》-汉森兄弟" title="未解析的双链目标：《汉森马拉松训练法》-汉森兄弟">《汉森马拉松训练法》-汉森兄弟</span>
 
 ## 💡 个人理解
 
@@ -60,10 +60,10 @@ description: "累积疲劳(Cumulative Fatigue)是汉森训练法的核心理论�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/累积疲劳理论.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-72f2e5cedd81`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

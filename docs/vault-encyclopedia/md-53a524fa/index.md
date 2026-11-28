@@ -42,20 +42,20 @@ description: "数字花园（Digital Garden）是一种在线发布形态：内�
 ### 实际应用
 
 1. **底座**：本地知识库（Obsidian）+ Git/Syncthing 版本管理即是最轻的花园土壤，改动历史天然可回溯。
-2. **组织**：用 [MOC](../moc-md-44e2cc58/) 做导航页，替代深文件夹层级——链接即路径，见 Nick Milo 的做法。
+2. **组织**：用 [MOC](../moc-md-44e2cc58/) 做导航页，替代深文件夹层级——链接即路径，见 <span class="uw-unresolved" data-target="Nick Milo" title="未解析的双链目标：Nick Milo">Nick Milo</span> 的做法。
 3. **节奏**：日常碎片进花园；每 1-2 周挑一条成熟线索写成结构化长文，经 [个人输出发布系统](../md-47ba9881/) 外发。
 4. **发布前自检**：git hook 关键词扫描（薪资、客户、未公开项目）防隐私外泄；链接可达性检查防断链。
 5. **判断标准**：一条笔记够不够格挂出来——自己三个月后重看仍能懂，且不依赖私人上下文。
 
 ## 🔗 关联知识
 
-- [第二大脑](../md-c38a937d/) · 第二大脑与数字花园 — 同一坐标系下的相邻概念与对比模型
+- [第二大脑](../md-c38a937d/) · <span class="uw-unresolved" data-target="第二大脑与数字花园" title="未解析的双链目标：第二大脑与数字花园">第二大脑与数字花园</span> — 同一坐标系下的相邻概念与对比模型
 - [数字花园、传统博客、公众号](../md-132b09f4/) — 三形态对比与隐私风控
 - [数字花园、传统博客和newsletter的更新频率](../newsletter-md-a6128337/) — 节奏权衡
-- 个人博客建设 — 长文出版线
+- <span class="uw-unresolved" data-target="个人博客建设" title="未解析的双链目标：个人博客建设">个人博客建设</span> — 长文出版线
 - [个人输出发布系统](../md-47ba9881/) — 从花园卡片到对外发布的通路
-- [MOC](../moc-md-44e2cc58/) · Nick Milo — 组织方法
-- 知识管理 — 上位主题
+- [MOC](../moc-md-44e2cc58/) · <span class="uw-unresolved" data-target="Nick Milo" title="未解析的双链目标：Nick Milo">Nick Milo</span> — 组织方法
+- <span class="uw-unresolved" data-target="知识管理" title="未解析的双链目标：知识管理">知识管理</span> — 上位主题
 
 ## 💡 个人理解
 
@@ -88,10 +88,10 @@ description: "数字花园（Digital Garden）是一种在线发布形态：内�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/数字花园.md`
-- 原始状态：已确立 · 分类：04-Business-Management
-- 断链别名（无目标，保留为文本）：5 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-53a524fa7c01`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：04-Business-Management
+- 未解析双链：5 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

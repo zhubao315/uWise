@@ -40,13 +40,13 @@ description: "阶层坠落与精神危机，是指一个人或一个群体的社
 
 ## 🔗 关联知识
 
-- 《北京，1912》-穆儒丐
+- <span class="uw-unresolved" data-target="《北京，1912》-穆儒丐" title="未解析的双链目标：《北京，1912》-穆儒丐">《北京，1912》-穆儒丐</span>
 - [知行鸿沟](../md-272552c8/)
 - [边缘人的相互辨认](../md-99a2d341/)
 - [小人物叙事](../md-7a2a6c3b/)
 - [生死哲学的文学表达](../md-699cb590/)
 - [精神三变](../md-b26eafdc/)
-- 情感寄托
+- <span class="uw-unresolved" data-target="情感寄托" title="未解析的双链目标：情感寄托">情感寄托</span>
 
 ## 💡 个人理解
 
@@ -79,10 +79,10 @@ description: "阶层坠落与精神危机，是指一个人或一个群体的社
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/阶层坠落与精神危机.md`
-- 原始状态：已确立 · 分类：08-Arts-Culture
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-d879e3acb3c9`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：08-Arts-Culture
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -20,7 +20,7 @@ description: "知识、经验与直觉三者之间相互转化的动态模型：
 
 ### 概念解释
 知识、经验与直觉三者之间相互转化的动态模型：知识通过实践内化为经验，经验通过反复验证凝结为直觉，直觉又能指导新知识的获取。
-元认知 [刻意练习](../md-f0df2098/) 隐性知识 专家直觉 [双系统理论——快思考与慢思考](../md-0b8d1137/)
+<span class="uw-unresolved" data-target="元认知" title="未解析的双链目标：元认知">元认知</span> [刻意练习](../md-f0df2098/) 隐性知识 专家直觉 [双系统理论——快思考与慢思考](../md-0b8d1137/)
 
 ---
 
@@ -38,7 +38,7 @@ description: "知识、经验与直觉三者之间相互转化的动态模型：
 
 ## 🔗 关联知识
 
-- 元认知
+- <span class="uw-unresolved" data-target="元认知" title="未解析的双链目标：元认知">元认知</span>
 - [刻意练习](../md-f0df2098/)
 - 隐性知识
 - 专家直觉
@@ -71,10 +71,10 @@ description: "知识、经验与直觉三者之间相互转化的动态模型：
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/知识-经验-直觉的三角转化.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-95b66b4eda4a`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

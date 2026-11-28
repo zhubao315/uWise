@@ -18,7 +18,7 @@ description: "特级园（Grand Cru）是勃艮第分级体系中的最高等级
 - **代表性特级园：** 罗曼尼·康帝（La Romanee-Conti）是特级园中的传奇，每瓶价格可达数万欧元；蒙哈榭（Le Montrachet）是白葡萄酒的至高殿堂；香贝丹（Chambertin）是拿破仑最爱的红葡萄酒产区。
 - **酒标标识：** 特级园酒标上只标注"Grand Cru"+ 园名，不标注村庄名。例如"Romanee-Conti Grand Cru"而非"Vosne-Romanee Grand Cru"。这是勃艮第法规的要求——特级园的名气足以独立存在。
 - **价格与价值：** 特级园的价格从数百到数万欧元不等，同一特级园内不同酒庄的价格差异巨大。价格反映的是稀缺性、酒庄声誉和市场供需，而不仅仅是品质。
-- 《Inside Burgundy》-贾斯珀·莫里斯
+- <span class="uw-unresolved" data-target="《Inside Burgundy》-贾斯珀·莫里斯" title="未解析的双链目标：《Inside Burgundy》-贾斯珀·莫里斯">《Inside Burgundy》-贾斯珀·莫里斯</span>
 
 ## 📖 详细说明
 
@@ -43,7 +43,7 @@ description: "特级园（Grand Cru）是勃艮第分级体系中的最高等级
 
 ## 🔗 关联知识
 
-- 《Inside Burgundy》-贾斯珀·莫里斯
+- <span class="uw-unresolved" data-target="《Inside Burgundy》-贾斯珀·莫里斯" title="未解析的双链目标：《Inside Burgundy》-贾斯珀·莫里斯">《Inside Burgundy》-贾斯珀·莫里斯</span>
 - [一级园](../md-7ed20e80/)
 - [风土（Terroir）](../terroir-md-d53b6fe9/)
 - [旧世界葡萄酒](../md-1d124039/)
@@ -75,10 +75,10 @@ description: "特级园（Grand Cru）是勃艮第分级体系中的最高等级
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/特级园.md`
-- 原始状态：已确立 · 分类：07-Biology-Health
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-e11fe8ea4dd1`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：07-Biology-Health
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

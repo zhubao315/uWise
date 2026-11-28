@@ -12,9 +12,9 @@ description: "负责人: 产品经理技能(../ai-6fb71c2f/) | 核心工具: AI�
 ## 🎯 关键要点
 
 - SOP目标：建立一套以用户价值为核心、由AI全面赋能的系统化流程，用于高效、精准地发现市场机会，并将其转化为高质量、可执行的产品需求文档（PRD）。
-- 战略价值：本SOP是我作为**AI时代产品孵化器**的核心方法论，是`uPrompt`等三大产品从0到1的行动指南。它确保每一个产品决策都基于坚实的数据和洞察，并将我的人工智能专家技能、[架构师技能](../md-4a5f4c51/)、象限转换渐进法——从雇员到投资人的阶梯路径等复合能力系统性地注入产品创造过程，直接驱动“沟通精进”（通过产品交付价值）。
-- 相关技能：🤖 AI专家技能, [🏗️ 架构师技能](../ai-b539c9a9/), 💰 投资人技能, 心理学专家技能
-- 相关SOP：SOP-01, SOP-02
+- 战略价值：本SOP是我作为**AI时代产品孵化器**的核心方法论，是`uPrompt`等三大产品从0到1的行动指南。它确保每一个产品决策都基于坚实的数据和洞察，并将我的<span class="uw-unresolved" data-target="人工智能专家技能" title="未解析的双链目标：人工智能专家技能">人工智能专家技能</span>、[架构师技能](../md-4a5f4c51/)、<span class="uw-unresolved" data-target="象限转换渐进法——从雇员到投资人的阶梯路径" title="未解析的双链目标：象限转换渐进法——从雇员到投资人的阶梯路径">象限转换渐进法——从雇员到投资人的阶梯路径</span>等复合能力系统性地注入产品创造过程，直接驱动“沟通精进”（通过产品交付价值）。
+- 相关技能：<span class="uw-unresolved" data-target="人工智能专家" title="未解析的双链目标：人工智能专家">🤖 AI专家技能</span>, [🏗️ 架构师技能](../ai-b539c9a9/), <span class="uw-unresolved" data-target="投资人：AI驱动的理性价值发现引擎" title="未解析的双链目标：投资人：AI驱动的理性价值发现引擎">💰 投资人技能</span>, <span class="uw-unresolved" data-target="心理学专家技能" title="未解析的双链目标：心理学专家技能">心理学专家技能</span>
+- 相关SOP：<span class="uw-unresolved" data-target="SOP-01-架构师-系统设计分析" title="未解析的双链目标：SOP-01-架构师-系统设计分析">SOP-01</span>, <span class="uw-unresolved" data-target="SOP-02-全栈工程师-功能开发" title="未解析的双链目标：SOP-02-全栈工程师-功能开发">SOP-02</span>
 - 历史最佳范例：*[uPrompt产品需求文档v1.0链接]*
 
 ## 📖 详细说明
@@ -29,15 +29,15 @@ description: "负责人: 产品经理技能(../ai-6fb71c2f/) | 核心工具: AI�
 ## 🔗 关联知识
 
 - [产品经理：AI时代价值创造与产品孵化的核心引擎](../ai-6fb71c2f/)
-- 人工智能专家技能
+- <span class="uw-unresolved" data-target="人工智能专家技能" title="未解析的双链目标：人工智能专家技能">人工智能专家技能</span>
 - [架构师技能](../md-4a5f4c51/)
-- 象限转换渐进法——从雇员到投资人的阶梯路径
-- 心理学专家技能
+- <span class="uw-unresolved" data-target="象限转换渐进法——从雇员到投资人的阶梯路径" title="未解析的双链目标：象限转换渐进法——从雇员到投资人的阶梯路径">象限转换渐进法——从雇员到投资人的阶梯路径</span>
+- <span class="uw-unresolved" data-target="心理学专家技能" title="未解析的双链目标：心理学专家技能">心理学专家技能</span>
 - [架构师：AI时代价值系统的核心引擎](../ai-b539c9a9/)
-- 人工智能专家
-- 投资人：AI驱动的理性价值发现引擎
-- SOP-01-架构师-系统设计分析
-- SOP-02-全栈工程师-功能开发
+- <span class="uw-unresolved" data-target="人工智能专家" title="未解析的双链目标：人工智能专家">人工智能专家</span>
+- <span class="uw-unresolved" data-target="投资人：AI驱动的理性价值发现引擎" title="未解析的双链目标：投资人：AI驱动的理性价值发现引擎">投资人：AI驱动的理性价值发现引擎</span>
+- <span class="uw-unresolved" data-target="SOP-01-架构师-系统设计分析" title="未解析的双链目标：SOP-01-架构师-系统设计分析">SOP-01-架构师-系统设计分析</span>
+- <span class="uw-unresolved" data-target="SOP-02-全栈工程师-功能开发" title="未解析的双链目标：SOP-02-全栈工程师-功能开发">SOP-02-全栈工程师-功能开发</span>
 
 ## 💡 个人理解
 
@@ -70,10 +70,10 @@ description: "负责人: 产品经理技能(../ai-6fb71c2f/) | 核心工具: AI�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/Sop 05 产品经理 产品需求文档Prd.md`
-- 原始状态：draft · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：14 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-ab21b5658712`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：06-Cognitive-Psychology
+- 未解析双链：14 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

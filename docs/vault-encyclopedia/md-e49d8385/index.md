@@ -36,14 +36,14 @@ description: "致富与守富（Getting Wealthy vs. Staying Wealthy）是摩根�
 ## 🔗 关联知识
 
 - [防御型投资](../md-4cfaf1dd/) — 守富的投资学表述
-- 复利效应 — 守富的第一要务是避免归零
+- <span class="uw-unresolved" data-target="复利效应" title="未解析的双链目标：复利效应">复利效应</span> — 守富的第一要务是避免归零
 - [储蓄率](../md-e575f5af/) — 守富的节俭基础
-- 反脆弱与风险管理 — 从"防损"到"从波动中获益"
+- <span class="uw-unresolved" data-target="反脆弱与风险管理" title="未解析的双链目标：反脆弱与风险管理">反脆弱与风险管理</span> — 从"防损"到"从波动中获益"
 
 ## 📚 参考资料
 
 - 来源：`B6-投资理财-金钱心理学_MSH_v3`
-- 原始书籍：《金钱心理学》-摩根·豪泽尔
+- 原始书籍：<span class="uw-unresolved" data-target="《金钱心理学》-摩根·豪泽尔" title="未解析的双链目标：《金钱心理学》-摩根·豪泽尔">《金钱心理学》-摩根·豪泽尔</span>
 
 ## 💡 个人理解
 
@@ -77,10 +77,10 @@ description: "致富与守富（Getting Wealthy vs. Staying Wealthy）是摩根�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/致富与守富.md`
-- 原始状态：已确立 · 分类：01-Finance-Investment
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-e49d8385daa4`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：01-Finance-Investment
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -34,8 +34,8 @@ description: "Peter Thiel 的创业哲学——真正的创新是创造垄断，
 ## 相关
 
 - [蓝海战略](../md-20fa19aa/)
-- 创新者的窘境
-- 第一性原理思考框架
+- <span class="uw-unresolved" data-target="创新者的窘境" title="未解析的双链目标：创新者的窘境">创新者的窘境</span>
+- <span class="uw-unresolved" data-target="第一性原理思考框架" title="未解析的双链目标：第一性原理思考框架">第一性原理思考框架</span>
 
 ---
 
@@ -56,10 +56,10 @@ description: "Peter Thiel 的创业哲学——真正的创新是创造垄断，
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/从0到1-垄断思维与10倍改进法则.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-7697fb42a9fe`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

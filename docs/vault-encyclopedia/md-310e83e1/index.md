@@ -47,7 +47,7 @@ description: "酒食搭配遵循三种匹配策略（相似、互补、对比）
 
 ## 🔗 关联知识
 
-- 《酒食圣经》-凯伦·佩吉、安德鲁·唐纳柏格
+- <span class="uw-unresolved" data-target="《酒食圣经》-凯伦·佩吉、安德鲁·唐纳柏格" title="未解析的双链目标：《酒食圣经》-凯伦·佩吉、安德鲁·唐纳柏格">《酒食圣经》-凯伦·佩吉、安德鲁·唐纳柏格</span>
 - [品酒感官训练模型](../md-afa30be3/)
 - [香气演化时间轴](../md-4afd1feb/)
 
@@ -82,10 +82,10 @@ description: "酒食搭配遵循三种匹配策略（相似、互补、对比）
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/酒食风味匹配模型.md`
-- 原始状态：已确立 · 分类：07-Biology-Health
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-310e83e1d10a`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：07-Biology-Health
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

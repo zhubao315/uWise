@@ -25,9 +25,9 @@ description: "保罗·威德在《囚徒健身》中提出的自重训练分类�
 - 六艺是分类框架，不是唯一正确的训练体系
 - 每个系列内部有完整的进阶路径（第1式到第10式）
 - 六艺不包含旋转模式和横向移动模式
-- 《囚徒健身》-保罗·威德
+- <span class="uw-unresolved" data-target="《囚徒健身》-保罗·威德" title="未解析的双链目标：《囚徒健身》-保罗·威德">《囚徒健身》-保罗·威德</span>
 - 自重训练六艺十式完整图谱
-- 自重训练 vs 器械训练的优劣对比
+- <span class="uw-unresolved" data-target="自重训练 vs 器械训练的优劣对比" title="未解析的双链目标：自重训练 vs 器械训练的优劣对比">自重训练 vs 器械训练的优劣对比</span>
 
 ## 📖 详细说明
 
@@ -40,12 +40,12 @@ description: "保罗·威德在《囚徒健身》中提出的自重训练分类�
 
 ## 🔗 关联知识
 
-- 《囚徒健身》-保罗·威德
+- <span class="uw-unresolved" data-target="《囚徒健身》-保罗·威德" title="未解析的双链目标：《囚徒健身》-保罗·威德">《囚徒健身》-保罗·威德</span>
 - 自重训练六艺十式完整图谱
-- 自重训练 vs 器械训练的优劣对比
+- <span class="uw-unresolved" data-target="自重训练 vs 器械训练的优劣对比" title="未解析的双链目标：自重训练 vs 器械训练的优劣对比">自重训练 vs 器械训练的优劣对比</span>
 - [渐进式超负荷模型](../md-8c1d078f/)
 - [三分化与五分化](../md-e19e7fce/)
-- 《力量训练基础》-马克·瑞比托
+- <span class="uw-unresolved" data-target="《力量训练基础》-马克·瑞比托" title="未解析的双链目标：《力量训练基础》-马克·瑞比托">《力量训练基础》-马克·瑞比托</span>
 
 ## 📊 元数据
 
@@ -74,10 +74,10 @@ description: "保罗·威德在《囚徒健身》中提出的自重训练分类�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/自重训练六艺.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：5 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-3258b534aa56`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：5 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

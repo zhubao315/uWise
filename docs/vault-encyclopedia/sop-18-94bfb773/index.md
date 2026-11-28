@@ -13,8 +13,8 @@ description: "负责人: 👤 数字人生(../ai-c792b6fb/) | 核心工具: AI�
 
 - SOP目标：建立一套标准化的、AI赋能的月度复盘流程，用于系统化地聚合、分析个人全维度数据，并将其与**四大战略支柱**对齐，以生成可执行的、旨在驱动个人成长的行动计划。
 - 战略价值：本SOP是“数字人生”理念的**最高实践**，是实现AI-Led Evolution的自我反馈、校准与迭代的**核心导航系统**。它确保我的所有日常行为都服务于长期战略目标，并通过数据驱动的方式，持续优化我的个人操作系统，实现高效、平衡的自我进化。
-- 核心技能：人工智能专家技能, 心理学专家技能, 💰 投资人技能
-- 相关SOP：SOP-22-目标管理, SOP-23-效率分析
+- 核心技能：<span class="uw-unresolved" data-target="人工智能专家技能" title="未解析的双链目标：人工智能专家技能">人工智能专家技能</span>, <span class="uw-unresolved" data-target="心理学专家技能" title="未解析的双链目标：心理学专家技能">心理学专家技能</span>, <span class="uw-unresolved" data-target="投资人：AI驱动的理性价值发现引擎" title="未解析的双链目标：投资人：AI驱动的理性价值发现引擎">💰 投资人技能</span>
+- 相关SOP：<span class="uw-unresolved" data-target="SOP-22-目标管理" title="未解析的双链目标：SOP-22-目标管理">SOP-22-目标管理</span>, <span class="uw-unresolved" data-target="SOP-23-效率分析" title="未解析的双链目标：SOP-23-效率分析">SOP-23-效率分析</span>
 - 数据来源：Strava, Garmin, Toggl, 记账App, Obsidian
 
 ## 📖 详细说明
@@ -31,11 +31,11 @@ description: "负责人: 👤 数字人生(../ai-c792b6fb/) | 核心工具: AI�
 - [数字人生：AI驱动的个人效能倍增与智能生态构建者](../ai-c792b6fb/)
 - AI-Led Evolution
 - 数字人生技能
-- 心理学专家技能
-- 人工智能专家技能
-- 投资人：AI驱动的理性价值发现引擎
-- SOP-22-目标管理
-- SOP-23-效率分析
+- <span class="uw-unresolved" data-target="心理学专家技能" title="未解析的双链目标：心理学专家技能">心理学专家技能</span>
+- <span class="uw-unresolved" data-target="人工智能专家技能" title="未解析的双链目标：人工智能专家技能">人工智能专家技能</span>
+- <span class="uw-unresolved" data-target="投资人：AI驱动的理性价值发现引擎" title="未解析的双链目标：投资人：AI驱动的理性价值发现引擎">投资人：AI驱动的理性价值发现引擎</span>
+- <span class="uw-unresolved" data-target="SOP-22-目标管理" title="未解析的双链目标：SOP-22-目标管理">SOP-22-目标管理</span>
+- <span class="uw-unresolved" data-target="SOP-23-效率分析" title="未解析的双链目标：SOP-23-效率分析">SOP-23-效率分析</span>
 
 ## 💡 个人理解
 
@@ -68,10 +68,10 @@ description: "负责人: 👤 数字人生(../ai-c792b6fb/) | 核心工具: AI�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/SOP-18-数字人生-个人数据分析报告.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：10 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-94bfb773be44`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：10 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

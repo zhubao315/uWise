@@ -26,7 +26,7 @@ description: "最后更新：2026-06-05"
 - [时刻提醒自己不要去参与那些人人都能说一嘴的话题](../md-036903f5/)
 - [给下属写周报](../md-4be76478/)
 - [技术神性与人类谦卑的平衡之道](../md-3692ee84/)
-- 5W2H
+- <span class="uw-unresolved" data-target="5W2H" title="未解析的双链目标：5W2H">5W2H</span>
 
 ## 💡 个人理解
 
@@ -58,10 +58,10 @@ description: "最后更新：2026-06-05"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/人月神话.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-2f3c00339e00`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

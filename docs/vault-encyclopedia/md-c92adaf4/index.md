@@ -39,13 +39,13 @@ description: "情感账户（Emotional Bank Account）是史蒂芬·柯维在《
 
 - [双赢思维](../md-c885c594/) — 双赢协议以情感账户余额为前提
 - [移情聆听](../md-d2efc4fc/) — 存款行为的核心载体
-- 《非暴力沟通》-马歇尔·卢森堡 — 存款行为的沟通技术
+- <span class="uw-unresolved" data-target="《非暴力沟通》-马歇尔·卢森堡" title="未解析的双链目标：《非暴力沟通》-马歇尔·卢森堡">《非暴力沟通》-马歇尔·卢森堡</span> — 存款行为的沟通技术
 - [习惯复利效应](../md-a0399b5a/) — 关系资产的复利结构
 
 ## 📚 参考资料
 
 - 来源：`B2-实用技能-七个习惯_MSH_v3`
-- 原始书籍：《高效能人士的七个习惯》-史蒂芬·柯维
+- 原始书籍：<span class="uw-unresolved" data-target="《高效能人士的七个习惯》-史蒂芬·柯维" title="未解析的双链目标：《高效能人士的七个习惯》-史蒂芬·柯维">《高效能人士的七个习惯》-史蒂芬·柯维</span>
 
 ## 💡 个人理解
 
@@ -79,10 +79,10 @@ description: "情感账户（Emotional Bank Account）是史蒂芬·柯维在《
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/情感账户.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-c92adaf47777`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

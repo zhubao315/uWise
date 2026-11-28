@@ -1,26 +1,26 @@
 ---
 title: "探索与发现 Exploration & Discovery"
-description: "自动创建于 2026-05-08 14:19 | 来源：2025-09-28"
+description: "自动创建于 2026-05-08 14:19 | 来源：<span class=\"uw-unresolved\" data-target=\"2025-09-28\" title=\"未解析的双链目标：2025-09-28\">2025-09-28</span>"
 ---
 
 # 探索与发现 Exploration & Discovery
 
 ## 📌 核心定义
 
-> 自动创建于 2026-05-08 14:19 | 来源：2025-09-28
+> 自动创建于 2026-05-08 14:19 | 来源：<span class="uw-unresolved" data-target="2025-09-28" title="未解析的双链目标：2025-09-28">2025-09-28</span>
 
 ## 🎯 关键要点
 
-- 自动创建于 2026-05-08 14:19 | 来源：2025-09-28
-- 此条目在 2025-09-28 中被引用。
+- 自动创建于 2026-05-08 14:19 | 来源：<span class="uw-unresolved" data-target="2025-09-28" title="未解析的双链目标：2025-09-28">2025-09-28</span>
+- 此条目在 <span class="uw-unresolved" data-target="2025-09-28" title="未解析的双链目标：2025-09-28">2025-09-28</span> 中被引用。
 - 一季度主题：[探索与发现 Exploration & Discovery](../exploration-discovery-md-f30b64da/)（跑步 + 摄影 + 情绪释放）
 - 一季度主题：[[探索与发现 Exploration & Discovery；探索与发现]；context_triggers=[健康管理；阅读计划；学习方法；知识管理；晨间习惯]*
 
 ## 📖 详细说明
 
 ### 概念解释
-自动创建于 2026-05-08 14:19 | 来源：2025-09-28
-此条目在 2025-09-28 中被引用。
+自动创建于 2026-05-08 14:19 | 来源：<span class="uw-unresolved" data-target="2025-09-28" title="未解析的双链目标：2025-09-28">2025-09-28</span>
+此条目在 <span class="uw-unresolved" data-target="2025-09-28" title="未解析的双链目标：2025-09-28">2025-09-28</span> 中被引用。
 
 ### 关联上下文
 > 一季度主题：[[探索与发现 Exploration & Discovery；探索与发现]；context_triggers=[健康管理；阅读计划；学习方法；知识管理；晨间习惯]*
@@ -32,7 +32,7 @@ description: "自动创建于 2026-05-08 14:19 | 来源：2025-09-28"
 
 ## 🔗 关联知识
 
-- 2025-09-28
+- <span class="uw-unresolved" data-target="2025-09-28" title="未解析的双链目标：2025-09-28">2025-09-28</span>
 - [探索与发现 Exploration & Discovery](../exploration-discovery-md-f30b64da/)
 
 ## 📊 元数据
@@ -47,8 +47,8 @@ description: "自动创建于 2026-05-08 14:19 | 来源：2025-09-28"
 
 ## 调用示例
 
-场景 1：判断「探索与发现 Exploration & Discovery」是否适用时，先复述其核心——自动创建于 2026-05-08 14:19 | 来源：2025-09-28——再对照当前事实逐项核对。
-场景 2：遇到与「探索与发现 Exploration & Discovery」相似的模糊情形，以要点「- 自动创建于 2026-05-08 14:19 | 来源：2025-09-28」为检查清单，避免只凭印象下结论。
+场景 1：判断「探索与发现 Exploration & Discovery」是否适用时，先复述其核心——自动创建于 2026-05-08 14:19 | 来源：<span class="uw-unresolved" data-target="2025-09-28" title="未解析的双链目标：2025-09-28">2025-09-28</span>——再对照当前事实逐项核对。
+场景 2：遇到与「探索与发现 Exploration & Discovery」相似的模糊情形，以要点「- 自动创建于 2026-05-08 14:19 | 来源：<span class="uw-unresolved" data-target="2025-09-28" title="未解析的双链目标：2025-09-28">2025-09-28</span>」为检查清单，避免只凭印象下结论。
 
 ## 边界约束
 
@@ -62,10 +62,10 @@ description: "自动创建于 2026-05-08 14:19 | 来源：2025-09-28"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/探索与发现 Exploration & Discovery.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：8 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-f30b64daf390`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：8 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

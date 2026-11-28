@@ -9,34 +9,34 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [12条建议教你用好ChatGPT](../12-chatgpt-md-c6b2edd5/)
 - [1984](../1984-md-e0cf9eb6/)
 - [2025全球最受推崇葡萄酒品牌榜单解读](../2025-md-d2597325/)
-- 2029通用人工智能：图灵测试的终结与新定义
+- <span class="uw-unresolved" data-target="2029通用人工智能：图灵测试的终结与新定义" title="未解析的双链目标：2029通用人工智能：图灵测试的终结与新定义">2029通用人工智能：图灵测试的终结与新定义</span>
 - [2045奇点假说：非生物智能对人类新皮质的云端扩容](../2045-md-fbb0e1b3/)
 - 54-学习方法
 - [5启动法打破行动瘫痪的微行动公式](../5-9f1b0e20/)
 - [67](../67-md-7681d434/)
 - [6D演进模型](../6d-md-45fae356/)
 - [92](../92-md-574e42a5/)
-- ABC法则
+- <span class="uw-unresolved" data-target="ABC法则" title="未解析的双链目标：ABC法则">ABC法则</span>
 - [AI Engineer角色-AI专家](../ai-engineer-5ac5c8d6/)
 - AI Engineer角色
-- AI First工作模式
+- <span class="uw-unresolved" data-target="AI First工作模式" title="未解析的双链目标：AI First工作模式">AI First工作模式</span>
 - [AI Toolkit](../ai-toolkit-md-94b5b7d5/)
 - AI-Co_Context_Scaffolds
 - AI-Led Evolution
 - [AI专家](../ai-md-bdbf6d4e/)
 - [AI专家技能-AI专家](../ai-0548e71f/)
 - [AI人才四层分层](../ai-md-9d5f5642/)
-- AI原生工作
-- AI安全
+- <span class="uw-unresolved" data-target="AI原生工作" title="未解析的双链目标：AI原生工作">AI原生工作</span>
+- <span class="uw-unresolved" data-target="AI安全" title="未解析的双链目标：AI安全">AI安全</span>
 - [AI平台与基础设施](../ai-md-ff5bb6e6/)
-- AI开发避坑全攻略
+- <span class="uw-unresolved" data-target="AI开发避坑全攻略" title="未解析的双链目标：AI开发避坑全攻略">AI开发避坑全攻略</span>
 - [AI技术洞见](../ai-md-f416faf2/)
-- AI时代的Lollapalooza效应：Harness架构下的多模型涌现与复合智能
-- AI时代的个人技能进化路线图
-- AI时代的能力栈
+- <span class="uw-unresolved" data-target="AI时代的Lollapalooza效应：Harness架构下的多模型涌现与复合智能" title="未解析的双链目标：AI时代的Lollapalooza效应：Harness架构下的多模型涌现与复合智能">AI时代的Lollapalooza效应：Harness架构下的多模型涌现与复合智能</span>
+- <span class="uw-unresolved" data-target="AI时代的Lollapalooza效应：Harness架构下的多模型涌现与复合智能" title="未解析的双链目标：AI时代的Lollapalooza效应：Harness架构下的多模型涌现与复合智能">AI时代的个人技能进化路线图</span>
+- <span class="uw-unresolved" data-target="AI时代的能力栈" title="未解析的双链目标：AI时代的能力栈">AI时代的能力栈</span>
 - [AI时代的能动性马太效应](../ai-md-a3c40cfe/)
-- AI能力边界
-- AI超级个体
+- <span class="uw-unresolved" data-target="AI能力边界" title="未解析的双链目标：AI能力边界">AI能力边界</span>
+- <span class="uw-unresolved" data-target="AI超级个体" title="未解析的双链目标：AI超级个体">AI超级个体</span>
 - [AI辅助创作](../ai-md-e0b6cbee/)
 - [AWS](../aws-md-9c5dbb73/)
 - [Agent编排](../agent-md-78745e36/)
@@ -44,7 +44,7 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [Anthropic提示词教程（中文版）](../anthropic-md-dad56c89/)
 - ArchiMate
 - Attention Is All You Need
-- BAPO原则
+- <span class="uw-unresolved" data-target="BAPO原则" title="未解析的双链目标：BAPO原则">BAPO原则</span>
 - [BDH愿景实现法则](../bdh-md-d7794540/)
 - Building Evolutionary Architectures-Neal Ford
 - Building Microservices-Sam Newman
@@ -58,7 +58,7 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [Datadog](../datadog-md-b1065929/)
 - [Devonthink](../devonthink-md-8a0375ac/)
 - Embedding
-- FAST法则 - 张永锡
+- <span class="uw-unresolved" data-target="FAST法则 - 张永锡" title="未解析的双链目标：FAST法则 - 张永锡">FAST法则 - 张永锡</span>
 - [GNR融合](../gnr-md-e9aaee25/)
 - [GTM行动指南：从产品到市场的落地框架](../gtm-md-3716c710/)
 - [Gartner发布的《2026年十大战略科技趋势》聚焦AI驱动、万物互联的现实格局，将趋势归纳为架构者、整合](../gartner-2026-ai-98c9f20a/)
@@ -67,10 +67,10 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [KANBAN - 看板](../kanban-md-8566a03b/)
 - [Karpathy：区分娱乐消费与深度学习，破除知识快餐幻觉](../karpathy-md-bcb63ee0/)
 - [LLM Inference Backends](../llm-inference-backends-md-6c13784e/)
-- LLM
+- <span class="uw-unresolved" data-target="LLM" title="未解析的双链目标：LLM">LLM</span>
 - LLM概率模型
 - [MAF180心率公式](../maf180-md-9b887d98/)
-- MECE法则
+- <span class="uw-unresolved" data-target="MECE法则" title="未解析的双链目标：MECE法则">MECE法则</span>
 - MLOps
 - [MOC](../moc-md-44e2cc58/)
 - [MOC：可以抛弃文件夹式和标签式分类法了](../moc-md-2f643772/)
@@ -81,8 +81,8 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [Obsidian Canvas](../obsidian-canvas-md-01429cb8/)
 - [PARA、MOC和TOC联用组织笔记](../para-moc-toc-md-5eba1c6b/)
 - [PERMA模型](../perma-md-06eb2cbd/)
-- PPT制作的目的和原则
-- Prompt Engineering
+- <span class="uw-unresolved" data-target="PPT制作的目的和原则" title="未解析的双链目标：PPT制作的目的和原则">PPT制作的目的和原则</span>
+- <span class="uw-unresolved" data-target="Prompt Engineering" title="未解析的双链目标：Prompt Engineering">Prompt Engineering</span>
 - Prompt工程
 - [Que_sais-je：智识谦逊的力量](../que-sais-je-a19e08cd/)
 - [RLHF](../reinforcement-learning-from-human-feedback-3a30a914/)
@@ -91,10 +91,10 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [Roam Research](../roam-research-md-d747e478/)
 - SCAMPER方法
 - [SMART](../smart-md-2894198b/)
-- SOLID原则
+- <span class="uw-unresolved" data-target="SOLID原则" title="未解析的双链目标：SOLID原则">SOLID原则</span>
 - [SOTA模型](../sota-md-4f447900/)
 - [SWOT分析](../swot-39605800/)
-- Saga模式框架
+- <span class="uw-unresolved" data-target="Saga模式框架" title="未解析的双链目标：Saga模式框架">Saga模式框架</span>
 - [Serverless](../serverless-md-0035b751/)
 - [Stay Hungry, Stay Foolish](../stay-hungry-stay-foolish-md-4352f4f0/)
 - [TESCREAL框架](../tescreal-md-e5f4c0b5/)
@@ -116,9 +116,9 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [生活中只有一种英雄主义，那就是在认清生活真相之后依然热爱生活。——罗曼罗兰](../md-82cc8be0/)
 - 《太上老君说常清静经》
 - 《庄子（内篇）》
-- 《明智行动的艺术》-罗尔夫·多贝里
+- <span class="uw-unresolved" data-target="《明智行动的艺术》-罗尔夫·多贝里" title="未解析的双链目标：《明智行动的艺术》-罗尔夫·多贝里">《明智行动的艺术》-罗尔夫·多贝里</span>
 - 《金光咒》
-- 《金刚经》-南怀瑾
+- <span class="uw-unresolved" data-target="《金刚经》-南怀瑾" title="未解析的双链目标：《金刚经》-南怀瑾">《金刚经》-南怀瑾</span>
 - [一个Markdown](../untitled-12053660/)
 - [一元化收集](../md-96293b30/)
 - [一期一会](../md-16dfb725/)
@@ -135,8 +135,8 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [上瘾：让用户养成使用习惯](../md-93265068/)
 - 上肢力量
 - 下肢力量
-- 不亏损原则
-- 不可逆决策与可逆决策
+- <span class="uw-unresolved" data-target="不亏损原则" title="未解析的双链目标：不亏损原则">不亏损原则</span>
+- <span class="uw-unresolved" data-target="不可逆决策与可逆决策" title="未解析的双链目标：不可逆决策与可逆决策">不可逆决策与可逆决策</span>
 - [不可阻挡者心态](../md-a8d3fa83/)
 - [不执着](../md-3e9dc4ac/)
 - [不时不食——应季饮食的古老智慧](../md-7bb39e8b/)
@@ -149,20 +149,20 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [东方智慧与西方理性](../md-9049ea9b/)
 - [个人主义文艺观](../md-bc4b139c/)
 - [个人知识库](../entry-cabc221b/)
-- 个人知识管理系统
+- <span class="uw-unresolved" data-target="个人知识管理系统" title="未解析的双链目标：个人知识管理系统">个人知识管理系统</span>
 - [个人说明书](../md-3bbcb4a2/)
 - [个人输出发布系统](../md-47ba9881/)
 - 个体化
 - [个体差异](../md-492e1294/)
 - [个性化推荐](../md-145bfd5c/)
 - 中产陷阱：购买以为是资产的负债
-- 中医养生基础
+- <span class="uw-unresolved" data-target="中医养生基础" title="未解析的双链目标：中医养生基础">中医养生基础</span>
 - [中华文明优越论](../md-e69c30ab/)
 - [中国乡土社会的韧性](../md-607b4fbe/)
 - [中国古代性文化史](../md-c1bad858/)
 - [中国哲学史](../md-2369b0fe/)
 - [中国文人精神](../md-4bf79920/)
-- 中国文化的底层逻辑
+- <span class="uw-unresolved" data-target="中国文化的底层逻辑" title="未解析的双链目标：中国文化的底层逻辑">中国文化的底层逻辑</span>
 - 中国文学
 - 中国近代史
 - [中庸](../md-794ffa42/)
@@ -179,19 +179,19 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [乐观主义](../md-f9943752/)
 - [习得性无助](../md-78d1f111/)
 - [习惯养成中的节奏感原理](../md-47c4ffce/)
-- 习惯四步循环法则
-- 习惯回路替代法则
-- 习惯建立的四法则模型
-- 习惯替代黄金法则
+- <span class="uw-unresolved" data-target="习惯四步循环法则" title="未解析的双链目标：习惯四步循环法则">习惯四步循环法则</span>
+- <span class="uw-unresolved" data-target="习惯回路替代法则" title="未解析的双链目标：习惯回路替代法则">习惯回路替代法则</span>
+- <span class="uw-unresolved" data-target="习惯建立的四法则模型" title="未解析的双链目标：习惯建立的四法则模型">习惯建立的四法则模型</span>
+- <span class="uw-unresolved" data-target="习惯替代黄金法则" title="未解析的双链目标：习惯替代黄金法则">习惯替代黄金法则</span>
 - [习惯系统](../md-af092b5a/)
 - [乡愁书写](../md-adc7592d/)
 - [乱世生存的辩证决策力](../md-5df95fc3/)
 - [乳酸阈值（LT）](../lt-47862264/)
-- 事上磨练原则
-- 事上磨练原则
+- <span class="uw-unresolved" data-target="事上磨练原则" title="未解析的双链目标：事上磨练原则">事上磨练原则</span>
+- <span class="uw-unresolved" data-target="事上磨练原则" title="未解析的双链目标：事上磨练原则">事上磨练原则</span>
 - 事件风暴
 - [事以密成：藏状态与行事主动权](../md-ec11e801/)
-- 二八原则
+- <span class="uw-unresolved" data-target="二八原则" title="未解析的双链目标：二八原则">二八原则</span>
 - [云计算与云原生技能](../ai-735d66b0/)
 - [五仙三成](../md-638bdd4c/)
 - 五味入五脏
@@ -250,8 +250,8 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [信息节食：筛选优质输入的自我管理方法](../md-60335b50/)
 - [信息茧房](../md-0a9a6de3/)
 - [修己安人](../md-39b913c5/)
-- 修身四课日课复利法
-- 修身四课日课复利法
+- <span class="uw-unresolved" data-target="修身四课日课复利法" title="未解析的双链目标：修身四课日课复利法">修身四课日课复利法</span>
+- <span class="uw-unresolved" data-target="修身四课日课复利法" title="未解析的双链目标：修身四课日课复利法">修身四课日课复利法</span>
 - 倒立撑训练入门与进阶
 - 偏差与方差权衡
 - [偏差方差权衡模型](../md-50265a63/)
@@ -264,7 +264,7 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [健身房是现代人的监狱](../md-5aa1a7f3/)
 - [储蓄先行原则](../md-51ca3a53/)
 - [像素行动法](../md-9ab549f3/)
-- 儒家伦理与现代职业道德的结合路径
+- <span class="uw-unresolved" data-target="儒家伦理与现代职业道德的结合路径" title="未解析的双链目标：儒家伦理与现代职业道德的结合路径">儒家伦理与现代职业道德的结合路径</span>
 - [儒释道融合](../md-5b7426a3/)
 - [儿童叙事视角](../md-ff98267b/)
 - [先天炁与后天气](../md-75a9769a/)
@@ -284,7 +284,7 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [关键点位理论](../md-9e70011a/)
 - [具身哲学：接纳身体作为认知的容器](../md-d9494359/)
 - [具身智能与机器人技术对未来实体劳动供应链的重构](../md-91747050/)
-- 养 生先养心
+- <span class="uw-unresolved" data-target="养 生先养心" title="未解析的双链目标：养 生先养心">养 生先养心</span>
 - [兼爱非攻](../md-89427075/)
 - [内丹修炼核心术语](../md-1f332cce/)
 - [内丹修炼核心术语](../md-1f332cce/)
@@ -299,13 +299,13 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - 内视养生
 - [写作作为生存方式](../md-9b84198f/)
 - [冥想](../md-6092071b/)
-- 决策卫生框架
-- 决策框架
+- <span class="uw-unresolved" data-target="决策卫生框架" title="未解析的双链目标：决策卫生框架">决策卫生框架</span>
+- <span class="uw-unresolved" data-target="决策框架" title="未解析的双链目标：决策框架">决策框架</span>
 - [决策能力](../md-645a4b35/)
 - [减法人生——信息时代的极简策略](../md-413e31b0/)
 - 分布式事务
 - 分散投资的原则
-- 刑法学讲义法律男神罗翔的刑法普及课-罗翔
+- <span class="uw-unresolved" data-target="刑法学讲义法律男神罗翔的刑法普及课-罗翔" title="未解析的双链目标：刑法学讲义法律男神罗翔的刑法普及课-罗翔">刑法学讲义法律男神罗翔的刑法普及课-罗翔</span>
 - [创伤储存在身体中](../md-13899e05/)
 - [创伤的代际传递](../md-be7b0b33/)
 - [创新方法论](../md-5eb899a3/)
@@ -315,7 +315,7 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - 初心与成长
 - [判断噪声](../md-15ff6899/)
 - 利他主义与健康
-- 利他即利己-真正的利他最终回归利己
+- <span class="uw-unresolved" data-target="利他即利己-真正的利他最终回归利己" title="未解析的双链目标：利他即利己-真正的利他最终回归利己">利他即利己-真正的利他最终回归利己</span>
 - 利基市场
 - 利益相关者
 - [刻意练习](../md-f0df2098/)
@@ -346,7 +346,7 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [历史地理学的空间叙事](../md-8fe22939/)
 - [历史的地理枢纽](../md-4b7f589c/)
 - [厌跑综合征](../md-90ece0a5/)
-- 原型体验：小实验降低重大抉择风险
+- <span class="uw-unresolved" data-target="原型体验：小实验降低重大抉择风险" title="未解析的双链目标：原型体验：小实验降低重大抉择风险">原型体验：小实验降低重大抉择风险</span>
 - [原生家庭的影响](../md-145c8857/)
 - [去个性化](../md-98aadb60/)
 - 去宗教化
@@ -361,7 +361,7 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [反叛叙事](../md-0fdf66d1/)
 - [反向传播](../md-79ccdb39/)
 - [反向链接](../md-79ba8c42/)
-- 反思实践
+- <span class="uw-unresolved" data-target="反思实践" title="未解析的双链目标：反思实践">反思实践</span>
 - [反馈回路](../md-b96ed9e3/)
 - [变易思维](../md-e48bb55c/)
 - 叙事框架
@@ -378,7 +378,7 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [合作：生物进化的第三个原则](../md-2b603464/)
 - 同理心
 - [向死而生](../md-dde73ba4/)
-- 向量数据库选型实战
+- <span class="uw-unresolved" data-target="向量数据库选型实战" title="未解析的双链目标：向量数据库选型实战">向量数据库选型实战</span>
 - [君主论](../md-70b11621/)
 - [君子三戒](../md-277234f1/)
 - [启发式与偏差模型](../md-87fed6a8/)
@@ -405,7 +405,7 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [地方政府竞争模式](../md-8a14b5a9/)
 - [地标作为记忆载体](../md-6a853195/)
 - 地理学
-- 地缘政治与投资
+- <span class="uw-unresolved" data-target="地缘政治与投资" title="未解析的双链目标：地缘政治与投资">地缘政治与投资</span>
 - [垂直大模型](../md-2427974d/)
 - [垄断与竞争](../md-d6b23ad8/)
 - [埃里克森心理社会发展](../md-91cd9c0e/)
@@ -455,13 +455,13 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [姿势跑法三要素](../md-ad972e33/)
 - [嫉妒的进化功能](../md-df64e30c/)
 - 子午流注-人体生物钟的说明书
-- 子午流注与老年养生
+- <span class="uw-unresolved" data-target="子午流注与老年养生" title="未解析的双链目标：子午流注与老年养生">子午流注与老年养生</span>
 - 子午流注：人体生物钟的说明书
 - 存在主义
 - [存在性风险](../md-c3044f63/)
 - [孟子](../md-b77c1e2d/)
 - [学习内化](../md-4cb99436/)
-- 学习方法系统研究
+- <span class="uw-unresolved" data-target="学习方法系统研究" title="未解析的双链目标：学习方法系统研究">学习方法系统研究</span>
 - [孩子：挑战](../md-a396a745/)
 - [宇宙主义](../md-047ab908/)
 - 宇宙观
@@ -499,7 +499,7 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [工具性趋同](../md-6483c180/)
 - [左宗棠](../md-9ea74707/)
 - [巴学园教育](../md-eeb96d23/)
-- 巴纳姆效应与人际亲密感
+- <span class="uw-unresolved" data-target="巴纳姆效应与人际亲密感" title="未解析的双链目标：巴纳姆效应与人际亲密感">巴纳姆效应与人际亲密感</span>
 - 币安人生
 - [市井力量](../md-4876b7c0/)
 - 市场营销
@@ -533,18 +533,18 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [当下的力量](../md-e25933a5/)
 - 形与神俱
 - [影响力](../md-e3e3bdef/)
-- 微习惯启动不可能失败法则
+- <span class="uw-unresolved" data-target="微习惯启动不可能失败法则" title="未解析的双链目标：微习惯启动不可能失败法则">微习惯启动不可能失败法则</span>
 - [微信读书](../md-4b308b2d/)
 - [微观史观](../md-a849e4ec/)
 - [心即理](../md-e553c511/)
 - [心理学的科学方法](../md-48ad9f33/)
 - [心理学的科学方法](../md-48ad9f33/)
-- 心理安全
+- <span class="uw-unresolved" data-target="心理安全" title="未解析的双链目标：心理安全">心理安全</span>
 - [心理成熟的四个标志](../md-77af3ca0/)
 - [心理游戏](../md-d09b4c11/)
 - [心理现实主义](../md-16642dcb/)
 - [心理边界](../md-f90fb3ed/)
-- 心理韧性
+- <span class="uw-unresolved" data-target="心理韧性" title="未解析的双链目标：心理韧性">心理韧性</span>
 - [必然](../md-37bd93a1/)
 - [思想自然发生](../md-e869d56f/)
 - [思想钢印](../md-424e21ba/)
@@ -582,7 +582,7 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [我获取信息的方法](../md-861e845c/)
 - 战略思维
 - [戴曼迪斯：指数技术驱动的文明进化逻辑](../md-eab1b13c/)
-- 户外大神
+- <span class="uw-unresolved" data-target="户外大神" title="未解析的双链目标：户外大神">户外大神</span>
 - [房中术的历史与理论](../md-b30426f0/)
 - [房地产周期](../md-0d84ea7f/)
 - [手动双向链接](../md-c1473552/)
@@ -597,7 +597,7 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [技术爆炸](../md-69c52e82/)
 - [投研智库产品规划](../entry-3b204fda/)
 - [护城河](../md-2600f167/)
-- 拖延是自尊保护盾牌
+- <span class="uw-unresolved" data-target="拖延是自尊保护盾牌" title="未解析的双链目标：拖延是自尊保护盾牌">拖延是自尊保护盾牌</span>
 - [拖延是自尊保护盾，而非懒惰](../md-0ebb1df5/)
 - [拙诚](../md-8aec8451/)
 - [择偶策略的进化](../md-389f7677/)
@@ -618,7 +618,7 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [收藏文化与鉴赏力](../md-5ca3b035/)
 - [改变的代价](../md-e3954d4d/)
 - 放下执念：接纳无常的生活实践指南
-- 政治家的视野与智慧
+- <span class="uw-unresolved" data-target="政治家的视野与智慧" title="未解析的双链目标：政治家的视野与智慧">政治家的视野与智慧</span>
 - [效率倍增-战略支柱](../entry-f8cc0351/)
 - [教育心理学应用](../md-8c68ef24/)
 - 教育方法
@@ -629,9 +629,9 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [数字花园](../md-53a524fa/)
 - [数学之美](../md-64b95cb5/)
 - [数据分区](../md-2e7f582f/)
-- 数据分析师
+- <span class="uw-unresolved" data-target="数据分析师" title="未解析的双链目标：数据分析师">数据分析师</span>
 - [数据挖掘导论](../md-aea477a8/)
-- 数据治理框架
+- <span class="uw-unresolved" data-target="数据治理框架" title="未解析的双链目标：数据治理框架">数据治理框架</span>
 - 数据湖
 - [数据漂移与概念漂移](../md-b9a7276e/)
 - 数据科学
@@ -680,7 +680,7 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [智能客服系统软件](../it-30-fdeb85cd/)
 - 曼陀罗
 - [最优体验](../md-07a2ddbc/)
-- 最大摄氧量
+- <span class="uw-unresolved" data-target="最大摄氧量" title="未解析的双链目标：最大摄氧量">最大摄氧量</span>
 - [最小可执行单元思维](../md-a912ecfa/)
 - [最小可行习惯](../md-8d8cf2ca/)
 - [最小行动启动法-最小行动启动法](../entry-8898ed36/)
@@ -690,7 +690,7 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [月令养生——按月调整生活](../md-3befc737/)
 - [有效利他主义](../md-be282ddd/)
 - [有效市场假说](../md-32272291/)
-- 有氧训练方法
+- <span class="uw-unresolved" data-target="有氧训练方法" title="未解析的双链目标：有氧训练方法">有氧训练方法</span>
 - [未来自我](../md-ea66091e/)
 - [朱明豪论文](../8-ed8c0380/)
 - [机会成本](../md-e7a363e2/)
@@ -774,7 +774,7 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [混血语法](../md-3c0db6e8/)
 - [清单防护盾法——用系统对抗无能之错](../md-da87fe24/)
 - [清单防护盾法——用系统对抗无能之错](../md-da87fe24/)
-- 清晰力启动法
+- <span class="uw-unresolved" data-target="清晰力启动法" title="未解析的双链目标：清晰力启动法">清晰力启动法</span>
 - [清晰力消除拖延模糊是行动的天敌，把任务拆到大脑无法拒绝](../entry-d35b281b/)
 - [渐进式学习](../md-fe70fca5/)
 - [渐进式总结](../md-f42f9b15/)
@@ -785,7 +785,7 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [激情与野心](../md-ee2fe887/)
 - [激效反应原理：温和外源性压力如何激发线粒体自噬与再生](../md-6d2b223a/)
 - [火候](../md-863a2d0f/)
-- 灵魂被想法染色——习惯性思维决定心智状态
+- <span class="uw-unresolved" data-target="灵魂被想法染色——习惯性思维决定心智状态" title="未解析的双链目标：灵魂被想法染色——习惯性思维决定心智状态">灵魂被想法染色——习惯性思维决定心智状态</span>
 - 炁
 - 热身
 - [熵增](../md-6768c55a/)
@@ -795,7 +795,7 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [现实扭曲力场](../md-2b14ac59/)
 - [现实操控术-泽兰德](../md-67be3503/)
 - [现金流比净利润更真实](../md-6e848c1c/)
-- 现金流方向判定法——区分真资产与伪负债
+- <span class="uw-unresolved" data-target="现金流方向判定法——区分真资产与伪负债" title="未解析的双链目标：现金流方向判定法——区分真资产与伪负债">现金流方向判定法——区分真资产与伪负债</span>
 - [现金流象限ESBI](../esbi-md-fc214175/)
 - [玻璃基板封装技术](../md-fd8344ae/)
 - [理想国](../md-d7061707/)
@@ -808,7 +808,7 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [生活中只有一种英雄主义，那就是在认清生活真相之后依然热爱生活。——罗曼罗兰](../md-82cc8be0/)
 - [生活形式](../md-07f3b4fa/)
 - [生活日记](../md-9ee803d1/)
-- 生活美学大师
+- <span class="uw-unresolved" data-target="生活美学大师" title="未解析的双链目标：生活美学大师">生活美学大师</span>
 - [生活艺术家-AI时代美学生活与创新灵感的缔造者](../ai-md-c087db02/)
 - [生物学信息化：当你的身体变成可迭代的软件系统](../md-7f9f33b1/)
 - 生物钟
@@ -818,7 +818,7 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [疯传](../md-bd2d01aa/)
 - [痛楚与磨难的斯多葛哲学](../md-19b0a5c5/)
 - [痛楚与磨难解耦](../entry-96c05d9e/)
-- 痛苦反思进步公式——把每次挫折转化为原则
+- <span class="uw-unresolved" data-target="痛苦反思进步公式——把每次挫折转化为原则" title="未解析的双链目标：痛苦反思进步公式——把每次挫折转化为原则">痛苦反思进步公式——把每次挫折转化为原则</span>
 - [白板说](../md-e4c8ac82/)
 - [百姓视角的城市史](../md-b4a4391c/)
 - 百岁人生
@@ -842,16 +842,16 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - 知识产权顾问-AI时代创新资产的战略守护者
 - 知识共享
 - [知识分子的勇气](../md-d673a7a3/)
-- 知识即行动
+- <span class="uw-unresolved" data-target="知识即行动" title="未解析的双链目标：知识即行动">知识即行动</span>
 - 知识图谱
 - [知识多巴胺：碎片化信息带来的短时认知快感](../md-d0e67310/)
 - [知识工作者](../md-98162b9b/)
-- 知识管理
-- 知识管理
+- <span class="uw-unresolved" data-target="知识管理" title="未解析的双链目标：知识管理">知识管理</span>
+- <span class="uw-unresolved" data-target="知识管理" title="未解析的双链目标：知识管理">知识管理</span>
 - [知足者富](../md-7cf114c7/)
 - [确认偏误](../md-06606852/)
 - [社会兴趣](../md-a2463b97/)
-- 社会心理学
+- <span class="uw-unresolved" data-target="社会心理学" title="未解析的双链目标：社会心理学">社会心理学</span>
 - [社会性动物](../md-8dfa2f7f/)
 - [社会攀爬](../md-94c559f3/)
 - [社会派推理](../md-568fc6d4/)
@@ -889,7 +889,7 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - 精气神
 - [精益创业](../md-a72d092d/)
 - [精神三变](../md-b26eafdc/)
-- 精神三变是自我超越的诊断与行动框架
+- <span class="uw-unresolved" data-target="精神三变是自我超越的诊断与行动框架" title="未解析的双链目标：精神三变是自我超越的诊断与行动框架">精神三变是自我超越的诊断与行动框架</span>
 - [精神与物质](../md-0b558250/)
 - 精神分析
 - [精神危机](../md-7e3796db/)
@@ -928,9 +928,9 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [群星时刻](../md-6a00030e/)
 - [老子](../md-aeadc332/)
 - [老字号的文化传承](../md-c53dee28/)
-- 老钱智慧：为什么富过三代的秘密不在赚钱，而在守钱
+- <span class="uw-unresolved" data-target="老钱智慧：为什么富过三代的秘密不在赚钱，而在守钱" title="未解析的双链目标：老钱智慧：为什么富过三代的秘密不在赚钱，而在守钱">老钱智慧：为什么富过三代的秘密不在赚钱，而在守钱</span>
 - [考古二重证据法](../md-8924387d/)
-- 职业发展
+- <span class="uw-unresolved" data-target="职业发展" title="未解析的双链目标：职业发展">职业发展</span>
 - 职业转型的方法
 - 职业选择的不可逆性
 - [肌肉内分泌学：抗阻力训练对神经营养因子BDNF的激活效应](../bdnf-md-d57cff4c/)
@@ -939,12 +939,12 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [胡适](../md-3314a1ef/)
 - [能力圈](../md-b445a5c0/)
 - [能力陷阱的自我进化框架](../md-b2752112/)
-- 腹式呼吸、横膈膜与骨盆底肌的呼吸联动
+- <span class="uw-unresolved" data-target="腹式呼吸、横膈膜与骨盆底肌的呼吸联动" title="未解析的双链目标：腹式呼吸、横膈膜与骨盆底肌的呼吸联动">腹式呼吸、横膈膜与骨盆底肌的呼吸联动</span>
 - [臀肌失活综合征](../md-d269d873/)
 - [自主神经系统调控：生理性叹息对交感神经亢进的即时阻断](../md-5217e3bd/)
 - [自创生](../md-e371cbed/)
 - [自动思维](../md-6ea24896/)
-- 自卑感不是敌人而是未被激活的行动力
+- <span class="uw-unresolved" data-target="自卑感不是敌人而是未被激活的行动力" title="未解析的双链目标：自卑感不是敌人而是未被激活的行动力">自卑感不是敌人而是未被激活的行动力</span>
 - [自卑感与优越情结](../md-cfaf1c6d/)
 - [自带方法论的工具](../md-966ecc5b/)
 - [自性化](../md-dc977352/)
@@ -996,8 +996,8 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [表观遗传学：通过生活方式进行基因表达的实时编程](../md-50d49f63/)
 - [衰老作为可编辑信息系统](../md-ea2b9439/)
 - [被动收入构建逻辑](../md-46019417/)
-- 被讨厌的勇气
-- 被讨厌的勇气
+- <span class="uw-unresolved" data-target="被讨厌的勇气" title="未解析的双链目标：被讨厌的勇气">被讨厌的勇气</span>
+- <span class="uw-unresolved" data-target="被讨厌的勇气" title="未解析的双链目标：被讨厌的勇气">被讨厌的勇气</span>
 - [西方哲学史](../md-341c4b82/)
 - [吸引力法则的心理学解释](../md-e255136e/)
 - [要事第一](../md-b37c8c26/)
@@ -1015,7 +1015,7 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [认知偏误](../md-6568b24b/)
 - [认知天性](../md-2675e644/)
 - [认知扭曲](../md-ea2ab0a4/)
-- 认知负荷
+- <span class="uw-unresolved" data-target="认知负荷" title="未解析的双链目标：认知负荷">认知负荷</span>
 - [认知重构](../md-9831078e/)
 - [认知错觉：假性努力与获得感陷阱](../md-1cff7fc6/)
 - 训练周期化
@@ -1031,20 +1031,20 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [语言发展](../md-c55fe38b/)
 - [语言图像论](../md-6cb86f3d/)
 - [语言游戏](../md-f51396d8/)
-- 读书笔记命名规范
+- <span class="uw-unresolved" data-target="读书笔记命名规范" title="未解析的双链目标：读书笔记命名规范">读书笔记命名规范</span>
 - [课题分离](../md-0e7eba9a/)
 - [象数思维](../md-53c394bc/)
-- 象限转换渐进法——从雇员到投资人的阶梯路径
+- <span class="uw-unresolved" data-target="象限转换渐进法——从雇员到投资人的阶梯路径" title="未解析的双链目标：象限转换渐进法——从雇员到投资人的阶梯路径">象限转换渐进法——从雇员到投资人的阶梯路径</span>
 - 财务报表分析
 - [财务自由之路](../md-92c11020/)
-- 财务自由
+- <span class="uw-unresolved" data-target="财务自由" title="未解析的双链目标：财务自由">财务自由</span>
 - [财商教育](../md-ba6aecaa/)
 - [财富蓝图模型](../md-019fa0cd/)
 - 责任分散
 - [货机崇拜科学](../md-b07d56de/)
-- 质量属性与架构权衡
+- <span class="uw-unresolved" data-target="质量属性与架构权衡" title="未解析的双链目标：质量属性与架构权衡">质量属性与架构权衡</span>
 - 贪婪与恐惧的钟摆
-- 费曼
+- <span class="uw-unresolved" data-target="费曼" title="未解析的双链目标：费曼">费曼</span>
 - [费曼学习法](../md-e581a556/)
 - [资本论](../md-84bcc4b0/)
 - [资源稀缺论的技术哲学批判](../md-e45b3d55/)
@@ -1186,7 +1186,7 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 - [香草美人](../md-f777c6ab/)
 - [马丁·路德·金](../md-e73f326e/)
 - [马克操](../md-3b742371/)
-- 马拉松训练体系
+- <span class="uw-unresolved" data-target="马拉松训练体系" title="未解析的双链目标：马拉松训练体系">马拉松训练体系</span>
 - [驯养理论](../md-604027a6/)
 - [驾驭工程](../md-db3f6216/)
 - [髂胫束综合征](../md-a8aff9d7/)
@@ -1211,10 +1211,10 @@ description: "- 10分人才理论(../10-md-04aeafa0/)"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`∑ uWise-概念.md`
-- 原始状态：未标注 · 分类：未标注
-- 断链别名（无目标，保留为文本）：81 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-a3f7b9b047e0`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：uncategorized
+- 未解析双链：81 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

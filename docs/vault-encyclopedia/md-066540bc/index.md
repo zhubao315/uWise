@@ -43,8 +43,8 @@ description: "大多数人不是在投资，而是在赌博。从投机到投资
 - 币安人生
 - [加密货币投资心理](../md-620a4c49/)
 - [高波动市场风险管理原则](../md-a0e5a453/)
-- 富人思维与穷人思维
-- 价值投资的核心：芒格视角下的企业价值判断
+- <span class="uw-unresolved" data-target="富人思维与穷人思维" title="未解析的双链目标：富人思维与穷人思维">富人思维与穷人思维</span>
+- <span class="uw-unresolved" data-target="价值投资的核心：芒格视角下的企业价值判断" title="未解析的双链目标：价值投资的核心：芒格视角下的企业价值判断">价值投资的核心：芒格视角下的企业价值判断</span>
 
 ## 📊 元数据
 
@@ -73,10 +73,10 @@ description: "大多数人不是在投资，而是在赌博。从投机到投资
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/从投机到投资的进化.md`
-- 原始状态：已确立 · 分类：01-Finance-Investment
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-066540bcdc55`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：01-Finance-Investment
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

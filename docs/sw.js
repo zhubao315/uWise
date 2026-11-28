@@ -1,82 +1,56 @@
-// uWise 百科 - Service Worker (PWA 支持)
-
-const CACHE_NAME = 'uwise-v2.0.0';
+// uWise 百科 - Service Worker（单一 fetch 处理器，限定 /uWise/ 项目路径）
+const BASE = '/uWise/';
+const CACHE_NAME = 'uwise-v3-' + self.location.pathname.replace(/\W/g, '');
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/stylesheets/custom.css',
-  '/javascripts/extra.js',
-  '/javascripts/security.js'
+  BASE,
+  BASE + 'index.html',
+  BASE + 'stylesheets/custom.css',
+  BASE + 'javascripts/extra.js',
+  BASE + 'javascripts/security.js'
 ];
 
-// 安装 Service Worker
 self.addEventListener('install', event => {
   event.waitUntil(
     caches.open(CACHE_NAME)
-      .then(cache => {
-        console.log('已打开缓存:', CACHE_NAME);
-        return cache.addAll(urlsToCache);
-      })
+      .then(cache => cache.addAll(urlsToCache))
+      .then(() => self.skipWaiting())
   );
 });
 
-// 激活 Service Worker
 self.addEventListener('activate', event => {
-  const cacheWhitelist = [CACHE_NAME];
   event.waitUntil(
-    caches.keys().then(cacheNames => {
-      return Promise.all(
-        cacheNames.map(cacheName => {
-          if (cacheWhitelist.indexOf(cacheName) === -1) {
-            console.log('删除旧缓存:', cacheName);
-            return caches.delete(cacheName);
-          }
-        })
-      );
-    })
+    caches.keys()
+      .then(keys => Promise.all(keys.filter(k => k !== CACHE_NAME).map(k => caches.delete(k))))
+      .then(() => self.clients.claim())
   );
 });
 
-// 拦截请求
 self.addEventListener('fetch', event => {
-  event.respondWith(
-    caches.match(event.request)
-      .then(response => {
-        // 缓存命中，返回缓存版本
-        if (response) {
-          return response;
-        }
+  const req = event.request;
+  if (req.method !== 'GET') return;
+  const url = new URL(req.url);
+  if (url.origin !== self.location.origin || !url.pathname.startsWith(BASE)) return;
 
-        // 缓存未命中，发起网络请求
-        return fetch(event.request).then(
-          response => {
-            // 检查是否为有效响应
-            if (!response || response.status !== 200 || response.type !== 'basic') {
-              return response;
-            }
-
-            // 克隆响应
-            const responseToCache = response.clone();
-
-            caches.open(CACHE_NAME)
-              .then(cache => {
-                cache.put(event.request, responseToCache);
-              });
-
-            return response;
-          }
-        );
-      })
-  );
-});
-
-// 离线提示
-self.addEventListener('fetch', event => {
-  if (event.request.mode === 'navigate') {
+  if (req.mode === 'navigate') {
     event.respondWith(
-      fetch(event.request).catch(() => {
-        return caches.match('/index.html');
-      })
+      fetch(req)
+        .then(res => {
+          const copy = res.clone();
+          caches.open(CACHE_NAME).then(cache => cache.put(req, copy));
+          return res;
+        })
+        .catch(() => caches.match(BASE + 'index.html'))
     );
+    return;
   }
+
+  event.respondWith(
+    caches.match(req).then(cached => cached || fetch(req).then(res => {
+      if (res && res.ok && res.type === 'basic') {
+        const copy = res.clone();
+        caches.open(CACHE_NAME).then(cache => cache.put(req, copy));
+      }
+      return res;
+    }))
+  );
 });

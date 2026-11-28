@@ -38,8 +38,8 @@ description: "大多数人失败不是因为缺乏能力或资源，而是因为
 - 天空不设限
 - [自我设限](../md-9bd34ab8/)
 - [成长型思维](../md-20d2ef32/)
-- 突破与荣耀 Breakthrough & Glory
-- 无穷进步心态——把极限视为解释的局限而非现实的边界
+- <span class="uw-unresolved" data-target="突破与荣耀 Breakthrough &amp; Glory" title="未解析的双链目标：突破与荣耀 Breakthrough &amp; Glory">突破与荣耀 Breakthrough & Glory</span>
+- <span class="uw-unresolved" data-target="无穷进步心态——把极限视为解释的局限而非现实的边界" title="未解析的双链目标：无穷进步心态——把极限视为解释的局限而非现实的边界">无穷进步心态——把极限视为解释的局限而非现实的边界</span>
 
 ## 📊 元数据
 
@@ -68,10 +68,10 @@ description: "大多数人失败不是因为缺乏能力或资源，而是因为
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/思维天花板的突破.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-24d7ae95aef7`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

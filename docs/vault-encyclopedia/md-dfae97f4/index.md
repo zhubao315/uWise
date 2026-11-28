@@ -23,7 +23,7 @@ description: "最后更新：2026-06-05"
 
 - [原文来源](../md-dfae97f4/)
 - [弗兰克尔：意义形成的三条路径研究](../entry-deddd3bf/)
-- 图式与修正——先做出来再逼近完美
+- <span class="uw-unresolved" data-target="图式与修正——先做出来再逼近完美" title="未解析的双链目标：图式与修正——先做出来再逼近完美">图式与修正——先做出来再逼近完美</span>
 - [富足时代的意义危机与精神自救](../md-f7d8f07a/)
 - [三种发现意义的模型](../md-0138607c/)
 - [生活中只有一种英雄主义，那就是在认清生活真相之后依然热爱生活。——罗曼罗兰](../md-82cc8be0/)
@@ -58,10 +58,10 @@ description: "最后更新：2026-06-05"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/活出意义来.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-dfae97f46b38`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

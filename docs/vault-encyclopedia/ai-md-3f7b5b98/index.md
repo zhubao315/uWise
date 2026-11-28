@@ -35,7 +35,7 @@ description: "云计算为 AI 提供弹性算力，云原生为 AI 应用提供�
 
 - [云原生](../md-4bd76a0f/)
 - MLOps
-- AI算力平台方案
+- <span class="uw-unresolved" data-target="AI算力平台方案" title="未解析的双链目标：AI算力平台方案">AI算力平台方案</span>
 - [在线思维](../md-522b2e04/)
 
 ---
@@ -57,10 +57,10 @@ description: "云计算为 AI 提供弹性算力，云原生为 AI 应用提供�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/云计算与云原生：AI时代智能应用与高效基础设施的驱动者.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-3f7b5b985d06`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -23,10 +23,10 @@ description: "一种软件架构设计模式：核心平台提供稳定、通用
 
 ## 🔗 关联知识
 
-- 卡片盒笔记法 - Zettelkasten
-- 渐进式 - progressive
-- ACCESS文件组织法
-- Nick Milo
+- <span class="uw-unresolved" data-target="卡片盒笔记法 - Zettelkasten" title="未解析的双链目标：卡片盒笔记法 - Zettelkasten">卡片盒笔记法 - Zettelkasten</span>
+- <span class="uw-unresolved" data-target="渐进式 - progressive" title="未解析的双链目标：渐进式 - progressive">渐进式 - progressive</span>
+- <span class="uw-unresolved" data-target="ACCESS文件组织法" title="未解析的双链目标：ACCESS文件组织法">ACCESS文件组织法</span>
+- <span class="uw-unresolved" data-target="Nick Milo" title="未解析的双链目标：Nick Milo">Nick Milo</span>
 
 ## 💡 个人理解
 
@@ -59,10 +59,10 @@ description: "一种软件架构设计模式：核心平台提供稳定、通用
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/平台+插件.md`
-- 原始状态：已确立 · 分类：02-AI-Architecture
-- 断链别名（无目标，保留为文本）：4 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-4d2e4803526a`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：02-AI-Architecture
+- 未解析双链：4 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

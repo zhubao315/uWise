@@ -27,8 +27,8 @@ description: "蒙田怀疑论在投资场景的物化应用：当市场形成唯
 - "依照理性思考"——认知上拒绝任何绝对看多/看空
 
 ## 关联概念
-- B9-哲学宗教-蒙田随笔_MSH_v3
-- uSkill-agent-元认知防火墙
+- <span class="uw-unresolved" data-target="B9-哲学宗教-蒙田随笔_MSH_v3" title="未解析的双链目标：B9-哲学宗教-蒙田随笔_MSH_v3">B9-哲学宗教-蒙田随笔_MSH_v3</span>
+- <span class="uw-unresolved" data-target="uSkill-agent-元认知防火墙" title="未解析的双链目标：uSkill-agent-元认知防火墙">uSkill-agent-元认知防火墙</span>
 - [价值投资](../md-d5f5a7c9/)
 
 ---
@@ -50,10 +50,10 @@ description: "蒙田怀疑论在投资场景的物化应用：当市场形成唯
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/逆向思维断言.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-f8dbc101d6b0`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

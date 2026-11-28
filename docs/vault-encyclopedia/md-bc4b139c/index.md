@@ -23,7 +23,7 @@ description: "木心最核心的文艺立场：艺术的本质是个人主义的
 
 ## 🔗 关联知识
 
-- 木心
+- <span class="uw-unresolved" data-target="木心" title="未解析的双链目标：木心">木心</span>
 - [文学纯粹性](../md-d4f857ce/)
 - [世界性美学](../md-f85042c1/)
 
@@ -58,10 +58,10 @@ description: "木心最核心的文艺立场：艺术的本质是个人主义的
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/个人主义文艺观.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-bc4b139c2c9b`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

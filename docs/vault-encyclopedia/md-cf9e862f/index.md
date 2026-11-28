@@ -40,8 +40,8 @@ description: "五行相克的情绪调节法——用一种情绪来制衡另一
 
 - [百病生于气——情绪管理即生命管理](../md-58e63570/)
 - [阴阳辩证](../md-fb8faca8/)
-- 认知行为疗法
-- 《黄帝内经》-托名黄帝
+- <span class="uw-unresolved" data-target="认知行为疗法" title="未解析的双链目标：认知行为疗法">认知行为疗法</span>
+- <span class="uw-unresolved" data-target="《黄帝内经》-托名黄帝" title="未解析的双链目标：《黄帝内经》-托名黄帝">《黄帝内经》-托名黄帝</span>
 
 ## 📚 参考资料
 
@@ -79,10 +79,10 @@ description: "五行相克的情绪调节法——用一种情绪来制衡另一
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/五行相克情绪调节法.md`
-- 原始状态：draft · 分类：07-Biology-Health
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-cf9e862f3a1c`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：07-Biology-Health
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

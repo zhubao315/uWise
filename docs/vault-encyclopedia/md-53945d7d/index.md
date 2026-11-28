@@ -34,9 +34,9 @@ description: "Running Economy——跑步时身体利用氧气和弹性能量的
 
 ## 相关
 
-- 最大摄氧量
-- 跑步训练计划
-- 运动生理学
+- <span class="uw-unresolved" data-target="最大摄氧量" title="未解析的双链目标：最大摄氧量">最大摄氧量</span>
+- <span class="uw-unresolved" data-target="跑步训练计划" title="未解析的双链目标：跑步训练计划">跑步训练计划</span>
+- <span class="uw-unresolved" data-target="运动生理学" title="未解析的双链目标：运动生理学">运动生理学</span>
 
 ---
 
@@ -57,10 +57,10 @@ description: "Running Economy——跑步时身体利用氧气和弹性能量的
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/弹性能量利用效率.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-53945d7d66f4`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

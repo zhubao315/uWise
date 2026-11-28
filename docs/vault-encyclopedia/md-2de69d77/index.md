@@ -19,7 +19,7 @@ description: "💡 大隐隐于市——不必逃离世俗，在日常中建构�
 
 ### 概念解释
 不必隐居深山才能保持心灵自由。苏东坡提出'中隐'之道：'未成小隐聊中隐，可得长闲胜暂闲'。真正的智慧是在世俗生活中保持一颗闲心，在日常中找到心灵的栖息地。
-- 心流
+- <span class="uw-unresolved" data-target="心流" title="未解析的双链目标：心流">心流</span>
 - [无限游戏心态——从有限竞争到无限探索](../md-e97205eb/)
 - [精力管理](../md-107462db/)
 
@@ -35,7 +35,7 @@ description: "💡 大隐隐于市——不必逃离世俗，在日常中建构�
 
 ## 🔗 关联知识
 
-- 心流
+- <span class="uw-unresolved" data-target="心流" title="未解析的双链目标：心流">心流</span>
 - [无限游戏心态——从有限竞争到无限探索](../md-e97205eb/)
 - [精力管理](../md-107462db/)
 
@@ -66,10 +66,10 @@ description: "💡 大隐隐于市——不必逃离世俗，在日常中建构�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/中隐智慧——在世俗中保持闲心.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-2de69d776a8e`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

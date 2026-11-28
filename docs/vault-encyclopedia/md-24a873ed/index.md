@@ -13,7 +13,7 @@ description: "揭示美国富人的真实生活面貌。核心发现：真正的
 
 - 揭示美国富人的真实生活面貌。核心发现：真正的富翁往往生活节俭、量入为出、持续投资，而非挥金如土。
 - 高收入≠高净值；节俭是积累财富的第一原则；财务自由取决于储蓄率而非收入绝对值
-- 《穷爸爸富爸爸》-罗伯特·清崎·《指数基金投资指南》-约翰·博格·财务自由
+- <span class="uw-unresolved" data-target="《穷爸爸富爸爸》-罗伯特·清崎" title="未解析的双链目标：《穷爸爸富爸爸》-罗伯特·清崎">《穷爸爸富爸爸》-罗伯特·清崎</span>·<span class="uw-unresolved" data-target="《指数基金投资指南》-约翰·博格" title="未解析的双链目标：《指数基金投资指南》-约翰·博格">《指数基金投资指南》-约翰·博格</span>·<span class="uw-unresolved" data-target="财务自由" title="未解析的双链目标：财务自由">财务自由</span>
 
 ## 📖 详细说明
 
@@ -27,9 +27,9 @@ description: "揭示美国富人的真实生活面貌。核心发现：真正的
 
 ## 🔗 关联知识
 
-- 《穷爸爸富爸爸》-罗伯特·清崎
-- 《指数基金投资指南》-约翰·博格
-- 财务自由
+- <span class="uw-unresolved" data-target="《穷爸爸富爸爸》-罗伯特·清崎" title="未解析的双链目标：《穷爸爸富爸爸》-罗伯特·清崎">《穷爸爸富爸爸》-罗伯特·清崎</span>
+- <span class="uw-unresolved" data-target="《指数基金投资指南》-约翰·博格" title="未解析的双链目标：《指数基金投资指南》-约翰·博格">《指数基金投资指南》-约翰·博格</span>
+- <span class="uw-unresolved" data-target="财务自由" title="未解析的双链目标：财务自由">财务自由</span>
 
 ## 📊 元数据
 
@@ -58,10 +58,10 @@ description: "揭示美国富人的真实生活面貌。核心发现：真正的
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/邻家的百万富翁.md`
-- 原始状态：已确立 · 分类：01-Finance-Investment
-- 断链别名（无目标，保留为文本）：6 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-24a873ed7231`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：01-Finance-Investment
+- 未解析双链：6 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

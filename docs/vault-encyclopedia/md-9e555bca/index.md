@@ -42,7 +42,7 @@ aliases:
 
 - [PPC广告投放策略](../ppc-md-22387f0c/)
 - [转化追踪与归因](../md-78eeb68c/)
-- 数据分析师
+- <span class="uw-unresolved" data-target="数据分析师" title="未解析的双链目标：数据分析师">数据分析师</span>
 
 ---
 
@@ -63,10 +63,10 @@ aliases:
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/广告账户审计.md`
-- 原始状态：未标注 · 分类：还原自 01-BRAIN（2026-09-17 归档迁移）
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-9e555bca0a38`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

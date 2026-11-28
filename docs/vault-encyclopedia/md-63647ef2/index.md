@@ -20,7 +20,7 @@ description: "视觉语言是通过图像、色彩、构图、排版等视觉元
 
 ### 概念解释
 视觉语言是通过图像、色彩、构图、排版等视觉元素传递信息和情感的符号系统，是设计、摄影、电影等视觉艺术的基础。
-创造性表达 [美学基础](../md-2a7c44ef/) [设计思维](../md-fe7cc276/) 摄影 [艺术区的聚集效应](../md-9542ca7e/)
+<span class="uw-unresolved" data-target="创造性表达" title="未解析的双链目标：创造性表达">创造性表达</span> [美学基础](../md-2a7c44ef/) [设计思维](../md-fe7cc276/) <span class="uw-unresolved" data-target="摄影" title="未解析的双链目标：摄影">摄影</span> [艺术区的聚集效应](../md-9542ca7e/)
 ---
 *最后更新：2026-06-05*
 
@@ -34,10 +34,10 @@ description: "视觉语言是通过图像、色彩、构图、排版等视觉元
 
 ## 🔗 关联知识
 
-- 创造性表达
+- <span class="uw-unresolved" data-target="创造性表达" title="未解析的双链目标：创造性表达">创造性表达</span>
 - [美学基础](../md-2a7c44ef/)
 - [设计思维](../md-fe7cc276/)
-- 摄影
+- <span class="uw-unresolved" data-target="摄影" title="未解析的双链目标：摄影">摄影</span>
 - [艺术区的聚集效应](../md-9542ca7e/)
 
 ## 📊 元数据
@@ -67,10 +67,10 @@ description: "视觉语言是通过图像、色彩、构图、排版等视觉元
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/视觉语言.md`
-- 原始状态：已确立 · 分类：08-Arts-Culture
-- 断链别名（无目标，保留为文本）：4 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-63647ef20a20`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：08-Arts-Culture
+- 未解析双链：4 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

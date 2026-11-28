@@ -35,8 +35,8 @@ description: "持续改进是反熵原则的日常实践——每天比昨天好
 
 - [反熵](../md-0acb2d06/)
 - [习惯复利效应](../md-a0399b5a/)
-- 复利思维
-- 书单-2026年度
+- <span class="uw-unresolved" data-target="复利思维" title="未解析的双链目标：复利思维">复利思维</span>
+- <span class="uw-unresolved" data-target="书单-2026年度" title="未解析的双链目标：书单-2026年度">书单-2026年度</span>
 
 ## 💡 个人理解
 
@@ -69,10 +69,10 @@ description: "持续改进是反熵原则的日常实践——每天比昨天好
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/持续改进.md`
-- 原始状态：已确立 · 分类：00-General
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-d72794d01968`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：00-General
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

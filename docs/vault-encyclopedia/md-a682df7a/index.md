@@ -39,7 +39,7 @@ description: "来源：《丹道法诀十二讲》（胡孚琛）"
 - [丹道现代解读](../md-f305a645/)
 - [仙学独立](../md-2e09baca/)
 - [听息法——高级冥想技术](../md-7563745b/)
-- 《丹道法诀十二讲》-胡孚琛
+- <span class="uw-unresolved" data-target="《丹道法诀十二讲》-胡孚琛" title="未解析的双链目标：《丹道法诀十二讲》-胡孚琛">《丹道法诀十二讲》-胡孚琛</span>
 
 ## 💡 个人理解
 
@@ -72,10 +72,10 @@ description: "来源：《丹道法诀十二讲》（胡孚琛）"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/丹道修炼的现代科学验证.md`
-- 原始状态：已确立 · 分类：07-Biology-Health
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-a682df7ab22a`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：07-Biology-Health
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

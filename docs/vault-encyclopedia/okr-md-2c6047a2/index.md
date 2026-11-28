@@ -11,13 +11,13 @@ description: "<!-- O-83 桥接卡 2026-09-07：承接库内 10 处 OKR制定与�
 
 > OKR（Objectives and Key Results，目标与关键成果法）在本库的落地实践：目标制定 → 关键结果拆解 → 周度对齐 → 偏差归因 → 复盘迭代。
 
-本库 OKR 体系笔记：[OKR 战略目标管理](../okr-md-f8be9a52/) · [战略OKR管理](../okr-md-172190da/) · [OKR](../okr-md-11ae81da/) · 2026-09 OKR · 2026-Q3-OKR · 2026年度 OKR
+本库 OKR 体系笔记：[OKR 战略目标管理](../okr-md-f8be9a52/) · [战略OKR管理](../okr-md-172190da/) · [OKR](../okr-md-11ae81da/) · <span class="uw-unresolved" data-target="2026-09 OKR" title="未解析的双链目标：2026-09 OKR">2026-09 OKR</span> · <span class="uw-unresolved" data-target="2026-Q3-OKR" title="未解析的双链目标：2026-Q3-OKR">2026-Q3-OKR</span> · <span class="uw-unresolved" data-target="2026年度 OKR" title="未解析的双链目标：2026年度 OKR">2026年度 OKR</span>
 
 ## 🔗 关联
 
 - [OKR 战略目标管理](../okr-md-f8be9a52/) — 方法体系
-- 2026-09 OKR — 当月执行
-- uSkill-agent-循环工程统一调度入口 — 每日/周度对齐载体
+- <span class="uw-unresolved" data-target="2026-09 OKR" title="未解析的双链目标：2026-09 OKR">2026-09 OKR</span> — 当月执行
+- <span class="uw-unresolved" data-target="uSkill-agent-循环工程统一调度入口" title="未解析的双链目标：uSkill-agent-循环工程统一调度入口">uSkill-agent-循环工程统一调度入口</span> — 每日/周度对齐载体
 
 ---
 
@@ -38,10 +38,10 @@ description: "<!-- O-83 桥接卡 2026-09-07：承接库内 10 处 OKR制定与�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/OKR制定与执行.md`
-- 原始状态：未标注 · 分类：来源待考（uWise 词条，无 01-BRAIN 对应）
-- 断链别名（无目标，保留为文本）：5 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-2c6047a2dd76`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：5 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

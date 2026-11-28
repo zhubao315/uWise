@@ -31,7 +31,7 @@ description: "焦段决定视角，视角决定摄影师与世界的距离——
 
 - [景深控制](../md-c224d979/)
 - [光质与光位](../md-9c7a896c/)
-- 构图法则超越三分法
+- <span class="uw-unresolved" data-target="构图法则超越三分法" title="未解析的双链目标：构图法则超越三分法">构图法则超越三分法</span>
 
 ## 常见误区
 
@@ -64,10 +64,10 @@ description: "焦段决定视角，视角决定摄影师与世界的距离——
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/镜头语言与焦段选择.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-db9e892c64be`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

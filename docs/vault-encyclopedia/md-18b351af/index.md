@@ -32,9 +32,9 @@ description: "\"要想得到某样东西，最可靠的办法是让自己配得�
 ## 🔗 关联知识
 
 - [能力圈](../md-b445a5c0/)
-- 复利思维：时间与增长的双重力量
+- <span class="uw-unresolved" data-target="复利思维：时间与增长的双重力量" title="未解析的双链目标：复利思维：时间与增长的双重力量">复利思维：时间与增长的双重力量</span>
 - [逆向思维](../md-4b0332a7/)
-- 人生回报率高的24件事
+- <span class="uw-unresolved" data-target="人生回报率高的24件事" title="未解析的双链目标：人生回报率高的24件事">人生回报率高的24件事</span>
 
 ## 💡 个人理解
 
@@ -67,10 +67,10 @@ description: "\"要想得到某样东西，最可靠的办法是让自己配得�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/配得上原则.md`
-- 原始状态：已确立 · 分类：01-Finance-Investment
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-18b351af9b4d`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：01-Finance-Investment
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

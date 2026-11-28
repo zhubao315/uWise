@@ -13,7 +13,7 @@ description: "可以看到，notion database 多视图模式的使用场景探�
 
 - [目标管理、任务管理、时间管理都是什么，有什么区别](../md-f2d24e33/)：[OKR](../okr-md-11ae81da/)，KPI，Roadmap，时间线视图
 - 任务管理：[GTD](../gtd-md-629cd766/)，[ZTD](../ztd-md-c380f758/)，紧急重要四象限工作法，[KANBAN - 看板](../kanban-md-8566a03b/)
-- 时间管理：管理学概念引申出，和任务管理没什么差别。如果非要有点差别的话，就是可以将[番茄工作法](../md-4a6b3303/)，柳比歇夫时间管理法，日历视图的任务管理归属到这个范畴。
+- <span class="uw-unresolved" data-target="时间管理" title="未解析的双链目标：时间管理">时间管理</span>：管理学概念引申出，和任务管理没什么差别。如果非要有点差别的话，就是可以将[番茄工作法](../md-4a6b3303/)，柳比歇夫时间管理法，日历视图的任务管理归属到这个范畴。
 - 可以看到，notion database 多视图模式的使用场景探索的几个视图和管理的关系：
 - 目标管理 - 时间线视图
 - 任务管理 - 看板视图
@@ -34,7 +34,7 @@ description: "可以看到，notion database 多视图模式的使用场景探�
 - [ZTD](../ztd-md-c380f758/)
 - 紧急重要四象限工作法
 - [KANBAN - 看板](../kanban-md-8566a03b/)
-- 时间管理
+- <span class="uw-unresolved" data-target="时间管理" title="未解析的双链目标：时间管理">时间管理</span>
 - [番茄工作法](../md-4a6b3303/)
 - [一元化收集](../md-96293b30/)
 
@@ -52,7 +52,7 @@ description: "可以看到，notion database 多视图模式的使用场景探�
 - [Devonthink](../devonthink-md-8a0375ac/)
 - [ryooo的知识管理工作流](../ryooo-md-0b800f85/)
 - [三国式领导力](../md-9f2774e3/)
-- 个人知识管理系统
+- <span class="uw-unresolved" data-target="个人知识管理系统" title="未解析的双链目标：个人知识管理系统">个人知识管理系统</span>
 
 ---
 
@@ -73,10 +73,10 @@ description: "可以看到，notion database 多视图模式的使用场景探�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/目标管理、任务管理、时间管理都是什么，有什么区别.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-f2d24e3324cd`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

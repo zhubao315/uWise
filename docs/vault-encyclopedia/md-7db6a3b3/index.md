@@ -19,8 +19,8 @@ description: "推动技术、产品或商业模式突破的关键角色，具备
 ## 相关
 
 - [创新生态系统](../md-1a884571/)
-- 突破创新协议
-- 禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑
+- <span class="uw-unresolved" data-target="突破创新协议" title="未解析的双链目标：突破创新协议">突破创新协议</span>
+- <span class="uw-unresolved" data-target="禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑" title="未解析的双链目标：禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑">禅宗空性与第一性原理：如何剥离日常偏见，还原事物的最底层逻辑</span>
 
 ---
 
@@ -41,10 +41,10 @@ description: "推动技术、产品或商业模式突破的关键角色，具备
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/创新者.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-7db6a3b3ba4e`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

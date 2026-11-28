@@ -30,10 +30,10 @@ description: "来源：《非暴力沟通》（卢森堡）《心理咨询与治
 
 ## 🔗 关联知识
 
-- NVC四要素
+- <span class="uw-unresolved" data-target="NVC四要素" title="未解析的双链目标：NVC四要素">NVC四要素</span>
 - [情商四维度](../md-f4a16bbb/)
 - [被看见本身就是治愈](../md-0d1f87cc/)
-- 《非暴力沟通》-马歇尔·卢森堡
+- <span class="uw-unresolved" data-target="《非暴力沟通》-马歇尔·卢森堡" title="未解析的双链目标：《非暴力沟通》-马歇尔·卢森堡">《非暴力沟通》-马歇尔·卢森堡</span>
 
 ## 📊 元数据
 
@@ -62,10 +62,10 @@ description: "来源：《非暴力沟通》（卢森堡）《心理咨询与治
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/共情.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-fda294bbff89`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

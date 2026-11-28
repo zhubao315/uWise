@@ -22,18 +22,18 @@ description: "元时间（Meta-Time）是在关键决策点暂停自动反应、
 
 焦虑者很少有元时间的意识——他们习惯不动脑子、直接行动，用饱和的行动感动自己，想与做的时间配比悬殊。元时间是焦虑的反面：**在行动之前，先花极短时间校准方向。**
 
-这与 元认知 是同一枚硬币的两面：元认知是"对思考的思考"（监控器），元时间是"在关键点应用元认知"（刹车与方向盘）。没有元时间的元认知只是自我观察，不产生行为改变。
+这与 <span class="uw-unresolved" data-target="元认知" title="未解析的双链目标：元认知">元认知</span> 是同一枚硬币的两面：元认知是"对思考的思考"（监控器），元时间是"在关键点应用元认知"（刹车与方向盘）。没有元时间的元认知只是自我观察，不产生行为改变。
 
 ### 实际应用
 
 1. **晨间开关**：起床后的第一个动作决定整天基调——先做最重要的事（正增强回路），而非先刷手机（负增强回路）
 2. **开工开关**：进入工作前 30 秒，明确"这一阶段唯一要交付的东西"
-3. **情绪开关**：发火/下单/回复前，插入元时间重述情境（呼应 uSkill-agent-元认知防火墙）
+3. **情绪开关**：发火/下单/回复前，插入元时间重述情境（呼应 <span class="uw-unresolved" data-target="uSkill-agent-元认知防火墙" title="未解析的双链目标：uSkill-agent-元认知防火墙">uSkill-agent-元认知防火墙</span>）
 
 ## 🔗 关联知识
 
-- 元认知 — 对思考的思考
-- uSkill-agent-元认知防火墙 — 元认知的工程化执行
+- <span class="uw-unresolved" data-target="元认知" title="未解析的双链目标：元认知">元认知</span> — 对思考的思考
+- <span class="uw-unresolved" data-target="uSkill-agent-元认知防火墙" title="未解析的双链目标：uSkill-agent-元认知防火墙">uSkill-agent-元认知防火墙</span> — 元认知的工程化执行
 - [反馈回路](../md-b96ed9e3/) — 元时间校准的是增强回路的起点
 - [5启动法打破行动瘫痪的微行动公式](../5-9f1b0e20/) — 微行动降低启动阻力
 
@@ -77,10 +77,10 @@ description: "元时间（Meta-Time）是在关键决策点暂停自动反应、
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/uWise-元时间决策协议.md`
-- 原始状态：active · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：4 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-e70d329e67fd`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：4 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

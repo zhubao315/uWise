@@ -31,7 +31,7 @@ description: "Agent可读性标记：searchkeywords=  - 概念；  - 学习；  
 - [跨界方法论](../md-a4abf232/)
 - [历史分析方法](../md-5a3605d2/)
 - [长寿70-30法则：生活方式主导寿命的科学依据](../70-30-8675f87b/)
-- 阅读方法
+- <span class="uw-unresolved" data-target="阅读方法" title="未解析的双链目标：阅读方法">阅读方法</span>
 
 ## 📚 参考资料
 
@@ -68,10 +68,10 @@ description: "Agent可读性标记：searchkeywords=  - 概念；  - 学习；  
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/文献组织方法.md`
-- 原始状态：draft · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-b7205c62e498`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

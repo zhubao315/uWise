@@ -28,7 +28,7 @@ description: "传统教育系统不教授财商，这是最大的失败。财商
 
 ## 🏛️ 高净值家庭的 10 堂课（2026-10-18 文章）
 
-> 来源：高净值家庭的财商教育-学校不教的10堂课（视频观点整理）
+> 来源：<span class="uw-unresolved" data-target="高净值家庭的财商教育-学校不教的10堂课" title="未解析的双链目标：高净值家庭的财商教育-学校不教的10堂课">高净值家庭的财商教育-学校不教的10堂课</span>（视频观点整理）
 
 | # | 课题 | 一句话 |
 |---:|---|---|
@@ -45,15 +45,15 @@ description: "传统教育系统不教授财商，这是最大的失败。财商
 
 ## 🔗 关联知识
 
-- 富爸爸穷爸爸
+- <span class="uw-unresolved" data-target="富爸爸穷爸爸" title="未解析的双链目标：富爸爸穷爸爸">富爸爸穷爸爸</span>
 - [现金流象限ESBI](../esbi-md-fc214175/)
 - [资产vs负债重定义](../vs-md-c6d0467f/)
-- 现金流方向判定法——区分真资产与伪负债
+- <span class="uw-unresolved" data-target="现金流方向判定法——区分真资产与伪负债" title="未解析的双链目标：现金流方向判定法——区分真资产与伪负债">现金流方向判定法——区分真资产与伪负债</span>
 - [财务自由之路](../md-92c11020/)
-- 高净值家庭的财商教育-学校不教的10堂课
-- 小狗钱钱
-- 复利思维
-- 投资的纪律
+- <span class="uw-unresolved" data-target="高净值家庭的财商教育-学校不教的10堂课" title="未解析的双链目标：高净值家庭的财商教育-学校不教的10堂课">高净值家庭的财商教育-学校不教的10堂课</span>
+- <span class="uw-unresolved" data-target="《小狗钱钱》-博多·舍费尔" title="未解析的双链目标：《小狗钱钱》-博多·舍费尔">小狗钱钱</span>
+- <span class="uw-unresolved" data-target="复利思维" title="未解析的双链目标：复利思维">复利思维</span>
+- <span class="uw-unresolved" data-target="投资的纪律" title="未解析的双链目标：投资的纪律">投资的纪律</span>
 
 ## 📊 元数据
 
@@ -94,10 +94,10 @@ description: "传统教育系统不教授财商，这是最大的失败。财商
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/财商教育.md`
-- 原始状态：已确立 · 分类：01-Finance-Investment
-- 断链别名（无目标，保留为文本）：7 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-ba6aecaa5cb2`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：01-Finance-Investment
+- 未解析双链：7 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

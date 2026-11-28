@@ -19,14 +19,14 @@ description: "💡 不要在有限游戏里耗尽一生——找到你的'一张
 
 ### 概念解释
 人生不必困在有限游戏的输赢里。有限游戏以胜利为目的，在边界内玩；无限游戏以延续为目的，玩的是边界的突破。苏东坡用'一张琴、一壶酒、一溪云'建构了自己的无限游戏，从官场的有限游戏中解放出来。
-- 心流
-- 反脆弱
+- <span class="uw-unresolved" data-target="心流" title="未解析的双链目标：心流">心流</span>
+- <span class="uw-unresolved" data-target="反脆弱" title="未解析的双链目标：反脆弱">反脆弱</span>
 - 人生体验投资
 
 > 💡 不要在有限游戏里耗尽一生——找到你的'一张琴、一壶酒、一溪云'，进入无限游戏。
 
 *Agent可读性标记：search_keywords=[无限游戏心态——从有限竞争到无限探索；心流状态]]
-- 反脆弱
+- <span class="uw-unresolved" data-target="反脆弱" title="未解析的双链目标：反脆弱">反脆弱</span>
 - [[人生体验投资]；context_triggers=[价值投资；投资决策；资产配置；仓位管理]*
 
 
@@ -36,8 +36,8 @@ description: "💡 不要在有限游戏里耗尽一生——找到你的'一张
 
 ## 🔗 关联知识
 
-- 心流
-- 反脆弱
+- <span class="uw-unresolved" data-target="心流" title="未解析的双链目标：心流">心流</span>
+- <span class="uw-unresolved" data-target="反脆弱" title="未解析的双链目标：反脆弱">反脆弱</span>
 
 ## 📊 元数据
 
@@ -66,10 +66,10 @@ description: "💡 不要在有限游戏里耗尽一生——找到你的'一张
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/无限游戏心态——从有限竞争到无限探索.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：5 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-e97205eb902c`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：5 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

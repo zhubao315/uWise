@@ -22,10 +22,10 @@ description: "最后更新：2026-06-05"
 ## 🔗 关联知识
 
 - [原文来源](../md-5c198008/)
-- 失控智慧——设计规则而非设计结果
+- <span class="uw-unresolved" data-target="失控智慧——设计规则而非设计结果" title="未解析的双链目标：失控智慧——设计规则而非设计结果">失控智慧——设计规则而非设计结果</span>
 - [150法则与团队规模设计](../150-md-cdcbdf86/)
 - [光环效应](../md-4b3c2857/)
-- 依赖规则
+- <span class="uw-unresolved" data-target="依赖规则" title="未解析的双链目标：依赖规则">依赖规则</span>
 - [指数型伦理：适配技术迭代的新型规则体系](../md-9b7e6141/)
 
 ## 💡 个人理解
@@ -58,10 +58,10 @@ description: "最后更新：2026-06-05"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/潜规则.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-5c1980087c48`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

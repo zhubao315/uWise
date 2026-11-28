@@ -58,13 +58,13 @@ LLM 不直接处理文字，而是处理 token——文本被切分为子词单�
 
 ## 🔗 关联知识
 
-- LLM
-- 注意力机制
-- Transformer
+- <span class="uw-unresolved" data-target="LLM" title="未解析的双链目标：LLM">LLM</span>
+- <span class="uw-unresolved" data-target="注意力机制" title="未解析的双链目标：注意力机制">注意力机制</span>
+- <span class="uw-unresolved" data-target="Transformer" title="未解析的双链目标：Transformer">Transformer</span>
 - Token化
 - 采样策略
-- 《生成式AI》-Stephen Wolfram
-- 《Build a Large Language Model (From Scratch)》-塞巴斯蒂安·拉施卡
+- <span class="uw-unresolved" data-target="《生成式AI》-Stephen Wolfram" title="未解析的双链目标：《生成式AI》-Stephen Wolfram">《生成式AI》-Stephen Wolfram</span>
+- <span class="uw-unresolved" data-target="《Build a Large Language Model (From Scratch)》-塞巴斯蒂安·拉施卡" title="未解析的双链目标：《Build a Large Language Model (From Scratch)》-塞巴斯蒂安·拉施卡">《Build a Large Language Model (From Scratch)》-塞巴斯蒂安·拉施卡</span>
 
 ## 📚 参考资料
 
@@ -102,10 +102,10 @@ LLM 不直接处理文字，而是处理 token——文本被切分为子词单�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/LLM概率生成模型.md`
-- 原始状态：draft · 分类：02-AI-Architecture
-- 断链别名（无目标，保留为文本）：5 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-b4cf70885529`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：02-AI-Architecture
+- 未解析双链：5 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

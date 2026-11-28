@@ -23,9 +23,9 @@ description: "最后更新：2026-06-05"
 
 - [原文来源](../md-35b07981/)
 - [光环效应](../md-4b3c2857/)
-- 没有免费午餐定理
+- <span class="uw-unresolved" data-target="没有免费午餐定理" title="未解析的双链目标：没有免费午餐定理">没有免费午餐定理</span>
 - [给下属写周报](../md-4be76478/)
-- 5W2H
+- <span class="uw-unresolved" data-target="5W2H" title="未解析的双链目标：5W2H">5W2H</span>
 - [答案免费问题值钱——在AI时代修炼提问力](../ai-a2854cb9/)
 
 ## 💡 个人理解
@@ -74,10 +74,10 @@ description: "最后更新：2026-06-05"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/免费.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-35b0798119ca`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -38,10 +38,10 @@ description: "审美判断是对美、丑、崇高、滑稽等审美属性进行
 ## 🔗 关联知识
 
 - [美学基础](../md-2a7c44ef/)
-- 文学批评方法
-- 创造性表达
+- <span class="uw-unresolved" data-target="文学批评方法" title="未解析的双链目标：文学批评方法">文学批评方法</span>
+- <span class="uw-unresolved" data-target="创造性表达" title="未解析的双链目标：创造性表达">创造性表达</span>
 - [艺术区的聚集效应](../md-9542ca7e/)
-- 心流
+- <span class="uw-unresolved" data-target="心流" title="未解析的双链目标：心流">心流</span>
 
 ## 📊 元数据
 
@@ -70,10 +70,10 @@ description: "审美判断是对美、丑、崇高、滑稽等审美属性进行
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/审美判断.md`
-- 原始状态：已确立 · 分类：05-Philosophy-Ethics
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-b1ff29bc656a`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：05-Philosophy-Ethics
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -37,13 +37,13 @@ description: "城市文学方法论是一种研究城市的文化方法，通过
 
 ## 🔗 关联知识
 
-- 《百年文学中的北京》-张莉
+- <span class="uw-unresolved" data-target="《百年文学中的北京》-张莉" title="未解析的双链目标：《百年文学中的北京》-张莉">《百年文学中的北京》-张莉</span>
 - [文学地理学](../md-d74bee3f/)
 - [作家与城市的共生关系](../md-6529fcc6/)
 - [京味文学的语言美学](../md-5b723f1b/)
 - [乡愁书写](../md-adc7592d/)
-- 叙事结构
-- 文学批评方法
+- <span class="uw-unresolved" data-target="叙事结构" title="未解析的双链目标：叙事结构">叙事结构</span>
+- <span class="uw-unresolved" data-target="文学批评方法" title="未解析的双链目标：文学批评方法">文学批评方法</span>
 
 ## 📊 元数据
 
@@ -72,10 +72,10 @@ description: "城市文学方法论是一种研究城市的文化方法，通过
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/城市文学方法论.md`
-- 原始状态：已确立 · 分类：08-Arts-Culture
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-0ec394080a05`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：08-Arts-Culture
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -17,8 +17,8 @@ description: "蒙田反对当时贬低肉体的宗教倾向，主张认知不可
 - **尊严所在**：意义不在于克服身体，而在于痛风发作时如何保持尊严、品尝食物时的片刻愉悦
 - **数据来源**：身体信号（情绪、疼痛、欲望）是自我观察的第一手数据，不应被压抑或忽视
 - 将身体视为认知的**底层运算环境**——不是需要克服的阻力，而是需要理解的运行时约束。
-- B9-哲学宗教-蒙田随笔_MSH_v3
-- 蒙田式自我探索实践手册
+- <span class="uw-unresolved" data-target="B9-哲学宗教-蒙田随笔_MSH_v3" title="未解析的双链目标：B9-哲学宗教-蒙田随笔_MSH_v3">B9-哲学宗教-蒙田随笔_MSH_v3</span>
+- <span class="uw-unresolved" data-target="蒙田式自我探索实践手册" title="未解析的双链目标：蒙田式自我探索实践手册">蒙田式自我探索实践手册</span>
 
 ## 📖 详细说明
 
@@ -31,11 +31,11 @@ description: "蒙田反对当时贬低肉体的宗教倾向，主张认知不可
 
 ## 🔗 关联知识
 
-- B9-哲学宗教-蒙田随笔_MSH_v3
-- 蒙田式自我探索实践手册
-- uSkill-productivity-后室隔离协议
+- <span class="uw-unresolved" data-target="B9-哲学宗教-蒙田随笔_MSH_v3" title="未解析的双链目标：B9-哲学宗教-蒙田随笔_MSH_v3">B9-哲学宗教-蒙田随笔_MSH_v3</span>
+- <span class="uw-unresolved" data-target="蒙田式自我探索实践手册" title="未解析的双链目标：蒙田式自我探索实践手册">蒙田式自我探索实践手册</span>
+- <span class="uw-unresolved" data-target="uSkill-productivity-后室隔离协议" title="未解析的双链目标：uSkill-productivity-后室隔离协议">uSkill-productivity-后室隔离协议</span>
 - 《父母的觉醒》-谢丽尔·保罗
-- 《当我谈跑步时，我谈些什么》-村上春树
+- <span class="uw-unresolved" data-target="《当我谈跑步时，我谈些什么》-村上春树" title="未解析的双链目标：《当我谈跑步时，我谈些什么》-村上春树">《当我谈跑步时，我谈些什么》-村上春树</span>
 
 ## 📊 元数据
 
@@ -64,10 +64,10 @@ description: "蒙田反对当时贬低肉体的宗教倾向，主张认知不可
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/具身哲学：接纳身体作为认知的容器.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：6 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-d9494359951b`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：6 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

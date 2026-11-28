@@ -55,8 +55,8 @@ description: "中文解读：信息组织不要按种类分，要按\"这个信�
 
 ## 🔗 关联知识
 
-- 《Building a Second Brain》-Tiago Forte
-- 知识捕获四问过滤法
+- <span class="uw-unresolved" data-target="《Building a Second Brain》-Tiago Forte" title="未解析的双链目标：《Building a Second Brain》-Tiago Forte">《Building a Second Brain》-Tiago Forte</span>
+- <span class="uw-unresolved" data-target="知识捕获四问过滤法" title="未解析的双链目标：知识捕获四问过滤法">知识捕获四问过滤法</span>
 - [深度工作四步法——专注力炼金术](../md-9dfaf3f9/)
 
 ## 💡 个人理解
@@ -90,10 +90,10 @@ description: "中文解读：信息组织不要按种类分，要按\"这个信�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/PARA行动导向信息组织法.md`
-- 原始状态：draft · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-f065c25949a3`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

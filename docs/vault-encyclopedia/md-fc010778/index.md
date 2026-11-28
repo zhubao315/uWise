@@ -33,8 +33,8 @@ description: "来源：《梦的解析》（弗洛伊德）《荣格自传》（
 - [潜意识](../md-67f893ca/)
 - [防御机制](../md-0b3a8e28/)
 - [集体无意识](../md-1d1a34e2/)
-- 《梦的解析》-西格蒙德·弗洛伊德
-- 《荣格自传：回忆·梦·思考》-卡尔·荣格
+- <span class="uw-unresolved" data-target="《梦的解析》-西格蒙德·弗洛伊德" title="未解析的双链目标：《梦的解析》-西格蒙德·弗洛伊德">《梦的解析》-西格蒙德·弗洛伊德</span>
+- <span class="uw-unresolved" data-target="《荣格自传：回忆·梦·思考》-卡尔·荣格" title="未解析的双链目标：《荣格自传：回忆·梦·思考》-卡尔·荣格">《荣格自传：回忆·梦·思考》-卡尔·荣格</span>
 
 ## 💡 个人理解
 
@@ -79,10 +79,10 @@ description: "来源：《梦的解析》（弗洛伊德）《荣格自传》（
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/梦的解析.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-fc010778b01d`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

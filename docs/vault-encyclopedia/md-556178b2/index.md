@@ -31,8 +31,8 @@ description: "损失厌恶（Loss Aversion）是前景理论的核心发现，�
 ## 🔗 关联知识
 
 - [斯多葛主义](../md-980bcbc0/)
-- 不动心
-- 反脆弱
+- <span class="uw-unresolved" data-target="不动心" title="未解析的双链目标：不动心">不动心</span>
+- <span class="uw-unresolved" data-target="反脆弱" title="未解析的双链目标：反脆弱">反脆弱</span>
 - [过度自信偏差](../md-9562b54b/)
 - [禀赋效应](../md-19bac722/)
 - [认知偏差清单](../md-2eecaefc/)
@@ -84,10 +84,10 @@ description: "损失厌恶（Loss Aversion）是前景理论的核心发现，�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/损失厌恶.md`
-- 原始状态：已确立 · 分类：01-Finance-Investment
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-556178b2acce`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：01-Finance-Investment
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

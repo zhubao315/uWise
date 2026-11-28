@@ -58,8 +58,8 @@ description: "选择权（Optionality）是反脆弱性的核心数学表达，�
 
 ### 关联概念
 - [杠铃策略](../md-4f45e4e2/) — 选择权的实践表达
-- 反脆弱 — 选择权的哲学根基
-- 凸性偏差 — 选择权的数学本质
+- <span class="uw-unresolved" data-target="反脆弱" title="未解析的双链目标：反脆弱">反脆弱</span> — 选择权的哲学根基
+- <span class="uw-unresolved" data-target="凸性偏差" title="未解析的双链目标：凸性偏差">凸性偏差</span> — 选择权的数学本质
 - 非对称性 — 选择权的核心特征
 - [安全边际](../md-21e4edc8/) — 选择权的风险控制
 
@@ -82,10 +82,10 @@ description: "选择权（Optionality）是反脆弱性的核心数学表达，�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/选择权.md`
-- 原始状态：已确立 · 分类：《反脆弱：从不确定性中获益》-纳西姆·尼古拉斯·塔勒布
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-115716c012a0`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：uncategorized
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

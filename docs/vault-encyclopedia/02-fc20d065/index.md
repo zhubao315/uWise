@@ -80,8 +80,8 @@ related: [相关词条1, 相关词条2]
 该概念在实际中的应用场景和案例
 
 ## 🔗 关联知识
-- `相关词条1` - 关联说明
-- `相关词条2` - 关联说明
+- `<span class="uw-unresolved" data-target="相关词条1" title="未解析的双链目标：相关词条1">相关词条1</span>` - 关联说明
+- `<span class="uw-unresolved" data-target="相关词条2" title="未解析的双链目标：相关词条2">相关词条2</span>` - 关联说明
 
 ## 📚 参考资料
 - 来源1
@@ -347,10 +347,10 @@ changelog:
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条标准化规范.md`
-- 原始状态：未标注 · 分类：未标注
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-fc20d0655d35`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：uncategorized
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

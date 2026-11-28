@@ -17,7 +17,7 @@ description: "\"不时不食。\" ——《论语·乡党》"
 - 应季蔬果的营养价值高于反季节蔬果
 - 人体的代谢节律与季节变化同步——冬天需要更多热量，夏天需要更多水分
 - 遵循自然节律的饮食有助于维持生物钟的稳定
-- 与 子午流注与老年养生 的关系：日维度的时间养生
+- 与 <span class="uw-unresolved" data-target="子午流注与老年养生" title="未解析的双链目标：子午流注与老年养生">子午流注与老年养生</span> 的关系：日维度的时间养生
 - 与 四时养生 的关系：季节维度的时间养生
 
 ## 📖 详细说明
@@ -39,12 +39,12 @@ description: "\"不时不食。\" ——《论语·乡党》"
 
 ## 🔗 关联知识
 
-- 子午流注与老年养生
+- <span class="uw-unresolved" data-target="子午流注与老年养生" title="未解析的双链目标：子午流注与老年养生">子午流注与老年养生</span>
 - 四时养生
 - 五味入五脏
-- 《论语》-孔子
-- 《黄帝内经》-托名黄帝
-- 《礼记·月令》-佚名
+- <span class="uw-unresolved" data-target="《论语》-孔子" title="未解析的双链目标：《论语》-孔子">《论语》-孔子</span>
+- <span class="uw-unresolved" data-target="《黄帝内经》-托名黄帝" title="未解析的双链目标：《黄帝内经》-托名黄帝">《黄帝内经》-托名黄帝</span>
+- <span class="uw-unresolved" data-target="《礼记·月令》-佚名" title="未解析的双链目标：《礼记·月令》-佚名">《礼记·月令》-佚名</span>
 
 ## 💡 个人理解
 
@@ -77,10 +77,10 @@ description: "\"不时不食。\" ——《论语·乡党》"
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/不时不食——应季饮食的古老智慧.md`
-- 原始状态：已确立 · 分类：07-Biology-Health
-- 断链别名（无目标，保留为文本）：5 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-7bb39e8bf5ac`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：07-Biology-Health
+- 未解析双链：5 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

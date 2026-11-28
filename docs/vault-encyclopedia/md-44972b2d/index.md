@@ -39,17 +39,17 @@ description: "詹姆斯·克利尔（James Clear）在《原子习惯》中提�
 
 ---
 
-*关联：身份驱动习惯、环境设计优于意志力、复利思维、《原子习惯》-詹姆斯·克利尔*
+*关联：<span class="uw-unresolved" data-target="身份驱动习惯" title="未解析的双链目标：身份驱动习惯">身份驱动习惯</span>、<span class="uw-unresolved" data-target="环境设计优于意志力" title="未解析的双链目标：环境设计优于意志力">环境设计优于意志力</span>、<span class="uw-unresolved" data-target="复利思维" title="未解析的双链目标：复利思维">复利思维</span>、<span class="uw-unresolved" data-target="《原子习惯》-詹姆斯·克利尔" title="未解析的双链目标：《原子习惯》-詹姆斯·克利尔">《原子习惯》-詹姆斯·克利尔</span>*
 
-*关联：书单-2026年度*
+*关联：<span class="uw-unresolved" data-target="书单-2026年度" title="未解析的双链目标：书单-2026年度">书单-2026年度</span>*
 
 ## 🔗 关联知识
 
-- 身份驱动习惯
-- 环境设计优于意志力
-- 复利思维
-- 《原子习惯》-詹姆斯·克利尔
-- 书单-2026年度
+- <span class="uw-unresolved" data-target="身份驱动习惯" title="未解析的双链目标：身份驱动习惯">身份驱动习惯</span>
+- <span class="uw-unresolved" data-target="环境设计优于意志力" title="未解析的双链目标：环境设计优于意志力">环境设计优于意志力</span>
+- <span class="uw-unresolved" data-target="复利思维" title="未解析的双链目标：复利思维">复利思维</span>
+- <span class="uw-unresolved" data-target="《原子习惯》-詹姆斯·克利尔" title="未解析的双链目标：《原子习惯》-詹姆斯·克利尔">《原子习惯》-詹姆斯·克利尔</span>
+- <span class="uw-unresolved" data-target="书单-2026年度" title="未解析的双链目标：书单-2026年度">书单-2026年度</span>
 
 ## 💡 个人理解
 
@@ -82,10 +82,10 @@ description: "詹姆斯·克利尔（James Clear）在《原子习惯》中提�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/习惯复利.md`
-- 原始状态：draft · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：10 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-44972b2d93ce`（稳定 ID，不暴露私库路径）
+- 状态：draft · 分类：06-Cognitive-Psychology
+- 未解析双链：10 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -30,9 +30,9 @@ description: "个人发展不仅取决于自身能力，更取决于所在环境
 - [组织设计](../md-bec46341/)
 - [人才流动理论](../md-931f983a/)
 - [创新生态系统](../md-1a884571/)
-- 职业发展
-- 《中国历代政治得失》-钱穆
-- 《置身事内》-兰小欢
+- <span class="uw-unresolved" data-target="职业发展" title="未解析的双链目标：职业发展">职业发展</span>
+- <span class="uw-unresolved" data-target="《中国历代政治得失》-钱穆" title="未解析的双链目标：《中国历代政治得失》-钱穆">《中国历代政治得失》-钱穆</span>
+- <span class="uw-unresolved" data-target="《置身事内》-兰小欢" title="未解析的双链目标：《置身事内》-兰小欢">《置身事内》-兰小欢</span>
 
 ## 📊 元数据
 
@@ -61,10 +61,10 @@ description: "个人发展不仅取决于自身能力，更取决于所在环境
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/选择包容性环境制度比个人能力更重要.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：3 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-a594bd23d94f`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：3 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

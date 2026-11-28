@@ -17,8 +17,8 @@ description: "来源：《素女经》《洞玄子》《房中补益》《摄生
 - 也有大量迷信成分（如"采阴补阳"的神秘化）
 - 关键是剥离外壳，提取内核
 - 与 [性命双修——身心并养的核心逻辑](../md-1c79f270/) 的关系：房中术是命功（身体修炼）的一部分
-- 与 《道教与性》-李约瑟 的关系：李约瑟的学术研究视角
-- 与 《中国古代房内考》-高罗佩 的关系：高罗佩的跨文化研究
+- 与 <span class="uw-unresolved" data-target="《道教与性》-李约瑟" title="未解析的双链目标：《道教与性》-李约瑟">《道教与性》-李约瑟</span> 的关系：李约瑟的学术研究视角
+- 与 <span class="uw-unresolved" data-target="《中国古代房内考》-高罗佩" title="未解析的双链目标：《中国古代房内考》-高罗佩">《中国古代房内考》-高罗佩</span> 的关系：高罗佩的跨文化研究
 
 ## 📖 详细说明
 
@@ -34,10 +34,10 @@ description: "来源：《素女经》《洞玄子》《房中补益》《摄生
 ## 🔗 关联知识
 
 - [性命双修——身心并养的核心逻辑](../md-1c79f270/)
-- 《道教与性》-李约瑟
-- 《中国古代房内考》-高罗佩
-- 《素女经》-佚名
-- 《洞玄子》-张鼎
+- <span class="uw-unresolved" data-target="《道教与性》-李约瑟" title="未解析的双链目标：《道教与性》-李约瑟">《道教与性》-李约瑟</span>
+- <span class="uw-unresolved" data-target="《中国古代房内考》-高罗佩" title="未解析的双链目标：《中国古代房内考》-高罗佩">《中国古代房内考》-高罗佩</span>
+- <span class="uw-unresolved" data-target="《素女经》-佚名" title="未解析的双链目标：《素女经》-佚名">《素女经》-佚名</span>
+- <span class="uw-unresolved" data-target="《洞玄子》-张鼎" title="未解析的双链目标：《洞玄子》-张鼎">《洞玄子》-张鼎</span>
 
 ## 💡 个人理解
 
@@ -70,10 +70,10 @@ description: "来源：《素女经》《洞玄子》《房中补益》《摄生
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/房中术的历史与理论.md`
-- 原始状态：已确立 · 分类：07-Biology-Health
-- 断链别名（无目标，保留为文本）：6 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-b30426f0abca`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：07-Biology-Health
+- 未解析双链：6 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

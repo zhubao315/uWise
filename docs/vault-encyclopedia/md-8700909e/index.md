@@ -1,19 +1,19 @@
 ---
 title: "最佳实践"
-description: "x:: 5W2H,mvp - 最小可行性版本"
+description: "x:: <span class=\"uw-unresolved\" data-target=\"5W2H\" title=\"未解析的双链目标：5W2H\">5W2H</span>,mvp - 最小可行性版本"
 ---
 
 # 最佳实践
 
 ## 📌 核心定义
 
-> x:: 5W2H,mvp - 最小可行性版本
+> x:: <span class="uw-unresolved" data-target="5W2H" title="未解析的双链目标：5W2H">5W2H</span>,mvp - 最小可行性版本
 
 ## 🎯 关键要点
 
-- x:: 5W2H,mvp - 最小可行性版本
+- x:: <span class="uw-unresolved" data-target="5W2H" title="未解析的双链目标：5W2H">5W2H</span>,mvp - 最小可行性版本
 - 为了完成日益复杂的工作，现代化的面向专业领域用户的软件，是不可能做到类似微信、支付宝这类app，小白用户不看说明书，点点页面就能上手的。更何况即使是这些app其实也已经主编变得巨大，很多功能和服务，大部分人都不知道如何使用，也用不上了。
-- 对于面向消费者的软件如此。面向企业用户的软件和服务更是如此。例如我们云服务行业的用户大多是企业，更别提它背后的技术实现复杂程度了。如何解决这种软件复杂性和界面易用性的矛盾？无限地迁就用户把界面做得小白化，往往后面会面临其他灾难。我们的方法是提供：XXXX的5W2H及其最佳实践。
+- 对于面向消费者的软件如此。面向企业用户的软件和服务更是如此。例如我们云服务行业的用户大多是企业，更别提它背后的技术实现复杂程度了。如何解决这种软件复杂性和界面易用性的矛盾？无限地迁就用户把界面做得小白化，往往后面会面临其他灾难。我们的方法是提供：XXXX的<span class="uw-unresolved" data-target="5W2H" title="未解析的双链目标：5W2H">5W2H</span>及其最佳实践。
 - **最佳实践，不是说这样做是最好的，而是说这样做，是最大概率节约你时间并帮你实现目的的。**
 - 假设，我从未建立过个人网站，我现在想要几分钟搞定，那么各大云服务厂商往往都提供了这种最佳实践文档，按照其一步步操作即可搞定。就像80%默认优先，20%深度定制提及的理念一样。
 - 入门任何领域，遵循前人总结好的最佳实践，总不会错的。
@@ -21,12 +21,12 @@ description: "x:: 5W2H,mvp - 最小可行性版本"
 ## 📖 详细说明
 
 ### 概念解释
-x:: 5W2H,mvp - 最小可行性版本
+x:: <span class="uw-unresolved" data-target="5W2H" title="未解析的双链目标：5W2H">5W2H</span>,mvp - 最小可行性版本
 
 
 ## 🔗 关联知识
 
-- 5W2H
+- <span class="uw-unresolved" data-target="5W2H" title="未解析的双链目标：5W2H">5W2H</span>
 
 ## 💡 个人理解
 
@@ -73,7 +73,7 @@ x:: 5W2H,mvp - 最小可行性版本
 
 ## 相关
 
-- PDCA循环
+- <span class="uw-unresolved" data-target="PDCA循环" title="未解析的双链目标：PDCA循环">PDCA循环</span>
 - [PTSD](../ptsd-md-a2e1522a/)
 - [uWise](../uwise-md-5c3e1a0e/)
 - [万事万物皆有代价](../md-357588bc/)
@@ -84,10 +84,10 @@ x:: 5W2H,mvp - 最小可行性版本
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/最佳实践.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：6 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-8700909ed400`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：6 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

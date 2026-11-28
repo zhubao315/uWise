@@ -20,7 +20,7 @@ description: "通过系统化的清单来防止人为疏忽和无能之错，源
 
 ### 概念解释
 通过系统化的清单来防止人为疏忽和无能之错，源自阿图·葛文德的《清单革命》。
-[GTD](../gtd-md-629cd766/) [PDCA](../pdca-md-95d4004f/) 生态系统思维 [最小可执行单元思维](../md-a912ecfa/) [习惯养成](../md-22052f63/)
+[GTD](../gtd-md-629cd766/) [PDCA](../pdca-md-95d4004f/) <span class="uw-unresolved" data-target="生态系统思维" title="未解析的双链目标：生态系统思维">生态系统思维</span> [最小可执行单元思维](../md-a912ecfa/) [习惯养成](../md-22052f63/)
 
 ---
 
@@ -38,7 +38,7 @@ description: "通过系统化的清单来防止人为疏忽和无能之错，源
 
 - [GTD](../gtd-md-629cd766/)
 - [PDCA](../pdca-md-95d4004f/)
-- 生态系统思维
+- <span class="uw-unresolved" data-target="生态系统思维" title="未解析的双链目标：生态系统思维">生态系统思维</span>
 - [最小可执行单元思维](../md-a912ecfa/)
 - [习惯养成](../md-22052f63/)
 
@@ -69,10 +69,10 @@ description: "通过系统化的清单来防止人为疏忽和无能之错，源
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/清单防护盾法——用系统对抗无能之错.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-da87fe24f98c`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

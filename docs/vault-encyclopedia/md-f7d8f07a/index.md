@@ -17,7 +17,7 @@ description: "富足时代的意义危机，指当物质匮乏被指数技术彻
 - **精神自救路径**：从"生存意志"转向"意义意志"——主动定义自我价值、选择服务方向、创造属于自己而非被设定的生命叙事
 - "无意义的富足终将崩塌"（Abundance without meaning leads to collapse）
 - 这是戴曼迪斯与科特勒全书最核心的警示。技术解决了物质的"有没有"，但无法自动回答精神的"为什么"。意义不是技术红利，是每个人必须独立完成的功课。
-- 来源：《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒
+- 来源：<span class="uw-unresolved" data-target="《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒" title="未解析的双链目标：《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒">《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒</span>
 - 参见：[指数型思维与线性心智的时代断层](../md-9e8d18d3/) | [从消费思维到设计思维的认知跃迁](../md-a7121f11/)
 
 ## 📖 详细说明
@@ -34,7 +34,7 @@ description: "富足时代的意义危机，指当物质匮乏被指数技术彻
 
 ## 🔗 关联知识
 
-- 《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒
+- <span class="uw-unresolved" data-target="《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒" title="未解析的双链目标：《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒">《We Are as Gods：A Survival Guide for the Age of Abundance》-彼得·戴曼迪斯 史蒂芬·科特勒</span>
 - [指数型思维与线性心智的时代断层](../md-9e8d18d3/)
 - [从消费思维到设计思维的认知跃迁](../md-a7121f11/)
 
@@ -65,10 +65,10 @@ description: "富足时代的意义危机，指当物质匮乏被指数技术彻
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/富足时代的意义危机与精神自救.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-f7d8f07a7ec9`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

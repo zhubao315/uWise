@@ -25,7 +25,7 @@ description: "核心是「人类主导+AI辅助」的协同模式——人类聚
 ## 相关
 
 - [AI专家](../ai-md-bdbf6d4e/)
-- AI伦理与法规
+- <span class="uw-unresolved" data-target="AI伦理与法规" title="未解析的双链目标：AI伦理与法规">AI伦理与法规</span>
 - `未来工作`
 
 ---
@@ -47,10 +47,10 @@ description: "核心是「人类主导+AI辅助」的协同模式——人类聚
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/共驾职业是AI时代的新型职业形态.md`
-- 原始状态：未标注 · 分类：01-BRAIN
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-7fb716ea4c0c`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

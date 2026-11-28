@@ -23,7 +23,7 @@ description: "福克纳的标志性叙事技巧：同一事件或时间段由不
 
 ## 🔗 关联知识
 
-- 威廉·福克纳（William Faulkner）
+- <span class="uw-unresolved" data-target="威廉·福克纳（William Faulkner）" title="未解析的双链目标：威廉·福克纳（William Faulkner）">威廉·福克纳（William Faulkner）</span>
 - [意识流](../md-788bd21f/)
 - [约克纳帕塔法世系](../md-48dbccea/)
 
@@ -54,10 +54,10 @@ description: "福克纳的标志性叙事技巧：同一事件或时间段由不
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/多重视角叙事.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：1 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-2f8a99e8ea60`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：1 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

@@ -58,10 +58,10 @@ description: "依靠天才（名医、明星飞行员）是不稳定的——天
 
 - [好清单只列杀手项](../md-ef0416dd/)
 - [清单是专家的谦卑而非无能](../md-a47e4a0c/)
-- 系统vs目标思维
-- 反脆弱
-- 奥卡姆剃刀
-- 《清单革命》-阿图·葛文德
+- <span class="uw-unresolved" data-target="系统vs目标思维" title="未解析的双链目标：系统vs目标思维">系统vs目标思维</span>
+- <span class="uw-unresolved" data-target="反脆弱" title="未解析的双链目标：反脆弱">反脆弱</span>
+- <span class="uw-unresolved" data-target="奥卡姆剃刀" title="未解析的双链目标：奥卡姆剃刀">奥卡姆剃刀</span>
+- <span class="uw-unresolved" data-target="《清单革命》-阿图·葛文德" title="未解析的双链目标：《清单革命》-阿图·葛文德">《清单革命》-阿图·葛文德</span>
 
 ## 💡 个人理解
 
@@ -94,10 +94,10 @@ description: "依靠天才（名医、明星飞行员）是不稳定的——天
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/系统优于个人英雄主义.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：4 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-902c48879537`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：4 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

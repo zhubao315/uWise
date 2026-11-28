@@ -31,11 +31,11 @@ description: "\"训练不是折磨自己，而是教育自己。\" ——保罗�
 
 ## 🔗 关联知识
 
-- 《囚徒健身》-保罗·威德
+- <span class="uw-unresolved" data-target="《囚徒健身》-保罗·威德" title="未解析的双链目标：《囚徒健身》-保罗·威德">《囚徒健身》-保罗·威德</span>
 - [渐进式超负荷模型](../md-8c1d078f/)
-- 六艺十式进阶框架
-- 《跑步，该怎么跑？》-尼可拉斯·罗曼诺夫博士 约翰·罗伯逊
-- 《丹尼尔斯经典跑步训练法》-杰克·丹尼尔斯
+- <span class="uw-unresolved" data-target="六艺十式进阶框架" title="未解析的双链目标：六艺十式进阶框架">六艺十式进阶框架</span>
+- <span class="uw-unresolved" data-target="《跑步，该怎么跑？》-尼可拉斯·罗曼诺夫博士 约翰·罗伯逊" title="未解析的双链目标：《跑步，该怎么跑？》-尼可拉斯·罗曼诺夫博士 约翰·罗伯逊">《跑步，该怎么跑？》-尼可拉斯·罗曼诺夫博士 约翰·罗伯逊</span>
+- <span class="uw-unresolved" data-target="《丹尼尔斯经典跑步训练法》-杰克·丹尼尔斯" title="未解析的双链目标：《丹尼尔斯经典跑步训练法》-杰克·丹尼尔斯">《丹尼尔斯经典跑步训练法》-杰克·丹尼尔斯</span>
 - [力量是无伤长跑的核心](../md-12956cb8/)
 
 ## 💡 个人理解
@@ -69,10 +69,10 @@ description: "\"训练不是折磨自己，而是教育自己。\" ——保罗�
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/训练即教育原则.md`
-- 原始状态：已确立 · 分类：06-Cognitive-Psychology
-- 断链别名（无目标，保留为文本）：4 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-212ad3c7c795`（稳定 ID，不暴露私库路径）
+- 状态：active · 分类：06-Cognitive-Psychology
+- 未解析双链：4 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>

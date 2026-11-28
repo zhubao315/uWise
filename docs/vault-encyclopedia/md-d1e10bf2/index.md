@@ -9,8 +9,8 @@ description: "冥想进阶是从基础呼吸观察到高阶开放觉知的渐进
 
 ## 相关
 
-- 元认知暂停法——在刺激与反应之间创造选择空间
-- 注意力训练与无聊忍受
+- <span class="uw-unresolved" data-target="元认知暂停法——在刺激与反应之间创造选择空间" title="未解析的双链目标：元认知暂停法——在刺激与反应之间创造选择空间">元认知暂停法——在刺激与反应之间创造选择空间</span>
+- <span class="uw-unresolved" data-target="注意力训练与无聊忍受" title="未解析的双链目标：注意力训练与无聊忍受">注意力训练与无聊忍受</span>
 
 ## 深度思考
 
@@ -41,10 +41,10 @@ description: "冥想进阶是从基础呼吸观察到高阶开放觉知的渐进
 <details>
 <summary>来源与口径</summary>
 
-- 来源：`zhubao315/obsidian-vault@main:02-BUILD/23-uWise`
-- 私库路径：`词条/冥想进阶.md`
-- 原始状态：未标注 · 分类：还原自 01-BRAIN（2026-09-17 归档迁移）
-- 断链别名（无目标，保留为文本）：2 条
-- 本页由每周同步自动生成；内容来自个人笔记，未经逐条核验。
+- 来源：zhubao315/obsidian-vault@main:02-BUILD/23-uWise
+- 来源标识：`e-d1e10bf24401`（稳定 ID，不暴露私库路径）
+- 状态：unreviewed · 分类：concepts
+- 未解析双链：2 条（已保留目标标记）
+- 本页由每周同步自动生成；内容来自个人笔记，未经逐条事实核验。
 
 </details>
