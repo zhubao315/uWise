@@ -1,0 +1,38 @@
+name: uWise Governance Report (Shadow)
+
+on:
+  schedule:
+    # Monday 04:30 UTC — runs after the vault sync at 03:47 UTC.
+    - cron: '30 4 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  report:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - name: Install governance dependency
+        run: pip install PyYAML>=6.0
+      - name: Run shadow publishing gate
+        env:
+          GITHUB_TOKEN: ${{ secrets.VAULT_SYNC_PAT }}
+          VAULT_DIR: /tmp/uwise-vault-shadow
+          SHADOW_DIR: /tmp/uwise-shadow-pages
+          REPORT_DIR: /tmp/uwise-governance-report
+        run: python3 scripts/publish_governance.py
+      - name: Upload report artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: uwise-governance-report
+          path: |
+            /tmp/uwise-governance-report/governance-report.md
+            /tmp/uwise-governance-report/governance-report.json
+          if-no-files-found: error

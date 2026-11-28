@@ -20,3 +20,4 @@ pre-commit>=3.6.0
 
 # 类型检查
 types-requests>=2.31.0
+types-PyYAML>=6.0
