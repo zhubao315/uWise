@@ -81,15 +81,9 @@
 
 > 私库词条库每周同步，条目未经逐条核验；只列出名称匹配的词条。
 
-- [Sop 15 摄影家 摄影作品后期处理](../vault-encyclopedia/sop-15-774e2a8d/)
-- [周末摄影跑步路线](../vault-encyclopedia/md-46d2d7d8/)
-- [摄影的加减法](../vault-encyclopedia/md-6591f4f3/)
-- [黑白摄影的灰度控制](../vault-encyclopedia/md-753d4c6f/)
-- [视觉重心与构图平衡](../vault-encyclopedia/md-80cf6e3c/)
-- [镜头语言与焦段选择](../vault-encyclopedia/md-db9e892c/)
-
-## 边界与口径
-
-- 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。
-- 本页只做索引，不对技能质量做评级；未匹配到技能时如实留空，不补写内容。
-- 书稿与笔记链接指向各站点实时页面；引用前请核对原文与核验日期。
+- [Sop 15 摄影家 摄影作品后期处理](/uWise/vault-encyclopedia/sop-15-774e2a8d/)
+- [周末摄影跑步路线](/uWise/vault-encyclopedia/md-46d2d7d8/)
+- [摄影的加减法](/uWise/vault-encyclopedia/md-6591f4f3/)
+- [黑白摄影的灰度控制](/uWise/vault-encyclopedia/md-753d4c6f/)
+- [视觉重心与构图平衡](/uWise/vault-encyclopedia/md-80cf6e3c/)
+- [镜头语言与焦段选择](/uWise/vault-encyclopedia/md-db9e892c/)

@@ -75,15 +75,9 @@
 
 > 私库词条库每周同步，条目未经逐条核验；只列出名称匹配的词条。
 
-- [周末摄影跑步路线](../vault-encyclopedia/md-46d2d7d8/)
-- [永远不要连续两天不跑步](../vault-encyclopedia/md-d85fdb1f/)
-- [跑步与写作的同构性——孤独修行的两种形态](../vault-encyclopedia/md-b3a8fe66/)
-- [跑步中的两个大脑模型](../vault-encyclopedia/md-8185896f/)
-- [跑步伤病康复训练框架](../vault-encyclopedia/md-3fc61b06/)
-- [跑步作为存在主义实践](../vault-encyclopedia/md-e21459b6/)
-
-## 边界与口径
-
-- 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。
-- 本页只做索引，不对技能质量做评级；未匹配到技能时如实留空，不补写内容。
-- 书稿与笔记链接指向各站点实时页面；引用前请核对原文与核验日期。
+- [周末摄影跑步路线](/uWise/vault-encyclopedia/md-46d2d7d8/)
+- [永远不要连续两天不跑步](/uWise/vault-encyclopedia/md-d85fdb1f/)
+- [跑步与写作的同构性——孤独修行的两种形态](/uWise/vault-encyclopedia/md-b3a8fe66/)
+- [跑步中的两个大脑模型](/uWise/vault-encyclopedia/md-8185896f/)
+- [跑步伤病康复训练框架](/uWise/vault-encyclopedia/md-3fc61b06/)
+- [跑步作为存在主义实践](/uWise/vault-encyclopedia/md-e21459b6/)

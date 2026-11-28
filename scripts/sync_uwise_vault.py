@@ -251,7 +251,7 @@ def main() -> None:  # noqa: C901
     )
     by_status = collections.Counter(c["status"] for c in catalog)
     rows = "\n".join(
-        f'| [{esc(c["title"])}](../vault-encyclopedia/{c["slug"]}/) | {esc(c["status"])} | '
+        f'| [{esc(c["title"])}](/uWise/vault-encyclopedia/{c["slug"]}/) | {esc(c["status"])} | '
         f'{esc(c["category"])[:40]} | {c["quality"]} |'
         for c in sorted(catalog, key=lambda x: x["title"])
     )

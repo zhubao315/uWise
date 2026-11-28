@@ -55,15 +55,9 @@
 
 > 私库词条库每周同步，条目未经逐条核验；只列出名称匹配的词条。
 
-- [Sop 10 国学大师 古籍文献解读](../vault-encyclopedia/sop-10-9d35d33c/)
-- [国学养生四家合一](../vault-encyclopedia/md-feea0a6b/)
-- [国学大师：AI时代融古通今的数字文化传承者](../vault-encyclopedia/ai-b93ddc14/)
-- [燊赫国学完整书单](../vault-encyclopedia/entry-78b22adc/)
-- [传统知识库知识构建、运营难，应用效果差](../vault-encyclopedia/entry-cabc221b/)
-- [世界文化](../vault-encyclopedia/md-f22b9175/)
-
-## 边界与口径
-
-- 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。
-- 本页只做索引，不对技能质量做评级；未匹配到技能时如实留空，不补写内容。
-- 书稿与笔记链接指向各站点实时页面；引用前请核对原文与核验日期。
+- [Sop 10 国学大师 古籍文献解读](/uWise/vault-encyclopedia/sop-10-9d35d33c/)
+- [国学养生四家合一](/uWise/vault-encyclopedia/md-feea0a6b/)
+- [国学大师：AI时代融古通今的数字文化传承者](/uWise/vault-encyclopedia/ai-b93ddc14/)
+- [燊赫国学完整书单](/uWise/vault-encyclopedia/entry-78b22adc/)
+- [传统知识库知识构建、运营难，应用效果差](/uWise/vault-encyclopedia/entry-cabc221b/)
+- [世界文化](/uWise/vault-encyclopedia/md-f22b9175/)

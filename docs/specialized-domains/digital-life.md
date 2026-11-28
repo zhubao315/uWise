@@ -68,13 +68,7 @@
 
 > 私库词条库每周同步，条目未经逐条核验；只列出名称匹配的词条。
 
-- [ryooo的知识管理工作流](../vault-encyclopedia/ryooo-md-0b800f85/)
-- [第二大脑](../vault-encyclopedia/md-c38a937d/)
-- [第二大脑知识系统构建](../vault-encyclopedia/md-910915eb/)
-- [自动化工作流](../vault-encyclopedia/md-8b165109/)
-
-## 边界与口径
-
-- 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。
-- 本页只做索引，不对技能质量做评级；未匹配到技能时如实留空，不补写内容。
-- 书稿与笔记链接指向各站点实时页面；引用前请核对原文与核验日期。
+- [ryooo的知识管理工作流](/uWise/vault-encyclopedia/ryooo-md-0b800f85/)
+- [第二大脑](/uWise/vault-encyclopedia/md-c38a937d/)
+- [第二大脑知识系统构建](/uWise/vault-encyclopedia/md-910915eb/)
+- [自动化工作流](/uWise/vault-encyclopedia/md-8b165109/)

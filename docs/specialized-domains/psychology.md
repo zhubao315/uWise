@@ -74,15 +74,9 @@
 
 > 私库词条库每周同步，条目未经逐条核验；只列出名称匹配的词条。
 
-- [uSkill-认知偏差检测-v1](../vault-encyclopedia/uskill-v1-md-91fb1916/)
-- [认知偏差与多元思维模型](../vault-encyclopedia/md-afafac4c/)
-- [认知偏差清单](../vault-encyclopedia/md-2eecaefc/)
-- [认知偏差演化根源](../vault-encyclopedia/md-b29da192/)
-- [Sop 11 心理学专家 心理评估报告](../vault-encyclopedia/sop-11-cbd4ca7c/)
-- [人类误判心理学](../vault-encyclopedia/md-77b1159f/)
-
-## 边界与口径
-
-- 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。
-- 本页只做索引，不对技能质量做评级；未匹配到技能时如实留空，不补写内容。
-- 书稿与笔记链接指向各站点实时页面；引用前请核对原文与核验日期。
+- [uSkill-认知偏差检测-v1](/uWise/vault-encyclopedia/uskill-v1-md-91fb1916/)
+- [认知偏差与多元思维模型](/uWise/vault-encyclopedia/md-afafac4c/)
+- [认知偏差清单](/uWise/vault-encyclopedia/md-2eecaefc/)
+- [认知偏差演化根源](/uWise/vault-encyclopedia/md-b29da192/)
+- [Sop 11 心理学专家 心理评估报告](/uWise/vault-encyclopedia/sop-11-cbd4ca7c/)
+- [人类误判心理学](/uWise/vault-encyclopedia/md-77b1159f/)

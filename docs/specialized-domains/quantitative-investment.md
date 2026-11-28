@@ -71,12 +71,6 @@ for date in trading_dates:
 
 > 私库词条库每周同步，条目未经逐条核验；只列出名称匹配的词条。
 
-- [定投策略优化](../vault-encyclopedia/md-39519407/)
-- [股债配置策略](../vault-encyclopedia/md-0bf127fb/)
-- [肌肉内分泌学：抗阻力训练对神经营养因子BDNF的激活效应](../vault-encyclopedia/bdnf-md-d57cff4c/)
-
-## 边界与口径
-
-- 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。
-- 本页只做索引，不对技能质量做评级；未匹配到技能时如实留空，不补写内容。
-- 书稿与笔记链接指向各站点实时页面；引用前请核对原文与核验日期。
+- [定投策略优化](/uWise/vault-encyclopedia/md-39519407/)
+- [股债配置策略](/uWise/vault-encyclopedia/md-0bf127fb/)
+- [肌肉内分泌学：抗阻力训练对神经营养因子BDNF的激活效应](/uWise/vault-encyclopedia/bdnf-md-d57cff4c/)
