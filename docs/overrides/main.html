@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
+  <script>
+    window.ZHUBAO_ANALYTICS_CONFIG = {
+      site_id: 'uWise',
+      site_group: 'THINK',
+      repo: 'zhubao315/uWise',
+      spa: true
+    };
+  </script>
+{% endblock %}
