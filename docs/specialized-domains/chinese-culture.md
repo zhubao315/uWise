@@ -39,20 +39,20 @@
 - **养心**：静心、养性、情绪管理
 - **处世**：待人接物、人际关系
 
-## 领域驱动实践
+## 来自个人技能库的真实技能
 
-### Area: 传统智慧现代化
+> 从 570 个已公开同步的个人技能中，按「分类 + 标题关键词」筛选，共 1 条（去重后最多展示 12 条）。这些技能是 Draft 资产并标记 `untrusted`；脚本不会自动执行。
 
-**Project 1: 国学与现代管理**
-- Task: 研读《论语》管理思想
-- Task: 提取可应用的管理原则
-- Task: 撰写系列文章
+| 技能 | 分类 | 入口 |
+|---|---|---|
+| [跨文化人类学洞察](https://zhubao315.github.io/uSkill/skills-from-vault/s5/uskill-cultural-anthropology/SKILL/) | `s5` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s5/uskill-cultural-anthropology/references/source/) |
 
-**Project 2: 易经与决策**
-- Task: 学习易经基础
-- Task: 理解变化之道
-- Task: 应用于决策分析
+## 相关书稿与笔记
 
----
+- [《四书五经·强力研读》](https://zhubao315.github.io/uSkill/reading/sishu-wujing-deep-reading/)
 
-*在AI时代，传统智慧提供了独特的思考视角和人生指引。*
+## 边界与口径
+
+- 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。
+- 本页只做索引，不对技能质量做评级；未匹配到技能时如实留空，不补写内容。
+- 书稿与笔记链接指向各站点实时页面；引用前请核对原文与核验日期。

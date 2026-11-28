@@ -31,26 +31,32 @@
 - Multi-Agent协作
 - 记忆系统
 
-## 领域驱动实践
+## 来自个人技能库的真实技能
 
-### Area: AI应用开发
+> 从 570 个已公开同步的个人技能中，按「分类 + 标题关键词」筛选，共 12 条（去重后最多展示 12 条）。这些技能是 Draft 资产并标记 `untrusted`；脚本不会自动执行。
 
-**Project 1: 企业知识助手**
-- Task: 设计RAG架构
-- Task: 实现文档问答
-- Task: 优化检索质量
+| 技能 | 分类 | 入口 |
+|---|---|---|
+| [日记元数据Agent](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-agent-diary-metadata-agent/SKILL/) | `s1-ai` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-agent-diary-metadata-agent/references/source/) |
+| [Prompt工程进阶](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-advanced-prompting/SKILL/) | `s1-ai` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-advanced-prompting/references/source/) |
+| [Agent架构设计](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-agent-architecture/SKILL/) | `s1-ai` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-agent-architecture/references/source/) |
+| [AI 人物库构建专家](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-engineering-ai-0bfe85/SKILL/) | `s1-ai` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-engineering-ai-0bfe85/references/source/) |
+| [AI 职业规划顾问](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-engineering-ai-436828/SKILL/) | `s1-ai` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-engineering-ai-436828/references/source/) |
+| [AI时代工程团队管理-宣讲文案](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-engineering-ai-f9fead/SKILL/) | `s1-ai` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-engineering-ai-f9fead/references/source/) |
+| [AI时代工程团队管理-落地行动清单](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-engineering-ai-ffcf35/SKILL/) | `s1-ai` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-engineering-ai-ffcf35/references/source/) |
+| [architecture design system](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-engineering-architecture-design-system/SKILL/) | `s1-ai` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-engineering-architecture-design-system/references/source/) |
+| [fullstack develop feature](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-engineering-fullstack-develop-feature/SKILL/) | `s1-ai` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-engineering-fullstack-develop-feature/references/source/) |
+| [AI 专利申请草拟](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-engineering-patent-application-drafting/SKILL/) | `s1-ai` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-engineering-patent-application-drafting/references/source/) |
+| [RPVI提示词工程](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-engineering-rpvi-prompt-engineering/SKILL/) | `s1-ai` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-engineering-rpvi-prompt-engineering/references/source/) |
+| [technical cache architecture design](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-engineering-technical-cache-architecture-design/SKILL/) | `s1-ai` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-engineering-technical-cache-architecture-design/references/source/) |
 
-**Project 2: AI Agent平台**
-- Task: 设计Agent框架
-- Task: 实现工具调用
-- Task: 构建多Agent协作
+## 相关书稿与笔记
 
-## 学习资源
+- [《知识库工程学》](https://zhubao315.github.io/books/knowledge-base-engineering/) · [公开笔记](https://zhubao315.github.io/uRead/read/book-knowledge-base-engineering/)
+- [《AI时代，如何真正学会》](https://zhubao315.github.io/books/ai-era-learning/) · [公开笔记](https://zhubao315.github.io/uRead/read/book-ai-era-learning/)
 
-- [LangChain文档](https://docs.langchain.com)
-- [LlamaIndex](https://docs.llamaindex.ai)
-- [OpenAI Cookbook](https://cookbook.openai.com)
+## 边界与口径
 
----
-
-*从飞机工程师到AI专家，技术演进见证时代变迁。*
+- 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。
+- 本页只做索引，不对技能质量做评级；未匹配到技能时如实留空，不补写内容。
+- 书稿与笔记链接指向各站点实时页面；引用前请核对原文与核验日期。

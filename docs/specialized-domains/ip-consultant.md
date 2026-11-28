@@ -49,20 +49,21 @@
 - 开源社区治理
 - 开源知识产权管理
 
-## 领域驱动实践
+## 来自个人技能库的真实技能
 
-### Area: 知识产权管理
+> 从 570 个已公开同步的个人技能中，按「分类 + 标题关键词」筛选，共 2 条（去重后最多展示 12 条）。这些技能是 Draft 资产并标记 `untrusted`；脚本不会自动执行。
 
-**Project 1: AI专利布局**
-- Task: 分析AI技术趋势
-- Task: 设计专利组合
-- Task: 撰写专利申请
+| 技能 | 分类 | 入口 |
+|---|---|---|
+| [AI 专利申请草拟](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-engineering-patent-application-drafting/SKILL/) | `s1-ai` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s1-ai/uskill-ai-engineering-patent-application-drafting/references/source/) |
+| [IP管理与知识资产运营](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-ip-162473/SKILL/) | `s6` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-ip-162473/references/source/) |
 
-**Project 2: 开源合规体系**
-- Task: 建立开源政策
-- Task: 实施工具链
-- Task: 团队培训
+## 相关书稿与笔记
 
----
+- [《知识库工程学》](https://zhubao315.github.io/books/knowledge-base-engineering/) · [公开笔记](https://zhubao315.github.io/uRead/read/book-knowledge-base-engineering/)
 
-*在AI时代，知识产权保护比以往任何时候都更加重要。*
+## 边界与口径
+
+- 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。
+- 本页只做索引，不对技能质量做评级；未匹配到技能时如实留空，不补写内容。
+- 书稿与笔记链接指向各站点实时页面；引用前请核对原文与核验日期。

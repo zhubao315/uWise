@@ -38,20 +38,25 @@
 - 运动追踪
 - 慢病管理
 
-## 领域驱动实践
+## 来自个人技能库的真实技能
 
-### Area: 健康科技应用
+> 从 570 个已公开同步的个人技能中，按「分类 + 标题关键词」筛选，共 6 条（去重后最多展示 12 条）。这些技能是 Draft 资产并标记 `untrusted`；脚本不会自动执行。
 
-**Project 1: AI健康管理助手**
-- Task: 研究健康监测技术
-- Task: 设计个人健康系统
-- Task: 实现数据可视化
+| 技能 | 分类 | 入口 |
+|---|---|---|
+| [Bio-Loop-Coros 联动配置](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-bio-loop-coros-linkage/SKILL/) | `s7` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-bio-loop-coros-linkage/references/source/) |
+| [营养规划](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-nutrition-planning/SKILL/) | `s7` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-nutrition-planning/references/source/) |
+| [睡眠优化](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-sleep-optimization/SKILL/) | `s7` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-sleep-optimization/references/source/) |
+| [压力管理](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-stress-management/SKILL/) | `s7` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-stress-management/references/source/) |
+| [数据驱动 Biohacking 闭环](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-biohacking-241a29/SKILL/) | `s7` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-biohacking-241a29/references/source/) |
+| [跑步生物力学分析](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-running-biomechanics/SKILL/) | `s7` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-running-biomechanics/references/source/) |
 
-**Project 2: 健康科技投资研究**
-- Task: 分析数字健康趋势
-- Task: 筛选优质标的
-- Task: 构建健康科技投资组合
+## 相关书稿与笔记
 
----
+- _暂无直接对应的自著书稿_
 
-*科技让健康管理更智能、更个性化。*
+## 边界与口径
+
+- 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。
+- 本页只做索引，不对技能质量做评级；未匹配到技能时如实留空，不补写内容。
+- 书稿与笔记链接指向各站点实时页面；引用前请核对原文与核验日期。

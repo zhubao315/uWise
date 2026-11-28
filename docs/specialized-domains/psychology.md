@@ -53,20 +53,25 @@
 - **系统1**：快速、直觉、自动
 - **系统2**：缓慢、理性、控制
 
-## 领域驱动实践
+## 来自个人技能库的真实技能
 
-### Area: 心理学应用
+> 从 570 个已公开同步的个人技能中，按「分类 + 标题关键词」筛选，共 6 条（去重后最多展示 12 条）。这些技能是 Draft 资产并标记 `untrusted`；脚本不会自动执行。
 
-**Project 1: 认知行为疗法学习**
-- Task: 学习CBT基础理论
-- Task: 识别负面思维模式
-- Task: 练习认知重构
+| 技能 | 分类 | 入口 |
+|---|---|---|
+| [行为洞察分析](https://zhubao315.github.io/uSkill/skills-from-vault/s5/uskill-behavioral-insight/SKILL/) | `s5` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s5/uskill-behavioral-insight/references/source/) |
+| [cognitive mbti personality analysis](https://zhubao315.github.io/uSkill/skills-from-vault/s5/uskill-cognition-cognitive-mbti-personality-analysis/SKILL/) | `s5` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s5/uskill-cognition-cognitive-mbti-personality-analysis/references/source/) |
+| [MBTI人格分析](https://zhubao315.github.io/uSkill/skills-from-vault/s5/uskill-cognition-mbti-personality-analysis/SKILL/) | `s5` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s5/uskill-cognition-mbti-personality-analysis/references/source/) |
+| [认知偏差检测](https://zhubao315.github.io/uSkill/skills-from-vault/s5/uskill-cognition-8a14ca/SKILL/) | `s5` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s5/uskill-cognition-8a14ca/references/source/) |
+| [元认知-Schema](https://zhubao315.github.io/uSkill/skills-from-vault/s5/uskill-cognitive-metacognition/SKILL/) | `s5` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s5/uskill-cognitive-metacognition/references/source/) |
+| [组织心理学与变革管理](https://zhubao315.github.io/uSkill/skills-from-vault/s5/uskill-organization-change/SKILL/) | `s5` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s5/uskill-organization-change/references/source/) |
 
-**Project 2: 决策心理学研究**
-- Task: 研究认知偏差
-- Task: 应用于投资决策
-- Task: 撰写系列文章
+## 相关书稿与笔记
 
----
+- [《千分之一的你》](https://zhubao315.github.io/books/one-in-a-thousand/) · [公开笔记](https://zhubao315.github.io/uRead/read/book-one-in-a-thousand/)
 
-*理解心理学，就是理解自己和他人的钥匙。*
+## 边界与口径
+
+- 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。
+- 本页只做索引，不对技能质量做评级；未匹配到技能时如实留空，不补写内容。
+- 书稿与笔记链接指向各站点实时页面；引用前请核对原文与核验日期。

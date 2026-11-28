@@ -52,20 +52,25 @@
 | 数据分析 | Google Analytics、神策 |
 | 用户研究 | 问卷星、UserTesting |
 
-## 领域驱动实践
+## 来自个人技能库的真实技能
 
-### Area: 产品设计
+> 从 570 个已公开同步的个人技能中，按「分类 + 标题关键词」筛选，共 6 条（去重后最多展示 12 条）。这些技能是 Draft 资产并标记 `untrusted`；脚本不会自动执行。
 
-**Project 1: AI产品设计**
-- Task: 用户需求调研
-- Task: 产品功能规划
-- Task: 交互原型设计
+| 技能 | 分类 | 入口 |
+|---|---|---|
+| [轮播内容增长](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-carousel-growth/SKILL/) | `s3` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-carousel-growth/references/source/) |
+| [用户研究与体验设计](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-ux-research-design/SKILL/) | `s3` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-ux-research-design/references/source/) |
+| [最小可行产品 MVP 定义](https://zhubao315.github.io/uSkill/skills-from-vault/s4/uskill-business-mvp-89e7aa/SKILL/) | `s4` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s4/uskill-business-mvp-89e7aa/references/source/) |
+| [产品验证](https://zhubao315.github.io/uSkill/skills-from-vault/s4/uskill-entrepreneurship-product-validation/SKILL/) | `s4` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s4/uskill-entrepreneurship-product-validation/references/source/) |
+| [产品需求文档PRD](https://zhubao315.github.io/uSkill/skills-from-vault/s4/uskill-product-prd/SKILL/) | `s4` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s4/uskill-product-prd/references/source/) |
+| [uSkill-用户研究与体验设计](https://zhubao315.github.io/uSkill/skills-from-vault/s4/uskill-product-user-research-ux-design/SKILL/) | `s4` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s4/uskill-product-user-research-ux-design/references/source/) |
 
-**Project 2: 产品优化**
-- Task: 数据分析诊断
-- Task: 用户反馈收集
-- Task: 功能迭代优化
+## 相关书稿与笔记
 
----
+- _暂无直接对应的自著书稿_
 
-*好的产品经理，是用户的代言人，也是团队的领航员。*
+## 边界与口径
+
+- 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。
+- 本页只做索引，不对技能质量做评级；未匹配到技能时如实留空，不补写内容。
+- 书稿与笔记链接指向各站点实时页面；引用前请核对原文与核验日期。

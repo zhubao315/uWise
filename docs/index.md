@@ -12,7 +12,7 @@
 
 ## 🌟 四大核心身份
 
-### 🏗️ [[∑ 架构师]]
+### 🏗️ [🏗️ 架构师](core-identity/architect.md)
 **做正确的事情** - 负责设计和规划复杂系统的架构
 
 - [人工智能专家](specialized-domains/ai-expert.md) - AIGC、LLM、机器学习
@@ -21,21 +21,21 @@
 - [全栈工程师](specialized-domains/fullstack.md) - 前后端开发、系统集成
 - [产品经理](specialized-domains/product-manager.md) - 产品设计、用户体验
 
-### 💰 [[∑ 投资人]]
+### 💰 [💰 投资人](core-identity/investor.md)
 **善于分析市场、管理风险** - 通过明智的资金配置实现财富增值
 
 - [金融市场](specialized-domains/financial-markets.md) - 股票、债券、衍生品
 - [量化投资](specialized-domains/quantitative-investment.md) - 算法交易、数据分析
 - [技术投资](projects/ai-valuation.md) - AI项目估值、科技股分析
 
-### 📖 [[∑ 终身学习者]]
+### 📖 [📖 终身学习者](core-identity/lifelong-learner.md)
 **秉持终身学习的理念** - 不断追求知识和技能的提升
 
 - [国学大师](specialized-domains/chinese-culture.md) - 经典智慧、传统文化
 - [北京文化使者](specialized-domains/beijing-culture.md) - 历史传承、现代融合
 - [心理学专家](specialized-domains/psychology.md) - 认知科学、行为分析
 
-### 🎨 [[∑ 生活艺术家]]
+### 🎨 [🎨 生活艺术家](core-identity/life-artist.md)
 **从生活中发现和创造美好** - 将生活过得富有艺术感
 
 - [数字人生](specialized-domains/digital-life.md) - 数字化生活方式

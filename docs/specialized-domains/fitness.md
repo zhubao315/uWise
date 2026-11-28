@@ -51,20 +51,28 @@
 赛后：蛋白质恢复
 ```
 
-## 领域驱动实践
+## 来自个人技能库的真实技能
 
-### Area: 马拉松挑战
+> 从 570 个已公开同步的个人技能中，按「分类 + 标题关键词」筛选，共 9 条（去重后最多展示 12 条）。这些技能是 Draft 资产并标记 `untrusted`；脚本不会自动执行。
 
-**Project 1: 半程马拉松**
-- Task: 完成12周训练计划
-- Task: 参加北京半程马拉松
-- Task: 目标成绩2小时
+| 技能 | 分类 | 入口 |
+|---|---|---|
+| [Coros数据分析与训练优化](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-coros-training-optimization/SKILL/) | `s7` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-coros-training-optimization/references/source/) |
+| [有氧基础 HRV](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-aerobic-base-hrv/SKILL/) | `s7` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-aerobic-base-hrv/references/source/) |
+| [lifestyle marathon training system](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-lifestyle-marathon-training-system/SKILL/) | `s7` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-lifestyle-marathon-training-system/references/source/) |
+| [lifestyle running training plan](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-lifestyle-running-training-plan/SKILL/) | `s7` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-lifestyle-running-training-plan/references/source/) |
+| [lifestyle zone2 endurance training](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-lifestyle-zone2-endurance-training/SKILL/) | `s7` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-lifestyle-zone2-endurance-training/references/source/) |
+| [running data recording and analysis](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-running-data-recording/SKILL/) | `s7` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-running-data-recording/references/source/) |
+| [跑步训练姿势矫正协议](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-0666f9/SKILL/) | `s7` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-0666f9/references/source/) |
+| [跑步生物力学分析](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-running-biomechanics/SKILL/) | `s7` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-running-biomechanics/references/source/) |
+| [力量训练体系](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-strength-training-system/SKILL/) | `s7` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-strength-training-system/references/source/) |
 
-**Project 2: 全程马拉松**
-- Task: 完成16周训练计划
-- Task: 参加北京马拉松
-- Task: 完赛目标4.5小时
+## 相关书稿与笔记
 
----
+- _暂无直接对应的自著书稿_
 
-*每一步都是对自己的超越。*
+## 边界与口径
+
+- 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。
+- 本页只做索引，不对技能质量做评级；未匹配到技能时如实留空，不补写内容。
+- 书稿与笔记链接指向各站点实时页面；引用前请核对原文与核验日期。

@@ -40,28 +40,31 @@
 因子模型 → 回测验证 → 风险控制 → 执行优化
 ```
 
-## 领域驱动实践
+## 来自个人技能库的真实技能
 
-### Area: 投资决策
+> 从 570 个已公开同步的个人技能中，按「分类 + 标题关键词」筛选，共 12 条（去重后最多展示 12 条）。这些技能是 Draft 资产并标记 `untrusted`；脚本不会自动执行。
 
-**Project 1: 行业研究**
-- Task: 分析AI产业链
-- Task: 筛选优质标的
-- Task: 构建投资组合
+| 技能 | 分类 | 入口 |
+|---|---|---|
+| [investment bond allocation strategy](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-bond-allocation-strategy/SKILL/) | `s6` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-bond-allocation-strategy/references/source/) |
+| [定投策略优化](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-dca-strategy-opt/SKILL/) | `s6` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-dca-strategy-opt/references/source/) |
+| [investment dca strategy optimization](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-dca-strategy-optimization/SKILL/) | `s6` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-dca-strategy-optimization/references/source/) |
+| [股债配置策略](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-equity-bond-allocation/SKILL/) | `s6` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-equity-bond-allocation/references/source/) |
+| [财报解读](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-financial-analysis/SKILL/) | `s6` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-financial-analysis/references/source/) |
+| [investment graham safety margin](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-graham-safety-margin/SKILL/) | `s6` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-graham-safety-margin/references/source/) |
+| [investment im report writing](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-im-report-writing/SKILL/) | `s6` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-im-report-writing/references/source/) |
+| [行业分析](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-industry-analysis/SKILL/) | `s6` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-industry-analysis/references/source/) |
+| [investment industry rotation analysis](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-industry-rotation-analysis/SKILL/) | `s6` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-industry-rotation-analysis/references/source/) |
+| [盘中行情监控](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-intraday-market-monitor/SKILL/) | `s6` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-intraday-market-monitor/references/source/) |
+| [IP管理与知识资产运营](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-ip-162473/SKILL/) | `s6` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-ip-162473/references/source/) |
+| [investment options basic strategies](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-options-basic-strategies/SKILL/) | `s6` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s6/uskill-investment-options-basic-strategies/references/source/) |
 
-**Project 2: 宏观研究**
-- Task: 分析经济周期
-- Task: 研究政策影响
-- Task: 资产配置优化
+## 相关书稿与笔记
 
-## 投资哲学
+- [《投资的纪律》](https://zhubao315.github.io/books/investment-discipline/) · [公开笔记](https://zhubao315.github.io/uRead/read/book-investment-discipline/)
 
-> 投资的本质是认知的变现。
+## 边界与口径
 
-- **价值投资**：寻找被低估的优质资产
-- **成长投资**：把握高增长机会
-- **指数投资**：获取市场平均收益
-
----
-
-*技术架构师的逻辑思维与金融市场分析相结合。*
+- 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。
+- 本页只做索引，不对技能质量做评级；未匹配到技能时如实留空，不补写内容。
+- 书稿与笔记链接指向各站点实时页面；引用前请核对原文与核验日期。

@@ -50,20 +50,22 @@
 - 定期数字断联
 - 冥想应用
 
-## 领域驱动实践
+## 来自个人技能库的真实技能
 
-### Area: 数字化生活
+> 从 570 个已公开同步的个人技能中，按「分类 + 标题关键词」筛选，共 3 条（去重后最多展示 12 条）。这些技能是 Draft 资产并标记 `untrusted`；脚本不会自动执行。
 
-**Project 1: 知识管理系统**
-- Task: 搭建Obsidian知识库
-- Task: 建立笔记体系
-- Task: 实现知识图谱
+| 技能 | 分类 | 入口 |
+|---|---|---|
+| [自动化工作流](https://zhubao315.github.io/uSkill/skills-from-vault/s8/uskill-efficiency-automation-workflow/SKILL/) | `s8` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s8/uskill-efficiency-automation-workflow/references/source/) |
+| [知识管理系统](https://zhubao315.github.io/uSkill/skills-from-vault/s8/uskill-efficiency-knowledge-management/SKILL/) | `s8` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s8/uskill-efficiency-knowledge-management/references/source/) |
+| [会议效率](https://zhubao315.github.io/uSkill/skills-from-vault/s8/uskill-efficiency-meeting-efficiency/SKILL/) | `s8` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s8/uskill-efficiency-meeting-efficiency/references/source/) |
 
-**Project 2: 智能家居升级**
-- Task: 评估现有设备
-- Task: 设计联动场景
-- Task: 实施安装调试
+## 相关书稿与笔记
 
----
+- [《知识库工程学》](https://zhubao315.github.io/books/knowledge-base-engineering/) · [公开笔记](https://zhubao315.github.io/uRead/read/book-knowledge-base-engineering/)
 
-*科技是工具，生活是目的。*
+## 边界与口径
+
+- 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。
+- 本页只做索引，不对技能质量做评级；未匹配到技能时如实留空，不补写内容。
+- 书稿与笔记链接指向各站点实时页面；引用前请核对原文与核验日期。

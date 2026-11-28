@@ -47,20 +47,21 @@
 - 传统庙会
 - 文化讲座
 
-## 领域驱动实践
+## 来自个人技能库的真实技能
 
-### Area: 北京文化探索
+> 从 570 个已公开同步的个人技能中，按「分类 + 标题关键词」筛选，共 2 条（去重后最多展示 12 条）。这些技能是 Draft 资产并标记 `untrusted`；脚本不会自动执行。
 
-**Project 1: 胡同文化记录**
-- Task: 走访北京胡同
-- Task: 记录老北京故事
-- Task: 摄影创作
+| 技能 | 分类 | 入口 |
+|---|---|---|
+| [北京文化探索指南](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-beijing-culture-explorer/SKILL/) | `s3` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-beijing-culture-explorer/references/source/) |
+| [北京文化大使](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-creative-beijing-culture-ambassador/SKILL/) | `s7` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-creative-beijing-culture-ambassador/references/source/) |
 
-**Project 2: 传统文化传承**
-- Task: 学习京剧基础
-- Task: 品味传统小吃
-- Task: 参与民俗活动
+## 相关书稿与笔记
 
----
+- _暂无直接对应的自著书稿_
 
-*北京，一座城市，半部中国史。*
+## 边界与口径
+
+- 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。
+- 本页只做索引，不对技能质量做评级；未匹配到技能时如实留空，不补写内容。
+- 书稿与笔记链接指向各站点实时页面；引用前请核对原文与核验日期。

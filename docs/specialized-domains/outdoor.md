@@ -52,20 +52,22 @@
 6. 尊重野生动物
 7. 尊重其他访客
 
-## 领域驱动实践
+## 来自个人技能库的真实技能
 
-### Area: 户外探索
+> 从 570 个已公开同步的个人技能中，按「分类 + 标题关键词」筛选，共 3 条（去重后最多展示 12 条）。这些技能是 Draft 资产并标记 `untrusted`；脚本不会自动执行。
 
-**Project 1: 北京周边徒步**
-- Task: 探索香山、凤凰岭
-- Task: 徒箭扣长城
-- Task: 穿越灵山
+| 技能 | 分类 | 入口 |
+|---|---|---|
+| [lifestyle plan outdoor expedition](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-lifestyle-plan-outdoor-expedition/SKILL/) | `s7` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-lifestyle-plan-outdoor-expedition/references/source/) |
+| [lifestyle travel photography guide](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-lifestyle-travel-photography-guide/SKILL/) | `s7` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-lifestyle-travel-photography-guide/references/source/) |
+| [户外运动规划](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-outdoor-sport-planning/SKILL/) | `s7` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-outdoor-sport-planning/references/source/) |
 
-**Project 2: 长线徒步计划**
-- Task: 准备装备清单
-- Task: 体能训练计划
-- Task: 完成武功山穿越
+## 相关书稿与笔记
 
----
+- _暂无直接对应的自著书稿_
 
-*在大自然中，我们找到最真实的自己。*
+## 边界与口径
+
+- 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。
+- 本页只做索引，不对技能质量做评级；未匹配到技能时如实留空，不补写内容。
+- 书稿与笔记链接指向各站点实时页面；引用前请核对原文与核验日期。

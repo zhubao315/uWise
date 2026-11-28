@@ -50,20 +50,20 @@
 减少使用 → 重复利用 → 回收循环
 ```
 
-## 领域驱动实践
+## 来自个人技能库的真实技能
 
-### Area: 可持续投资
+> 从 570 个已公开同步的个人技能中，按「分类 + 标题关键词」筛选，共 1 条（去重后最多展示 12 条）。这些技能是 Draft 资产并标记 `untrusted`；脚本不会自动执行。
 
-**Project 1: ESG投资研究**
-- Task: 建立ESG评分模型
-- Task: 筛选可持续标的
-- Task: 构建绿色投资组合
+| 技能 | 分类 | 入口 |
+|---|---|---|
+| [ESG与可持续发展](https://zhubao315.github.io/uSkill/skills-from-vault/s5/uskill-esg-sustainability/SKILL/) | `s5` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s5/uskill-esg-sustainability/references/source/) |
 
-**Project 2: 低碳生活实践**
-- Task: 计算个人碳足迹
-- Task: 制定减排计划
-- Task: 探索碳抵消方案
+## 相关书稿与笔记
 
----
+- _暂无直接对应的自著书稿_
 
-*可持续发展不是选择，而是必须。*
+## 边界与口径
+
+- 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。
+- 本页只做索引，不对技能质量做评级；未匹配到技能时如实留空，不补写内容。
+- 书稿与笔记链接指向各站点实时页面；引用前请核对原文与核验日期。

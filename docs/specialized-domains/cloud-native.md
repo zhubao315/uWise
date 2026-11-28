@@ -31,29 +31,25 @@
 - 事件驱动架构
 - 无服务器数据库
 
-## 领域驱动实践
+## 来自个人技能库的真实技能
 
-### Area: 云原生转型
+> 从 570 个已公开同步的个人技能中，按「分类 + 标题关键词」筛选，共 6 条（去重后最多展示 12 条）。这些技能是 Draft 资产并标记 `untrusted`；脚本不会自动执行。
 
-**Project 1: 容器化改造**
-- Task: 评估应用容器化
-- Task: 设计容器架构
-- Task: 实施迁移计划
+| 技能 | 分类 | 入口 |
+|---|---|---|
+| [CICD流水线设计](https://zhubao315.github.io/uSkill/skills-from-vault/s2/uskill-architecture-cicd-pipeline-design/SKILL/) | `s2` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s2/uskill-architecture-cicd-pipeline-design/references/source/) |
+| [云原生容器化部署](https://zhubao315.github.io/uSkill/skills-from-vault/s2/uskill-architecture-cloud-native-containerization/SKILL/) | `s2` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s2/uskill-architecture-cloud-native-containerization/references/source/) |
+| [容器化应用部署](https://zhubao315.github.io/uSkill/skills-from-vault/s2/uskill-architecture-containerized-app-deployment/SKILL/) | `s2` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s2/uskill-architecture-containerized-app-deployment/references/source/) |
+| [架构设计体系](https://zhubao315.github.io/uSkill/skills-from-vault/s2/uskill-architecture-design-system/SKILL/) | `s2` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s2/uskill-architecture-design-system/references/source/) |
+| [后端架构设计](https://zhubao315.github.io/uSkill/skills-from-vault/s2/uskill-backend-architect/SKILL/) | `s2` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s2/uskill-backend-architect/references/source/) |
+| [DevOps自动化](https://zhubao315.github.io/uSkill/skills-from-vault/s2/uskill-devops-automator/SKILL/) | `s2` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s2/uskill-devops-automator/references/source/) |
 
-**Project 2: 微服务拆分**
-- Task: 领域分析
-- Task: 服务边界设计
-- Task: 数据一致性方案
+## 相关书稿与笔记
 
-## 技术选型
+- _暂无直接对应的自著书稿_
 
-| 类别 | 推荐方案 | 备选 |
-|------|---------|------|
-| 容器运行时 | Docker | containerd |
-| 容器编排 | Kubernetes | Nomad |
-| 服务网格 | Istio | Linkerd |
-| CI/CD | GitHub Actions | GitLab CI |
+## 边界与口径
 
----
-
-*从运维管理到云原生架构，基础设施演进推动技术升级。*
+- 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。
+- 本页只做索引，不对技能质量做评级；未匹配到技能时如实留空，不补写内容。
+- 书稿与笔记链接指向各站点实时页面；引用前请核对原文与核验日期。

@@ -46,20 +46,23 @@
 - 年份选择
 - 储存条件
 
-## 领域驱动实践
+## 来自个人技能库的真实技能
 
-### Area: 葡萄酒探索
+> 从 570 个已公开同步的个人技能中，按「分类 + 标题关键词」筛选，共 4 条（去重后最多展示 12 条）。这些技能是 Draft 资产并标记 `untrusted`；脚本不会自动执行。
 
-**Project 1: 品鉴技能提升**
-- Task: 学习WSET课程
-- Task: 参加品鉴会
-- Task: 建立品鉴笔记
+| 技能 | 分类 | 入口 |
+|---|---|---|
+| [中式餐酒搭配](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-chinese-food-wine-pairing/SKILL/) | `s7` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-chinese-food-wine-pairing/references/source/) |
+| [葡萄酒供应链管理最佳实践](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-creative-wine-supply-chain-best-practices/SKILL/) | `s7` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-creative-wine-supply-chain-best-practices/references/source/) |
+| [lifestyle wine tasting notes](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-lifestyle-wine-tasting-notes/SKILL/) | `s7` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-lifestyle-wine-tasting-notes/references/source/) |
+| [lifestyle wine tasting system](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-lifestyle-wine-tasting-system/SKILL/) | `s7` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s7/uskill-health-lifestyle-wine-tasting-system/references/source/) |
 
-**Project 2: 产区探索**
-- Task: 研究波尔多产区
-- Task: 探索新世界产区
-- Task: 规划酒庄之旅
+## 相关书稿与笔记
 
----
+- _暂无直接对应的自著书稿_
 
-*一杯好酒，是时间、风土和匠心的完美结合。*
+## 边界与口径
+
+- 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。
+- 本页只做索引，不对技能质量做评级；未匹配到技能时如实留空，不补写内容。
+- 书稿与笔记链接指向各站点实时页面；引用前请核对原文与核验日期。

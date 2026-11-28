@@ -52,20 +52,28 @@
 - AI辅助创作
 - 创意实验项目
 
-## 领域驱动实践
+## 来自个人技能库的真实技能
 
-### Area: AI艺术创作
+> 从 570 个已公开同步的个人技能中，按「分类 + 标题关键词」筛选，共 9 条（去重后最多展示 12 条）。这些技能是 Draft 资产并标记 `untrusted`；脚本不会自动执行。
 
-**Project 1: AI艺术作品集**
-- Task: 探索不同AI工具
-- Task: 建立创作风格
-- Task: 发布作品集
+| 技能 | 分类 | 入口 |
+|---|---|---|
+| [无障碍与包容性设计](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-accessible-design/SKILL/) | `s3` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-accessible-design/references/source/) |
+| [增强回路设计](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-architecture-reinforcing-loop-design/SKILL/) | `s3` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-architecture-reinforcing-loop-design/references/source/) |
+| [创意发散](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-creative-ideation/SKILL/) | `s3` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-creative-ideation/references/source/) |
+| [抖音短视频策略](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-douyin-strategy/SKILL/) | `s3` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-douyin-strategy/references/source/) |
+| [AI图像提示词设计](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-image-prompt-engineer/SKILL/) | `s3` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-image-prompt-engineer/references/source/) |
+| [文章自动配图](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-tool-article-illustrator/SKILL/) | `s3` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-tool-article-illustrator/references/source/) |
+| [UI设计系统](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-ui-design-system/SKILL/) | `s3` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-ui-design-system/references/source/) |
+| [用户研究与体验设计](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-ux-research-design/SKILL/) | `s3` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-ux-research-design/references/source/) |
+| [微交互设计](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-whimsy-injector/SKILL/) | `s3` | [原文](https://zhubao315.github.io/uSkill/skills-from-vault/s3/uskill-whimsy-injector/references/source/) |
 
-**Project 2: 技术艺术项目**
-- Task: 生成艺术算法
-- Task: 交互装置设计
-- Task: 数据可视化项目
+## 相关书稿与笔记
 
----
+- _暂无直接对应的自著书稿_
 
-*技术是手段，艺术是表达，跨界是创新的源泉。*
+## 边界与口径
+
+- 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。
+- 本页只做索引，不对技能质量做评级；未匹配到技能时如实留空，不补写内容。
+- 书稿与笔记链接指向各站点实时页面；引用前请核对原文与核验日期。
