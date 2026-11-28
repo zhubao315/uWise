@@ -77,19 +77,12 @@ mkdocs build
 mkdocs gh-deploy
 ```
 
-## 🔄 自动更新
+## 🔄 内容更新
 
-本项目配置了GitHub Actions，每天自动：
-1. 抓取领域相关最新资讯
-2. AI生成知识摘要
-3. 更新文档内容
-4. 部署到GitHub Pages
+> 状态更新（2026-11-28）：原「每日自动抓取」工作流已停用——历史运行全部失败，且仓库未配置所需密钥；脚本也只包含打印逻辑，未真正写入文档。
 
-### 配置Secrets
-
-在GitHub仓库Settings → Secrets中添加：
-- `OPENAI_API_KEY`：OpenAI API密钥（用于AI摘要）
-- `TAVILY_API_KEY`：Tavily搜索API密钥（用于资讯抓取）
+当前更新方式：人工整理 → Pull Request → 质量门禁（black / flake8 / mypy / pytest / MkDocs strict）→ 部署到 GitHub Pages。
+内容以已核验的技能、书稿与笔记为依据，不自动生成未核验的资讯摘要。
 
 ## 📊 领域驱动框架
 

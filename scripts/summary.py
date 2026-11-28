@@ -1,17 +1,16 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""AI摘要生成模块"""
+"""AI摘要生成模块."""
 
 from typing import Optional
 from .logger import logger
-from .config import settings
 
 
 def generate_summary(
     content: str, api_key: Optional[str] = None, max_length: int = 200, model: str = "gpt-3.5-turbo"
 ) -> str:
     """
-    使用OpenAI生成知识摘要
+    使用OpenAI生成知识摘要.
 
     Args:
         content: 原始内容
@@ -23,6 +22,7 @@ def generate_summary(
         生成的摘要文本
     """
     if not api_key:
+
         logger.warning("未配置OpenAI API密钥，使用原始内容")
         return content[:max_length]
 
@@ -49,7 +49,7 @@ def generate_summary(
 
         summary = response.choices[0].message.content
         logger.info("摘要生成成功")
-        return summary
+        return str(summary)
 
     except ImportError:
         logger.error("未安装openai库，请运行: pip install openai")
@@ -63,7 +63,7 @@ def generate_multi_summary(
     contents: list, api_key: Optional[str] = None, max_length: int = 300
 ) -> str:
     """
-    生成多个内容的综合摘要
+    生成多个内容的综合摘要.
 
     Args:
         contents: 内容列表
@@ -74,6 +74,7 @@ def generate_multi_summary(
         综合摘要文本
     """
     if not contents:
+
         return ""
 
     combined_content = "\n\n".join(contents)

@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""uWise 百科知识更新主程序"""
+"""uWise 百科知识更新主程序."""
 
 import asyncio
 from datetime import datetime
-from typing import Dict, List
+from typing import List
 from .config import settings
 from .logger import logger
 from .search import batch_search
@@ -14,10 +14,10 @@ from .cache import cache
 
 
 class KnowledgeUpdater:
-    """知识更新器主类"""
+    """知识更新器主类."""
 
-    def __init__(self):
-        """初始化知识更新器"""
+    def __init__(self) -> None:
+        """初始化知识更新器."""
         self.settings = settings
         self.updater = updater
         self.cache = cache
@@ -26,7 +26,7 @@ class KnowledgeUpdater:
         self, domain: str, keywords: List[str], keywords_per_update: int = 2
     ) -> None:
         """
-        更新指定领域的知识
+        更新指定领域的知识.
 
         Args:
             domain: 领域名称
@@ -65,24 +65,25 @@ class KnowledgeUpdater:
 
             # 记录更新
             self.updater.add_update_entry(
-                domain=domain, keyword=keyword, results=results, summary=summary
+                domain=domain, keyword=keyword, results=results, summary=summary or ""
             )
 
         logger.info(f"✅ {domain} 领域更新完成")
 
     def get_today_domain(self) -> str:
         """
-        获取今日需要更新的领域
+        获取今日需要更新的领域.
 
         Returns:
             领域名称
         """
         domain_list = list(self.settings.domains.keys())
+
         today_index = datetime.now().weekday()
-        return domain_list[today_index % len(domain_list)]
+        return str(domain_list[today_index % len(domain_list)])
 
     async def run(self) -> None:
-        """执行知识更新"""
+        """执行知识更新."""
         logger.info("=" * 50)
         logger.info("🦞 uWise 百科知识更新开始")
         logger.info(f"⏰ 时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
@@ -112,8 +113,8 @@ class KnowledgeUpdater:
         logger.info("=" * 50)
 
 
-async def main():
-    """主函数"""
+async def main() -> None:
+    """主函数."""
     updater = KnowledgeUpdater()
     await updater.run()
 

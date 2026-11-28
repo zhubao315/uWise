@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""日志管理模块"""
+"""日志管理模块."""
 
 import logging
 import sys
 from pathlib import Path
-from datetime import datetime
 from typing import Optional
 from .config import settings
 
@@ -17,7 +16,7 @@ def setup_logger(
     format_string: Optional[str] = None,
 ) -> logging.Logger:
     """
-    设置日志记录器
+    设置日志记录器.
 
     Args:
         name: 日志记录器名称

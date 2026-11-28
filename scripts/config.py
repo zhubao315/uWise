@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""配置管理模块"""
+"""配置管理模块."""
 
 import os
 from pathlib import Path
@@ -10,7 +10,7 @@ from dataclasses import dataclass, field
 
 @dataclass
 class Settings:
-    """应用配置类"""
+    """应用配置类."""
 
     # API配置
     openai_api_key: Optional[str] = field(default_factory=lambda: os.getenv("OPENAI_API_KEY"))
@@ -18,9 +18,9 @@ class Settings:
 
     # 路径配置
     project_root: Path = field(default_factory=lambda: Path(__file__).parent.parent)
-    docs_dir: Path = field(default=lambda: Path("docs"))
-    update_log: Path = field(default=lambda: Path("docs/UPDATES.md"))
-    cache_dir: Path = field(default=lambda: Path(".cache"))
+    docs_dir: Path = field(default_factory=lambda: Path("docs"))
+    update_log: Path = field(default_factory=lambda: Path("docs/UPDATES.md"))
+    cache_dir: Path = field(default_factory=lambda: Path(".cache"))
 
     # 缓存配置
     cache_enabled: bool = True
@@ -32,7 +32,7 @@ class Settings:
 
     # 日志配置
     log_level: str = "INFO"
-    log_file: Path = field(default=lambda: Path("logs/uwise.log"))
+    log_file: Path = field(default_factory=lambda: Path("logs/uwise.log"))
 
     # 搜索配置
     search_depth: str = "basic"

@@ -1,15 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""日志模块测试"""
+"""日志模块测试."""
 
-import pytest
 import logging
-from pathlib import Path
 from scripts.logger import setup_logger
 
 
 def test_logger_creation(tmp_path):
-    """测试日志记录器创建"""
+    """测试日志记录器创建."""
     log_file = tmp_path / "test.log"
     logger = setup_logger("test", log_file=log_file)
 
@@ -18,7 +16,7 @@ def test_logger_creation(tmp_path):
 
 
 def test_logger_output(tmp_path, caplog):
-    """测试日志输出"""
+    """测试日志输出."""
     log_file = tmp_path / "test.log"
     logger = setup_logger("test", log_file=log_file)
 
@@ -29,9 +27,9 @@ def test_logger_output(tmp_path, caplog):
 
 
 def test_logger_file_creation(tmp_path):
-    """测试日志文件创建"""
+    """测试日志文件创建."""
     log_file = tmp_path / "test.log"
-    logger = setup_logger("test", log_file=log_file)
+    logger = setup_logger("test-file-creation", log_file=log_file)
 
     logger.info("Test message")
 

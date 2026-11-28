@@ -1,32 +1,33 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""文档更新模块"""
+"""文档更新模块."""
 
 from pathlib import Path
 from datetime import datetime
-from typing import List, Dict
+from typing import List, Dict, Optional
 from .logger import logger
 from .config import settings
 
 
 class DocumentUpdater:
-    """文档更新器"""
+    """文档更新器."""
 
-    def __init__(self, docs_dir: Path = None):
+    def __init__(self, docs_dir: Optional[Path] = None):
         """
-        初始化文档更新器
+        初始化文档更新器.
 
         Args:
             docs_dir: 文档目录路径
         """
         self.docs_dir = docs_dir or settings.docs_dir
+
         self.update_log = settings.update_log
 
     def add_update_entry(
-        self, domain: str, keyword: str, results: List[Dict], summary: str = None
+        self, domain: str, keyword: str, results: List[Dict], summary: Optional[str] = None
     ) -> None:
         """
-        添加更新记录到更新日志
+        添加更新记录到更新日志.
 
         Args:
             domain: 领域名称
@@ -44,8 +45,8 @@ class DocumentUpdater:
 ### 搜索结果: {len(results)} 条
 
 """
-
         if summary:
+
             entry += f"### 摘要\n\n{summary}\n\n"
 
         entry += "---\n\n"
@@ -64,7 +65,7 @@ class DocumentUpdater:
 
     def update_domain_document(self, domain: str, keyword: str, new_content: str) -> None:
         """
-        更新领域文档
+        更新领域文档.
 
         Args:
             domain: 领域名称
@@ -72,12 +73,13 @@ class DocumentUpdater:
             new_content: 新内容
         """
         # 查找对应的文档文件
+
         # 这里可以添加更复杂的逻辑来定位和更新文档
         logger.info(f"文档更新: {domain} - {keyword}")
 
-    def get_domain_file_path(self, domain: str) -> Path:
+    def get_domain_file_path(self, domain: str) -> Optional[Path]:
         """
-        获取领域文档文件路径
+        获取领域文档文件路径.
 
         Args:
             domain: 领域名称
@@ -86,6 +88,7 @@ class DocumentUpdater:
             文档文件路径
         """
         # 将领域名称映射到文件路径
+
         domain_files = {
             "架构师": "core-identity/architect.md",
             "投资人": "core-identity/investor.md",

@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""搜索模块"""
+"""搜索模块."""
 
 import asyncio
-from typing import List, Dict, Optional
+from typing import List, Dict, Any
 import aiohttp
 from .logger import logger
 from .config import settings
@@ -13,7 +13,7 @@ async def search_tavily_async(
     query: str, api_key: str, search_depth: str = "basic", max_results: int = 5, timeout: int = 30
 ) -> List[Dict]:
     """
-    异步使用Tavily搜索API获取最新信息
+    异步使用Tavily搜索API获取最新信息.
 
     Args:
         query: 搜索查询字符串
@@ -26,6 +26,7 @@ async def search_tavily_async(
         搜索结果列表
     """
     if not api_key:
+
         logger.warning("未配置Tavily API密钥")
         return []
 
@@ -46,7 +47,7 @@ async def search_tavily_async(
                     data = await response.json()
                     results = data.get("results", [])
                     logger.info(f"搜索成功: {query}, 找到 {len(results)} 条结果")
-                    return results
+                    return list(results)
                 else:
                     error_text = await response.text()
                     logger.error(
@@ -63,7 +64,7 @@ async def search_tavily_async(
 
 def search_tavily(query: str, api_key: str) -> List[Dict]:
     """
-    同步搜索接口（向后兼容）
+    同步搜索接口（向后兼容）.
 
     Args:
         query: 搜索查询字符串
@@ -89,9 +90,9 @@ async def batch_search(
     search_depth: str = "basic",
     max_results: int = 5,
     timeout: int = 30,
-) -> Dict[str, List[Dict]]:
+) -> Dict[str, Any]:
     """
-    批量异步搜索
+    批量异步搜索.
 
     Args:
         queries: 搜索查询列表
@@ -104,6 +105,7 @@ async def batch_search(
         查询到结果的映射字典
     """
     if not queries:
+
         return {}
 
     logger.info(f"开始批量搜索: {len(queries)} 个查询")

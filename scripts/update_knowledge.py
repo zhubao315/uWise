@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-uWise 百科知识更新脚本
+uWise 百科知识更新脚本.
+
 每日自动抓取、整理、更新领域知识
 """
 
 import os
-import json
+
 import requests
 from datetime import datetime
 from pathlib import Path
@@ -25,7 +26,7 @@ DOMAINS = {
 
 
 def search_tavily(query: str, api_key: str) -> list:
-    """使用Tavily搜索API获取最新信息"""
+    """使用Tavily搜索API获取最新信息."""
     if not api_key:
         return []
 
@@ -42,14 +43,14 @@ def search_tavily(query: str, api_key: str) -> list:
             timeout=30,
         )
         if response.status_code == 200:
-            return response.json().get("results", [])
+            return list(response.json().get("results", []))
     except Exception as e:
         print(f"搜索失败: {e}")
     return []
 
 
 def generate_summary(content: str, api_key: str) -> str:
-    """使用OpenAI生成知识摘要"""
+    """使用OpenAI生成知识摘要."""
     if not api_key:
         return content[:500]
 
@@ -72,14 +73,14 @@ def generate_summary(content: str, api_key: str) -> str:
             ],
             max_tokens=300,
         )
-        return response.choices[0].message.content
+        return str(response.choices[0].message.content)
     except Exception as e:
         print(f"生成摘要失败: {e}")
         return content[:500]
 
 
-def update_domain_knowledge(domain: str, keywords: list, tavily_key: str, openai_key: str):
-    """更新指定领域的知识"""
+def update_domain_knowledge(domain: str, keywords: list, tavily_key: str, openai_key: str) -> None:
+    """更新指定领域的知识."""
     print(f"📚 更新{domain}领域知识...")
 
     for keyword in keywords[:2]:  # 每次更新2个关键词
@@ -91,8 +92,8 @@ def update_domain_knowledge(domain: str, keywords: list, tavily_key: str, openai
             print(f"  ✅ 找到 {len(results)} 条结果")
 
 
-def main():
-    """主函数"""
+def main() -> None:
+    """主函数."""
     print("🦞 uWise 百科知识更新开始...")
     print(f"⏰ 时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
@@ -111,7 +112,7 @@ def main():
     today_domain = domain_list[today % len(domain_list)]
 
     print(f"🎯 今日重点更新: {today_domain}")
-    update_domain_knowledge(today_domain, DOMAINS[today_domain], tavily_key, openai_key)
+    update_domain_knowledge(today_domain, DOMAINS[today_domain], tavily_key or "", openai_key or "")
 
     print("✅ 知识更新完成!")
 
