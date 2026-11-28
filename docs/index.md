@@ -106,4 +106,15 @@ uWise/
 
 ---
 
-**最后更新**：2026-03-13 | **版本**：v1.0 | **维护者**：朱宝
+**最后更新**：2026-11-28 | **版本**：v3（知识中枢） | **维护者**：朱宝
+
+## 🧠 私库知识词条库
+
+个人知识库每周自动同步，当前已公开 **1,891 篇**词条（机器可核验项已修复，事实核验仍在进行）：
+
+- [词条总览与搜索](generated/uwise-encyclopedia.md) — 按标题、状态、分类浏览
+- [未解析双链报告](generated/uwise-broken-links.md) — 3,715 个待治理引用
+- [审核结论（机器可核验项）](generated/uwise-review-summary.md) — 已修复与未完成事项
+
+词条与 [uSkill 技能库](https://zhubao315.github.io/uSkill/generated/vault-skills/)、[uRead 读书笔记](https://zhubao315.github.io/uRead/) 交叉连接。
+

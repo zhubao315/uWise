@@ -3,30 +3,19 @@
 (function() {
   'use strict';
 
-  // ========== 页面加载进度条 ==========
-  document.addEventListener('DOMContentLoaded', function() {
-    const progressBar = document.createElement('div');
-    progressBar.className = 'progress-bar';
-    document.body.prepend(progressBar);
-
-    let width = 0;
-    const interval = setInterval(() => {
-      width += Math.random() * 30;
-      if (width >= 90) clearInterval(interval);
-      progressBar.style.width = width + '%';
-    }, 200);
-
-    window.addEventListener('load', () => {
-      progressBar.style.width = '100%';
-      setTimeout(() => {
-        progressBar.style.opacity = '0';
-        setTimeout(() => progressBar.remove(), 300);
-      }, 500);
-    });
-  });
+  // Instant Navigation 兼容：Material 的 document$ 会在每次换页时发出事件。
+  function onPageInit(fn) {
+    if (window.document$ && typeof window.document$.subscribe === 'function') {
+      window.document$.subscribe(fn);
+    } else if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', fn);
+    } else {
+      fn();
+    }
+  }
 
   // ========== 图片懒加载 ==========
-  document.addEventListener('DOMContentLoaded', function() {
+  onPageInit(function() {
     const images = document.querySelectorAll('img[data-src]');
 
     if ('IntersectionObserver' in window) {
@@ -80,7 +69,7 @@
   };
 
   // ========== 返回顶部增强 ==========
-  document.addEventListener('DOMContentLoaded', function() {
+  onPageInit(function() {
     const backToTop = document.querySelector('.md-top');
     if (backToTop) {
       backToTop.addEventListener('click', function(e) {
@@ -107,7 +96,7 @@
   }
 
   // ========== 搜索增强 ==========
-  document.addEventListener('DOMContentLoaded', function() {
+  onPageInit(function() {
     const searchInput = document.querySelector('.md-search__input');
     if (searchInput) {
       const debouncedSearch = debounce(function(e) {
@@ -120,7 +109,7 @@
   });
 
   // ========== 复制按钮增强 ==========
-  document.addEventListener('DOMContentLoaded', function() {
+  onPageInit(function() {
     const copyButtons = document.querySelectorAll('.md-clipboard');
     copyButtons.forEach(btn => {
       btn.addEventListener('click', function() {
@@ -130,7 +119,7 @@
   });
 
   // ========== 代码块行号点击 ==========
-  document.addEventListener('DOMContentLoaded', function() {
+  onPageInit(function() {
     document.querySelectorAll('.linenos').forEach(lineno => {
       lineno.addEventListener('click', function(e) {
         if (e.target.classList.contains('linenos')) {
@@ -168,7 +157,7 @@
   });
 
   // ========== 外部链接新标签页打开 ==========
-  document.addEventListener('DOMContentLoaded', function() {
+  onPageInit(function() {
     const links = document.querySelectorAll('a[href^="http"]');
     links.forEach(link => {
       const href = link.getAttribute('href');
@@ -204,7 +193,7 @@
   });
 
   // ========== 阅读进度指示器 ==========
-  document.addEventListener('DOMContentLoaded', function() {
+  onPageInit(function() {
     window.addEventListener('scroll', debounce(function() {
       const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
       const scrollHeight = document.documentElement.scrollHeight - window.innerHeight;

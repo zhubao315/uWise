@@ -3,6 +3,13 @@
 {% block extrahead %}
   {{ super() }}
   <meta name="referrer" content="strict-origin-when-cross-origin" />
+  <link rel="canonical" href="{{ config.site_url }}{{ page.url }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="{{ config.site_name }}" />
+  <meta property="og:title" content="{{ page.title }} | {{ config.site_name }}" />
+  <meta property="og:description" content="{{ page.description | default(config.site_description, true) }}" />
+  <meta property="og:url" content="{{ config.site_url }}{{ page.url }}" />
+  <meta name="twitter:card" content="summary" />
   <script>
     window.ZHUBAO_ANALYTICS_CONFIG = {
       site_id: 'uWise',
