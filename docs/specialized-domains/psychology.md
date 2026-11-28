@@ -70,6 +70,17 @@
 
 - [《千分之一的你》](https://zhubao315.github.io/books/one-in-a-thousand/) · [公开笔记](https://zhubao315.github.io/uRead/read/book-one-in-a-thousand/)
 
+## 来自私库词条库的相关词条
+
+> 私库词条库每周同步，条目未经逐条核验；只列出名称匹配的词条。
+
+- [uSkill-认知偏差检测-v1](../vault-encyclopedia/uskill-v1-md-91fb1916/)
+- [认知偏差与多元思维模型](../vault-encyclopedia/md-afafac4c/)
+- [认知偏差清单](../vault-encyclopedia/md-2eecaefc/)
+- [认知偏差演化根源](../vault-encyclopedia/md-b29da192/)
+- [Sop 11 心理学专家 心理评估报告](../vault-encyclopedia/sop-11-cbd4ca7c/)
+- [人类误判心理学](../vault-encyclopedia/md-77b1159f/)
+
 ## 边界与口径
 
 - 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。

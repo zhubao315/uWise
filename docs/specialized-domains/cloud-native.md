@@ -48,6 +48,17 @@
 
 - _暂无直接对应的自著书稿_
 
+## 来自私库词条库的相关词条
+
+> 私库词条库每周同步，条目未经逐条核验；只列出名称匹配的词条。
+
+- [云原生](../vault-encyclopedia/md-4bd76a0f/)
+- [☁️ 云计算与云原生：AI时代智能应用与高效基础设施的驱动者](../vault-encyclopedia/ai-735d66b0/)
+- [云计算与云原生：AI时代智能应用与高效基础设施的驱动者](../vault-encyclopedia/ai-md-3f7b5b98/)
+- [Sop 06 云计算专家 容器化部署](../vault-encyclopedia/sop-06-a1f4b4dc/)
+- [具身哲学：接纳身体作为认知的容器](../vault-encyclopedia/md-d9494359/)
+- [思考的过程容器](../vault-encyclopedia/entry-de63fc2e/)
+
 ## 边界与口径
 
 - 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。

@@ -64,6 +64,15 @@
 
 - [《知识库工程学》](https://zhubao315.github.io/books/knowledge-base-engineering/) · [公开笔记](https://zhubao315.github.io/uRead/read/book-knowledge-base-engineering/)
 
+## 来自私库词条库的相关词条
+
+> 私库词条库每周同步，条目未经逐条核验；只列出名称匹配的词条。
+
+- [ryooo的知识管理工作流](../vault-encyclopedia/ryooo-md-0b800f85/)
+- [第二大脑](../vault-encyclopedia/md-c38a937d/)
+- [第二大脑知识系统构建](../vault-encyclopedia/md-910915eb/)
+- [自动化工作流](../vault-encyclopedia/md-8b165109/)
+
 ## 边界与口径
 
 - 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。

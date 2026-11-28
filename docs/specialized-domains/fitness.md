@@ -71,6 +71,17 @@
 
 - _暂无直接对应的自著书稿_
 
+## 来自私库词条库的相关词条
+
+> 私库词条库每周同步，条目未经逐条核验；只列出名称匹配的词条。
+
+- [周末摄影跑步路线](../vault-encyclopedia/md-46d2d7d8/)
+- [永远不要连续两天不跑步](../vault-encyclopedia/md-d85fdb1f/)
+- [跑步与写作的同构性——孤独修行的两种形态](../vault-encyclopedia/md-b3a8fe66/)
+- [跑步中的两个大脑模型](../vault-encyclopedia/md-8185896f/)
+- [跑步伤病康复训练框架](../vault-encyclopedia/md-3fc61b06/)
+- [跑步作为存在主义实践](../vault-encyclopedia/md-e21459b6/)
+
 ## 边界与口径
 
 - 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。

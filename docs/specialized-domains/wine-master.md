@@ -61,6 +61,17 @@
 
 - _暂无直接对应的自著书稿_
 
+## 来自私库词条库的相关词条
+
+> 私库词条库每周同步，条目未经逐条核验；只列出名称匹配的词条。
+
+- [2025全球最受推崇葡萄酒品牌榜单解读](../vault-encyclopedia/2025-md-d2597325/)
+- [Sop 14 葡萄酒大师 品鉴笔记撰写](../vault-encyclopedia/sop-14-1d022270/)
+- [∑ 葡萄酒词条索引](../vault-encyclopedia/md-69c0de6a/)
+- [新世界葡萄酒](../vault-encyclopedia/md-0de551c2/)
+- [旧世界葡萄酒](../vault-encyclopedia/md-1d124039/)
+- [葡萄酒品鉴体系](../vault-encyclopedia/md-3388909f/)
+
 ## 边界与口径
 
 - 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。

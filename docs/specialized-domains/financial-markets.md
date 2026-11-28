@@ -63,6 +63,17 @@
 
 - [《投资的纪律》](https://zhubao315.github.io/books/investment-discipline/) · [公开笔记](https://zhubao315.github.io/uRead/read/book-investment-discipline/)
 
+## 来自私库词条库的相关词条
+
+> 私库词条库每周同步，条目未经逐条核验；只列出名称匹配的词条。
+
+- [估值](../vault-encyclopedia/md-feade224/)
+- [估值分析](../vault-encyclopedia/md-629cf8e1/)
+- [剩余收益估值模型](../vault-encyclopedia/md-faf0176a/)
+- [VTSAX本土化定投](../vault-encyclopedia/vtsax-md-72be7b3f/)
+- [定投策略优化](../vault-encyclopedia/md-39519407/)
+- [股债配置策略](../vault-encyclopedia/md-0bf127fb/)
+
 ## 边界与口径
 
 - 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。

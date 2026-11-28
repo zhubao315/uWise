@@ -67,6 +67,14 @@ for date in trading_dates:
 
 - [《投资的纪律》](https://zhubao315.github.io/books/investment-discipline/) · [公开笔记](https://zhubao315.github.io/uRead/read/book-investment-discipline/)
 
+## 来自私库词条库的相关词条
+
+> 私库词条库每周同步，条目未经逐条核验；只列出名称匹配的词条。
+
+- [定投策略优化](../vault-encyclopedia/md-39519407/)
+- [股债配置策略](../vault-encyclopedia/md-0bf127fb/)
+- [肌肉内分泌学：抗阻力训练对神经营养因子BDNF的激活效应](../vault-encyclopedia/bdnf-md-d57cff4c/)
+
 ## 边界与口径
 
 - 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。

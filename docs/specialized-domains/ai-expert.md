@@ -55,6 +55,17 @@
 - [《知识库工程学》](https://zhubao315.github.io/books/knowledge-base-engineering/) · [公开笔记](https://zhubao315.github.io/uRead/read/book-knowledge-base-engineering/)
 - [《AI时代，如何真正学会》](https://zhubao315.github.io/books/ai-era-learning/) · [公开笔记](https://zhubao315.github.io/uRead/read/book-ai-era-learning/)
 
+## 来自私库词条库的相关词条
+
+> 私库词条库每周同步，条目未经逐条核验；只列出名称匹配的词条。
+
+- [AI Agent 核心原理](../vault-encyclopedia/ai-agent-md-7b169b8d/)
+- [AI Agent协作](../vault-encyclopedia/ai-agent-md-aa61e0a5/)
+- [Anthropic提示词教程（中文版）](../vault-encyclopedia/anthropic-md-dad56c89/)
+- [Comet提示词](../vault-encyclopedia/comet-md-c62c0961/)
+- [Sop 03 Ai专家 提示词优化与测试](../vault-encyclopedia/sop-03-ai-85d221d8/)
+- [提示词工程优化](../vault-encyclopedia/md-cc39d3b9/)
+
 ## 边界与口径
 
 - 技能来自私有 Obsidian 仓库 `02-BUILD/22-uSkill` 的公开同步，每周自动更新；原文逐字保留。
